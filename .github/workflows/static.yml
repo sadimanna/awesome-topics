@@ -34,15 +34,34 @@ jobs:
       # - name: Setup Pages
       #   uses: actions/configure-pages@v5
       # cp README.md docs/index.md
-      - name: Convert README via GitHub API
+      # - name: Convert README via GitHub API
+      #   run: |
+      #     mkdir -p docs
+      #     curl -s \
+      #       -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+      #       -H "Content-Type: text/plain" \
+      #       --data-binary @README.md \
+      #       https://api.github.com/markdown/raw \
+      #       > docs/index.html
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Prepare Pages
         run: |
           mkdir -p docs
-          curl -s \
-            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Content-Type: text/plain" \
-            --data-binary @README.md \
-            https://api.github.com/markdown/raw \
-            > docs/index.html
+      
+      - name: Convert README with markdown-it
+        run: |
+          npm install markdown-it markdown-it-katex
+          node -e "
+            const fs = require('fs');
+            const md = require('markdown-it')({html:true})
+              .use(require('markdown-it-katex'));
+            const html = md.render(fs.readFileSync('README.md','utf8'));
+            fs.mkdirSync('docs',{recursive:true});
+            fs.writeFileSync('docs/index.html', html);
+          "
+
       # - name: Prepare Pages
       #   run: |
       #     mkdir -p docs
