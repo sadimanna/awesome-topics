@@ -3394,17 +3394,13 @@ Many thanks :heart: to the other awesome list:
 ## citation
 
 ```text
-@misc{Awesome-FL,
-    title = {Awesome-FL},
-    author = {Yuwen Yang and Bingjie Yan and Xuefeng Jiang and Hongcheng Li and Jian Wang and Jiao Chen and Xiangmou Qu and Chang Liu and others},
-    year = {2022},
-    url = {https://github.com/youngfish42/Awesome-FL}
+@misc{Awesome-Topics,
+    title = {Awesome-Topics},
+    author = {Siladittya Manna, Saumik Bhattacharya},
+    year = {2025},
+    url = {https://github.com/sadimanna/awesome-topics}
 }
 ```
-
-
-
- [![map](https://rf.revolvermaps.com/h/m/a/0/ff0000/80/35/5zw06d5f905.png)](https://www.revolvermaps.com/livestats/5zw06d5f905/)
 
 
 
