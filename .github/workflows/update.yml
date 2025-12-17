@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      TZ: "Asia/Shanghai"
+      TZ: "Asia/Kolkata"
 
     steps:
       - name: Checkout
