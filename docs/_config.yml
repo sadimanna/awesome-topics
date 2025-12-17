@@ -1,0 +1,4 @@
+collections:
+  topics:
+    output: true
+    permalink: /:name
