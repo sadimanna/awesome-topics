@@ -34,13 +34,16 @@ jobs:
       # - name: Setup Pages
       #   uses: actions/configure-pages@v5
       # cp README.md docs/index.md
-      # - name: Prepare Pages
-      #   run: |
-      #     mkdir -p docs
       - name: Prepare Pages
         run: |
           mkdir -p docs
-          echo "<h1>GITHUB PAGES TEST OK</h1>" > docs/index.html
+          pandoc README.md -s \
+            --mathjax \
+            -o docs/index.html
+      # - name: Prepare Pages
+      #   run: |
+      #     mkdir -p docs
+      #     echo "<h1>GITHUB PAGES TEST OK</h1>" > docs/index.html
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
