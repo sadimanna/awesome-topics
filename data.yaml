@@ -18994,7 +18994,7 @@ federated-learning-framework:
       Protection](https://www.jmlr.org/papers/volume22/20-815/20-815.pdf)'
     affiliations: '[WeBank](https://fedai.org/)'
     sg: ''
-    st: ':heavy_check_mark::heavy_check_mark:'
+    st: ✅✅
     materials:
       DOC: https://fate.readthedocs.io/en/latest/
       DOC(ZH): https://fate.readthedocs.io/en/latest/zh/
@@ -19010,8 +19010,8 @@ federated-learning-framework:
       />![](https://img.shields.io/github/last-commit/FedML-AI/FedML)'
     papers: '[FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518)'
     affiliations: '[FedML](https://fedml.ai/)'
-    sg: ':heavy_check_mark::heavy_check_mark:'
-    st: ':heavy_check_mark:'
+    sg: ✅✅
+    st: ✅
     materials:
       DOC: https://doc.fedml.ai/
   - platform: '[TFF(Tensorflow-Federated)](https://github.com/tensorflow/federated)
@@ -19029,7 +19029,7 @@ federated-learning-framework:
     papers: ''
     affiliations: '[Ant group](https://www.antgroup.com/)'
     sg: ''
-    st: ':heavy_check_mark:'
+    st: ✅
     materials:
       DOC: https://secretflow.readthedocs.io/en/latest/getting_started/index.html
   - platform: '[PFLlib](https://github.com/TsingZ0/PFLlib)<br />[![Stars](https://img.shields.io/github/stars/TsingZ0/PFLlib.svg?color=blue)](https://github.com/TsingZ0/PFLlib/stargazers)<br
@@ -19044,7 +19044,7 @@ federated-learning-framework:
       />![](https://img.shields.io/github/last-commit/alibaba/FederatedScope)'
     papers: '[FederatedScope: A Flexible Federated Learning Platform for Heterogeneity](https://www.vldb.org/pvldb/vol16/p1059-li.pdf)'
     affiliations: '[Alibaba DAMO Academy](https://damo.alibaba.com/labs/data-analytics-and-intelligence)'
-    sg: ':heavy_check_mark::heavy_check_mark:'
+    sg: ✅✅
     st: ''
     materials:
       DOC: https://federatedscope.io/refs/index
@@ -19144,7 +19144,7 @@ federated-learning-framework:
     papers: '[IBM Federated Learning: an Enterprise Framework White Paper](https://arxiv.org/abs/2007.10987.pdf)'
     affiliations: '[IBM](https://github.com/IBM)'
     sg: ''
-    st: ':heavy_check_mark:'
+    st: ✅
     materials:
       PAPERS: https://github.com/IBM/federated-learning-lib/blob/main/docs/papers.md
   - platform: '[KubeFATE](https://github.com/FederatedAI/KubeFATE)<br />[![Stars](https://img.shields.io/github/stars/FederatedAI/KubeFATE.svg?color=blue)](https://github.com/FederatedAI/KubeFATE/stargazers)<br
@@ -19308,7 +19308,7 @@ federated-learning-framework:
     papers: '[FedGraphNN: A Federated Learning System and Benchmark for Graph Neural
       Networks](https://arxiv.org/abs/2104.07145)'
     affiliations: '[FedML](https://fedml.ai/)'
-    sg: ':heavy_check_mark::heavy_check_mark:'
+    sg: ✅✅
     st: ''
     materials: {}
   - platform: '[FEDn](https://github.com/scaleoutsystems/fedn)<br />[![Stars](https://img.shields.io/github/stars/scaleoutsystems/fedn.svg?color=blue)](https://github.com/scaleoutsystems/fedn/stargazers)<br
@@ -19324,7 +19324,7 @@ federated-learning-framework:
     papers: '[FedTree: A Federated Learning System For Trees](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3430e7055936cb8e26451ed49fce84a6-Abstract-mlsys2023.html)'
     affiliations: '[Xtra Computing Group](https://github.com/Xtra-Computing)'
     sg: ''
-    st: ':heavy_check_mark::heavy_check_mark:'
+    st: ✅✅
     materials:
       DOC: https://fedtree.readthedocs.io/en/latest/index.html
   - platform: '[PhotoLabeller](https://github.com/mccorby/PhotoLabeller)<br />[![Stars](https://img.shields.io/github/stars/mccorby/PhotoLabeller.svg?color=blue)](https://github.com/mccorby/PhotoLabeller/stargazers)<br
