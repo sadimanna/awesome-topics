@@ -1,12 +1,18 @@
 # markdown: GFM
-title: awesome-topics
-markdown: kramdown
+# title: awesome-topics
+# markdown: kramdown
 
+# kramdown:
+#   input: GFM
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
+
+# theme: minima
+markdown: kramdown
 kramdown:
   input: GFM
-  math_engine: mathjax
+  hard_wrap: false
   syntax_highlighter: rouge
 
-theme: minima
 plugins:
   - jemoji
