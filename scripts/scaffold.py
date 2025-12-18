@@ -54,44 +54,61 @@ class Scaffold:
         utils.write_yaml(yaml_file, data)
 
     def yaml_to_mdtable(self, yaml_file=None, md_file=None):
-        """Convert YAML (venue → year → body) to Markdown tables"""
         yaml_file = yaml_file or Config.YAML_PATH
         md_file = md_file or Config.README_PATH
 
         data = utils.read_yaml(yaml_file)
         md_str = utils.read_mdfile(md_file)
 
+        # 1. Generate and insert TOC
+        toc = utils.generate_toc(data)
+        md_str = utils.replace_content(
+            md_str,
+            toc,
+            "<!-- START:TOC -->",
+            "<!-- END:TOC -->",
+        )
+
+        # 2. Generate venue sections
         for sec in data["section"]:
             venue = sec["title"]
+            venue_id = f"venue-{venue.lower()}"
             venue_data = data.get(venue, {})
 
             blocks = []
 
-            # years are already sorted desc by write_venue_yaml,
-            # but we enforce it defensively
+            # Venue anchor + collapsible
+            blocks.append(f'<a id="{venue_id}"></a>')
+            blocks.append("<details open>")
+            blocks.append(f"<summary><strong>{venue}</strong></summary>\n")
+
             for year in sorted(venue_data.keys(), reverse=True):
                 year_block = venue_data[year]
-
-                header = year_block["header"]
                 body = year_block["body"]
+                year_id = f"{venue.lower()}-{year}"
 
-                # year heading
-                blocks.append(f"### {year}\n")
+                blocks.append(f'<a id="{year_id}"></a>')
+                blocks.append("<details open>")
+                blocks.append(f"<summary>{year}</summary>\n")
+                blocks.append(utils.yaml_block_to_mdtable(
+                    year_block["header"],
+                    body,
+                ))
+                blocks.append("\n</details>\n")
 
-                # markdown table
-                blocks.append(utils.yaml_block_to_mdtable(header, body))
-                blocks.append("")
+            blocks.append("</details>\n")
 
-            table_content = "\n".join(blocks)
+            venue_content = "\n".join(blocks)
 
             md_str = utils.replace_content(
                 md_str,
-                table_content,
+                venue_content,
                 Config.START_COMMENT.format(venue),
                 Config.END_COMMENT.format(venue),
             )
 
         utils.write_mdfile(md_file, md_str)
+
 
 
     # def yaml_to_mdtable(self, yaml_file=None, md_file=None):

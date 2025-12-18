@@ -3,6 +3,21 @@ import yaml
 import os
 import re
 
+def generate_toc(data):
+    lines = ["## Table of Contents", ""]
+
+    for sec in data["section"]:
+        venue = sec["title"]
+        venue_id = f"venue-{venue.lower()}"
+        lines.append(f"- [{venue}](#{venue_id})")
+
+        years = data.get(venue, {}).keys()
+        for year in sorted(years, reverse=True):
+            lines.append(f"  - [{year}](#{venue.lower()}-{year})")
+
+    return "\n".join(lines)
+
+
 def simple_yaml_to_mdtable(papers):
     lines = []
     lines.append("| Title | Venue | Year | Link |")
