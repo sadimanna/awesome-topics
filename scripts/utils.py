@@ -3,6 +3,21 @@ import yaml
 import os
 import re
 
+def simple_yaml_to_mdtable(papers):
+    lines = []
+    lines.append("| Title | Venue | Year | Link |")
+    lines.append("|------|-------|------|------|")
+
+    for p in papers:
+        title = p["title"].replace("|", "\\|")
+        venue = p["venue"]
+        year = p["year"]
+        link = f"[Link]({p['link']})" if p.get("link") else ""
+
+        lines.append(f"| {title} | {venue} | {year} | {link} |")
+
+    return "\n".join(lines)
+
 
 def read_mdfile(md_file: str):
     """Read markdown file"""

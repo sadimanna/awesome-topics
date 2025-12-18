@@ -43,23 +43,23 @@ jobs:
           sed -i -E 's/<details([^>]*)>/<details\1 markdown="1">/g' docs/index.md
       
       # FOR EMOJI RENDERING IN GITHUB PAGES (BECAUSE OF USING MARKDOWN=1 in the above step) 
-      - name: Fetch emoji mapping
-        run: |
-          curl -s https://gist.githubusercontent.com/rxaviers/7360908/raw/emoji-list.txt > emoji-list.txt
+      # - name: Fetch emoji mapping
+      #   run: |
+      #     curl -s https://gist.githubusercontent.com/rxaviers/7360908/raw/emoji-list.txt > emoji-list.txt
 
-      - name: Generate sed replacement script
-        run: |
-          awk '
-            {
-              emoji = $1
-              alias = $2
-              print "s/" alias "/" emoji "/g"
-            }
-          ' emoji-list.txt > replace-emojis.sed
+      # - name: Generate sed replacement script
+      #   run: |
+      #     awk '
+      #       {
+      #         emoji = $1
+      #         alias = $2
+      #         print "s/" alias "/" emoji "/g"
+      #       }
+      #     ' emoji-list.txt > replace-emojis.sed
 
-      - name: Replace emoji aliases in Markdown
-        run: |
-          sed -i -f replace-emojis.sed docs/index.md
+      # - name: Replace emoji aliases in Markdown
+      #   run: |
+      #     sed -i -f replace-emojis.sed docs/index.md
 
       ################################################################################
       # COMMIT CHANGES IF ANY
