@@ -4,12 +4,18 @@
 
 ---
 
-**Table of Contents**
+<!-- START:TOC -->
+## Table of Contents
 
-- [Papers](#papers)
-
-
-
+- [ICML](#venue-icml)
+  - [2025](#icml-2025)
+  - [2024](#icml-2024)
+  - [2023](#icml-2023)
+  - [2022](#icml-2022)
+  - [2021](#icml-2021)
+  - [2020](#icml-2020)
+  - [2019](#icml-2019)
+<!-- END:TOC -->
 
 
 **Repository Update Notice** 
@@ -326,18 +332,3 @@
 </details>
 
 <!-- END:ICML -->
-
-## TOC
-
-<!-- START:TOC -->
-## Table of Contents
-
-- [ICML](#venue-icml)
-  - [2025](#icml-2025)
-  - [2024](#icml-2024)
-  - [2023](#icml-2023)
-  - [2022](#icml-2022)
-  - [2021](#icml-2021)
-  - [2020](#icml-2020)
-  - [2019](#icml-2019)
-<!-- END:TOC -->
