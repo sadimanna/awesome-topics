@@ -19,7 +19,13 @@
 ## ICML
 
 <!-- START:ICML -->
-### 2025
+<a id="venue-icml"></a>
+<details open>
+<summary><strong>ICML</strong></summary>
+
+<a id="icml-2025"></a>
+<details open>
+<summary>2025</summary>
 
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -88,7 +94,11 @@
 | Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning. | ICML | 2025 | [Link](https://openreview.net/forum?id=hrBfufwMzg) |
 | You Get What You Give: Reciprocally Fair Federated Learning. | ICML | 2025 | [Link](https://openreview.net/forum?id=ZdmMDz33Io) |
 
-### 2024
+</details>
+
+<a id="icml-2024"></a>
+<details open>
+<summary>2024</summary>
 
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -153,7 +163,11 @@
 | Towards the Theory of Unsupervised Federated Learning: Non-asymptotic Analysis of Federated EM Algorithms. | ICML | 2024 | [Link](https://openreview.net/forum?id=kVgpa1rfLO) |
 | Understanding Server-Assisted Federated Learning in the Presence of Incomplete Client Participation. | ICML | 2024 | [Link](https://openreview.net/forum?id=zwUEk9WpsR) |
 
-### 2023
+</details>
+
+<a id="icml-2023"></a>
+<details open>
+<summary>2023</summary>
 
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -207,7 +221,11 @@
 | Towards Understanding Ensemble Distillation in Federated Learning. | ICML | 2023 | [Link](https://proceedings.mlr.press/v202/park23e.html) |
 | Vertical Federated Graph Neural Network for Recommender System. | ICML | 2023 | [Link](https://proceedings.mlr.press/v202/mai23b.html) |
 
-### 2022
+</details>
+
+<a id="icml-2022"></a>
+<details open>
+<summary>2022</summary>
 
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -249,7 +267,11 @@
 | Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy. | ICML | 2022 | [Link](https://proceedings.mlr.press/v162/zhang22b.html) |
 | Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning. | ICML | 2022 | [Link](https://proceedings.mlr.press/v162/tang22d.html) |
 
-### 2021
+</details>
+
+<a id="icml-2021"></a>
+<details open>
+<summary>2021</summary>
 
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -272,7 +294,11 @@
 | Personalized Federated Learning using Hypernetworks. | ICML | 2021 | [Link](http://proceedings.mlr.press/v139/shamsian21a.html) |
 | The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation. | ICML | 2021 | [Link](http://proceedings.mlr.press/v139/kairouz21a.html) |
 
-### 2020
+</details>
+
+<a id="icml-2020"></a>
+<details open>
+<summary>2020</summary>
 
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -283,7 +309,11 @@
 | From Local SGD to Local Fixed-Point Methods for Federated Learning. | ICML | 2020 | [Link](http://proceedings.mlr.press/v119/malinovskiy20a.html) |
 | SCAFFOLD: Stochastic Controlled Averaging for Federated Learning. | ICML | 2020 | [Link](http://proceedings.mlr.press/v119/karimireddy20a.html) |
 
-### 2019
+</details>
+
+<a id="icml-2019"></a>
+<details open>
+<summary>2019</summary>
 
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -291,4 +321,23 @@
 | Analyzing Federated Learning through an Adversarial Lens. | ICML | 2019 | [Link](http://proceedings.mlr.press/v97/bhagoji19a.html) |
 | Bayesian Nonparametric Federated Learning of Neural Networks. | ICML | 2019 | [Link](http://proceedings.mlr.press/v97/yurochkin19a.html) |
 
+</details>
+
+</details>
+
 <!-- END:ICML -->
+
+## TOC
+
+<!-- START:TOC -->
+## Table of Contents
+
+- [ICML](#venue-icml)
+  - [2025](#icml-2025)
+  - [2024](#icml-2024)
+  - [2023](#icml-2023)
+  - [2022](#icml-2022)
+  - [2021](#icml-2021)
+  - [2020](#icml-2020)
+  - [2019](#icml-2019)
+<!-- END:TOC -->
