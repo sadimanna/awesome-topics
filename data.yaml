@@ -2,17 +2,15 @@ section:
 - title: AAAI
 AAAI:
   header:
-    title: 'Title                                                        '
-    affiliation: ' Affiliation                                   '
-    venue: ' Venue                                                 '
+    title: 'Title'
+    venue: ' Venue'
     year: ' Year '
-    materials: ' Materials'
+    link: 'Link'
   length:
     title: 60
-    affiliation: 45
     venue: 53
     year: 4
-    materials: 60
+    link: 60
   body:
   - title: Learn How to Query from Unlabeled Data Streams in Federated Learning.
     venue: AAAI

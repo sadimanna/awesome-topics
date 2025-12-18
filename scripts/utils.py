@@ -222,17 +222,17 @@ def yaml_to_mdtable(yaml_data: dict, md_ref: str):
                     # empty abbr
                     line[key] = ""
 
-            if key == "materials":
+            if key == "link":
                 # special handle for materials
                 links = []
 
-                if type(line[key]) is not dict:
-                    # wrong type
-                    print(f"materials is str, please check it: {line[key]}")
-                else:
-                    # parse dict to str
-                    for text, url in line[key].items():
-                        links.append(f"[[{text}]({url})]")
+                # if type(line[key]) is not dict:
+                #     # wrong type
+                #     print(f"materials is str, please check it: {line[key]}")
+                # else:
+                #     # parse dict to str
+                #     for text, url in line[key].items():
+                #         links.append(f"[[{text}]({url})]")
                 line[key] = " ".join(links)
 
         # other cases
