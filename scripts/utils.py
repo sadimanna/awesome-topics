@@ -236,7 +236,7 @@ def yaml_to_mdtable(yaml_data: dict, md_ref: str):
                 line[key] = " ".join(links)
 
         # other cases
-        table_list.append("| " + " | ".join(line.values()) + " |")
+        table_list.append("| " + " | ".join([str(l) for l in line.values()]) + " |")
 
     return "\n".join(table_list), md_ref
 

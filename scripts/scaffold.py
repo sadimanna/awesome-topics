@@ -2,6 +2,19 @@ import os
 from config import Config
 import utils
 
+DEFAULT_HEADER = {
+    "title": "Title",
+    "venue": " Venue",
+    "year": " Year ",
+    "link": "Link",
+}
+
+DEFAULT_LENGTH = {
+    "title": 60,
+    "venue": 53,
+    "year": 4,
+    "link": 60,
+}
 
 class Scaffold:
     def __init__(self):
@@ -53,10 +66,22 @@ class Scaffold:
         md_ref = ""
 
         for sec in data["section"]:
-            print(sec["title"])
+            # print(sec["title"])
 
-            # get markdown table content
-            table_content, md_ref = utils.yaml_to_mdtable(data[sec["title"]], md_ref)
+            # # get markdown table content
+            # table_content, md_ref = utils.yaml_to_mdtable(data[sec["title"]], md_ref)
+
+            venue = sec["title"]
+            venue_data = data.get(venue, {})
+
+            blocks = []
+
+            for year, papers in venue_data.items():
+                blocks.append(f"### {year}\n")
+                blocks.append(utils.simple_yaml_to_mdtable(papers))
+                blocks.append("")
+
+            table_content = "\n".join(blocks)
 
             # update markdown
             md_str = utils.replace_content(
