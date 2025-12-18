@@ -89,7 +89,7 @@ class Scaffold:
             papers = data.get(venue, [])
 
             # ensure sorted by year desc
-            papers = sorted(papers, key=lambda x: x["year"], reverse=True)
+            papers = sorted(papers, key=lambda x: int(x["year"]), reverse=True)
 
             table = utils.simple_yaml_to_mdtable(papers)
 
