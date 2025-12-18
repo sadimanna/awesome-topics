@@ -103,44 +103,41 @@ def get_content(src: str, start_comment: str, end_comment: str):
 def replace_content(src, content, start, end):
     """
     Replace content between start and end markers.
-    If markers do not exist, create them automatically.
+    Auto-create markers if missing.
     """
 
-    # Case 1: markers exist → normal replacement
+    # Normal replacement
     if start in src and end in src:
         pre, rest = src.split(start, 1)
         _, post = rest.split(end, 1)
         return pre + start + "\n" + content + "\n" + end + post
 
-    # Case 2: markers missing → auto-insert
-    # Strategy:
-    # 1. Insert markers after the nearest section header
-    # 2. If no header found, append to end of file
+    marker_block = f"{start}\n{content}\n{end}\n"
 
-    marker_block = f"\n{start}\n{content}\n{end}\n"
+    # --- SPECIAL CASE: TOC goes to top ---
+    if start == "<!-- START:TOC -->":
+        return marker_block + "\n" + src
 
-    # Try to infer section title from marker
-    # <!-- START:ICML --> → ICML
+    # --- Default behavior for venue sections ---
     section = start.replace("<!-- START:", "").replace(" -->", "").strip()
 
     lines = src.splitlines()
     out = []
     inserted = False
 
-    for i, line in enumerate(lines):
+    for line in lines:
         out.append(line)
-
-        # Insert after section header (## ICML)
         if not inserted and line.strip() == f"## {section}":
+            out.append("")
             out.append(marker_block)
             inserted = True
 
-    # If no section header found, append at end
     if not inserted:
         out.append(f"\n## {section}")
         out.append(marker_block)
 
     return "\n".join(out)
+
 
 def parse_header(header_str: str):
     """Parse header string to yaml key"""
