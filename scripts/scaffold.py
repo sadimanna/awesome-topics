@@ -54,53 +54,45 @@ class Scaffold:
         utils.write_yaml(yaml_file, data)
 
     def yaml_to_mdtable(self, yaml_file=None, md_file=None):
-        """convert yaml file to markdown table"""
-        yaml_file = yaml_file or Config.YAML_PATH  # data.yaml
-        md_file = md_file or Config.README_PATH  # README.md
+        """Convert YAML (venue → year → body) to Markdown tables"""
+        yaml_file = yaml_file or Config.YAML_PATH
+        md_file = md_file or Config.README_PATH
 
-        # read yaml
         data = utils.read_yaml(yaml_file)
-        # read md
         md_str = utils.read_mdfile(md_file)
-        # get reference section
-        md_ref = ""
 
         for sec in data["section"]:
-            # print(sec["title"])
-
-            # # get markdown table content
-            # table_content, md_ref = utils.yaml_to_mdtable(data[sec["title"]], md_ref)
-
             venue = sec["title"]
             venue_data = data.get(venue, {})
 
             blocks = []
 
-            for year, papers in venue_data.items():
+            # years are already sorted desc by write_venue_yaml,
+            # but we enforce it defensively
+            for year in sorted(venue_data.keys(), reverse=True):
+                year_block = venue_data[year]
+
+                header = year_block["header"]
+                body = year_block["body"]
+
+                # year heading
                 blocks.append(f"### {year}\n")
-                blocks.append(utils.simple_yaml_to_mdtable(papers))
+
+                # markdown table
+                blocks.append(utils.yaml_block_to_mdtable(header, body))
                 blocks.append("")
 
             table_content = "\n".join(blocks)
 
-            # update markdown
             md_str = utils.replace_content(
                 md_str,
                 table_content,
-                Config.START_COMMENT.format(sec["title"]),
-                Config.END_COMMENT.format(sec["title"]),
+                Config.START_COMMENT.format(venue),
+                Config.END_COMMENT.format(venue),
             )
 
-        # update reference section
-        md_str = utils.replace_content(
-            md_str,
-            md_ref,
-            Config.START_COMMENT.format("reference-section"),
-            Config.END_COMMENT.format("reference-section"),
-        )
-
-        # save md
         utils.write_mdfile(md_file, md_str)
+
 
     # def yaml_to_mdtable(self, yaml_file=None, md_file=None):
     #     yaml_file = yaml_file or Config.YAML_PATH

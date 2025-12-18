@@ -240,6 +240,31 @@ def yaml_to_mdtable(yaml_data: dict, md_ref: str):
 
     return "\n".join(table_list), md_ref
 
+def yaml_block_to_mdtable(header, body):
+    """
+    header: dict of column name → display name
+    body: list of row dicts
+    """
+
+    columns = list(header.keys())
+
+    # header row
+    lines = []
+    lines.append("| " + " | ".join(header[c].strip() for c in columns) + " |")
+    lines.append("| " + " | ".join(["---"] * len(columns)) + " |")
+
+    # body rows
+    for row in body:
+        vals = []
+        for c in columns:
+            v = row.get(c, "")
+            if c == "link" and v:
+                v = f"[Link]({v})"
+            vals.append(str(v))
+        lines.append("| " + " | ".join(vals) + " |")
+
+    return "\n".join(lines)
+
 
 def get_mdref(md_str: str, start_comment: str, end_comment: str):
     """Get md ref from md_str"""
