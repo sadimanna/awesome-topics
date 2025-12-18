@@ -32,7 +32,7 @@ Please note that if this page does not display the full content, **please visit 
 
 
 
-**Repository Update 404:ice** 
+**Repository Update Notice** 
 
 > 2024/09/30
 >
@@ -583,7 +583,7 @@ Federated Learning papers accepted by top AI(Artificial Intelligence) conference
 | Federated Asymptotics: a model to compare federated learning algorithms | Stanford | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/cheng23b.html)] [[CODE](https://github.com/garyxcheng/personalized-federated-learning)] |
 | Private Non-Convex Federated Learning Without a Trusted Server | USC | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/lowy23a.html)] [[CODE](https://github.com/ghafeleb/Private-NonConvex-Federated-Learning-Without-a-Trusted-Server)] |
 | Federated Learning for Data Streams | Universit ́ e Cˆ ote d’Azur | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/marfoq23a.html)] [[CODE](https://github.com/omarfoq/streaming-fl)] |
-| 404:hing but Regrets — Privacy-Preserving Federated Causal Discovery | Helmholtz Centre for Information Security | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/mian23a.html)] [[CODE](https://eda.rg.cispa.io/prj/peri/)] |
+| Nothing but Regrets — Privacy-Preserving Federated Causal Discovery | Helmholtz Centre for Information Security | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/mian23a.html)] [[CODE](https://eda.rg.cispa.io/prj/peri/)] |
 | Active Membership Inference Attack under Local Differential Privacy in Federated Learning | UFL | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/nguyen23e.html)] [[CODE](https://github.com/trucndt/ami)] |
 | Federated Averaging Langevin Dynamics: Toward a unified theory and new algorithms | CMAP | AISTATS | 2023 | [[PUB](https://proceedings.mlr.press/v206/plassier23a.html)] |
 | Byzantine-Robust Federated Learning with Optimal Statistical Rates | UC Berkeley | AISTATS | 2023 | [[PUB](https://github.com/wanglun1996/secure-robust-federated-learning)] [[CODE](https://github.com/wanglun1996/secure-robust-federated-learning)] |
@@ -1111,7 +1111,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 | Fine-Grained Theoretical Analysis of Federated Zeroth-Order Optimization | HZAU | NeurIPS | 2023 | [[PUB](https://openreview.net/forum?id=0ycX03sMAT)] [[SUPP](https://openreview.net/attachment?id=0ycX03sMAT&name=supplementary_material)] |
 | Navigating Data Heterogeneity in Federated Learning: A Semi-Supervised Approach for Object Detection | KAIST | NeurIPS | 2023 | [[PUB](https://openreview.net/forum?id=2D7ou48q0E)] [[SUPP](https://openreview.net/attachment?id=2D7ou48q0E&name=supplementary_material)] [[PDF](https://arxiv.org/abs/2310.17097)] [[CODE](https://github.com/Kthyeon/ssfod)] |
 | A Data-Free Approach to Mitigate Catastrophic Forgetting in Federated Class Incremental Learning for Vision Tasks | USC | NeurIPS | 2023 | [[PUB](https://openreview.net/forum?id=3b9sqxCW1x)] [[PDF](https://arxiv.org/abs/2311.07784)] [[CODE](https://github.com/SaraBabakN/MFCL-NeurIPS23)] |
-| Is Heterogeneity 404:orious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning | UTS | NeurIPS | 2023 | [[PUB](https://openreview.net/forum?id=qJJmu4qsLO)] [[SUPP](https://openreview.net/attachment?id=qJJmu4qsLO&name=supplementary_material)] |
+| Is Heterogeneity Notorious? Taming Heterogeneity to Handle Test-Time Shift in Federated Learning | UTS | NeurIPS | 2023 | [[PUB](https://openreview.net/forum?id=qJJmu4qsLO)] [[SUPP](https://openreview.net/attachment?id=qJJmu4qsLO&name=supplementary_material)] |
 | One-Pass Distribution Sketch for Measuring Data Heterogeneity in Federated Learning | Rice University | NeurIPS | 2023 | [[PUB](https://openreview.net/forum?id=KMxRQO7P98)] [[SUPP](https://openreview.net/attachment?id=KMxRQO7P98&name=supplementary_material)] [[CODE](https://github.com/lzcemma/RACE_Distance)] |
 | Lockdown: Backdoor Defense for Federated Learning  with Isolated Subspace Training | Gatech | NeurIPS | 2023 | [[PUB](https://openreview.net/forum?id=V5cQH7JbGo)] [[SUPP](https://openreview.net/attachment?id=V5cQH7JbGo&name=supplementary_material)] [[CODE](https://github.com/git-disl/Lockdown)] |
 | FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning | PSU; UIUC | NeurIPS | 2023 | [[PUB](https://openreview.net/forum?id=nX0zYBGEka)] [[SUPP](https://openreview.net/attachment?id=nX0zYBGEka&name=supplementary_material)] [[CODE](https://github.com/AI-secure/FedGame)] |
@@ -1398,7 +1398,7 @@ Federated Learning papers accepted by top ML(machine learning) conference and jo
 | Personalized Online Federated Multi-Kernel Learning | UCI | NeurIPS | 2022 | [[PUB](https://openreview.net/forum?id=wUctlvhsNWg)] |
 | SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training | Duke University | NeurIPS | 2022 | [[PUB](https://openreview.net/forum?id=1GAjC_FauE)] [[PDF](https://arxiv.org/abs/2106.01432)] [[CODE](https://openreview.net/attachment?id=1GAjC_FauE&name=SUPP_material)] |
 | A Unified Analysis of Federated Learning with Arbitrary Client Participation | IBM | NeurIPS | 2022 | [[PUB](https://openreview.net/forum?id=qSs7C7c4G8D)] [[PDF](https://arxiv.org/abs/2205.13648)] |
-| Preservation of the Global Knowledge by 404:-True Distillation in Federated Learning | KAIST | NeurIPS | 2022 | [[PUB](https://openreview.net/forum?id=qw3MZb1Juo)] [[PDF](https://arxiv.org/abs/2106.03097)] [[CODE](https://openreview.net/attachment?id=qw3MZb1Juo&name=SUPP_material)] |
+| Preservation of the Global Knowledge by Not-True Distillation in Federated Learning | KAIST | NeurIPS | 2022 | [[PUB](https://openreview.net/forum?id=qw3MZb1Juo)] [[PDF](https://arxiv.org/abs/2106.03097)] [[CODE](https://openreview.net/attachment?id=qw3MZb1Juo&name=SUPP_material)] |
 | FedSR: A Simple and Effective Domain Generalization Method for Federated Learning | University of Oxford | NeurIPS | 2022 | [[PUB](https://openreview.net/forum?id=mrt90D00aQX)] [[CODE](https://openreview.net/attachment?id=mrt90D00aQX&name=SUPP_material)] |
 | Factorized-FL: Personalized Federated Learning with Parameter Factorization & Similarity Matching | KAIST | NeurIPS | 2022 | [[PUB](https://openreview.net/forum?id=Ql75oqz1npy)] [[PDF](https://arxiv.org/abs/2202.00270)] [[CODE](https://openreview.net/attachment?id=Ql75oqz1npy&name=SUPP_material)] |
 | A Simple and Provably Efficient Algorithm for Asynchronous Federated Contextual Linear Bandits | UC | NeurIPS | 2022 | [[PUB](https://openreview.net/forum?id=Fx7oXUVEPW)] [[PDF](https://arxiv.org/abs/2207.03106)] |
@@ -1716,7 +1716,7 @@ Federated Learning papers accepted by top Secure conference and journal, Includi
 
 |Title                                                           |    Affiliation                                                     |    Venue    |    Year    |    Materials|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ------------------------------------------------------------ |
-| 404: All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning |  | S&P | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11023255)] |
+| Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning |  | S&P | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11023255)] |
 | Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning |  | S&P | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11023464)] |
 | An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models |  | S&P Workshop | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11050826)] |
 | Privacy-Preserving Mutual Authentication Protocol for Federated Learning in Intelligent Transportation Systems |  | S&P Workshop | 2025 | [[PUB](https://ieeexplore.ieee.org/document/11050805)] |
@@ -1726,7 +1726,7 @@ Federated Learning papers accepted by top Secure conference and journal, Includi
 | URVFL: Undetectable Data Reconstruction Attack on Vertical Federated Learning |  | NDSS | 2025 | [[PUB](https://www.ndss-symposium.org/ndss-paper/urvfl-undetectable-data-reconstruction-attack-on-vertical-federated-learning/)] |
 | RAIFLE: Reconstruction Attacks on Interaction-based Federated Learning with Adversarial Data Manipulation |  | NDSS | 2025 | [[PUB](https://www.ndss-symposium.org/ndss-paper/raifle-reconstruction-attacks-on-interaction-based-federated-learning-with-adversarial-data-manipulation/)] [[CODE](https://github.com/dzungvpham/raifle)] |
 | Byzantine-Robust Decentralized Federated Learning |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3670307)] |
-| 404: One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3670365)] |
+| Not One Less: Exploring Interplay between User Profiles and Items in Untargeted Attacks against Federated Recommendation |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3670365)] |
 | Cross-silo Federated Learning with Record-level Personalized Differential Privacy. |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3670351)] |
 | Samplable Anonymous Aggregation for Private Federated Data Analysis |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3690224)] |
 | Camel: Communication-Efficient and Maliciously Secure Federated Learning in the Shuffle Model of Differential Privacy |  | CCS | 2024 | [[PUB](https://dl.acm.org/doi/10.1145/3658644.3690200)] |
@@ -2429,7 +2429,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving | NTU | MobiCom | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3570361.3592517)] [[PDF](https://arxiv.org/abs/2302.08646)] |
 | Efficient Federated Learning for Modern NLP | Beiyou                                        Shenzhen Institute | MobiCom | 2023 | [[PDF](https://arxiv.org/abs/2205.10162)] [[解读](https://zhuanlan.zhihu.com/p/638270746)] |
 | FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning | HKUST; Clustar | NSDI | 2023 | [[PUB](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue)] [[SLIDE](https://www.usenix.org/system/files/nsdi23_slides_zhang.pdf)] [[VIDEO](https://www.youtube.com/watch?v=I5V3r-8sY-Y)] |
-| To Store or 404:? Online Data Selection for Federated Learning with Limited Storage. | SJTU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583426)] [[PDF](https://arxiv.org/abs/2209.00195)] |
+| To Store or Not? Online Data Selection for Federated Learning with Limited Storage. | SJTU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583426)] [[PDF](https://arxiv.org/abs/2209.00195)] |
 | pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning. | PolyU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583518)] |
 | Quantifying and Defending against Privacy Threats on Federated Knowledge Graph Embedding. | ZJU; HIC-ZJU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583450)] [[PDF](https://arxiv.org/abs/2304.02932)] |
 | Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks | PKU | WWW | 2023 | [[PUB](https://dl.acm.org/doi/10.1145/3543507.3583874)] [[PDF](https://arxiv.org/abs/2302.05675)] [[CODE](https://github.com/Chung-ju/VFedTrans)] |
@@ -2508,7 +2508,7 @@ Federated Learning papers accepted by top Database conference and journal, inclu
 | FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism. | Jinan University; CityU | INFOCOM | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9488807)] [[PDF](https://arxiv.org/abs/2012.10566)] |
 | Federated Learning over Wireless Networks: A Band-limited Coordinated Descent Approach | Arizona State University | INFOCOM | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9488818)] [[PDF](https://arxiv.org/abs/2102.07972)] |
 | Dual Attention-Based Federated Learning for Wireless Traffic Prediction | King Abdullah University of Science and Technology | INFOCOM | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9488883)] [[PDF](https://arxiv.org/abs/2110.05183)] [[CODE](https://github.com/chuanting/fedda)] |
-| FedSens: A Federated Learning Approach for Smart Health Sensing with Class Imbalance in Resource Constrained Edge Computing | University of 404:re Dame | INFOCOM | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9488776/)] |
+| FedSens: A Federated Learning Approach for Smart Health Sensing with Class Imbalance in Resource Constrained Edge Computing | University of Notre Dame | INFOCOM | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9488776/)] |
 | P-FedAvg: Parallelizing Federated Learning with Theoretical Guarantees | SYSU; Guangdong Key Laboratory of Big Data Analysis and Processing | INFOCOM | 2021 | [[PUB](https://ieeexplore.ieee.org/document/9488877)] |
 | Meta-HAR: Federated Representation Learning for Human Activity Recognition. | University of Alberta | WWW | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3442381.3450006)] [[PDF](https://arxiv.org/abs/2106.00615)] [[CODE](https://github.com/Chain123/Meta-HAR)] |
 | PFA: Privacy-preserving Federated Adaptation for Effective Model Personalization | PKU | WWW | 2021 | [[PUB](https://dl.acm.org/doi/10.1145/3442381.3449847)] [[PDF](https://arxiv.org/abs/2103.01548)] [[CODE](https://github.com/lebyni/PFA)] |
@@ -3044,7 +3044,7 @@ This section refers to [DBLP](https://dblp.org/search?q=federate%20tree%7Cboost%
 
 ### table
 
-*404:e: **SG** means Support for Graph data and algorithms, **ST** means Support for Tabular data and algorithms.*
+*Note: **SG** means Support for Graph data and algorithms, **ST** means Support for Tabular data and algorithms.*
 
 <details open markdown="1">
 <summary>federated learning framework</summary>
