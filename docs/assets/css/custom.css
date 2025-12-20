@@ -1,69 +1,48 @@
-/* ===========================
-   Paper Tables (HTML)
-   =========================== */
-
 .paper-table {
   width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
+  border-collapse: collapse;
   margin: 1.5rem 0;
   background: #ffffff;
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  border: 2px solid #9ca3af;
+  table-layout: fixed;
 }
 
-/* Header */
-.paper-table thead {
-  background: #f8fafc;
-}
-
-.paper-table th {
-  padding: 14px 16px;
-  text-align: left;
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: #111827;
-  border-bottom: 1px solid #e5e7eb;
-}
-
-/* Body cells */
+.paper-table th,
 .paper-table td {
+  border: 1px solid #d1d5db;
   padding: 14px 16px;
   font-size: 0.95rem;
-  color: #1f2937;
-  border-bottom: 1px solid #e5e7eb;
+  line-height: 1.45;
   vertical-align: top;
 }
 
-.paper-table td {
-  line-height: 1.45;
+.paper-table thead th {
+  background: #f8fafc;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+  z-index: 2;
 }
 
-
-/* Vertical borders */
-.paper-table th:not(:last-child),
-.paper-table td:not(:last-child) {
-  border-right: 1px solid #e5e7eb;
+/* Alignment */
+.paper-table th:not(:first-child),
+.paper-table td:not(:first-child) {
+  text-align: center;
 }
 
-/* Hover animation */
-.paper-table tbody tr {
-  transition: background-color 0.2s ease, transform 0.15s ease;
+.paper-table th:first-child,
+.paper-table td:first-child {
+  text-align: left;
 }
 
+/* Hover */
 .paper-table tbody tr:hover {
-  background-color: #f1f5f9;
-  box-shadow: inset 4px 0 0 #2563eb;
+  background-color: #f3f4f6;
 }
 
-
-/* Hover individual cells */
 .paper-table td:hover {
-  background-color: rgba(224, 242, 254, 0.6);
+  background-color: #e0f2fe;
 }
-
 
 /* Links */
 .paper-table a {
@@ -76,51 +55,7 @@
   text-decoration: underline;
 }
 
-/* Rounded corners */
-.paper-table thead tr:first-child th:first-child {
-  border-top-left-radius: 10px;
-}
-
-.paper-table thead tr:first-child th:last-child {
-  border-top-right-radius: 10px;
-}
-
-.paper-table thead th {
-  position: sticky;
-  top: 0;
-  z-index: 2;
-}
-
-.paper-table thead th {
-  background: #f8fafc;
-  border-bottom: 2px solid #d1d5db;
-}
-
-
-.paper-table a {
-  transition: color 0.15s ease;
-}
-
-.paper-table {
-  table-layout: fixed;
-}
-.paper-table td {
-  word-wrap: break-word;
-}
-
-.paper-table tbody tr:last-child td {
-  border-bottom: none;
-}
-
-.paper-table td:nth-child(2),
-.paper-table td:nth-child(3),
-.paper-table td:nth-child(4),
-.paper-table th:nth-child(2),
-.paper-table th:nth-child(3),
-.paper-table th:nth-child(4) {
-  background-color: #fafafa;
-}
-
+/* Responsive */
 @media (max-width: 768px) {
   .paper-table {
     display: block;
