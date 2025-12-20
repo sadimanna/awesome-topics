@@ -37,7 +37,6 @@ def generate_toc(data, collapsed=True):
     return "\n".join(lines)
 
 
-
 def simple_yaml_to_mdtable(papers):
     lines = []
     lines.append("| Title | Venue | Year | Link |")
