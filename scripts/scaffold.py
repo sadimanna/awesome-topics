@@ -24,7 +24,7 @@ class Scaffold:
             word.upper() if word.isupper() else word.capitalize()
             for word in topic_name.replace("-", " ").split()
         )
-
+    
 
     def yaml_to_md_topic(self, yaml_file, md_file, topic_slug):
         """Generates a standalone Markdown file for a specific topic."""
@@ -74,7 +74,7 @@ class Scaffold:
 
                 md_lines.append(f'### {year} <a id="{year_id}"></a>')
                 md_lines.append(
-                    utils.yaml_block_to_mdtable(
+                    utils.yaml_block_to_htmltable(
                         year_block["header"],
                         year_block["body"],
                     )

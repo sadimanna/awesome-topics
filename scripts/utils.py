@@ -345,6 +345,33 @@ def yaml_block_to_mdtable(header, body):
 
     return "\n".join(lines)
 
+def yaml_block_to_htmltable(header, body):
+    if not body:
+        return "<p><em>No papers found.</em></p>"
+
+    cols = list(header.keys())
+
+    lines = []
+    lines.append("<table>")
+    lines.append("<thead><tr>")
+
+    for c in cols:
+        lines.append(f"<th>{header[c]}</th>")
+
+    lines.append("</tr></thead>")
+    lines.append("<tbody>")
+
+    for row in body:
+        lines.append("<tr>")
+        for c in cols:
+            v = row.get(c, "")
+            if c in ["link", "url", "ee"] and v:
+                v = f'<a href="{v}">Link</a>'
+            lines.append(f"<td>{v}</td>")
+        lines.append("</tr>")
+
+    lines.append("</tbody></table>")
+    return "\n".join(lines)
 
 def get_mdref(md_str: str, start_comment: str, end_comment: str):
     """Get md ref from md_str"""
