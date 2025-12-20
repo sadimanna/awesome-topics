@@ -59,7 +59,7 @@ class Scaffold:
             venue_data = data.get(venue, {})
 
             md_lines.append(f'## {venue} <a id="{venue_id}"></a>')
-            md_lines.append("<details open>")
+            md_lines.append("<details open markdown=\"1\">")
             md_lines.append(f"<summary>Expand {venue}</summary>\n")
 
             for year in sorted(venue_data.keys(), reverse=True):
