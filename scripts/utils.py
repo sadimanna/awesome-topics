@@ -357,9 +357,9 @@ def yaml_block_to_htmltable(header, body):
     # --- Column widths ---
     lines.append("<colgroup>")
     lines.append('<col style="width: 60%">')  # Title
-    lines.append('<col style="width: 12%">')  # Venue
-    lines.append('<col style="width: 10%">')  # Year
-    lines.append('<col style="width: 8%">')   # Link
+    lines.append('<col style="width: 15%">')  # Venue
+    lines.append('<col style="width: 15%">')  # Year
+    lines.append('<col style="width: 10%">')   # Link
     lines.append("</colgroup>")
 
     lines.append("<thead><tr>")

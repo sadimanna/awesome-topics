@@ -87,3 +87,10 @@
 .paper-table a {
   transition: color 0.15s ease;
 }
+
+.paper-table {
+  table-layout: fixed;
+}
+.paper-table td {
+  word-wrap: break-word;
+}
