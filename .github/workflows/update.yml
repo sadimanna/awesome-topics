@@ -64,6 +64,7 @@ jobs:
 
       - name: Count papers per topic
         run: |
+          cd scripts
           python count_topics.py
 
       - name: Generate topic distribution bar chart
