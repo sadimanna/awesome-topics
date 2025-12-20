@@ -4,6 +4,9 @@
 
 <!-- ![Topics](https://img.shields.io/badge/Topics-2-blue) ![Papers](https://img.shields.io/badge/Papers-2356-green) -->
 
+![Research](https://img.shields.io/badge/Research-Federated%20Learning-informational)
+![Research](https://img.shields.io/badge/Research-Inversion%20Attacks-informational)
+
 ## Topics by Paper Volume
 
 ![Topic Distribution](assets/topic_distribution.svg)
