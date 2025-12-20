@@ -1,3 +1,8 @@
+---
+title: Federatedml
+layout: topic
+---
+
 # Federatedml
 
 ## Table of Contents
@@ -369,7 +374,6 @@
 | Where Does This Data Come From? Enhanced Source Inference Attacks in Federated Learning. | IJCAI | 2025 | [Link](https://doi.org/10.24963/ijcai.2025/536) |
 | Zero-shot Federated Unlearning via Transforming from Data-Dependent to Personalized Model-Centric. | IJCAI | 2025 | [Link](https://doi.org/10.24963/ijcai.2025/733) |
 
-
 ### 2024 <a id="ijcai-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -412,7 +416,6 @@
 | The Rise of Federated Intelligence: From Federated Foundation Models Toward Collective Intelligence. | IJCAI | 2024 | [Link](https://www.ijcai.org/proceedings/2024/980) |
 | Unlearning during Learning: An Efficient Federated Machine Unlearning Method. | IJCAI | 2024 | [Link](https://www.ijcai.org/proceedings/2024/446) |
 
-
 ### 2023 <a id="ijcai-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -436,7 +439,6 @@
 | Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data. | IJCAI | 2023 | [Link](https://doi.org/10.24963/ijcai.2023/393) |
 | SAMBA: A Generic Framework for Secure Federated Multi-Armed Bandits (Extended Abstract). | IJCAI | 2023 | [Link](https://doi.org/10.24963/ijcai.2023/772) |
 
-
 ### 2022 <a id="ijcai-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -456,7 +458,6 @@
 | Towards Verifiable Federated Learning. | IJCAI | 2022 | [Link](https://doi.org/10.24963/ijcai.2022/792) |
 | Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification. | IJCAI | 2022 | [Link](https://doi.org/10.24963/ijcai.2022/272) |
 
-
 ### 2021 <a id="ijcai-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -470,19 +471,16 @@
 | LDP-FL: Practical Private Aggregation in Federated Learning with Local Differential Privacy. | IJCAI | 2021 | [Link](https://doi.org/10.24963/ijcai.2021/217) |
 | Practical One-Shot Federated Learning for Cross-Silo Setting. | IJCAI | 2021 | [Link](https://doi.org/10.24963/ijcai.2021/205) |
 
-
 ### 2020 <a id="ijcai-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | A Multi-player Game for Studying Federated Learning Incentive Schemes. | IJCAI | 2020 | [Link](https://doi.org/10.24963/ijcai.2020/769) |
 | Federated Meta-Learning for Fraudulent Credit Card Detection. | IJCAI | 2020 | [Link](https://doi.org/10.24963/ijcai.2020/642) |
 
-
 ### 2019 <a id="ijcai-2019"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Multi-Agent Visualization for Explaining Federated Learning. | IJCAI | 2019 | [Link](https://doi.org/10.24963/ijcai.2019/960) |
-
 
 </details>
 
@@ -593,7 +591,6 @@
 | pFedES: Generalized Proxy Feature Extractor Sharing for Model Heterogeneous Personalized Federated Learning. | AAAI | 2025 | [Link](https://doi.org/10.1609/aaai.v39i21.34368) |
 | pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning. | AAAI | 2025 | [Link](https://doi.org/10.1609/aaai.v39i17.33980) |
 
-
 ### 2024 <a id="aaai-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -670,7 +667,6 @@
 | Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models. | AAAI | 2024 | [Link](https://doi.org/10.1609/aaai.v38i10.29012) |
 | z-SignFedAvg: A Unified Stochastic Sign-Based Compression for Federated Learning. | AAAI | 2024 | [Link](https://doi.org/10.1609/aaai.v38i14.29454) |
 
-
 ### 2023 <a id="aaai-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -708,7 +704,6 @@
 | Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense. | AAAI | 2023 | [Link](https://doi.org/10.1609/aaai.v37i4.25611) |
 | Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation. | AAAI | 2023 | [Link](https://doi.org/10.1609/aaai.v37i4.25531) |
 
-
 ### 2022 <a id="aaai-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -737,7 +732,6 @@
 | SplitFed: When Federated Learning Meets Split Learning. | AAAI | 2022 | [Link](https://doi.org/10.1609/aaai.v36i8.20825) |
 | SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural Networks on Molecular Data. | AAAI | 2022 | [Link](https://doi.org/10.1609/aaai.v36i6.20643) |
 
-
 ### 2021 <a id="aaai-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -757,7 +751,6 @@
 | Secure Bilevel Asynchronous Vertical Federated Learning with Backward Updating. | AAAI | 2021 | [Link](https://doi.org/10.1609/aaai.v35i12.17301) |
 | Toward Understanding the Influence of Individual Clients in Federated Learning. | AAAI | 2021 | [Link](https://doi.org/10.1609/aaai.v35i12.17263) |
 
-
 ### 2020 <a id="aaai-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -768,12 +761,10 @@
 | Practical Federated Gradient Boosting Decision Trees. | AAAI | 2020 | [Link](https://doi.org/10.1609/aaai.v34i04.5895) |
 | Robust Federated Learning via Collaborative Machine Teaching. | AAAI | 2020 | [Link](https://doi.org/10.1609/aaai.v34i04.5826) |
 
-
 ### 2011 <a id="aaai-2011"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Mechanism Design for Federated Sponsored Search Auctions. | AAAI | 2011 | [Link](https://doi.org/10.1609/aaai.v25i1.7868) |
-
 
 </details>
 
@@ -797,7 +788,6 @@
 | Personalizing Low-Rank Bayesian Neural Networks Via Federated Learning. | AISTATS | 2025 | [Link](https://proceedings.mlr.press/v258/zhang25l.html) |
 | Refined Analysis of Constant Step Size Federated Averaging and Federated Richardson-Romberg Extrapolation. | AISTATS | 2025 | [Link](https://proceedings.mlr.press/v258/mangold25a.html) |
 | The cost of local and global fairness in Federated Learning. | AISTATS | 2025 | [Link](https://proceedings.mlr.press/v258/duan25a.html) |
-
 
 ### 2024 <a id="aistats-2024"></a>
 | Title | Venue | Year | Link |
@@ -823,7 +813,6 @@
 | Stochastic Smoothed Gradient Descent Ascent for Federated Minimax Optimization. | AISTATS | 2024 | [Link](https://proceedings.mlr.press/v238/shen24c.html) |
 | Understanding Generalization of Federated Learning via Stability: Heterogeneity Matters. | AISTATS | 2024 | [Link](https://proceedings.mlr.press/v238/sun24a.html) |
 
-
 ### 2023 <a id="aistats-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -838,7 +827,6 @@
 | Nothing but Regrets - Privacy-Preserving Federated Causal Discovery. | AISTATS | 2023 | [Link](https://proceedings.mlr.press/v206/mian23a.html) |
 | Private Non-Convex Federated Learning Without a Trusted Server. | AISTATS | 2023 | [Link](https://proceedings.mlr.press/v206/lowy23a.html) |
 | The communication cost of security and privacy in federated frequency estimation. | AISTATS | 2023 | [Link](https://proceedings.mlr.press/v206/chen23e.html) |
-
 
 ### 2022 <a id="aistats-2022"></a>
 | Title | Venue | Year | Link |
@@ -857,7 +845,6 @@
 | Towards Federated Bayesian Network Structure Learning with Continuous Optimization. | AISTATS | 2022 | [Link](https://proceedings.mlr.press/v151/ng22a.html) |
 | Towards Understanding Biased Client Selection in Federated Learning. | AISTATS | 2022 | [Link](https://proceedings.mlr.press/v151/jee-cho22a.html) |
 
-
 ### 2021 <a id="aistats-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -869,14 +856,12 @@
 | Shuffled Model of Differential Privacy in Federated Learning. | AISTATS | 2021 | [Link](http://proceedings.mlr.press/v130/girgis21a.html) |
 | Towards Flexible Device Participation in Federated Learning. | AISTATS | 2021 | [Link](http://proceedings.mlr.press/v130/ruan21a.html) |
 
-
 ### 2020 <a id="aistats-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization. | AISTATS | 2020 | [Link](http://proceedings.mlr.press/v108/reisizadeh20a.html) |
 | Federated Heavy Hitters Discovery with Differential Privacy. | AISTATS | 2020 | [Link](http://proceedings.mlr.press/v108/zhu20a.html) |
 | How To Backdoor Federated Learning. | AISTATS | 2020 | [Link](http://proceedings.mlr.press/v108/bagdasaryan20a.html) |
-
 
 </details>
 
@@ -889,7 +874,6 @@
 | --- | --- | --- | --- |
 | Iterated Vector Fields and Conservatism, with Applications to Federated Learning. | ALT | 2022 | [Link](https://proceedings.mlr.press/v167/charles22a.html) |
 
-
 </details>
 
 ## Artif. Intell. <a id="venue-artif. intell."></a>
@@ -901,12 +885,10 @@
 | --- | --- | --- | --- |
 | FedHM: Efficient federated learning for heterogeneous models via low-rank factorization. | Artif. Intell. | 2025 | [Link](https://doi.org/10.1016/j.artint.2025.104333) |
 
-
 ### 2023 <a id="artif. intell.-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Privacy-preserving graph convolution network for federated item recommendation. | Artif. Intell. | 2023 | [Link](https://doi.org/10.1016/j.artint.2023.103996) |
-
 
 </details>
 
@@ -992,7 +974,6 @@
 | pFedClub: Controllable Heterogeneous Model Aggregation for Personalized Federated Learning. | NeurIPS | 2024 | [Link](http://papers.nips.cc/paper_files/paper/2024/hash/6246e04dcf42baf7c71e3a65d3d93b55-Abstract-Conference.html) |
 | pfl-research: simulation framework for accelerating research in Private Federated Learning. | NeurIPS | 2024 | [Link](http://papers.nips.cc/paper_files/paper/2024/hash/4c8c6de56ecdd05e61abcd9e057c6142-Abstract-Datasets_and_Benchmarks_Track.html) |
 
-
 ### 2023 <a id="neurips-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1056,7 +1037,6 @@
 | Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking. | NeurIPS | 2023 | [Link](http://papers.nips.cc/paper_files/paper/2023/hash/02b9d1e6d1b5295a6f883969ddc1bbbd-Abstract-Datasets_and_Benchmarks.html) |
 | Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization. | NeurIPS | 2023 | [Link](http://papers.nips.cc/paper_files/paper/2023/hash/0a70c9cd8179fe6f8f6135fafa2a8798-Abstract-Conference.html) |
 
-
 ### 2022 <a id="neurips-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1102,7 +1082,6 @@
 | Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning. | NeurIPS | 2022 | [Link](http://papers.nips.cc/paper_files/paper/2022/hash/622afc4edf2824a1b6aaf5afe153fa93-Abstract-Conference.html) |
 | pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning. | NeurIPS | 2022 | [Link](http://papers.nips.cc/paper_files/paper/2022/hash/3cc03e19fed71a2b9347d83921ca2e7d-Abstract-Datasets_and_Benchmarks.html) |
 
-
 ### 2021 <a id="neurips-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1139,7 +1118,6 @@
 | Subgraph Federated Learning with Missing Neighbor Generation. | NeurIPS | 2021 | [Link](https://proceedings.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html) |
 | The Skellam Mechanism for Differentially Private Federated Learning. | NeurIPS | 2021 | [Link](https://proceedings.neurips.cc/paper/2021/hash/285baacbdf8fda1de94b19282acd23e2-Abstract.html) |
 
-
 ### 2020 <a id="neurips-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1160,7 +1138,6 @@
 | Robust Federated Learning: The Case of Affine Distribution Shifts. | NeurIPS | 2020 | [Link](https://proceedings.neurips.cc/paper/2020/hash/f5e536083a438cec5b64a4954abc17f1-Abstract.html) |
 | Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization. | NeurIPS | 2020 | [Link](https://proceedings.neurips.cc/paper/2020/hash/564127c03caab942e503ee6f810f54fd-Abstract.html) |
 | Throughput-Optimal Topology Design for Cross-Silo Federated Learning. | NeurIPS | 2020 | [Link](https://proceedings.neurips.cc/paper/2020/hash/e29b722e35040b88678e25a1ec032a21-Abstract.html) |
-
 
 </details>
 
@@ -1236,7 +1213,6 @@
 | Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning. | ICML | 2025 | [Link](https://openreview.net/forum?id=hrBfufwMzg) |
 | You Get What You Give: Reciprocally Fair Federated Learning. | ICML | 2025 | [Link](https://openreview.net/forum?id=ZdmMDz33Io) |
 
-
 ### 2024 <a id="icml-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1301,7 +1277,6 @@
 | Towards the Theory of Unsupervised Federated Learning: Non-asymptotic Analysis of Federated EM Algorithms. | ICML | 2024 | [Link](https://openreview.net/forum?id=kVgpa1rfLO) |
 | Understanding Server-Assisted Federated Learning in the Presence of Incomplete Client Participation. | ICML | 2024 | [Link](https://openreview.net/forum?id=zwUEk9WpsR) |
 
-
 ### 2023 <a id="icml-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1355,7 +1330,6 @@
 | Towards Understanding Ensemble Distillation in Federated Learning. | ICML | 2023 | [Link](https://proceedings.mlr.press/v202/park23e.html) |
 | Vertical Federated Graph Neural Network for Recommender System. | ICML | 2023 | [Link](https://proceedings.mlr.press/v202/mai23b.html) |
 
-
 ### 2022 <a id="icml-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1397,7 +1371,6 @@
 | Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy. | ICML | 2022 | [Link](https://proceedings.mlr.press/v162/zhang22b.html) |
 | Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning. | ICML | 2022 | [Link](https://proceedings.mlr.press/v162/tang22d.html) |
 
-
 ### 2021 <a id="icml-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1420,7 +1393,6 @@
 | Personalized Federated Learning using Hypernetworks. | ICML | 2021 | [Link](http://proceedings.mlr.press/v139/shamsian21a.html) |
 | The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation. | ICML | 2021 | [Link](http://proceedings.mlr.press/v139/kairouz21a.html) |
 
-
 ### 2020 <a id="icml-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1431,14 +1403,12 @@
 | From Local SGD to Local Fixed-Point Methods for Federated Learning. | ICML | 2020 | [Link](http://proceedings.mlr.press/v119/malinovskiy20a.html) |
 | SCAFFOLD: Stochastic Controlled Averaging for Federated Learning. | ICML | 2020 | [Link](http://proceedings.mlr.press/v119/karimireddy20a.html) |
 
-
 ### 2019 <a id="icml-2019"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Agnostic Federated Learning. | ICML | 2019 | [Link](http://proceedings.mlr.press/v97/mohri19a.html) |
 | Analyzing Federated Learning through an Adversarial Lens. | ICML | 2019 | [Link](http://proceedings.mlr.press/v97/bhagoji19a.html) |
 | Bayesian Nonparametric Federated Learning of Neural Networks. | ICML | 2019 | [Link](http://proceedings.mlr.press/v97/yurochkin19a.html) |
-
 
 </details>
 
@@ -1490,7 +1460,6 @@
 | Understanding the Stability-based Generalization of Personalized Federated Learning. | ICLR | 2025 | [Link](https://openreview.net/forum?id=znhZbonEoe) |
 | Unlocking the Potential of Model Calibration in Federated Learning. | ICLR | 2025 | [Link](https://openreview.net/forum?id=Osr0KZJeTX) |
 | Vertical Federated Learning with Missing Features During Training and Inference. | ICLR | 2025 | [Link](https://openreview.net/forum?id=OXi1FmHGzz) |
-
 
 ### 2024 <a id="iclr-2024"></a>
 | Title | Venue | Year | Link |
@@ -1547,7 +1516,6 @@
 | VFLAIR: A Research Library and Benchmark for Vertical Federated Learning. | ICLR | 2024 | [Link](https://openreview.net/forum?id=sqRgz88TM3) |
 | VertiBench: Advancing Feature Distribution Diversity in Vertical Federated Learning Benchmarks. | ICLR | 2024 | [Link](https://openreview.net/forum?id=glwwbaeKm2) |
 
-
 ### 2023 <a id="iclr-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1593,7 +1561,6 @@
 | Turning the Curse of Heterogeneity in Federated Learning into a Blessing for Out-of-Distribution Detection. | ICLR | 2023 | [Link](https://openreview.net/forum?id=mMNimwRb7Gr) |
 | Where to Begin? On the Impact of Pre-Training and Initialization in Federated Learning. | ICLR | 2023 | [Link](https://openreview.net/forum?id=Mpa3tRJFBb) |
 
-
 ### 2022 <a id="iclr-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1616,7 +1583,6 @@
 | What Do We Mean by Generalization in Federated Learning? | ICLR | 2022 | [Link](https://openreview.net/forum?id=VimqQq-i_Q) |
 | ZeroFL: Efficient On-Device Training for Federated Learning with Local Sparsity. | ICLR | 2022 | [Link](https://openreview.net/forum?id=2sDQwC_hmnM) |
 
-
 ### 2021 <a id="iclr-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1631,7 +1597,6 @@
 | HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients. | ICLR | 2021 | [Link](https://openreview.net/forum?id=TNkPBBYFkXg) |
 | Personalized Federated Learning with First Order Model Optimization. | ICLR | 2021 | [Link](https://openreview.net/forum?id=ehJqJQk9cw) |
 
-
 ### 2020 <a id="iclr-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1639,7 +1604,6 @@
 | Fair Resource Allocation in Federated Learning. | ICLR | 2020 | [Link](https://openreview.net/forum?id=ByexElSYDr) |
 | Federated Adversarial Domain Adaptation. | ICLR | 2020 | [Link](https://openreview.net/forum?id=HJezF3VYPB) |
 | Federated Learning with Matched Averaging. | ICLR | 2020 | [Link](https://openreview.net/forum?id=BkluqlSFDS) |
-
 
 </details>
 
@@ -1651,7 +1615,6 @@
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | The Aggregation-Heterogeneity Trade-off in Federated Learning. | COLT | 2023 | [Link](https://proceedings.mlr.press/v195/zhao23b.html) |
-
 
 </details>
 
@@ -1672,7 +1635,6 @@
 | Federated Rényi Fair Inference in Federated Heterogeneous System. | UAI | 2025 | [Link](https://proceedings.mlr.press/v286/ma25a.html) |
 | Near-Optimal Regret Bounds for Federated Multi-armed Bandits with Fully Distributed Communication. | UAI | 2025 | [Link](https://proceedings.mlr.press/v286/zhang25f.html) |
 
-
 ### 2024 <a id="uai-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1680,7 +1642,6 @@
 | On Convergence of Federated Averaging Langevin Dynamics. | UAI | 2024 | [Link](https://proceedings.mlr.press/v244/deng24a.html) |
 | On the Convergence of Hierarchical Federated Learning with Partial Worker Participation. | UAI | 2024 | [Link](https://proceedings.mlr.press/v244/jiang24a.html) |
 | Pure Exploration in Asynchronous Federated Bandits. | UAI | 2024 | [Link](https://proceedings.mlr.press/v244/wang24c.html) |
-
 
 ### 2023 <a id="uai-2023"></a>
 | Title | Venue | Year | Link |
@@ -1692,7 +1653,6 @@
 | Learning To Invert: Simple Adaptive Attacks for Gradient Inversion in Federated Learning. | UAI | 2023 | [Link](https://proceedings.mlr.press/v216/wu23a.html) |
 | Personalized federated domain adaptation for item-to-item recommendation. | UAI | 2023 | [Link](https://proceedings.mlr.press/v216/fan23a.html) |
 
-
 ### 2022 <a id="uai-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1703,13 +1663,11 @@
 | Privacy-aware compression for federated data analysis. | UAI | 2022 | [Link](https://proceedings.mlr.press/v180/chaudhuri22a.html) |
 | SASH: Efficient secure aggregation based on SHPRG for federated learning. | UAI | 2022 | [Link](https://proceedings.mlr.press/v180/liu22c.html) |
 
-
 ### 2021 <a id="uai-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Constrained differentially private federated learning for low-bandwidth devices. | UAI | 2021 | [Link](https://proceedings.mlr.press/v161/kerkouche21a.html) |
 | Federated stochastic gradient Langevin dynamics. | UAI | 2021 | [Link](https://proceedings.mlr.press/v161/mekkaoui21a.html) |
-
 
 </details>
 
@@ -1730,7 +1688,6 @@
 | Improve global generalization for personalized federated learning within a Stackelberg game. | Mach. Learn. | 2025 | [Link](https://doi.org/10.1007/s10994-025-06770-9) |
 | TransFed: cross-domain feature alignment for semi-supervised federated transfer learning. | Mach. Learn. | 2025 | [Link](https://doi.org/10.1007/s10994-025-06805-1) |
 
-
 ### 2024 <a id="mach. learn.-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1739,7 +1696,6 @@
 | Federated learning with superquantile aggregation for heterogeneous data. | Mach. Learn. | 2024 | [Link](https://doi.org/10.1007/s10994-023-06332-x) |
 | Secure and fast asynchronous Vertical Federated Learning via cascaded hybrid optimization. | Mach. Learn. | 2024 | [Link](https://doi.org/10.1007/s10994-024-06541-y) |
 
-
 ### 2023 <a id="mach. learn.-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1747,12 +1703,10 @@
 | FAC-fed: Federated adaptation for fairness and concept drift aware stream classification. | Mach. Learn. | 2023 | [Link](https://doi.org/10.1007/s10994-023-06360-7) |
 | Robust federated learning under statistical heterogeneity via hessian-weighted aggregation. | Mach. Learn. | 2023 | [Link](https://doi.org/10.1007/s10994-022-06292-8) |
 
-
 ### 2022 <a id="mach. learn.-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | An accurate, scalable and verifiable protocol for federated differentially private averaging. | Mach. Learn. | 2022 | [Link](https://doi.org/10.1007/s10994-022-06267-9) |
-
 
 </details>
 
@@ -1765,7 +1719,6 @@
 | --- | --- | --- | --- |
 | FedCBO: Reaching Group Consensus in Clustered Federated Learning through Consensus-based Optimization. | J. Mach. Learn. Res. | 2024 | [Link](https://jmlr.org/papers/v25/23-0764.html) |
 
-
 ### 2023 <a id="j. mach. learn. res.-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1776,12 +1729,10 @@
 | Memory-Based Optimization Methods for Model-Agnostic Meta-Learning and Personalized Federated Learning. | J. Mach. Learn. Res. | 2023 | [Link](https://jmlr.org/papers/v24/21-1301.html) |
 | Minimax Estimation for Personalized Federated Learning: An Alternative between FedAvg and Local Training? | J. Mach. Learn. Res. | 2023 | [Link](http://jmlr.org/papers/v24/21-0224.html) |
 
-
 ### 2021 <a id="j. mach. learn. res.-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | One-Shot Federated Learning: Theoretical Limits and Algorithms to Achieve Them. | J. Mach. Learn. Res. | 2021 | [Link](https://jmlr.org/papers/v22/19-1048.html) |
-
 
 </details>
 
@@ -1802,7 +1753,6 @@
 | Toward the Flatter Landscape and Better Generalization in Federated Learning Under Client-Level Differential Privacy. | IEEE Trans. Pattern Anal. Mach. Intell. | 2025 | [Link](https://doi.org/10.1109/TPAMI.2025.3597922) |
 | VQ-FedDiff: Federated Learning Algorithm of Diffusion Models With Client-Specific Vector-Quantized Conditioning. | IEEE Trans. Pattern Anal. Mach. Intell. | 2025 | [Link](https://doi.org/10.1109/TPAMI.2025.3602282) |
 
-
 ### 2024 <a id="ieee trans. pattern anal. mach. intell.-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1818,7 +1768,6 @@
 | The Impact of Adversarial Attacks on Federated Learning: A Survey. | IEEE Trans. Pattern Anal. Mach. Intell. | 2024 | [Link](https://doi.org/10.1109/TPAMI.2023.3322785) |
 | Understanding and Mitigating Dimensional Collapse in Federated Learning. | IEEE Trans. Pattern Anal. Mach. Intell. | 2024 | [Link](https://doi.org/10.1109/TPAMI.2023.3338063) |
 
-
 ### 2023 <a id="ieee trans. pattern anal. mach. intell.-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1828,13 +1777,11 @@
 | Federated Learning Via Inexact ADMM. | IEEE Trans. Pattern Anal. Mach. Intell. | 2023 | [Link](https://doi.org/10.1109/TPAMI.2023.3243080) |
 | Tighter Regret Analysis and Optimization of Online Federated Learning. | IEEE Trans. Pattern Anal. Mach. Intell. | 2023 | [Link](https://doi.org/10.1109/TPAMI.2023.3316672) |
 
-
 ### 2022 <a id="ieee trans. pattern anal. mach. intell.-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Communication-Efficient Randomized Algorithm for Multi-Kernel Online Federated Learning. | IEEE Trans. Pattern Anal. Mach. Intell. | 2022 | [Link](https://doi.org/10.1109/TPAMI.2021.3129809) |
 | Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning. | IEEE Trans. Pattern Anal. Mach. Intell. | 2022 | [Link](https://doi.org/10.1109/TPAMI.2020.3033286) |
-
 
 </details>
 
@@ -1872,7 +1819,6 @@
 | Task Diversity in Bayesian Federated Learning: Simultaneous Processing of Classification and Regression. | KDD | 2025 | [Link](https://doi.org/10.1145/3690624.3709341) |
 | Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift. | KDD | 2025 | [Link](https://doi.org/10.1145/3711896.3737161) |
 
-
 ### 2024 <a id="kdd-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1903,7 +1849,6 @@
 | Privacy-Preserving Federated Learning using Flower Framework. | KDD | 2024 | [Link](https://doi.org/10.1145/3637528.3671447) |
 | VertiMRF: Differentially Private Vertical Federated Data Synthesis. | KDD | 2024 | [Link](https://doi.org/10.1145/3637528.3671771) |
 
-
 ### 2023 <a id="kdd-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1928,7 +1873,6 @@
 | Theoretical Convergence Guaranteed Resource-Adaptive Federated Learning with Mixed Heterogeneity. | KDD | 2023 | [Link](https://doi.org/10.1145/3580305.3599521) |
 | UA-FedRec: Untargeted Attack on Federated News Recommendation. | KDD | 2023 | [Link](https://doi.org/10.1145/3580305.3599923) |
 
-
 ### 2022 <a id="kdd-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1946,7 +1890,6 @@
 | No One Left Behind: Inclusive Federated Learning over Heterogeneous Devices. | KDD | 2022 | [Link](https://doi.org/10.1145/3534678.3539086) |
 | Practical Lossless Federated Singular Vector Decomposition over Billion-Scale Data. | KDD | 2022 | [Link](https://doi.org/10.1145/3534678.3539402) |
 
-
 ### 2021 <a id="kdd-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -1958,19 +1901,16 @@
 | Federated Adversarial Debiasing for Fair and Transferable Representations. | KDD | 2021 | [Link](https://doi.org/10.1145/3447548.3467281) |
 | Towards Fair Federated Learning. | KDD | 2021 | [Link](https://doi.org/10.1145/3447548.3470814) |
 
-
 ### 2020 <a id="kdd-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems. | KDD | 2020 | [Link](https://doi.org/10.1145/3394486.3403176) |
 | Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data. | KDD | 2020 | [Link](https://doi.org/10.1145/3394486.3403298) |
 
-
 ### 2017 <a id="kdd-2017"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated Tensor Factorization for Computational Phenotyping. | KDD | 2017 | [Link](https://doi.org/10.1145/3097983.3098118) |
-
 
 </details>
 
@@ -1987,25 +1927,21 @@
 | Privacy-Preserving Orthogonal Aggregation for Guaranteeing Gender Fairness in Federated Recommendation. | WSDM | 2025 | [Link](https://doi.org/10.1145/3701551.3703513) |
 | Towards Personalized Federated Multi-Scenario Multi-Task Recommendation. | WSDM | 2025 | [Link](https://doi.org/10.1145/3701551.3703523) |
 
-
 ### 2024 <a id="wsdm-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Guardian: Guarding against Gradient Leakage with Provable Defense for Federated Learning. | WSDM | 2024 | [Link](https://doi.org/10.1145/3616855.3635758) |
 | User Consented Federated Recommender System Against Personalized Attribute Inference Attack. | WSDM | 2024 | [Link](https://doi.org/10.1145/3616855.3635830) |
 
-
 ### 2023 <a id="wsdm-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated Unlearning for On-Device Recommendation. | WSDM | 2023 | [Link](https://doi.org/10.1145/3539597.3570463) |
 
-
 ### 2022 <a id="wsdm-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion. | WSDM | 2022 | [Link](https://doi.org/10.1145/3488560.3498386) |
-
 
 ### 2021 <a id="wsdm-2021"></a>
 | Title | Venue | Year | Link |
@@ -2013,24 +1949,20 @@
 | A Practical Federated Learning Framework for Small Number of Stakeholders. | WSDM | 2021 | [Link](https://doi.org/10.1145/3437963.3441702) |
 | Federated Deep Knowledge Tracing. | WSDM | 2021 | [Link](https://doi.org/10.1145/3437963.3441747) |
 
-
 ### 2019 <a id="wsdm-2019"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated Online Learning to Rank with Evolution Strategies. | WSDM | 2019 | [Link](https://doi.org/10.1145/3289600.3290968) |
-
 
 ### 2012 <a id="wsdm-2012"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Beyond ten blue links: enabling user click modeling in federated web search. | WSDM | 2012 | [Link](https://doi.org/10.1145/2124295.2124351) |
 
-
 ### 2011 <a id="wsdm-2011"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | On composition of a federated web search result page: using online users to provide pairwise preference for heterogeneous verticals. | WSDM | 2011 | [Link](https://doi.org/10.1145/1935826.1935922) |
-
 
 </details>
 
@@ -2047,7 +1979,6 @@
 | Practical Poisoning Attacks with Limited Byzantine Clients in Clustered Federated Learning. | SP | 2025 | [Link](https://doi.org/10.1109/SP61157.2025.00163) |
 | Privacy-Preserving Mutual Authentication Protocol for Federated Learning in Intelligent Transportation Systems. | SP | 2025 | [Link](https://doi.org/10.1109/SPW67851.2025.00054) |
 
-
 ### 2024 <a id="sp-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2059,7 +1990,6 @@
 | Poster: Towards Privacy-Preserving Federated Recommendation via Synthetic Interactions. | SP | 2024 | [Link](https://doi.org/10.1109/SPW63631.2024.00037) |
 | Protecting Label Distribution in Cross-Silo Federated Learning. | SP | 2024 | [Link](https://doi.org/10.1109/SP54263.2024.00113) |
 | SHERPA: Explainable Robust Algorithms for Privacy-Preserved Federated Learning in Future Networks to Defend Against Data Poisoning Attacks. | SP | 2024 | [Link](https://doi.org/10.1109/SP54263.2024.00271) |
-
 
 ### 2023 <a id="sp-2023"></a>
 | Title | Venue | Year | Link |
@@ -2074,19 +2004,16 @@
 | SafeFL: MPC-friendly Framework for Private and Robust Federated Learning. | SP | 2023 | [Link](https://doi.org/10.1109/SPW59333.2023.00012) |
 | Scalable and Privacy-Preserving Federated Principal Component Analysis. | SP | 2023 | [Link](https://doi.org/10.1109/SP46215.2023.10179350) |
 
-
 ### 2022 <a id="sp-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning. | SP | 2022 | [Link](https://doi.org/10.1109/SP46214.2022.9833647) |
 | SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs. | SP | 2022 | [Link](https://doi.org/10.1109/SP46214.2022.9833656) |
 
-
 ### 2021 <a id="sp-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | SAFELearn: Secure Aggregation for private FEderated Learning. | SP | 2021 | [Link](https://doi.org/10.1109/SPW53761.2021.00017) |
-
 
 </details>
 
@@ -2099,12 +2026,10 @@
 | --- | --- | --- | --- |
 | IOTFLA : A Secured and Privacy-Preserving Smart Home Architecture Implementing Federated Learning. | IEEE Symposium on Security and Privacy Workshops | 2019 | [Link](https://doi.org/10.1109/SPW.2019.00041) |
 
-
 ### 2015 <a id="ieee symposium on security and privacy workshops-2015"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Privacy by Design in Federated Identity Management. | IEEE Symposium on Security and Privacy Workshops | 2015 | [Link](https://doi.org/10.1109/SPW.2015.24) |
-
 
 </details>
 
@@ -2116,7 +2041,6 @@
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning. | IEEE Symposium on Security and Privacy | 2019 | [Link](https://doi.org/10.1109/SP.2019.00065) |
-
 
 </details>
 
@@ -2133,7 +2057,6 @@
 | On Hyperparameters and Backdoor-Resistance in Horizontal Federated Learning. | CCS | 2025 | [Link](https://doi.org/10.1145/3719027.3765211) |
 | Poster: Adaptive Gradient Clipping with Personalized Differential Privacy for Heterogeneous Federated Learning. | CCS | 2025 | [Link](https://doi.org/10.1145/3719027.3760710) |
 
-
 ### 2024 <a id="ccs-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2147,7 +2070,6 @@
 | Samplable Anonymous Aggregation for Private Federated Data Analysis. | CCS | 2024 | [Link](https://doi.org/10.1145/3658644.3690224) |
 | Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning. | CCS | 2024 | [Link](https://doi.org/10.1145/3658644.3690191) |
 
-
 ### 2023 <a id="ccs-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2158,7 +2080,6 @@
 | Unraveling the Connections between Privacy and Certified Robustness in Federated Learning Against Poisoning Attacks. | CCS | 2023 | [Link](https://doi.org/10.1145/3576915.3623193) |
 | martFL: Enabling Utility-Driven Data Marketplace with a Robust and Verifiable Federated Learning Architecture. | CCS | 2023 | [Link](https://doi.org/10.1145/3576915.3623134) |
 
-
 ### 2022 <a id="ccs-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2167,18 +2088,15 @@
 | Eluding Secure Aggregation in Federated Learning via Model Inconsistency. | CCS | 2022 | [Link](https://doi.org/10.1145/3548606.3560557) |
 | Federated Boosted Decision Trees with Differential Privacy. | CCS | 2022 | [Link](https://doi.org/10.1145/3548606.3560687) |
 
-
 ### 2021 <a id="ccs-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Private Hierarchical Clustering in Federated Networks. | CCS | 2021 | [Link](https://doi.org/10.1145/3460120.3484822) |
 
-
 ### 2019 <a id="ccs-2019"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Poster: A Reliable and Accountable Privacy-Preserving Federated Learning Framework using the Blockchain. | CCS | 2019 | [Link](https://doi.org/10.1145/3319535.3363256) |
-
 
 </details>
 
@@ -2197,7 +2115,6 @@
 | SoK: Gradient Inversion Attacks in Federated Learning. | USENIX Security Symposium | 2025 | [Link](https://www.usenix.org/conference/usenixsecurity25/presentation/carletti) |
 | SoK: On Gradient Leakage in Federated Learning. | USENIX Security Symposium | 2025 | [Link](https://www.usenix.org/conference/usenixsecurity25/presentation/du) |
 
-
 ### 2024 <a id="usenix security symposium-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2209,7 +2126,6 @@
 | Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning. | USENIX Security Symposium | 2024 | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/jiang-zhifeng) |
 | Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning. | USENIX Security Symposium | 2024 | [Link](https://www.usenix.org/conference/usenixsecurity24/presentation/lyu) |
 
-
 ### 2023 <a id="usenix security symposium-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2218,7 +2134,6 @@
 | Gradient Obfuscation Gives a False Sense of Security in Federated Learning. | USENIX Security Symposium | 2023 | [Link](https://www.usenix.org/conference/usenixsecurity23/presentation/yue) |
 | PrivateFL: Accurate, Differentially Private Federated Learning via Personalized Data Transformation. | USENIX Security Symposium | 2023 | [Link](https://www.usenix.org/conference/usenixsecurity23/presentation/yang-yuchen) |
 
-
 ### 2022 <a id="usenix security symposium-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2226,12 +2141,10 @@
 | FLAME: Taming Backdoors in Federated Learning. | USENIX Security Symposium | 2022 | [Link](https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen) |
 | Label Inference Attacks Against Vertical Federated Learning. | USENIX Security Symposium | 2022 | [Link](https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong) |
 
-
 ### 2020 <a id="usenix security symposium-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Local Model Poisoning Attacks to Byzantine-Robust Federated Learning. | USENIX Security Symposium | 2020 | [Link](https://www.usenix.org/conference/usenixsecurity20/presentation/fang) |
-
 
 </details>
 
@@ -2243,7 +2156,6 @@
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Triton: A Software-Reconfigurable Federated Avionics Testbed. | CSET @ USENIX Security Symposium | 2019 | [Link](https://www.usenix.org/conference/cset19/presentation/crow) |
-
 
 </details>
 
@@ -2259,7 +2171,6 @@
 | Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction. | NDSS | 2025 | [Link](https://www.ndss-symposium.org/ndss-paper/scale-mia-a-scalable-model-inversion-attack-against-secure-federated-learning-via-latent-space-reconstruction/) |
 | URVFL: Undetectable Data Reconstruction Attack on Vertical Federated Learning. | NDSS | 2025 | [Link](https://www.ndss-symposium.org/ndss-paper/urvfl-undetectable-data-reconstruction-attack-on-vertical-federated-learning/) |
 
-
 ### 2024 <a id="ndss-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2268,13 +2179,11 @@
 | FP-Fed: Privacy-Preserving Federated Detection of Browser Fingerprinting. | NDSS | 2024 | [Link](https://www.ndss-symposium.org/ndss-paper/fp-fed-privacy-preserving-federated-detection-of-browser-fingerprinting/) |
 | FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning. | NDSS | 2024 | [Link](https://www.ndss-symposium.org/ndss-paper/freqfed-a-frequency-analysis-based-approach-for-mitigating-poisoning-attacks-in-federated-learning/) |
 
-
 ### 2023 <a id="ndss-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | PPA: Preference Profiling Attack Against Federated Learning. | NDSS | 2023 | [Link](https://www.ndss-symposium.org/ndss-paper/ppa-preference-profiling-attack-against-federated-learning/) |
 | Securing Federated Sensitive Topic Classification against Poisoning Attacks. | NDSS | 2023 | [Link](https://www.ndss-symposium.org/ndss-paper/securing-federated-sensitive-topic-classification-against-poisoning-attacks/) |
-
 
 ### 2022 <a id="ndss-2022"></a>
 | Title | Venue | Year | Link |
@@ -2284,7 +2193,6 @@
 | Interpretable Federated Transformer Log Learning for Cloud Threat Forensics. | NDSS | 2022 | [Link](https://www.ndss-symposium.org/ndss-paper/auto-draft-236/) |
 | Local and Central Differential Privacy for Robustness and Privacy in Federated Learning. | NDSS | 2022 | [Link](https://www.ndss-symposium.org/ndss-paper/auto-draft-204/) |
 
-
 ### 2021 <a id="ndss-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2292,18 +2200,15 @@
 | Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning. | NDSS | 2021 | [Link](https://www.ndss-symposium.org/ndss-paper/manipulating-the-byzantine-optimizing-model-poisoning-attacks-and-defenses-for-federated-learning/) |
 | POSEIDON: Privacy-Preserving Federated Neural Network Learning. | NDSS | 2021 | [Link](https://www.ndss-symposium.org/ndss-paper/poseidon-privacy-preserving-federated-neural-network-learning/) |
 
-
 ### 2020 <a id="ndss-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Strong Authentication without Temper-Resistant Hardware and Application to Federated Identities. | NDSS | 2020 | [Link](https://www.ndss-symposium.org/ndss-paper/strong-authentication-without-temper-resistant-hardware-and-application-to-federated-identities/) |
 
-
 ### 2014 <a id="ndss-2014"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Hardening Persona - Improving Federated Web Login. | NDSS | 2014 | [Link](https://www.ndss-symposium.org/ndss2014/hardening-persona-improving-federated-web-login) |
-
 
 </details>
 
@@ -2341,7 +2246,6 @@
 | dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis. | CVPR | 2025 | [Link](https://openaccess.thecvf.com/content/CVPR2025/html/Xie_dFLMoE_Decentralized_Federated_Learning_via_Mixture_of_Experts_for_Medical_CVPR_2025_paper.html) |
 | pFedMxF: Personalized Federated Class-Incremental Learning with Mixture of Frequency Aggregation. | CVPR | 2025 | [Link](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_pFedMxF_Personalized_Federated_Class-Incremental_Learning_with_Mixture_of_Frequency_Aggregation_CVPR_2025_paper.html) |
 
-
 ### 2024 <a id="cvpr-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2378,7 +2282,6 @@
 | Traceable Federated Continual Learning. | CVPR | 2024 | [Link](https://doi.org/10.1109/CVPR52733.2024.01223) |
 | Unlocking the Potential of Prompt-Tuning in Bridging Generalized and Personalized Federated Learning. | CVPR | 2024 | [Link](https://doi.org/10.1109/CVPR52733.2024.00582) |
 
-
 ### 2023 <a id="cvpr-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2406,7 +2309,6 @@
 | ScaleFL: Resource-Adaptive Federated Learning with Heterogeneous Clients. | CVPR | 2023 | [Link](https://doi.org/10.1109/CVPR52729.2023.02350) |
 | The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning. | CVPR | 2023 | [Link](https://doi.org/10.1109/CVPR52729.2023.00387) |
 
-
 ### 2022 <a id="cvpr-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2429,7 +2331,6 @@
 | Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning. | CVPR | 2022 | [Link](https://doi.org/10.1109/CVPR52688.2022.00982) |
 | Robust Federated Learning with Noisy and Heterogeneous Clients. | CVPR | 2022 | [Link](https://doi.org/10.1109/CVPR52688.2022.00983) |
 
-
 ### 2021 <a id="cvpr-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2437,7 +2338,6 @@
 | Model-Contrastive Federated Learning. | CVPR | 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.html) |
 | Multi-Institutional Collaborations for Improving Deep Learning-Based Magnetic Resonance Image Reconstruction Using Federated Learning. | CVPR | 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Multi-Institutional_Collaborations_for_Improving_Deep_Learning-Based_Magnetic_Resonance_Image_Reconstruction_CVPR_2021_paper.html) |
 | Soteria: Provable Defense Against Privacy Leakage in Federated Learning From Representation Perspective. | CVPR | 2021 | [Link](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Soteria_Provable_Defense_Against_Privacy_Leakage_in_Federated_Learning_From_CVPR_2021_paper.html) |
-
 
 </details>
 
@@ -2483,13 +2383,11 @@
 | Workie-Talkie: Accelerating Federated Learning by Overlapping Computing and Communications via Contrastive Regularization. | ICCV | 2023 | [Link](https://doi.org/10.1109/ICCV51070.2023.01559) |
 | zPROBE: Zero Peek Robustness Checks for Federated Learning. | ICCV | 2023 | [Link](https://doi.org/10.1109/ICCV51070.2023.00448) |
 
-
 ### 2021 <a id="iccv-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Ensemble Attention Distillation for Privacy-Preserving Federated Learning. | ICCV | 2021 | [Link](https://doi.org/10.1109/ICCV48922.2021.01480) |
 | Federated Learning for Non-IID Data via Unified Feature Learning and Optimization Objective Alignment. | ICCV | 2021 | [Link](https://doi.org/10.1109/ICCV48922.2021.00438) |
-
 
 </details>
 
@@ -2521,7 +2419,6 @@
 | Towards Multi-modal Transformers in Federated Learning. | ECCV | 2024 | [Link](https://doi.org/10.1007/978-3-031-72633-0_13) |
 | Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents. | ECCV | 2024 | [Link](https://doi.org/10.1007/978-3-031-73229-4_2) |
 
-
 ### 2022 <a id="eccv-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2536,12 +2433,10 @@
 | Personalizing Federated Medical Image Segmentation via Local Calibration. | ECCV | 2022 | [Link](https://doi.org/10.1007/978-3-031-19803-8_27) |
 | SphereFed: Hyperspherical Federated Learning. | ECCV | 2022 | [Link](https://doi.org/10.1007/978-3-031-19809-0_10) |
 
-
 ### 2020 <a id="eccv-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated Visual Classification with Real-World Data Distribution. | ECCV | 2020 | [Link](https://doi.org/10.1007/978-3-030-58607-2_5) |
-
 
 </details>
 
@@ -2573,7 +2468,6 @@
 | Spatio-temporal Heterogeneous Federated Learning for Time Series Classification with Multi-view Orthogonal Training. | ACM Multimedia | 2024 | [Link](https://doi.org/10.1145/3664647.3680733) |
 | Towards Effective Federated Graph Anomaly Detection via Self-boosted Knowledge Distillation. | ACM Multimedia | 2024 | [Link](https://doi.org/10.1145/3664647.3681415) |
 
-
 ### 2023 <a id="acm multimedia-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2594,19 +2488,16 @@
 | Prototype-guided Knowledge Transfer for Federated Unsupervised Cross-modal Hashing. | ACM Multimedia | 2023 | [Link](https://doi.org/10.1145/3581783.3613837) |
 | Towards Fast and Stable Federated Learning: Confronting Heterogeneity via Knowledge Anchor. | ACM Multimedia | 2023 | [Link](https://doi.org/10.1145/3581783.3612597) |
 
-
 ### 2022 <a id="acm multimedia-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Feeling Without Sharing: A Federated Video Emotion Recognition Framework Via Privacy-Agnostic Hybrid Aggregation. | ACM Multimedia | 2022 | [Link](https://doi.org/10.1145/3503161.3548278) |
 | Few-Shot Model Agnostic Federated Learning. | ACM Multimedia | 2022 | [Link](https://doi.org/10.1145/3503161.3548764) |
 
-
 ### 2021 <a id="acm multimedia-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-identification. | ACM Multimedia | 2021 | [Link](https://doi.org/10.1145/3474085.3475182) |
-
 
 ### 2020 <a id="acm multimedia-2020"></a>
 | Title | Venue | Year | Link |
@@ -2614,12 +2505,10 @@
 | InvisibleFL: Federated Learning over Non-Informative Intermediate Updates against Multimedia Privacy Leakages. | ACM Multimedia | 2020 | [Link](https://doi.org/10.1145/3394171.3413923) |
 | Performance Optimization of Federated Person Re-identification via Benchmark Analysis. | ACM Multimedia | 2020 | [Link](https://doi.org/10.1145/3394171.3413814) |
 
-
 ### 1999 <a id="acm multimedia-1999"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | A federated multimedia database system. | ACM Multimedia | 1999 | [Link](https://doi.org/10.1145/319878.319944) |
-
 
 </details>
 
@@ -2632,12 +2521,10 @@
 | --- | --- | --- | --- |
 | Relation-Guided Versatile Regularization for Federated Semi-Supervised Learning. | Int. J. Comput. Vis. | 2025 | [Link](https://doi.org/10.1007/s11263-024-02330-1) |
 
-
 ### 2024 <a id="int. j. comput. vis.-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Physics-Driven Spectrum-Consistent Federated Learning for Palmprint Verification. | Int. J. Comput. Vis. | 2024 | [Link](https://doi.org/10.1007/s11263-024-02077-9) |
-
 
 </details>
 
@@ -2655,12 +2542,10 @@
 | Federated Data-Efficient Instruction Tuning for Large Language Models. | ACL | 2025 | [Link](https://aclanthology.org/2025.findings-acl.803/) |
 | Towards Robust and Efficient Federated Low-Rank Adaptation with Heterogeneous Clients. | ACL | 2025 | [Link](https://aclanthology.org/2025.acl-long.19/) |
 
-
 ### 2024 <a id="acl-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Fair Federated Learning with Biased Vision-Language Models. | ACL | 2024 | [Link](https://doi.org/10.18653/v1/2024.findings-acl.595) |
-
 
 ### 2023 <a id="acl-2023"></a>
 | Title | Venue | Year | Link |
@@ -2672,7 +2557,6 @@
 | Federated Domain Adaptation for Named Entity Recognition via Distilling with Heterogeneous Tag Sets. | ACL | 2023 | [Link](https://doi.org/10.18653/v1/2023.findings-acl.470) |
 | Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms. | ACL | 2023 | [Link](https://doi.org/10.18653/v1/2023.acl-long.678) |
 | Federated Learning of Gboard Language Models with Differential Privacy. | ACL | 2023 | [Link](https://doi.org/10.18653/v1/2023.acl-industry.60) |
-
 
 </details>
 
@@ -2690,7 +2574,6 @@
 | Open-Vocabulary Federated Learning with Multimodal Prototyping. | NAACL-HLT | 2024 | [Link](https://doi.org/10.18653/v1/2024.naacl-long.314) |
 | Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning. | NAACL-HLT | 2024 | [Link](https://doi.org/10.18653/v1/2024.findings-naacl.286) |
 
-
 ### 2022 <a id="naacl-hlt-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2698,7 +2581,6 @@
 | Federated Learning with Noisy User Feedback. | NAACL-HLT | 2022 | [Link](https://doi.org/10.18653/v1/2022.naacl-main.196) |
 | Pretrained Models for Multilingual Federated Learning. | NAACL-HLT | 2022 | [Link](https://doi.org/10.18653/v1/2022.naacl-main.101) |
 | Training Mixed-Domain Translation Models via Federated Learning. | NAACL-HLT | 2022 | [Link](https://doi.org/10.18653/v1/2022.naacl-main.186) |
-
 
 </details>
 
@@ -2717,7 +2599,6 @@
 | Promoting Data and Model Privacy in Federated Learning through Quantized LoRA. | EMNLP | 2024 | [Link](https://doi.org/10.18653/v1/2024.findings-emnlp.615) |
 | Safely Learning with Private Data: A Federated Learning Framework for Large Language Model. | EMNLP | 2024 | [Link](https://doi.org/10.18653/v1/2024.emnlp-main.303) |
 
-
 ### 2023 <a id="emnlp-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2727,7 +2608,6 @@
 | Federated Learning of Large Language Models with Parameter-Efficient Prompt Tuning and Adaptive Optimization. | EMNLP | 2023 | [Link](https://doi.org/10.18653/v1/2023.emnlp-main.488) |
 | Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification. | EMNLP | 2023 | [Link](https://doi.org/10.18653/v1/2023.emnlp-main.999) |
 | Tunable Soft Prompts are Messengers in Federated Learning. | EMNLP | 2023 | [Link](https://doi.org/10.18653/v1/2023.findings-emnlp.976) |
-
 
 ### 2022 <a id="emnlp-2022"></a>
 | Title | Venue | Year | Link |
@@ -2739,7 +2619,6 @@
 | Federated Continual Learning for Text Classification via Selective Inter-client Transfer. | EMNLP | 2022 | [Link](https://doi.org/10.18653/v1/2022.findings-emnlp.353) |
 | Federated Model Decomposition with Private Vocabulary for Text Classification. | EMNLP | 2022 | [Link](https://doi.org/10.18653/v1/2022.emnlp-main.430) |
 
-
 ### 2021 <a id="emnlp-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2748,13 +2627,11 @@
 | Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation. | EMNLP | 2021 | [Link](https://doi.org/10.18653/v1/2021.emnlp-main.223) |
 | Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories. | EMNLP | 2021 | [Link](https://doi.org/10.18653/v1/2021.emnlp-main.321) |
 
-
 ### 2020 <a id="emnlp-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Empirical Studies of Institutional Federated Learning For Natural Language Processing. | EMNLP | 2020 | [Link](https://doi.org/10.18653/v1/2020.findings-emnlp.55) |
 | FedED: Federated Learning via Ensemble Distillation for Medical Relation Extraction. | EMNLP | 2020 | [Link](https://doi.org/10.18653/v1/2020.emnlp-main.165) |
-
 
 </details>
 
@@ -2771,12 +2648,10 @@
 | Federated Retrieval Augmented Generation for Multi-Product Question Answering. | COLING | 2025 | [Link](https://aclanthology.org/2025.coling-industry.33/) |
 | Gradient Inversion Attack in Federated Learning: Exposing Text Data through Discrete Optimization. | COLING | 2025 | [Link](https://aclanthology.org/2025.coling-main.176/) |
 
-
 ### 2020 <a id="coling-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated Learning for Spoken Language Understanding. | COLING | 2020 | [Link](https://doi.org/10.18653/v1/2020.coling-main.310) |
-
 
 </details>
 
@@ -2792,7 +2667,6 @@
 | NodeRec+: A Lightweight Framework for Federated Recommender Systems. | SIGIR | 2025 | [Link](https://doi.org/10.1145/3726302.3730138) |
 | Unlearning for Federated Online Learning to Rank: A Reproducibility Study. | SIGIR | 2025 | [Link](https://doi.org/10.1145/3726302.3730336) |
 
-
 ### 2024 <a id="sigir-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -2800,7 +2674,6 @@
 | FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction. | SIGIR | 2024 | [Link](https://doi.org/10.1145/3626772.3657941) |
 | ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit. | SIGIR | 2024 | [Link](https://doi.org/10.1145/3626772.3657763) |
 | Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport. | SIGIR | 2024 | [Link](https://doi.org/10.1145/3626772.3657764) |
-
 
 ### 2023 <a id="sigir-2023"></a>
 | Title | Venue | Year | Link |
@@ -2812,12 +2685,10 @@
 | Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures. | SIGIR | 2023 | [Link](https://doi.org/10.1145/3539618.3591722) |
 | Personalized Federated Relation Classification over Heterogeneous Texts. | SIGIR | 2023 | [Link](https://doi.org/10.1145/3539618.3591748) |
 
-
 ### 2022 <a id="sigir-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Is Non-IID Data a Threat in Federated Online Learning to Rank? | SIGIR | 2022 | [Link](https://doi.org/10.1145/3477495.3531709) |
-
 
 ### 2021 <a id="sigir-2021"></a>
 | Title | Venue | Year | Link |
@@ -2826,19 +2697,16 @@
 | FedCT: Federated Collaborative Transfer for Recommendation. | SIGIR | 2021 | [Link](https://doi.org/10.1145/3404835.3462825) |
 | On the Privacy of Federated Pipelines. | SIGIR | 2021 | [Link](https://doi.org/10.1145/3404835.3462996) |
 
-
 ### 2020 <a id="sigir-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Meta Matrix Factorization for Federated Rating Predictions. | SIGIR | 2020 | [Link](https://doi.org/10.1145/3397271.3401081) |
-
 
 ### 2013 <a id="sigir-2013"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Search result diversification in resource selection for federated search. | SIGIR | 2013 | [Link](https://doi.org/10.1145/2484028.2484091) |
 | SearchResultFinder: federated search made easy. | SIGIR | 2013 | [Link](https://doi.org/10.1145/2484028.2484198) |
-
 
 ### 2012 <a id="sigir-2012"></a>
 | Title | Venue | Year | Link |
@@ -2847,24 +2715,20 @@
 | Mixture model with multiple centralized retrieval algorithms for result merging in federated search. | SIGIR | 2012 | [Link](https://doi.org/10.1145/2348283.2348393) |
 | Utilizing inter-document similarities in federated search. | SIGIR | 2012 | [Link](https://doi.org/10.1145/2348283.2348523) |
 
-
 ### 2011 <a id="sigir-2011"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | A weighted curve fitting method for result merging in federated search. | SIGIR | 2011 | [Link](https://doi.org/10.1145/2009916.2010107) |
-
 
 ### 2010 <a id="sigir-2010"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | From federated to aggregated search. | SIGIR | 2010 | [Link](https://doi.org/10.1145/1835449.1835682) |
 
-
 ### 2009 <a id="sigir-2009"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Effective query expansion for federated search. | SIGIR | 2009 | [Link](https://doi.org/10.1145/1571941.1572015) |
-
 
 ### 2007 <a id="sigir-2007"></a>
 | Title | Venue | Year | Link |
@@ -2874,25 +2738,21 @@
 | Protecting source privacy in federated search. | SIGIR | 2007 | [Link](https://doi.org/10.1145/1277741.1277896) |
 | Updating collection representations for federated search. | SIGIR | 2007 | [Link](https://doi.org/10.1145/1277741.1277829) |
 
-
 ### 2006 <a id="sigir-2006"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | User modeling for full-text federated search in peer-to-peer networks. | SIGIR | 2006 | [Link](https://doi.org/10.1145/1148170.1148229) |
-
 
 ### 2005 <a id="sigir-2005"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Modeling search engine effectiveness for federated search. | SIGIR | 2005 | [Link](https://doi.org/10.1145/1076034.1076051) |
 
-
 ### 2004 <a id="sigir-2004"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Supporting federated information sharing communities (abstract only). | SIGIR | 2004 | [Link](https://doi.org/10.1145/1008992.1009146) |
 | Supporting federated information sharing communities. | SIGIR | 2004 | [Link](https://doi.org/10.1145/1008992.1009126) |
-
 
 </details>
 
@@ -2906,14 +2766,12 @@
 | Federated Heavy Hitter Analytics with Local Differential Privacy. | Proc. ACM Manag. Data | 2025 | [Link](https://doi.org/10.1145/3709739) |
 | SecureXGB: A Secure and Efficient Multi-party Protocol for Vertical Federated XGBoost. | Proc. ACM Manag. Data | 2025 | [Link](https://doi.org/10.1145/3709723) |
 
-
 ### 2024 <a id="proc. acm manag. data-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | A Profit-Maximizing Data Marketplace with Differentially Private Federated Learning under Price Competition. | Proc. ACM Manag. Data | 2024 | [Link](https://doi.org/10.1145/3677127) |
 | FedKNN: Secure Federated k-Nearest Neighbor Search. | Proc. ACM Manag. Data | 2024 | [Link](https://doi.org/10.1145/3639266) |
 | Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning. | Proc. ACM Manag. Data | 2024 | [Link](https://doi.org/10.1145/3654947) |
-
 
 ### 2023 <a id="proc. acm manag. data-2023"></a>
 | Title | Venue | Year | Link |
@@ -2922,7 +2780,6 @@
 | FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data. | Proc. ACM Manag. Data | 2023 | [Link](https://doi.org/10.1145/3588961) |
 | FedCSS: Joint Client-and-Sample Selection for Hard Sample-Aware Noise-Robust Federated Learning. | Proc. ACM Manag. Data | 2023 | [Link](https://doi.org/10.1145/3617332) |
 | Practical Differentially Private and Byzantine-resilient Federated Learning. | Proc. ACM Manag. Data | 2023 | [Link](https://doi.org/10.1145/3589264) |
-
 
 </details>
 
@@ -2936,49 +2793,41 @@
 | An Introduction to Federated Computation. | SIGMOD Conference | 2022 | [Link](https://doi.org/10.1145/3514221.3522561) |
 | BlindFL: Vertical Federated Machine Learning without Peeking into Your Data. | SIGMOD Conference | 2022 | [Link](https://doi.org/10.1145/3514221.3526127) |
 
-
 ### 2021 <a id="sigmod conference-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | ExDRa: Exploratory Data Science on Federated Raw Data. | SIGMOD Conference | 2021 | [Link](https://doi.org/10.1145/3448016.3457549) |
 | VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning. | SIGMOD Conference | 2021 | [Link](https://doi.org/10.1145/3448016.3457241) |
 
-
 ### 2016 <a id="sigmod conference-2016"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | THEMIS: Fairness in Federated Stream Processing under Overload. | SIGMOD Conference | 2016 | [Link](https://doi.org/10.1145/2882903.2882943) |
-
 
 ### 2005 <a id="sigmod conference-2005"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Modeling and querying multidimensional data sources in Siebel Analytics: a federated relational system. | SIGMOD Conference | 2005 | [Link](https://doi.org/10.1145/1066157.1066258) |
 
-
 ### 2002 <a id="sigmod conference-2002"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Garlic: a new flavor of federated query processing for DB2. | SIGMOD Conference | 2002 | [Link](https://doi.org/10.1145/564691.564751) |
-
 
 ### 1995 <a id="sigmod conference-1995"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Efendi: Federated Database System of Cadlab. | SIGMOD Conference | 1995 | [Link](https://doi.org/10.1145/223784.223894) |
 
-
 ### 1994 <a id="sigmod conference-1994"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | The MYRIAD Federated Database Prototype. | SIGMOD Conference | 1994 | [Link](https://doi.org/10.1145/191839.191986) |
 
-
 ### 1993 <a id="sigmod conference-1993"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Temporal Modules: An Approach Toward Federated Temporal Databases. | SIGMOD Conference | 1993 | [Link](https://doi.org/10.1145/170035.170074) |
-
 
 </details>
 
@@ -3001,7 +2850,6 @@
 | pFSSL-D: Generalization Meets Personalization in Dual-Phase Federated Semi-Supervised Learning. | ICDE | 2025 | [Link](https://doi.org/10.1109/ICDE65448.2025.00166) |
 | pFedAFM: Adaptive Feature Mixture for Data-Level Personalization in Heterogeneous Federated Learning on Mobile Edge Devices. | ICDE | 2025 | [Link](https://doi.org/10.1109/ICDE65448.2025.00151) |
 
-
 ### 2024 <a id="icde-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3021,7 +2869,6 @@
 | RobFL: Robust Federated Learning via Feature Center Separation and Malicious Center Detection. | ICDE | 2024 | [Link](https://doi.org/10.1109/ICDE60146.2024.00076) |
 | Semi-Asynchronous Online Federated Crowdsourcing. | ICDE | 2024 | [Link](https://doi.org/10.1109/ICDE60146.2024.00319) |
 
-
 ### 2023 <a id="icde-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3033,7 +2880,6 @@
 | FedKNOW: Federated Continual Learning with Signature Task Knowledge Integration at Edge. | ICDE | 2023 | [Link](https://doi.org/10.1109/ICDE55515.2023.00033) |
 | Federated IoT Interaction Vulnerability Analysis. | ICDE | 2023 | [Link](https://doi.org/10.1109/ICDE55515.2023.00120) |
 | Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices. | ICDE | 2023 | [Link](https://doi.org/10.1109/ICDE55515.2023.00149) |
-
 
 ### 2022 <a id="icde-2022"></a>
 | Title | Venue | Year | Link |
@@ -3049,7 +2895,6 @@
 | Improving Fairness for Data Valuation in Horizontal Federated Learning. | ICDE | 2022 | [Link](https://doi.org/10.1109/ICDE53745.2022.00228) |
 | Samba: A System for Secure Federated Multi-Armed Bandits. | ICDE | 2022 | [Link](https://doi.org/10.1109/ICDE53745.2022.00286) |
 
-
 ### 2021 <a id="icde-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3057,12 +2902,10 @@
 | Efficient Federated-Learning Model Debugging. | ICDE | 2021 | [Link](https://doi.org/10.1109/ICDE51399.2021.00039) |
 | Feature Inference Attack on Model Predictions in Vertical Federated Learning. | ICDE | 2021 | [Link](https://doi.org/10.1109/ICDE51399.2021.00023) |
 
-
 ### 2010 <a id="icde-2010"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | A demonstration of the MaxStream federated stream processing system. | ICDE | 2010 | [Link](https://doi.org/10.1109/ICDE.2010.5447906) |
-
 
 ### 2002 <a id="icde-2002"></a>
 | Title | Venue | Year | Link |
@@ -3070,42 +2913,35 @@
 | Decoupled Query Optimization for Federated Database Systems. | ICDE | 2002 | [Link](https://doi.org/10.1109/ICDE.2002.994788) |
 | Demonstration: Active Asynchronous Transaction Management in High-Autonomy Federated Environment Using Data Agents: Global Change Master Directory v8.0. | ICDE | 2002 | [Link](https://doi.org/10.1109/ICDE.2002.994744) |
 
-
 ### 1997 <a id="icde-1997"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Designing the Reengineering Services for the DOK Federated Database System. | ICDE | 1997 | [Link](https://doi.org/10.1109/ICDE.1997.582008) |
-
 
 ### 1995 <a id="icde-1995"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | A Universal Relation Approach to Federated Database Management. | ICDE | 1995 | [Link](https://doi.org/10.1109/ICDE.1995.380385) |
 
-
 ### 1994 <a id="icde-1994"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Semantics-Based Multilevel Transaction Management in Federated Systems. | ICDE | 1994 | [Link](https://doi.org/10.1109/ICDE.1994.283066) |
-
 
 ### 1993 <a id="icde-1993"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | The Design, Implementation, and Evaluation of an Object-Based Sharing Mechanism for Federated Database Systems. | ICDE | 1993 | [Link](https://doi.org/10.1109/ICDE.1993.344033) |
 
-
 ### 1989 <a id="icde-1989"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Negotiating Data Access in Federated Database Systems. | ICDE | 1989 | [Link](https://doi.org/10.1109/ICDE.1989.47200) |
 
-
 ### 1987 <a id="icde-1987"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | An Approach to Schema Integration and Query Formulation in Federated Database Systems. | ICDE | 1987 | [Link](https://doi.org/10.1109/ICDE.1987.7272414) |
-
 
 </details>
 
@@ -3124,7 +2960,6 @@
 | OpenFGL: A Comprehensive Benchmark for Federated Graph Learning. | Proc. VLDB Endow. | 2025 | [Link](https://www.vldb.org/pvldb/vol18/p1305-li.pdf) |
 | PS-MI: Accurate, Efficient, and Private Data Valuation in Vertical Federated Learning. | Proc. VLDB Endow. | 2025 | [Link](https://www.vldb.org/pvldb/vol18/p3559-zhou.pdf) |
 
-
 ### 2024 <a id="proc. vldb endow.-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3136,7 +2971,6 @@
 | OFL-W3: A One-shot Federated Learning System on Web 3.0. | Proc. VLDB Endow. | 2024 | [Link](https://www.vldb.org/pvldb/vol17/p4461-jiang.pdf) |
 | Performance-Based Pricing of Federated Learning via Auction. | Proc. VLDB Endow. | 2024 | [Link](https://www.vldb.org/pvldb/vol17/p1269-li.pdf) |
 | Uldp-FL: Federated Learning with Across Silo User-Level Differential Privacy. | Proc. VLDB Endow. | 2024 | [Link](https://www.vldb.org/pvldb/vol17/p2826-kato.pdf) |
-
 
 ### 2023 <a id="proc. vldb endow.-2023"></a>
 | Title | Venue | Year | Link |
@@ -3150,7 +2984,6 @@
 | Olive: Oblivious Federated Learning on Trusted Execution Environment Against the Risk of Sparsification. | Proc. VLDB Endow. | 2023 | [Link](https://www.vldb.org/pvldb/vol16/p2404-kato.pdf) |
 | Secure Shapley Value for Cross-Silo Federated Learning. | Proc. VLDB Endow. | 2023 | [Link](https://www.vldb.org/pvldb/vol16/p1657-zheng.pdf) |
 
-
 ### 2022 <a id="proc. vldb endow.-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3158,7 +2991,6 @@
 | OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization. | Proc. VLDB Endow. | 2022 | [Link](https://www.vldb.org/pvldb/vol16/p202-li.pdf) |
 | Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy. | Proc. VLDB Endow. | 2022 | [Link](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf) |
 | Towards Communication-efficient Vertical Federated Learning Training via Cache-enabled Local Update. | Proc. VLDB Endow. | 2022 | [Link](https://www.vldb.org/pvldb/vol15/p2111-fu.pdf) |
-
 
 ### 2021 <a id="proc. vldb endow.-2021"></a>
 | Title | Venue | Year | Link |
@@ -3169,18 +3001,15 @@
 | Refiner: A Reliable Incentive-Driven Federated Learning System Powered by Blockchain. | Proc. VLDB Endow. | 2021 | [Link](http://www.vldb.org/pvldb/vol14/p2659-jiang.pdf) |
 | Tanium Reveal: A Federated Search Engine for Querying Unstructured File Data on Large Enterprise Networks. | Proc. VLDB Endow. | 2021 | [Link](http://www.vldb.org/pvldb/vol14/p3096-stoddard.pdf) |
 
-
 ### 2020 <a id="proc. vldb endow.-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Privacy Preserving Vertical Federated Learning for Tree-based Models. | Proc. VLDB Endow. | 2020 | [Link](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf) |
 
-
 ### 2008 <a id="proc. vldb endow.-2008"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Scalable multi-query optimization for exploratory queries over federated scientific databases. | Proc. VLDB Endow. | 2008 | [Link](http://www.vldb.org/pvldb/vol1/1453864.pdf) |
-
 
 </details>
 
@@ -3195,24 +3024,20 @@
 | Federated Inference: Towards Collaborative and Privacy-Preserving Inference over Edge Devices. | SIGCOMM | 2025 | [Link](https://doi.org/10.1145/3744969.3748418) |
 | NEBULA - Decentralized Federated Learning for Heterogeneous Networks. | SIGCOMM | 2025 | [Link](https://doi.org/10.1145/3744969.3748413) |
 
-
 ### 2024 <a id="sigcomm-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | dAuth: A Resilient Authentication Architecture for Federated Private Cellular Networks. | SIGCOMM | 2024 | [Link](https://doi.org/10.1145/3651890.3672263) |
-
 
 ### 2015 <a id="sigcomm-2015"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated End-to-End Authentication for the Constrained Internet of Things Using IBC and ECC. | SIGCOMM | 2015 | [Link](https://doi.org/10.1145/2785956.2790021) |
 
-
 ### 2011 <a id="sigcomm-2011"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Online testing of federated and heterogeneous distributed systems. | SIGCOMM | 2011 | [Link](https://doi.org/10.1145/2018436.2018507) |
-
 
 </details>
 
@@ -3245,7 +3070,6 @@
 | Towards Federated Inference: An Online Model Ensemble Framework for Cooperative Edge AI. | INFOCOM | 2025 | [Link](https://doi.org/10.1109/INFOCOM55648.2025.11044578) |
 | VaniKG: Vanishing Key Gradient Attack and Defense for Robust Federated Aggregation. | INFOCOM | 2025 | [Link](https://doi.org/10.1109/INFOCOM55648.2025.11044620) |
 | γ-FedHT: Stepsize-Aware Hard-Threshold Gradient Compression in Federated Learning. | INFOCOM | 2025 | [Link](https://doi.org/10.1109/INFOCOM55648.2025.11044558) |
-
 
 ### 2024 <a id="infocom-2024"></a>
 | Title | Venue | Year | Link |
@@ -3295,7 +3119,6 @@
 | Unbiased Federated Learning for Heterogeneous Data Under Unreliable Links. | INFOCOM | 2024 | [Link](https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620699) |
 | Wireless Hierarchical Federated Aggregation Weights Design with Loss-Based-Heterogeneity. | INFOCOM | 2024 | [Link](https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620731) |
 
-
 ### 2023 <a id="infocom-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3326,7 +3149,6 @@
 | Toward Sustainable AI: Federated Learning Demand Response in Cloud-Edge Systems via Auctions. | INFOCOM | 2023 | [Link](https://doi.org/10.1109/INFOCOM53939.2023.10229014) |
 | Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data Labeling. | INFOCOM | 2023 | [Link](https://doi.org/10.1109/INFOCOM53939.2023.10228923) |
 
-
 ### 2022 <a id="infocom-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3340,7 +3162,6 @@
 | Tackling System and Statistical Heterogeneity for Federated Learning with Adaptive Client Sampling. | INFOCOM | 2022 | [Link](https://doi.org/10.1109/INFOCOM48880.2022.9796935) |
 | The Right to be Forgotten in Federated Learning: An Efficient Realization with Rapid Retraining. | INFOCOM | 2022 | [Link](https://doi.org/10.1109/INFOCOM48880.2022.9796721) |
 | Towards Optimal Multi-Modal Federated Learning on Non-IID Data with Hierarchical Gradient Blending. | INFOCOM | 2022 | [Link](https://doi.org/10.1109/INFOCOM48880.2022.9796724) |
-
 
 ### 2021 <a id="infocom-2021"></a>
 | Title | Venue | Year | Link |
@@ -3359,7 +3180,6 @@
 | Sample-level Data Selection for Federated Learning. | INFOCOM | 2021 | [Link](https://doi.org/10.1109/INFOCOM42981.2021.9488723) |
 | To Talk or to Work: Flexible Communication Compression for Energy Efficient Federated Learning over Heterogeneous Mobile Edge Devices. | INFOCOM | 2021 | [Link](https://doi.org/10.1109/INFOCOM42981.2021.9488839) |
 
-
 ### 2020 <a id="infocom-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3367,25 +3187,21 @@
 | Optimizing Federated Learning on Non-IID Data with Reinforcement Learning. | INFOCOM | 2020 | [Link](https://doi.org/10.1109/INFOCOM41043.2020.9155494) |
 | Physical-Layer Arithmetic for Federated Learning in Uplink MU-MIMO Enabled Wireless Networks. | INFOCOM | 2020 | [Link](https://doi.org/10.1109/INFOCOM41043.2020.9155479) |
 
-
 ### 2019 <a id="infocom-2019"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning. | INFOCOM | 2019 | [Link](https://doi.org/10.1109/INFOCOM.2019.8737416) |
 | Federated Learning over Wireless Networks: Optimization Model Design and Analysis. | INFOCOM | 2019 | [Link](https://doi.org/10.1109/INFOCOM.2019.8737464) |
 
-
 ### 2015 <a id="infocom-2015"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Anti-counterfeiting via federated RFID tags&apos; fingerprints and geometric relationships. | INFOCOM | 2015 | [Link](https://doi.org/10.1109/INFOCOM.2015.7218580) |
 
-
 ### 2009 <a id="infocom-2009"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Application-Specific, Agile and Private (ASAP) Platforms for Federated Computing Services over WDM Networks. | INFOCOM | 2009 | [Link](https://doi.org/10.1109/INFCOM.2009.5062206) |
-
 
 </details>
 
@@ -3405,14 +3221,12 @@
 | ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues. | MobiCom | 2024 | [Link](https://doi.org/10.1145/3636534.3690665) |
 | Proximal Federated Learning for Body Mass Index Monitoring using Commodity WiFi. | MobiCom | 2024 | [Link](https://doi.org/10.1145/3636534.3694735) |
 
-
 ### 2023 <a id="mobicom-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | AutoFed: Heterogeneity-Aware Federated Multimodal Learning for Robust Autonomous Driving. | MobiCom | 2023 | [Link](https://doi.org/10.1145/3570361.3592517) |
 | Efficient Federated Learning for Modern NLP. | MobiCom | 2023 | [Link](https://doi.org/10.1145/3570361.3592505) |
 | Federated Few-Shot Learning for Mobile NLP. | MobiCom | 2023 | [Link](https://doi.org/10.1145/3570361.3613277) |
-
 
 ### 2022 <a id="mobicom-2022"></a>
 | Title | Venue | Year | Link |
@@ -3422,25 +3236,21 @@
 | NestFL: efficient federated learning through progressive model pruning in heterogeneous edge computing. | MobiCom | 2022 | [Link](https://doi.org/10.1145/3495243.3558248) |
 | PyramidFL: a fine-grained client selection framework for efficient federated learning. | MobiCom | 2022 | [Link](https://doi.org/10.1145/3495243.3517017) |
 
-
 ### 2021 <a id="mobicom-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated mobile sensing for activity recognition. | MobiCom | 2021 | [Link](https://doi.org/10.1145/3447993.3488031) |
 | Hermes: an efficient federated learning framework for heterogeneous mobile clients. | MobiCom | 2021 | [Link](https://doi.org/10.1145/3447993.3483278) |
 
-
 ### 2020 <a id="mobicom-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Billion-scale federated learning on mobile clients: a submodel design with tunable privacy. | MobiCom | 2020 | [Link](https://doi.org/10.1145/3372224.3419188) |
 
-
 ### 2013 <a id="mobicom-2013"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Online evaluation of sensing characteristics for radio platforms in the CREW federated testbed. | MobiCom | 2013 | [Link](https://doi.org/10.1145/2500423.2505303) |
-
 
 </details>
 
@@ -3453,24 +3263,20 @@
 | --- | --- | --- | --- |
 | PAPAYA Federated Analytics Stack: Engineering Privacy, Scalability and Practicality. | NSDI | 2025 | [Link](https://www.usenix.org/conference/nsdi25/presentation/srinivas) |
 
-
 ### 2023 <a id="nsdi-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | FLASH: Towards a High-performance Hardware Acceleration Architecture for Cross-silo Federated Learning. | NSDI | 2023 | [Link](https://www.usenix.org/conference/nsdi23/presentation/zhang-junxue) |
-
 
 ### 2019 <a id="nsdi-2019"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Hydra: a federated resource manager for data-center scale analytics. | NSDI | 2019 | [Link](https://www.usenix.org/conference/nsdi19/presentation/curino) |
 
-
 ### 2004 <a id="nsdi-2004"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Contract-Based Load Management in Federated Distributed Systems. | NSDI | 2004 | [Link](http://www.usenix.org/events/nsdi04/tech/balazinska.html) |
-
 
 </details>
 
@@ -3512,7 +3318,6 @@
 | ReSLLM: Large Language Models are Strong Resource Selectors for Federated Search. | WWW | 2025 | [Link](https://doi.org/10.1145/3701716.3715595) |
 | Subgraph Federated Unlearning. | WWW | 2025 | [Link](https://doi.org/10.1145/3696410.3714821) |
 
-
 ### 2024 <a id="www-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3547,7 +3352,6 @@
 | Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation. | WWW | 2024 | [Link](https://doi.org/10.1145/3589334.3645690) |
 | When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions. | WWW | 2024 | [Link](https://doi.org/10.1145/3589334.3645525) |
 
-
 ### 2023 <a id="www-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3572,7 +3376,6 @@
 | Vertical Federated Knowledge Transfer via Representation Distillation for Healthcare Collaboration Networks. | WWW | 2023 | [Link](https://doi.org/10.1145/3543507.3583874) |
 | pFedPrompt: Learning Personalized Prompt for Vision-Language Models in Federated Learning. | WWW | 2023 | [Link](https://doi.org/10.1145/3543507.3583518) |
 
-
 ### 2022 <a id="www-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3581,7 +3384,6 @@
 | Federated SPARQL Query Processing over Heterogeneous Linked Data Fragments. | WWW | 2022 | [Link](https://doi.org/10.1145/3485447.3511947) |
 | Federated Unlearning via Class-Discriminative Pruning. | WWW | 2022 | [Link](https://doi.org/10.1145/3485447.3512222) |
 | Powering Multi-Task Federated Learning with Competitive GPU Resource Sharing. | WWW | 2022 | [Link](https://doi.org/10.1145/3487553.3524859) |
-
 
 ### 2021 <a id="www-2021"></a>
 | Title | Venue | Year | Link |
@@ -3593,18 +3395,15 @@
 | Meta-HAR: Federated Representation Learning for Human Activity Recognition. | WWW | 2021 | [Link](https://doi.org/10.1145/3442381.3450006) |
 | PFA: Privacy-preserving Federated Adaptation for Effective Model Personalization. | WWW | 2021 | [Link](https://doi.org/10.1145/3442381.3449847) |
 
-
 ### 2018 <a id="www-2018"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | FIESTAIoT Project: Federated Interoperable Semantic IoT/cloud Testbeds and Applications. | WWW | 2018 | [Link](https://doi.org/10.1145/3184558.3186199) |
 
-
 ### 2016 <a id="www-2016"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | FuhSen: A Platform for Federated, RDF-based Hybrid Search. | WWW | 2016 | [Link](https://doi.org/10.1145/2872518.2890535) |
-
 
 ### 2015 <a id="www-2015"></a>
 | Title | Venue | Year | Link |
@@ -3612,31 +3411,26 @@
 | Dataset Descriptions for Optimizing Federated Querying. | WWW | 2015 | [Link](https://doi.org/10.1145/2740908.2742779) |
 | FedWeb Greatest Hits: Presenting the New Test Collection for Federated Web Search. | WWW | 2015 | [Link](https://doi.org/10.1145/2740908.2742755) |
 
-
 ### 2012 <a id="www-2012"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | A revenue sharing mechanism for federated search and advertising. | WWW | 2012 | [Link](https://doi.org/10.1145/2187980.2188079) |
 | Building reputation and trust using federated search and opinion mining. | WWW | 2012 | [Link](https://doi.org/10.1145/2187980.2188000) |
 
-
 ### 2011 <a id="www-2011"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Model characterization curves for federated search using click-logs: predicting user engagement metrics for the span of feasible operating points. | WWW | 2011 | [Link](https://doi.org/10.1145/1963405.1963419) |
-
 
 ### 2006 <a id="www-2006"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Capturing the essentials of federated systems. | WWW | 2006 | [Link](https://doi.org/10.1145/1135777.1135932) |
 
-
 ### 2005 <a id="www-2005"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | A modeling approach to federated identity and access management. | WWW | 2005 | [Link](https://doi.org/10.1145/1062745.1062916) |
-
 
 </details>
 
@@ -3649,12 +3443,10 @@
 | --- | --- | --- | --- |
 | Oort: Efficient Federated Learning via Guided Participant Selection. | OSDI | 2021 | [Link](https://www.usenix.org/conference/osdi21/presentation/lai) |
 
-
 ### 2002 <a id="osdi-2002"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | FARSITE: Federated, Available, and Reliable Storage for an Incompletely Trusted Environment. | OSDI | 2002 | [Link](http://www.usenix.org/events/osdi02/tech/adya.html) |
-
 
 </details>
 
@@ -3667,12 +3459,10 @@
 | --- | --- | --- | --- |
 | Arboretum: A Planner for Large-Scale Federated Analytics with Differential Privacy. | SOSP | 2023 | [Link](https://doi.org/10.1145/3600006.3624566) |
 
-
 ### 2005 <a id="sosp-2005"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Distributed operating system for resource discovery and allocation in federated clusters. | SOSP | 2005 | [Link](https://doi.org/10.1145/1095810.1118583) |
-
 
 </details>
 
@@ -3684,7 +3474,6 @@
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Flagger: Cooperative Acceleration for Large-Scale Cross-Silo Federated Learning Aggregation. | ISCA | 2024 | [Link](https://doi.org/10.1109/ISCA59077.2024.00071) |
-
 
 </details>
 
@@ -3699,7 +3488,6 @@
 | HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning. | MLSys | 2024 | [Link](https://proceedings.mlsys.org/paper_files/paper/2024/hash/0badcb4e95306df76a719409155e46e8-Abstract-Conference.html) |
 | LIFL: A Lightweight, Event-driven Serverless Platform for Federated Learning. | MLSys | 2024 | [Link](https://proceedings.mlsys.org/paper_files/paper/2024/hash/c2a0e26dd9ee7d57e92bb1c24b39659a-Abstract-Conference.html) |
 
-
 ### 2023 <a id="mlsys-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3708,19 +3496,16 @@
 | GlueFL: Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning. | MLSys | 2023 | [Link](https://proceedings.mlsys.org/paper_files/paper/2023/hash/da5efc7c4014940f21bcb7fdfd4efab1-Abstract-mlsys2023.html) |
 | On Noisy Evaluation in Federated Hyperparameter Tuning. | MLSys | 2023 | [Link](https://proceedings.mlsys.org/paper_files/paper/2023/hash/3796d87d44d7ee1d9fa2dc38377afa75-Abstract-mlsys2023.html) |
 
-
 ### 2022 <a id="mlsys-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | LightSecAgg: a Lightweight and Versatile Design for Secure Aggregation in Federated Learning. | MLSys | 2022 | [Link](https://proceedings.mlsys.org/paper_files/paper/2022/hash/6c44dc73014d66ba49b28d483a8f8b0d-Abstract.html) |
 | PAPAYA: Practical, Private, and Scalable Federated Learning. | MLSys | 2022 | [Link](https://proceedings.mlsys.org/paper_files/paper/2022/hash/a8bc4cb14a20f20d1f96188bd61eec87-Abstract.html) |
 
-
 ### 2020 <a id="mlsys-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated Optimization in Heterogeneous Networks. | MLSys | 2020 | [Link](https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html) |
-
 
 </details>
 
@@ -3733,7 +3518,6 @@
 | --- | --- | --- | --- |
 | Hourglass: Enabling Efficient Split Federated Learning with Data Parallelism. | EuroSys | 2025 | [Link](https://doi.org/10.1145/3689031.3717467) |
 
-
 ### 2024 <a id="eurosys-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3742,12 +3526,10 @@
 | FLOAT: Federated Learning Optimizations with Automated Tuning. | EuroSys | 2024 | [Link](https://doi.org/10.1145/3627703.3650081) |
 | Totoro: A Scalable Federated Learning Engine for the Edge. | EuroSys | 2024 | [Link](https://doi.org/10.1145/3627703.3629575) |
 
-
 ### 2023 <a id="eurosys-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | REFL: Resource-Efficient Federated Learning. | EuroSys | 2023 | [Link](https://doi.org/10.1145/3552326.3567485) |
-
 
 </details>
 
@@ -3769,7 +3551,6 @@
 | FedLoRE: Communication-Efficient and Personalized Edge Intelligence Framework via Federated Low-Rank Estimation. | IEEE Trans. Parallel Distributed Syst. | 2025 | [Link](https://doi.org/10.1109/TPDS.2025.3548444) |
 | FedSR: A Semi-Decentralized Federated Learning Framework for Non-IID Data Based on Incremental Subgradient Optimization. | IEEE Trans. Parallel Distributed Syst. | 2025 | [Link](https://doi.org/10.1109/TPDS.2025.3611304) |
 
-
 ### 2024 <a id="ieee trans. parallel distributed syst.-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3790,7 +3571,6 @@
 | Synchronize Only the Immature Parameters: Communication-Efficient Federated Learning By Freezing Parameters Adaptively. | IEEE Trans. Parallel Distributed Syst. | 2024 | [Link](https://doi.org/10.1109/TPDS.2023.3241965) |
 | Taking Advantage of the Mistakes: Rethinking Clustered Federated Learning for IoT Anomaly Detection. | IEEE Trans. Parallel Distributed Syst. | 2024 | [Link](https://doi.org/10.1109/TPDS.2024.3379905) |
 | Trusted Model Aggregation With Zero-Knowledge Proofs in Federated Learning. | IEEE Trans. Parallel Distributed Syst. | 2024 | [Link](https://doi.org/10.1109/TPDS.2024.3455762) |
-
 
 ### 2023 <a id="ieee trans. parallel distributed syst.-2023"></a>
 | Title | Venue | Year | Link |
@@ -3819,7 +3599,6 @@
 | Personalized Edge Intelligence via Federated Self-Knowledge Distillation. | IEEE Trans. Parallel Distributed Syst. | 2023 | [Link](https://doi.org/10.1109/TPDS.2022.3225185) |
 | Privacy vs. Efficiency: Achieving Both Through Adaptive Hierarchical Federated Learning. | IEEE Trans. Parallel Distributed Syst. | 2023 | [Link](https://doi.org/10.1109/TPDS.2023.3244198) |
 | Scheduling Algorithms for Federated Learning With Minimal Energy Consumption. | IEEE Trans. Parallel Distributed Syst. | 2023 | [Link](https://doi.org/10.1109/TPDS.2023.3240833) |
-
 
 ### 2022 <a id="ieee trans. parallel distributed syst.-2022"></a>
 | Title | Venue | Year | Link |
@@ -3852,7 +3631,6 @@
 | TDFL: Truth Discovery Based Byzantine Robust Federated Learning. | IEEE Trans. Parallel Distributed Syst. | 2022 | [Link](https://doi.org/10.1109/TPDS.2022.3205714) |
 | Towards Efficient and Stable K-Asynchronous Federated Learning With Unbounded Stale Gradients on Non-IID Data. | IEEE Trans. Parallel Distributed Syst. | 2022 | [Link](https://doi.org/10.1109/TPDS.2022.3150579) |
 
-
 ### 2021 <a id="ieee trans. parallel distributed syst.-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3865,20 +3643,17 @@
 | Self-Balancing Federated Learning With Global Imbalanced Data in Mobile Systems. | IEEE Trans. Parallel Distributed Syst. | 2021 | [Link](https://doi.org/10.1109/TPDS.2020.3009406) |
 | Towards Efficient Scheduling of Federated Mobile Devices Under Computational and Statistical Heterogeneity. | IEEE Trans. Parallel Distributed Syst. | 2021 | [Link](https://doi.org/10.1109/TPDS.2020.3023905) |
 
-
 ### 2020 <a id="ieee trans. parallel distributed syst.-2020"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Accelerating Federated Learning via Momentum Gradient Descent. | IEEE Trans. Parallel Distributed Syst. | 2020 | [Link](https://doi.org/10.1109/TPDS.2020.2975189) |
 | Towards Fair and Privacy-Preserving Federated Deep Models. | IEEE Trans. Parallel Distributed Syst. | 2020 | [Link](https://doi.org/10.1109/TPDS.2020.2996273) |
 
-
 ### 2013 <a id="ieee trans. parallel distributed syst.-2013"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Modeling Object Flows from Distributed and Federated RFID Data Streams for Efficient Tracking and Tracing. | IEEE Trans. Parallel Distributed Syst. | 2013 | [Link](https://doi.org/10.1109/TPDS.2013.99) |
 | Service Provision Control in Federated Service Providing Systems. | IEEE Trans. Parallel Distributed Syst. | 2013 | [Link](https://doi.org/10.1109/TPDS.2012.150) |
-
 
 </details>
 
@@ -3894,19 +3669,16 @@
 | PracMHBench: Re-evaluating Model-Heterogeneous Federated Learning Based on Practical Edge Device Constraints. | DAC | 2025 | [Link](https://doi.org/10.1109/DAC63849.2025.11132995) |
 | Resilient Federated Learning on Embedded Devices with Constrained Network Connectivity. | DAC | 2025 | [Link](https://doi.org/10.1109/DAC63849.2025.11133269) |
 
-
 ### 2024 <a id="dac-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | AdaptiveFL: Adaptive Heterogeneous Federated Learning for Resource-Constrained AIoT Systems. | DAC | 2024 | [Link](https://doi.org/10.1145/3649329.3655917) |
 | Fake Node-Based Perception Poisoning Attacks against Federated Object Detection Learning in Mobile Computing Networks. | DAC | 2024 | [Link](https://doi.org/10.1145/3649329.3655934) |
 
-
 ### 2022 <a id="dac-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | FHDnn: communication efficient and robust federated learning for AIoT networks. | DAC | 2022 | [Link](https://doi.org/10.1145/3489517.3530394) |
-
 
 ### 2021 <a id="dac-2021"></a>
 | Title | Venue | Year | Link |
@@ -3915,12 +3687,10 @@
 | HADFL: Heterogeneity-aware Decentralized Federated Learning Framework. | DAC | 2021 | [Link](https://doi.org/10.1109/DAC18074.2021.9586101) |
 | Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced Collaboration. | DAC | 2021 | [Link](https://doi.org/10.1109/DAC18074.2021.9586241) |
 
-
 ### 2014 <a id="dac-2014"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Design and Implementation of a Dynamic Component Model for Federated AUTOSAR Systems. | DAC | 2014 | [Link](https://doi.org/10.1145/2593069.2593121) |
-
 
 </details>
 
@@ -3932,7 +3702,6 @@
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Multi-objective Optimization of Data Placement in a Storage-as-a-Service Federated Cloud. | ACM Trans. Storage | 2021 | [Link](https://doi.org/10.1145/3452741) |
-
 
 </details>
 
@@ -3949,7 +3718,6 @@
 | SAFE: A Scalable Homomorphic Encryption Accelerator for Vertical Federated Learning. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2025 | [Link](https://doi.org/10.1109/TCAD.2024.3496836) |
 | pFed-Litho: Lithography Modeling With a Personalized Federated Learning-Based Framework. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2025 | [Link](https://doi.org/10.1109/TCAD.2024.3513264) |
 
-
 ### 2024 <a id="ieee trans. comput. aided des. integr. circuits syst.-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -3961,14 +3729,12 @@
 | NebulaFL: Self-Organizing Efficient Multilayer Federated Learning Framework With Adaptive Load Tuning in Heterogeneous Edge Systems. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2024 | [Link](https://doi.org/10.1109/TCAD.2024.3443715) |
 | Personalized Meta-Federated Learning for IoT-Enabled Health Monitoring. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2024 | [Link](https://doi.org/10.1109/TCAD.2024.3388908) |
 
-
 ### 2023 <a id="ieee trans. comput. aided des. integr. circuits syst.-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Design and Blocking Analysis of Locking Protocols for Real-Time DAG Tasks Under Federated Scheduling. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2023 | [Link](https://doi.org/10.1109/TCAD.2023.3264729) |
 | Optimizing Training Efficiency and Cost of Hierarchical Federated Learning in Heterogeneous Mobile-Edge Cloud Computing. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2023 | [Link](https://doi.org/10.1109/TCAD.2022.3205551) |
 | Self-Supervised On-Device Federated Learning From Unlabeled Streams. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2023 | [Link](https://doi.org/10.1109/TCAD.2023.3274956) |
-
 
 ### 2022 <a id="ieee trans. comput. aided des. integr. circuits syst.-2022"></a>
 | Title | Venue | Year | Link |
@@ -3977,18 +3743,15 @@
 | Locking Protocols for Parallel Real-Time Tasks With Semaphores Under Federated Scheduling. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2022 | [Link](https://doi.org/10.1109/TCAD.2021.3114261) |
 | PervasiveFL: Pervasive Federated Learning for Heterogeneous IoT Systems. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2022 | [Link](https://doi.org/10.1109/TCAD.2022.3197491) |
 
-
 ### 2021 <a id="ieee trans. comput. aided des. integr. circuits syst.-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Efficient Federated Learning for Cloud-Based AIoT Applications. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2021 | [Link](https://doi.org/10.1109/TCAD.2020.3046665) |
 
-
 ### 2009 <a id="ieee trans. comput. aided des. integr. circuits syst.-2009"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | From a Federated to an Integrated Automotive Architecture. | IEEE Trans. Comput. Aided Des. Integr. Circuits Syst. | 2009 | [Link](https://doi.org/10.1109/TCAD.2009.2014005) |
-
 
 </details>
 
@@ -4016,7 +3779,6 @@
 | Sketch-Based Adaptive Communication Optimization in Federated Learning. | IEEE Trans. Computers | 2025 | [Link](https://doi.org/10.1109/TC.2024.3475578) |
 | Towards Optimal Customized Architecture for Heterogeneous Federated Learning With Contrastive Cloud-Edge Model Decoupling. | IEEE Trans. Computers | 2025 | [Link](https://doi.org/10.1109/TC.2024.3514302) |
 
-
 ### 2024 <a id="ieee trans. computers-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -4027,7 +3789,6 @@
 | FedRFQ: Prototype-Based Federated Learning With Reduced Redundancy, Minimal Failure, and Enhanced Quality. | IEEE Trans. Computers | 2024 | [Link](https://doi.org/10.1109/TC.2024.3353455) |
 | User-Distribution-Aware Federated Learning for Efficient Communication and Fast Inference. | IEEE Trans. Computers | 2024 | [Link](https://doi.org/10.1109/TC.2023.3327513) |
 | Value of Information: A Comprehensive Metric for Client Selection in Federated Edge Learning. | IEEE Trans. Computers | 2024 | [Link](https://doi.org/10.1109/TC.2024.3355777) |
-
 
 ### 2023 <a id="ieee trans. computers-2023"></a>
 | Title | Venue | Year | Link |
@@ -4042,7 +3803,6 @@
 | Towards Data-Independent Knowledge Transfer in Model-Heterogeneous Federated Learning. | IEEE Trans. Computers | 2023 | [Link](https://doi.org/10.1109/TC.2023.3272801) |
 | Type-Aware Federated Scheduling for Typed DAG Tasks on Heterogeneous Multicore Platforms. | IEEE Trans. Computers | 2023 | [Link](https://doi.org/10.1109/TC.2022.3202748) |
 
-
 ### 2022 <a id="ieee trans. computers-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -4050,12 +3810,10 @@
 | BAFL: A Blockchain-Based Asynchronous Federated Learning Framework. | IEEE Trans. Computers | 2022 | [Link](https://doi.org/10.1109/TC.2021.3072033) |
 | L4L: Experience-Driven Computational Resource Control in Federated Learning. | IEEE Trans. Computers | 2022 | [Link](https://doi.org/10.1109/TC.2021.3068219) |
 
-
 ### 2021 <a id="ieee trans. computers-2021"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | SAFA: A Semi-Asynchronous Protocol for Fast Federated Learning With Low Overhead. | IEEE Trans. Computers | 2021 | [Link](https://doi.org/10.1109/TC.2020.2994391) |
-
 
 </details>
 
@@ -4068,7 +3826,6 @@
 | --- | --- | --- | --- |
 | Edge-Based Detection of Label Flipping Attacks in Federated Learning Using Explainable AI. | SVM@ICSE | 2025 | [Link](https://doi.org/10.1109/SVM66695.2025.00005) |
 
-
 </details>
 
 ## ICSE <a id="venue-icse"></a>
@@ -4080,20 +3837,17 @@
 | --- | --- | --- | --- |
 | TraceFL: Interpretability-Driven Debugging in Federated Learning via Neuron Provenance. | ICSE | 2025 | [Link](https://doi.org/10.1109/ICSE55347.2025.00128) |
 
-
 ### 2023 <a id="icse-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | FedDebug: Systematic Debugging for Federated Learning Applications. | ICSE | 2023 | [Link](https://doi.org/10.1109/ICSE48619.2023.00053) |
 | FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing. | ICSE | 2023 | [Link](https://doi.org/10.1109/ICSE48619.2023.00049) |
 
-
 ### 2012 <a id="icse-2012"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Application of Self-Adaptive techniques to federated authorization models. | ICSE | 2012 | [Link](https://doi.org/10.1109/ICSE.2012.6227053) |
 | Towards a federated cloud ecosystem (Invited industrial talk). | ICSE | 2012 | [Link](https://doi.org/10.1109/ICSE.2012.6227252) |
-
 
 </details>
 
@@ -4106,7 +3860,6 @@
 | --- | --- | --- | --- |
 | Towards an Adaptive and Federated Testbed for AI Research in Africa. | SEiGS@ICSE | 2025 | [Link](https://doi.org/10.1109/SEiGS66664.2025.00011) |
 
-
 </details>
 
 ## ICSE Companion <a id="venue-icse companion"></a>
@@ -4117,7 +3870,6 @@
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | F-CodeLLM: A Federated Learning Framework for Adapting Large Language Models to Practical Software Development. | ICSE Companion | 2024 | [Link](https://doi.org/10.1145/3639478.3643533) |
-
 
 </details>
 
@@ -4139,7 +3891,6 @@
 | Predicting Event Memorability Using Personalized Federated Learning. | WACV | 2025 | [Link](https://doi.org/10.1109/WACV61041.2025.00159) |
 | When Cars Meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather. | WACV | 2025 | [Link](https://doi.org/10.1109/WACV61041.2025.00162) |
 
-
 ### 2024 <a id="wacv-2024"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -4152,7 +3903,6 @@
 | Mixing Gradients in Neural Networks as a Strategy to Enhance Privacy in Federated Learning. | WACV | 2024 | [Link](https://doi.org/10.1109/WACV57701.2024.00391) |
 | TransFed: A way to epitomize Focal Modulation using Transformer-based Federated Learning. | WACV | 2024 | [Link](https://doi.org/10.1109/WACV57701.2024.00061) |
 
-
 ### 2023 <a id="wacv-2023"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
@@ -4160,11 +3910,9 @@
 | Federated Learning for Commercial Image Sources. | WACV | 2023 | [Link](https://doi.org/10.1109/WACV56688.2023.00647) |
 | Learning Across Domains and Devices: Style-Driven Source-Free Domain Adaptation in Clustered Federated Learning. | WACV | 2023 | [Link](https://doi.org/10.1109/WACV56688.2023.00052) |
 
-
 ### 2022 <a id="wacv-2022"></a>
 | Title | Venue | Year | Link |
 | --- | --- | --- | --- |
 | Federated Multi-Target Domain Adaptation. | WACV | 2022 | [Link](https://doi.org/10.1109/WACV51458.2022.00115) |
-
 
 </details>

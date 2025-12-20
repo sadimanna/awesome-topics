@@ -96,7 +96,7 @@ class Scaffold:
             for yaml_path in sorted(self.src_data_dir.glob("*.yaml")):
                 topic_id = yaml_path.stem
                 dest_md = self.docs_topics_dir / f"{topic_id}.md"
-                # display_title = topic_id.replace("-", " ").title()
+                display_title = topic_id.replace("-", " ").title()
 
                 # Generate the standalone .md file
                 self.yaml_to_md_topic(yaml_path, dest_md, topic_id) #display_title)
