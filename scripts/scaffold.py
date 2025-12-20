@@ -14,13 +14,42 @@ class Scaffold:
         # Step 3 Destination: awesome-topics/docs/_topics/
         self.docs_topics_dir = self.repo_root / "docs" / "_topics"
 
-    def yaml_to_md_topic(self, yaml_file, md_file, topic_name):
+    def topic_to_title(self, topic_name: str) -> str:
+        """
+        Convert topic slug to human-readable title.
+        federatedml -> Federated ML
+        gradient-inversion-attacks -> Gradient Inversion Attacks
+        """
+        return " ".join(
+            word.upper() if word.isupper() else word.capitalize()
+            for word in topic_name.replace("-", " ").split()
+        )
+
+
+    def yaml_to_md_topic(self, yaml_file, md_file, topic_slug):
         """Generates a standalone Markdown file for a specific topic."""
+
         data = utils.read_yaml(yaml_file)
-        
-        md_lines = [f"# {topic_name}", ""]
-        
-        # Generate Local TOC for the specific topic page
+
+        title = self.topic_to_title(topic_slug)
+
+        # ---------- Jekyll Front Matter ----------
+        front_matter = [
+            "---",
+            f"title: {title}",
+            "layout: topic",
+            "---",
+            ""
+        ]
+
+        md_lines = []
+        md_lines.extend(front_matter)
+
+        # Page title (optional but recommended)
+        md_lines.append(f"# {title}")
+        md_lines.append("")
+
+        # Generate Local TOC
         md_lines.append(utils.generate_toc(data))
         md_lines.append("\n---\n")
 
@@ -36,18 +65,23 @@ class Scaffold:
             for year in sorted(venue_data.keys(), reverse=True):
                 if not isinstance(venue_data[year], dict):
                     continue
-                    
+
                 year_block = venue_data[year]
                 year_id = f"{venue.lower()}-{year}"
+
                 md_lines.append(f'### {year} <a id="{year_id}"></a>')
-                md_lines.append(utils.yaml_block_to_mdtable(
-                    year_block["header"],
-                    year_block["body"],
-                ))
-                md_lines.append("\n")
+                md_lines.append(
+                    utils.yaml_block_to_mdtable(
+                        year_block["header"],
+                        year_block["body"],
+                    )
+                )
+                md_lines.append("")
+
             md_lines.append("</details>\n")
 
         utils.write_mdfile(md_file, "\n".join(md_lines))
+
 
     def merge_md_yaml(self, yaml_file=None, md_file=None):
         """
@@ -62,10 +96,10 @@ class Scaffold:
             for yaml_path in sorted(self.src_data_dir.glob("*.yaml")):
                 topic_id = yaml_path.stem
                 dest_md = self.docs_topics_dir / f"{topic_id}.md"
-                display_title = topic_id.replace("-", " ").title()
+                # display_title = topic_id.replace("-", " ").title()
 
                 # Generate the standalone .md file
-                self.yaml_to_md_topic(yaml_path, dest_md, display_title)
+                self.yaml_to_md_topic(yaml_path, dest_md, topic_id) #display_title)
                 
                 # Load data to build the README TOC
                 topic_data = utils.read_yaml(yaml_path)
@@ -100,7 +134,8 @@ class Scaffold:
                 venue = sec["title"]
 
                 toc_lines.append("  <details>")
-                toc_lines.append(f"  <summary>[{venue}]({topic_url}#{venue.lower()})</summary>")
+                toc_lines.append(f"  <summary>[{venue}]({topic_url}"
+                                 f"#{venue.lower()})</summary>")
                 toc_lines.append("")
 
                 venue_data = topic["data"].get(venue, {})
