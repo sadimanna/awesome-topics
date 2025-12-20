@@ -75,7 +75,7 @@ class Scaffold:
 
                 # md_lines.append(f'### {year} {{#{year_id}}}')
                 md_lines.append(f'<a id="{year_id}"></a>')
-                md_lines.append(f'### {year}')
+                md_lines.append(f'<h3 class="year-heading">{year}</h3>')
                 
                 md_lines.append(
                     utils.yaml_block_to_htmltable(
