@@ -67,3 +67,11 @@
     white-space: nowrap;
   }
 }
+
+
+.year-heading {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin: 1.5rem 0 0.75rem 0;
+  color: #111827;
+}
