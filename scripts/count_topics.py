@@ -5,45 +5,42 @@ from pathlib import Path
 TOPICS_DIR = Path("topics")
 OUTPUT_JSON = Path("data/topic_counts.json")
 
-def count_papers_in_markdown(md_path: Path) -> int:
+TR_PATTERN = re.compile(r"<tr>\s*<td>", re.IGNORECASE)
+
+
+def extract_title(md_path: Path) -> str:
     """
-    Counts papers in a markdown file.
-    Assumes one paper per markdown list item or table row.
+    Prefer YAML front-matter title if present.
+    Fallback to filename.
     """
     text = md_path.read_text(encoding="utf-8")
 
-    # Count markdown list items (ignore nested lists)
-    list_items = re.findall(r"^\s*-\s+\[?.+", text, flags=re.MULTILINE)
+    # YAML front matter
+    match = re.search(r"^---\s*(.*?)\s*---", text, re.DOTALL)
+    if match:
+        yaml_block = match.group(1)
+        title_match = re.search(r"title:\s*(.+)", yaml_block)
+        if title_match:
+            return title_match.group(1).strip()
 
-    # Count table rows (ignore header + separator)
-    table_rows = []
-    in_table = False
-    for line in text.splitlines():
-        if line.strip().startswith("|"):
-            if not in_table:
-                in_table = True
-                continue
-            table_rows.append(line)
-        else:
-            in_table = False
-
-    # Heuristic: choose the dominant format
-    return max(len(list_items), max(len(table_rows) - 1, 0))
+    # Fallback
+    return md_path.stem.replace("-", " ").title()
 
 
-def prettify_topic_name(filename: str) -> str:
+def count_papers(md_path: Path) -> int:
     """
-    Convert 'federated-learning.md' → 'Federated Learning'
+    Count number of papers by counting table rows (<tr><td>).
     """
-    return filename.replace(".md", "").replace("-", " ").title()
+    text = md_path.read_text(encoding="utf-8")
+    return len(TR_PATTERN.findall(text))
 
 
 def main():
     topic_counts = {}
 
     for md_file in sorted(TOPICS_DIR.glob("*.md")):
-        topic_name = prettify_topic_name(md_file.name)
-        paper_count = count_papers_in_markdown(md_file)
+        topic_name = extract_title(md_file)
+        paper_count = count_papers(md_file)
         topic_counts[topic_name] = paper_count
 
     OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
@@ -52,7 +49,7 @@ def main():
         encoding="utf-8"
     )
 
-    print(f"Tracked {len(topic_counts)} topics")
+    print(f"Topics tracked: {len(topic_counts)}")
     print(f"Saved counts to {OUTPUT_JSON}")
 
 
