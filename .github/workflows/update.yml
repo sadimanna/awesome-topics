@@ -69,6 +69,7 @@ jobs:
 
       - name: Generate topic distribution bar chart
         run: |
+          cd scripts
           python generate_topic_barchart.py
       ################################################################################
       # COMMIT CHANGES IF ANY
