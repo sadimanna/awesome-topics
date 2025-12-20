@@ -64,12 +64,11 @@ jobs:
 
       - name: Count papers per topic
         run: |
-          python scripts/count_topics.py
+          python count_topics.py
 
       - name: Generate topic distribution bar chart
         run: |
-          python scripts/generate_topic_barchart.py
-
+          python generate_topic_barchart.py
       ################################################################################
       # COMMIT CHANGES IF ANY
       ################################################################################
