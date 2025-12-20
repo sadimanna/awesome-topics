@@ -59,8 +59,9 @@ class Scaffold:
             venue_data = data.get(venue, {})
 
             md_lines.append(f'## {venue} <a id="{venue_id}"></a>')
-            md_lines.append("<details open markdown=\"1\">")
-            md_lines.append(f"<summary>Expand {venue}</summary>\n")
+            md_lines.append("<details markdown=\"1\">")
+            md_lines.append(f"<summary>Expand {venue}</summary>")
+            md_lines.append("")   # REQUIRED blank line
 
             for year in sorted(venue_data.keys(), reverse=True):
                 if not isinstance(venue_data[year], dict):
@@ -126,14 +127,18 @@ class Scaffold:
         for topic in topics_list:
             topic_url = f"{base_url}/{topic['id']}"
 
+            toc_lines.append("")
             toc_lines.append("<details markdown=\"1\">")
+            toc_lines.append("")
             toc_lines.append(f"<summary><strong>[{topic['name']}]({topic_url})</strong></summary>")
             toc_lines.append("")
 
             for sec in topic["data"].get("section", []):
                 venue = sec["title"]
 
-                toc_lines.append("  <details markdown=\"1\">")
+                toc_lines.append("")
+                toc_lines.append("<details markdown=\"1\">")
+                toc_lines.append("")
                 toc_lines.append(f"  <summary>[{venue}]({topic_url}"
                                  f"#{venue.lower()})</summary>")
                 toc_lines.append("")
