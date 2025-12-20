@@ -76,6 +76,7 @@ class Scaffold:
                 })
 
         # Update the main README.md
+        # print(Config.README_PATH)
         md_file = md_file or Config.README_PATH
         if os.path.exists(md_file):
             self.generate_main_readme_content(all_topics_summary, md_file)
@@ -118,3 +119,13 @@ class Scaffold:
 
             toc_lines.append("</details>")
             toc_lines.append("")
+
+        # REPAIR: Using the Config markers properly to avoid ValueError: empty separator 
+        start_marker = Config.START_COMMENT.format("TOC") 
+        end_marker = Config.END_COMMENT.format("TOC") 
+        updated_md = utils.replace_content( md_str, 
+                                           "\n".join(toc_lines), 
+                                           start_marker, 
+                                           end_marker ) 
+        
+        utils.write_mdfile(md_file, updated_md)
