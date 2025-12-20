@@ -3,11 +3,16 @@ import yaml
 import os
 import re
 
-def generate_toc(data, collapsed=True):
+def slugify(text: str):
     """
-    Generate a collapsible Table of Contents.
+    GitHub-style anchor slug.
     """
+    text = text.lower()
+    text = re.sub(r"[^\w\s-]", "", text)   # remove punctuation
+    text = re.sub(r"\s+", "-", text)       # spaces → hyphen
+    return text.strip("-")
 
+def generate_toc(data, collapsed=True):
     lines = []
 
     if collapsed:
@@ -21,17 +26,22 @@ def generate_toc(data, collapsed=True):
 
     for sec in data["section"]:
         venue = sec["title"]
-        venue_id = f"venue-{venue.lower()}"
-        lines.append(f"- [{venue}](#{venue_id})")
+        venue_slug = slugify(venue)
 
-        years = data.get(venue, {}).keys()
-        for year in sorted(years, reverse=True):
-            lines.append(f"  - [{year}](#{venue.lower()}-{year})")
+        # Venue entry (always on its own line)
+        lines.append(f"- [{venue}](#venue-{venue_slug})")
+
+        years = sorted(data.get(venue, {}).keys(), reverse=True)
+        for year in years:
+            lines.append(f"  - [{year}](#{venue_slug}-{year})")
+
+        # Blank line between venues (important)
+        lines.append("")
 
     if collapsed:
         lines.extend([
-            "",
-            "</details>"
+            "</details>",
+            ""
         ])
 
     return "\n".join(lines)
