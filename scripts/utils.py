@@ -17,7 +17,7 @@ def generate_toc(data, collapsed=True):
 
     if collapsed:
         lines.extend([
-            "<details>",
+            "<details markdown=\"1\">",
             "<summary><strong>Table of Contents</strong></summary>",
             "",
         ])
