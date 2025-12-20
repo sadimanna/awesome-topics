@@ -85,41 +85,36 @@ class Scaffold:
         md_str = utils.read_mdfile(md_file)
         
         toc_lines = ["## Table of Contents", ""]
-        
-        # Assume your GitHub Pages URL structure
-        # Replace 'YOUR_USER' with your actual username in config.py or here
+
         base_url = f"https://{github_user}.github.io/awesome-topics"
 
         for topic in topics_list:
-            # 1. Topic Name (Linked to generated MD file)
-            toc_lines.append(f"1. [{topic['name']}]({base_url}/{topic['id']})")
-            
-            # i. Venue Names
-            for i, sec in enumerate(topic['data'].get("section", []), 1):
+            topic_url = f"{base_url}/{topic['id']}"
+
+            toc_lines.append("<details>")
+            toc_lines.append(f"<summary><strong>{topic['name']}</strong></summary>")
+            toc_lines.append("")
+
+            for sec in topic["data"].get("section", []):
                 venue = sec["title"]
-                # Convert index to Roman Numeral if desired, or just use numbers
-                toc_lines.append(f"    {i}. {venue}")
-                
-                # - Years
-                venue_data = topic['data'].get(venue, {})
-                years = sorted([y for y in venue_data.keys() if isinstance(venue_data[y], dict)], reverse=True)
+
+                toc_lines.append("  <details>")
+                toc_lines.append(f"  <summary>{venue}</summary>")
+                toc_lines.append("")
+
+                venue_data = topic["data"].get(venue, {})
+                years = sorted(
+                    [y for y in venue_data.keys() if isinstance(venue_data[y], dict)],
+                    reverse=True
+                )
+
                 for year in years:
-                    toc_lines.append(f"        - {year}")
+                    toc_lines.append(
+                        f"  - [{year}]({topic_url}#"
+                        f"{venue.lower()}-{year})"
+                    )
 
-        # REPAIR: Using the Config markers properly to avoid ValueError: empty separator
-        start_marker = Config.START_COMMENT.format("TOC")
-        end_marker = Config.END_COMMENT.format("TOC")
+                toc_lines.append("  </details>")
 
-        print(toc_lines)
-        print(end_marker)
-        print(start_marker)
-        print(md_str)
-
-        updated_md = utils.replace_content(
-            md_str, 
-            "\n".join(toc_lines), 
-            start_marker, 
-            end_marker
-        )
-        
-        utils.write_mdfile(md_file, updated_md)
+            toc_lines.append("</details>")
+            toc_lines.append("")
