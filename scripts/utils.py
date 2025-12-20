@@ -29,14 +29,21 @@ def generate_toc(data, collapsed=True):
         venue_slug = slugify(venue)
 
         # Venue entry (always on its own line)
-        lines.append(f"- [{venue}](#venue-{venue_slug})")
+        lines.extend([
+            '<details markdown="1">',
+            f'<summary>{venue}</summary>',
+            '',
+        ])
 
         years = sorted(data.get(venue, {}).keys(), reverse=True)
         for year in years:
             lines.append(f"  - [{year}](#{venue_slug}-{year})")
 
-        # Blank line between venues (important)
-        lines.append("")
+        lines.extend([
+            '',
+            '</details>',
+            '',
+        ])
 
     if collapsed:
         lines.extend([
