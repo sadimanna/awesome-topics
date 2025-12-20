@@ -1,0 +1,89 @@
+/* ===========================
+   Paper Tables (HTML)
+   =========================== */
+
+.paper-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.5rem 0;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+/* Header */
+.paper-table thead {
+  background: #f8fafc;
+}
+
+.paper-table th {
+  padding: 14px 16px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #111827;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* Body cells */
+.paper-table td {
+  padding: 14px 16px;
+  font-size: 0.95rem;
+  color: #1f2937;
+  border-bottom: 1px solid #e5e7eb;
+  vertical-align: top;
+}
+
+/* Vertical borders */
+.paper-table th:not(:last-child),
+.paper-table td:not(:last-child) {
+  border-right: 1px solid #e5e7eb;
+}
+
+/* Hover animation */
+.paper-table tbody tr {
+  transition: background-color 0.2s ease, transform 0.15s ease;
+}
+
+.paper-table tbody tr:hover {
+  background-color: #f1f5f9;
+  transform: translateX(2px);
+}
+
+/* Hover individual cells */
+.paper-table td:hover {
+  background-color: #e0f2fe;
+}
+
+/* Links */
+.paper-table a {
+  color: #2563eb;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.paper-table a:hover {
+  text-decoration: underline;
+}
+
+/* Rounded corners */
+.paper-table thead tr:first-child th:first-child {
+  border-top-left-radius: 10px;
+}
+
+.paper-table thead tr:first-child th:last-child {
+  border-top-right-radius: 10px;
+}
+
+.paper-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.paper-table a {
+  transition: color 0.15s ease;
+}
