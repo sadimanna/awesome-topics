@@ -2,6 +2,20 @@
 
 [![Stars](https://img.shields.io/github/stars/sadimanna/awesome-topics.svg?color=orange)](https://github.com/sadimanna/awesome-topics/stargazers) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/sadimanna/awesome-topics.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ![](https://img.shields.io/github/last-commit/sadimanna/awesome-topics) 
 
+## Disclaimer & Reuse
+
+This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas.
+
+You are **strongly encouraged to fork this repository** and use it for:
+- Tracking your own research topics
+- Maintaining personalized paper collections
+- Running automated updates for new publications
+
+If you fork and extend this repository, please consider adding a link back to the original repository for attribution and discoverability.
+
+This project follows the **CC-BY-SA-4.0** license.
+
+
 <!-- START:TOC -->
 ## Table of Contents
 
