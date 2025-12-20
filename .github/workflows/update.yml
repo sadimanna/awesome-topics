@@ -62,6 +62,14 @@ jobs:
       #   run: |
       #     sed -i -f replace-emojis.sed docs/index.md
 
+      - name: Count papers per topic
+        run: |
+          python scripts/count_topics.py
+
+      - name: Generate topic distribution bar chart
+        run: |
+          python scripts/generate_topic_barchart.py
+
       ################################################################################
       # COMMIT CHANGES IF ANY
       ################################################################################
@@ -73,3 +81,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "auto update @ ${{ steps.date.outputs.date }} ${{ env.TZ }}"
+
+      
+
