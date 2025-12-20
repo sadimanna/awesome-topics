@@ -8,7 +8,7 @@ BAR_HEIGHT = 24
 BAR_GAP = 10
 LABEL_WIDTH = 180
 MAX_BAR_WIDTH = 400
-FONT_SIZE = 14
+FONT_SIZE = 16
 
 data = json.loads(INPUT_JSON.read_text())
 max_count = max(data.values())
@@ -19,7 +19,7 @@ width = LABEL_WIDTH + MAX_BAR_WIDTH + 100
 svg = [
     f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}">',
     '<style>',
-    'text { font-family: Arial, sans-serif; }',
+    'text { font-family: Times New Roman, sans-serif; }',
     '</style>'
 ]
 
