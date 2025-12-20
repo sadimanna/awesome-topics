@@ -3,8 +3,21 @@ import yaml
 import os
 import re
 
-def generate_toc(data):
-    lines = ["## Table of Contents", ""]
+def generate_toc(data, collapsed=True):
+    """
+    Generate a collapsible Table of Contents.
+    """
+
+    lines = []
+
+    if collapsed:
+        lines.extend([
+            "<details>",
+            "<summary><strong>Table of Contents</strong></summary>",
+            "",
+        ])
+    else:
+        lines.extend(["## Table of Contents", ""])
 
     for sec in data["section"]:
         venue = sec["title"]
@@ -15,7 +28,14 @@ def generate_toc(data):
         for year in sorted(years, reverse=True):
             lines.append(f"  - [{year}](#{venue.lower()}-{year})")
 
+    if collapsed:
+        lines.extend([
+            "",
+            "</details>"
+        ])
+
     return "\n".join(lines)
+
 
 
 def simple_yaml_to_mdtable(papers):
