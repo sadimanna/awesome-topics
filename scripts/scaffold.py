@@ -156,6 +156,7 @@ class Scaffold:
                     )
 
                 toc_lines.append("  </details>")
+                toc_lines.append("")
 
             toc_lines.append("</details>")
             toc_lines.append("")
