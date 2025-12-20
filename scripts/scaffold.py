@@ -73,9 +73,10 @@ class Scaffold:
                 year_block = venue_data[year]
                 year_id = f"{venue.lower()}-{year}"
 
-                md_lines.append(f'### {year} {{#{year_id}}}')
-                # md_lines.append(f'### {year}')
-                # md_lines.append(f'<a id="{year_id}"></a>')
+                # md_lines.append(f'### {year} {{#{year_id}}}')
+                md_lines.append(f'<a id="{year_id}"></a>')
+                md_lines.append(f'### {year}')
+                
                 md_lines.append(
                     utils.yaml_block_to_htmltable(
                         year_block["header"],
