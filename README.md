@@ -930,11 +930,13 @@
 
 ## Disclaimer & Reuse
 
-This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas.
+This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas. This repository was forked from [Awesome-FL](https://github.com/youngfish42/Awesome-FL) and then modified in many ways, which I am too lazy to type.
 
 You are **strongly encouraged to fork this repository** and use it for:
 - Tracking your own research topics
 - Maintaining personalized paper collections
 - Running automated updates for new publications
+
+This repository works in conjunction with another repository [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily), which was forked from [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker). This was modified to automatically commit the searched papers (YAML files) from DBLP into this repository [awesome-topics](https://github.com/sadimanna/awesome-topics), which triggers the workflow run, and generates or updates the corresponding pages topic-wise, and also updates the TOC in the landing page [here](https://sadimanna.github.io/awesome-topics).
 
 If you fork and extend this repository, please consider adding a link back to the original repository for attribution and discoverability.
