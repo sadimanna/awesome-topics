@@ -5,6 +5,9 @@ on:
   pull_request:
   workflow_dispatch:
 
+env:
+  GH_USER: ${{ github.repository_owner }}
+
 jobs:
   build:
     runs-on: ubuntu-latest

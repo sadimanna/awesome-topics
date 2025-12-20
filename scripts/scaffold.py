@@ -4,6 +4,8 @@ import shutil
 from pathlib import Path
 from config import Config
 
+github_user = os.getenv("GH_USER")
+
 class Scaffold:
     def __init__(self):
         self.repo_root = Path(Config.ROOT_PATH)
@@ -86,7 +88,7 @@ class Scaffold:
         
         # Assume your GitHub Pages URL structure
         # Replace 'YOUR_USER' with your actual username in config.py or here
-        base_url = "https://YOUR_USER.github.io/awesome-topics"
+        base_url = f"https://{github_user}.github.io/awesome-topics"
 
         for topic in topics_list:
             # 1. Topic Name (Linked to generated MD file)
