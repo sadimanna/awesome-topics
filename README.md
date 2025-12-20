@@ -8,7 +8,7 @@
 
 <details markdown="1">
 
-<summary><strong>[Federatedml](https://sadimanna.github.io/awesome-topics/federatedml)</strong></summary>
+<summary><strong>[Federated ML](https://sadimanna.github.io/awesome-topics/federatedml)</strong></summary>
 
 
 <details markdown="1">

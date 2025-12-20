@@ -1,9 +1,9 @@
 ---
-title: Federatedml
+title: Federated ML
 layout: topic
 ---
 
-# Federatedml
+# Federated ML
 
 <details markdown="1">
 <summary><strong>Table of Contents</strong></summary>
