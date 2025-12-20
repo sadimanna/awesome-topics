@@ -88,18 +88,6 @@ def get_content(src: str, start_comment: str, end_comment: str):
     return re.search(pattern, src).group(0)
 
 
-# def replace_content(src: str, content: str, start_comment: str, end_comment: str):
-#     """Replace content between start and end comment"""
-#     pattern = f"{start_comment}[\\s\\S]+{end_comment}"
-#     repl = f"{start_comment}\n\n{content}\n\n{end_comment}"
-
-#     if re.search(pattern, src) is None:
-#         print(
-#             f"can not find comment in src, please check it, it should be {start_comment} and {end_comment}"
-#         )
-
-#     return re.sub(pattern, repl, src)
-
 def replace_content(src, content, start, end):
     """
     Replace content between start and end markers.
@@ -295,25 +283,28 @@ def yaml_to_mdtable(yaml_data: dict, md_ref: str):
 
 def yaml_block_to_mdtable(header, body):
     """
-    header: dict of column name → display name
+    header: dict of column name → display name (e.g., {"title": "Title"})
     body: list of row dicts
     """
+    if not body:
+        return "*No papers found.*"
 
     columns = list(header.keys())
 
-    # header row
+    # Create Header Row
     lines = []
     lines.append("| " + " | ".join(header[c].strip() for c in columns) + " |")
     lines.append("| " + " | ".join(["---"] * len(columns)) + " |")
 
-    # body rows
+    # Create Body Rows
     for row in body:
         vals = []
         for c in columns:
             v = row.get(c, "")
-            if c == "link" and v:
+            # If the column is 'link', 'url', or 'ee', format as Markdown link
+            if c in ["link", "url", "ee"] and v:
                 v = f"[Link]({v})"
-            vals.append(str(v))
+            vals.append(str(v).replace("|", "\\|")) # Escape pipes in text
         lines.append("| " + " | ".join(vals) + " |")
 
     return "\n".join(lines)

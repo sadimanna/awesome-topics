@@ -1,185 +1,123 @@
 import os
-from config import Config
 import utils
-
-DEFAULT_HEADER = {
-    "title": "Title",
-    "venue": " Venue",
-    "year": " Year ",
-    "link": "Link",
-}
-
-DEFAULT_LENGTH = {
-    "title": 60,
-    "venue": 53,
-    "year": 4,
-    "link": 60,
-}
+import shutil
+from pathlib import Path
+from config import Config
 
 class Scaffold:
     def __init__(self):
-        pass
+        self.repo_root = Path(Config.ROOT_PATH)
+        # Step 3 Source: awesome-topics/_data/
+        self.src_data_dir = self.repo_root / "_data"
+        # Step 3 Destination: awesome-topics/docs/_topics/
+        self.docs_topics_dir = self.repo_root / "docs" / "_topics"
 
-    def mdtable_to_yaml(self, md_file=None, yaml_file=None):
-        """convert markdown table to yaml file"""
-        md_file = md_file or Config.README_PATH  # README.md
-        yaml_file = yaml_file or Config.YAML_PATH  # data.yaml
-
-        md_str = utils.read_mdfile(md_file)  # read README.md
-        data = utils.read_yaml(yaml_file)  # read data.yaml
-
-        # get reference section
-        md_ref = utils.get_mdref(
-            md_str,
-            Config.START_COMMENT.format("reference-section"),
-            Config.END_COMMENT.format("reference-section"),
-        )
-
-        # iterate section
-        for sec in data["section"]:
-            print(sec["title"])
-
-            # get table content
-            table_content = utils.get_content(
-                md_str,
-                Config.START_COMMENT.format(sec["title"]),
-                Config.END_COMMENT.format(sec["title"]),
-            )
-            # parse table to yaml
-            yaml_content, md_ref = utils.mdtable_to_yaml(table_content, md_ref)
-            # update yaml
-            data[sec["title"]] = yaml_content
-
-        # save yaml
-        utils.write_yaml(yaml_file, data)
-
-    def yaml_to_mdtable(self, yaml_file=None, md_file=None):
-        yaml_file = yaml_file or Config.YAML_PATH
-        md_file = md_file or Config.README_PATH
-
+    def yaml_to_md_topic(self, yaml_file, md_file, topic_name):
+        """Generates a standalone Markdown file for a specific topic."""
         data = utils.read_yaml(yaml_file)
-        md_str = utils.read_mdfile(md_file)
+        
+        md_lines = [f"# {topic_name}", ""]
+        
+        # Generate Local TOC for the specific topic page
+        md_lines.append(utils.generate_toc(data))
+        md_lines.append("\n---\n")
 
-        # 1. Generate and insert TOC
-        toc = utils.generate_toc(data)
-        md_str = utils.replace_content(
-            md_str,
-            toc,
-            "<!-- START:TOC -->",
-            "<!-- END:TOC -->",
-        )
-
-        # 2. Generate venue sections
-        for sec in data["section"]:
+        for sec in data.get("section", []):
             venue = sec["title"]
             venue_id = f"venue-{venue.lower()}"
             venue_data = data.get(venue, {})
 
-            blocks = []
-
-            # Venue anchor + collapsible
-            blocks.append(f'<a id="{venue_id}"></a>')
-            blocks.append("<details open>")
-            blocks.append(f"<summary><strong>{venue}</strong></summary>\n")
+            md_lines.append(f'## {venue} <a id="{venue_id}"></a>')
+            md_lines.append("<details open>")
+            md_lines.append(f"<summary>Expand {venue}</summary>\n")
 
             for year in sorted(venue_data.keys(), reverse=True):
+                if not isinstance(venue_data[year], dict):
+                    continue
+                    
                 year_block = venue_data[year]
-                body = year_block["body"]
                 year_id = f"{venue.lower()}-{year}"
-
-                blocks.append(f'<a id="{year_id}"></a>')
-                blocks.append("<details open>")
-                blocks.append(f"<summary>{year}</summary>\n")
-                blocks.append(utils.yaml_block_to_mdtable(
+                md_lines.append(f'### {year} <a id="{year_id}"></a>')
+                md_lines.append(utils.yaml_block_to_mdtable(
                     year_block["header"],
-                    body,
+                    year_block["body"],
                 ))
-                blocks.append("\n</details>\n")
+                md_lines.append("\n")
+            md_lines.append("</details>\n")
 
-            blocks.append("</details>\n")
-
-            venue_content = "\n".join(blocks)
-
-            md_str = utils.replace_content(
-                md_str,
-                venue_content,
-                Config.START_COMMENT.format(venue),
-                Config.END_COMMENT.format(venue),
-            )
-
-        utils.write_mdfile(md_file, md_str)
-
-
-
-    # def yaml_to_mdtable(self, yaml_file=None, md_file=None):
-    #     yaml_file = yaml_file or Config.YAML_PATH
-    #     md_file = md_file or Config.README_PATH
-
-    #     data = utils.read_yaml(yaml_file)
-    #     md_str = utils.read_mdfile(md_file)
-
-    #     for sec in data["section"]:
-    #         venue = sec["title"]
-    #         papers = data.get(venue, [])
-
-    #         # ensure sorted by year desc
-    #         papers = sorted(papers, key=lambda x: int(x["year"]), reverse=True)
-
-    #         table = utils.simple_yaml_to_mdtable(papers)
-
-    #         md_str = utils.replace_content(
-    #             md_str,
-    #             table,
-    #             Config.START_COMMENT.format(venue),
-    #             Config.END_COMMENT.format(venue),
-    #         )
-
-    #     utils.write_mdfile(md_file, md_str)
-
-
-    def clear(self):
-        """clear all data"""
-
-        data = utils.read_yaml(Config.YAML_PATH)  # read yaml
-
-        data_ = {}
-        data_["section"] = data["section"]  # only keep section
-        utils.write_yaml(Config.YAML_PATH, data_)
-
-    # def merge_md_yaml(self, md_file=None, yaml_file=None, env="prod"):
-    #     """Merge markdown table to yaml file"""
-    #     md_file = md_file or Config.README_PATH  # README.md
-    #     yaml_file = yaml_file or Config.YAML_PATH  # data.yaml
-
-    #     # file priority
-    #     priority = [Config.README_PATH, Config.YAML_PATH]
-
-    #     if env == "dev":
-    #         # local mode | dev: sort by file modify time
-    #         priority.sort(key=lambda x: os.path.getmtime(x), reverse=True)
-    #     else:
-    #         # prod mode | sort by file modify time in git
-    #         priority.sort(key=lambda x: utils.get_git_log_time(x), reverse=True)
-
-    #     # log file priority
-    #     for file in priority:
-    #         print(file, os.path.getmtime(file), utils.get_git_log_time(file))
-
-    #     if priority[0] == Config.README_PATH:
-    #         # markdown table is newer, merge to yaml
-    #         print("merge md to yaml")
-    #         self.mdtable_to_yaml(md_file, yaml_file)
-
-    #     # format markdown table
-    #     self.yaml_to_mdtable(yaml_file, md_file)
+        utils.write_mdfile(md_file, "\n".join(md_lines))
 
     def merge_md_yaml(self, yaml_file=None, md_file=None):
         """
-        YAML is canonical.
-        Always regenerate README from YAML.
+        1. Generates topic-wise MD files.
+        2. Builds a comprehensive TOC in README.md linking to those files.
         """
-        yaml_file = yaml_file or Config.YAML_PATH
+        self.docs_topics_dir.mkdir(parents=True, exist_ok=True)
+        
+        all_topics_summary = []
+
+        if self.src_data_dir.exists():
+            for yaml_path in sorted(self.src_data_dir.glob("*.yaml")):
+                topic_id = yaml_path.stem
+                dest_md = self.docs_topics_dir / f"{topic_id}.md"
+                display_title = topic_id.replace("-", " ").title()
+
+                # Generate the standalone .md file
+                self.yaml_to_md_topic(yaml_path, dest_md, display_title)
+                
+                # Load data to build the README TOC
+                topic_data = utils.read_yaml(yaml_path)
+                all_topics_summary.append({
+                    "id": topic_id,
+                    "name": display_title,
+                    "data": topic_data
+                })
+
+        # Update the main README.md
         md_file = md_file or Config.README_PATH
+        if os.path.exists(md_file):
+            self.generate_main_readme_content(all_topics_summary, md_file)
 
-        self.yaml_to_mdtable(yaml_file, md_file)
+    def generate_main_readme_content(self, topics_list, md_file):
+        """Updates the README.md with the nested TOC linking to standalone pages."""
+        md_str = utils.read_mdfile(md_file)
+        
+        toc_lines = ["## Table of Contents", ""]
+        
+        # Assume your GitHub Pages URL structure
+        # Replace 'YOUR_USER' with your actual username in config.py or here
+        base_url = "https://YOUR_USER.github.io/awesome-topics"
 
+        for topic in topics_list:
+            # 1. Topic Name (Linked to generated MD file)
+            toc_lines.append(f"1. [{topic['name']}]({base_url}/{topic['id']})")
+            
+            # i. Venue Names
+            for i, sec in enumerate(topic['data'].get("section", []), 1):
+                venue = sec["title"]
+                # Convert index to Roman Numeral if desired, or just use numbers
+                toc_lines.append(f"    {i}. {venue}")
+                
+                # - Years
+                venue_data = topic['data'].get(venue, {})
+                years = sorted([y for y in venue_data.keys() if isinstance(venue_data[y], dict)], reverse=True)
+                for year in years:
+                    toc_lines.append(f"        - {year}")
+
+        # REPAIR: Using the Config markers properly to avoid ValueError: empty separator
+        start_marker = Config.START_COMMENT.format("TOC")
+        end_marker = Config.END_COMMENT.format("TOC")
+
+        print(toc_lines)
+        print(end_marker)
+        print(start_marker)
+        print(md_str)
+
+        updated_md = utils.replace_content(
+            md_str, 
+            "\n".join(toc_lines), 
+            start_marker, 
+            end_marker
+        )
+        
+        utils.write_mdfile(md_file, updated_md)

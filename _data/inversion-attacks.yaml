@@ -1,0 +1,1380 @@
+section:
+- title: IJCAI
+- title: AAAI
+- title: AISTATS
+- title: NeurIPS
+- title: ICML
+- title: ICLR
+- title: UAI
+- title: IEEE Trans. Pattern Anal. Mach. Intell.
+- title: KDD
+- title: SP
+- title: CCS
+- title: USENIX Security Symposium
+- title: NDSS
+- title: CVPR
+- title: ICCV
+- title: ECCV
+- title: ACM Multimedia
+- title: ACL
+- title: EMNLP
+- title: COLING
+- title: SIGIR
+- title: WWW
+- title: DAC
+- title: IEEE Trans. Computers
+- title: WACV
+- title: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+IJCAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning
+        via Intermodal Correlation.'
+      venue: IJCAI
+      year: 2025
+      link: https://doi.org/10.24963/ijcai.2025/886
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'A Survey on Gradient Inversion: Attacks, Defenses and Future Directions.'
+      venue: IJCAI
+      year: 2022
+      link: https://doi.org/10.24963/ijcai.2022/791
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'InverseNet: Augmenting Model Extraction Attacks with Training Data Inversion.'
+      venue: IJCAI
+      year: 2021
+      link: https://doi.org/10.24963/ijcai.2021/336
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Regression Model Fitting under Differential Privacy and Model Inversion
+        Attack.
+      venue: IJCAI
+      year: 2015
+      link: http://ijcai.org/Abstract/15/146
+AAAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A New Federated Learning Framework Against Gradient Inversion Attacks.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i16.33865
+    - title: A Sample-Level Evaluation and Generative Framework for Model Inversion
+        Attacks.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i17.34012
+    - title: 'Against All Odds: Overcoming Typology, Script, and Language Confusion
+        in Multilingual Embedding Inversion Attacks.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i22.34533
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Compositional Inversion for Stable Diffusion Models.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i7.28565
+    - title: 'DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models.'
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i2.27824
+    - title: 'Foreseeing Reconstruction Quality of Gradient Inversion: An Optimization
+        Perspective.'
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i11.29140
+    - title: High-Fidelity Gradient Inversion in Distributed Learning.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i18.29975
+    - title: 'IPRemover: A Generative Model Inversion Attack against Deep Neural Network
+        Fingerprinting and Watermarking.'
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i7.28619
+    - title: Music Style Transfer with Time-Varying Inversion of Diffusion Models.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i1.27810
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning
+        (Student Abstract).'
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i13.26995
+    - title: Pseudo Label-Guided Model Inversion Attack via Conditional Generative
+        Adversarial Network.
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i3.25442
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Improving Robustness to Model Inversion Attacks via Mutual Information
+        Regularization.
+      venue: AAAI
+      year: 2021
+      link: https://doi.org/10.1609/aaai.v35i13.17387
+AISTATS:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MEDUSA: Medical Data Under Shadow Attacks via Hybrid Model Inversion.'
+      venue: AISTATS
+      year: 2025
+      link: https://proceedings.mlr.press/v258/azhar25a.html
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion
+        in Diffusion Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/520425a5a4c2fb7f7fc345078b188201-Abstract-Conference.html
+    - title: 'DAGER: Exact Gradient Inversion for Large Language Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/9ff1577a1f8308df1ccea6b4f64a103f-Abstract-Conference.html
+    - title: Gradient-free Decoder Inversion in Latent Diffusion Models.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/970f59b22f4c72aec75174aae63c7459-Abstract-Conference.html
+    - title: Pseudo-Private Data Guided Model Inversion Attacks.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/3a797b10ff20562b1ecee0d4e914c1c7-Abstract-Conference.html
+    - title: 'ReMAP: Neural Model Reprogramming with Network Inversion and Retrieval-Augmented
+        Mapping for Adaptive Motion Forecasting.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/2cdf71a65e95bf1874212f6e604c64db-Abstract-Conference.html
+    - title: 'SPEAR: Exact Gradient Inversion of Batches in Federated Learning.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/c13cd7feab4beb1a27981e19e2455916-Abstract-Conference.html
+    - title: 'Trap-MID: Trapdoor-based Defense against Model Inversion Attacks.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/a12e362d89d4e0b40760f839f91550ee-Abstract-Conference.html
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Label-Only Model Inversion Attacks via Knowledge Transfer.
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/d9827e811c5a205c1313fb950c072c7d-Abstract-Conference.html
+    - title: Understanding Deep Gradient Leakage via Inversion Influence Functions.
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/0c4dd7e3d9f528f0b4f2aca9fbcdca8d-Abstract-Conference.html
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Learning to Generate Inversion-Resistant Model Explanations.
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/70d638f3177d2f0bbdd9f400b43f0683-Abstract-Conference.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Designing Counterfactual Generators using Deep Model Inversion.
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/8ca01ea920679a0fe3728441494041b9-Abstract.html
+    - title: Evaluating Gradient Inversion Attacks and Defenses in Federated Learning.
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html
+    - title: Gradient Inversion with Generative Image Prior.
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/fa84632d742f2729dc32ce8cb5d49733-Abstract.html
+    - title: Variational Model Inversion Attacks.
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/50a074e6a8da4662ae0a29edde722179-Abstract.html
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model Inversion Networks for Model-Based Optimization.
+      venue: NeurIPS
+      year: 2020
+      link: https://proceedings.neurips.cc/paper/2020/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Faithful Inversion of Generative Models for Effective Amortized Inference.
+      venue: NeurIPS
+      year: 2018
+      link: https://proceedings.neurips.cc/paper/2018/hash/894b77f805bd94d292574c38c5d628d5-Abstract.html
+ICML:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient Inversion of Multimodal Models.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=j4IELrBhoG
+    - title: Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion
+        Models with Varied Human Preferences.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=G3grccIXIg
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Referee Can Play: An Alternative Approach to Conditional Generation
+        via Model Inversion.'
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=hZ0fWhgVch
+    - title: Single-Model Attribution of Generative Models Through Final-Layer Inversion.
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=Hs9GcILuZN
+    - title: 'Sparse Model Inversion: Efficient Inversion of Vision Transformers for
+        Data-Free Applications.'
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=T0lFfO8HaK
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Plug &amp; Play Attacks: Towards Robust and Flexible Model Inversion
+        Attacks.'
+      venue: ICML
+      year: 2022
+      link: https://proceedings.mlr.press/v162/struppek22a.html
+    - title: 'Plug-In Inversion: Model-Agnostic Inversion for Vision with Data Augmentations.'
+      venue: ICML
+      year: 2022
+      link: https://proceedings.mlr.press/v162/ghiasi22a.html
+ICLR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ConcreTizer: Model Inversion Attack via Occupancy Classification and
+        Dispersion Control for 3D Point Cloud Restoration.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=I4iZmsV4HM
+    - title: Lightning-Fast Image Inversion and Editing for Text-to-Image Diffusion
+        Models.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=t9l63huPRt
+    - title: 'REFINE: Inversion-Free Backdoor Defense via Model Reprogramming.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=4IYdCws9fc
+    - title: 'Stealthy Shield Defense: A Conditional Mutual Information-Based Approach
+        against Black-Box Model Inversion Attacks.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=p0DjhjPXl3
+    - title: 'Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language
+        Models.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=mQ55y4s5hj
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Be Careful What You Smooth For: Label Smoothing Can Be a Privacy Shield
+        but Also a Catalyst for Model Inversion Attacks.'
+      venue: ICLR
+      year: 2024
+      link: https://openreview.net/forum?id=1SbkubNdbW
+    - title: Language Model Inversion.
+      venue: ICLR
+      year: 2024
+      link: https://openreview.net/forum?id=t9dWHpGkPj
+    - title: Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks.
+      venue: ICLR
+      year: 2024
+      link: https://openreview.net/forum?id=s8cMuxI5gu
+UAI:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Learning To Invert: Simple Adaptive Attacks for Gradient Inversion in
+        Federated Learning.'
+      venue: UAI
+      year: 2023
+      link: https://proceedings.mlr.press/v216/wu23a.html
+IEEE Trans. Pattern Anal. Mach. Intell.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Unknown-Aware Bilateral Dependency Optimization for Defending Against
+        Model Inversion Attacks.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TPAMI.2025.3558267
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Gradient Inversion Attacks: Impact Factors Analyses and Privacy Enhancement.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TPAMI.2024.3430533
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Comprehensive Vulnerability Evaluation of Face Recognition Systems to
+        Template Inversion Attacks via 3D Face Reconstruction.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2023
+      link: https://doi.org/10.1109/TPAMI.2023.3312123
+KDD:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Bilateral Dependency Optimization: Defending Against Model-inversion
+        Attacks.'
+      venue: KDD
+      year: 2022
+      link: https://doi.org/10.1145/3534678.3539376
+SP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Prompt Inversion Attack Against Collaborative Inference of Large Language
+        Models.
+      venue: SP
+      year: 2025
+      link: https://doi.org/10.1109/SP61157.2025.00160
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Learn What You Want to Unlearn: Unlearning Inversion Attacks against
+        Machine Unlearning.'
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00248
+CCS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Uncovering Gradient Inversion Risks in Practical Language Model Training.
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3690292
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model Inversion Attacks that Exploit Confidence Information and Basic
+        Countermeasures.
+      venue: CCS
+      year: 2015
+      link: https://doi.org/10.1145/2810103.2813677
+USENIX Security Symposium:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Cross-Modal Prompt Inversion: Unifying Threats to Text and Image Generative
+        AI Models.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/ye-inversion
+    - title: 'SoK: Gradient Inversion Attacks in Federated Learning.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/carletti
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Are Your Sensitive Attributes Private? Novel Model Inversion Attribute
+        Inference Attacks on Classification Models.
+      venue: USENIX Security Symposium
+      year: 2022
+      link: https://www.usenix.org/conference/usenixsecurity22/presentation/mehnaz
+NDSS:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian
+        Sampling.'
+      venue: NDSS
+      year: 2025
+      link: https://www.ndss-symposium.org/ndss-paper/censor-defense-against-gradient-inversion-via-orthogonal-subspace-bayesian-sampling/
+    - title: 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated
+        Learning via Latent Space Reconstruction.'
+      venue: NDSS
+      year: 2025
+      link: https://www.ndss-symposium.org/ndss-paper/scale-mia-a-scalable-model-inversion-attack-against-secure-federated-learning-via-latent-space-reconstruction/
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Crafter: Facial Feature Crafting against Inversion-based Identity Theft
+        on Deep Models.'
+      venue: NDSS
+      year: 2024
+      link: https://www.ndss-symposium.org/ndss-paper/crafter-facial-feature-crafting-against-inversion-based-identity-theft-on-deep-models/
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MIRROR: Model Inversion for Deep LearningNetwork with High Fidelity.'
+      venue: NDSS
+      year: 2022
+      link: https://www.ndss-symposium.org/ndss-paper/auto-draft-203/
+CVPR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'From Head to Tail: Efficient Black-box Model Inversion Attack via Long-tailed
+        Learning.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Li_From_Head_to_Tail_Efficient_Black-box_Model_Inversion_Attack_via_CVPR_2025_paper.html
+    - title: Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Sami_Gradient_Inversion_Attacks_on_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html
+    - title: 'InPO: Inversion Preference Optimization with Reparametrized DDIM for
+        Efficient Diffusion Model Alignment.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Lu_InPO_Inversion_Preference_Optimization_with_Reparametrized_DDIM_for_Efficient_Diffusion_CVPR_2025_paper.html
+    - title: Theoretical Insights in Model Inversion Robustness and Conditional Entropy
+        Maximization for Collaborative Inference Systems.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Xia_Theoretical_Insights_in_Model_Inversion_Robustness_and_Conditional_Entropy_Maximization_CVPR_2025_paper.html
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting
+        Gradient Inversion.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.01028
+    - title: Dual-Consistency Model Inversion for Non-Exemplar Class Incremental Learning.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02268
+    - title: Inversion-Free Image Editing with Language-Guided Diffusion Models.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00903
+    - title: 'Model Inversion Robustness: Can Transfer Learning Help?'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.01158
+    - title: 'Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image
+        Diffusion Models.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00650
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Breaching FedMD: Image Recovery via Paired-Logits Inversion Attack.'
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01174
+    - title: Inversion-based Style Transfer with Diffusion Models.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.00978
+    - title: Null-text Inversion for Editing Real Images using Guided Diffusion Models.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.00585
+    - title: Re-Thinking Model Inversion Attacks Against Deep Neural Networks.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01572
+    - title: Reinforcement Learning-Based Black-Box Model Inversion Attacks.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01964
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GradViT: Gradient Inversion of Vision Transformers.'
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.00978
+    - title: Label-Only Model Inversion Attacks via Boundary Repulsion.
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.01462
+    - title: 'ResSFL: A Resistance Transfer Framework for Defending Model Inversion
+        Attack in Split Federated Learning.'
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.00995
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'IMAGINE: Image Synthesis by Image-Guided Model Inversion.'
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Wang_IMAGINE_Image_Synthesis_by_Image-Guided_Model_Inversion_CVPR_2021_paper.html
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'The Secret Revealer: Generative Model-Inversion Attacks Against Deep
+        Neural Networks.'
+      venue: CVPR
+      year: 2020
+      link: https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.html
+ICCV:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Controllable Inversion of Black-Box Face Recognition Models via Diffusion.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCVW60793.2023.00341
+    - title: 'GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization.'
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00458
+    - title: Generative Gradient Inversion via Over-Parameterized Networks in Federated
+        Learning.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00473
+    - title: Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion
+        Models.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00683
+    - title: 'TIJO: Trigger Inversion with Joint Optimization for Defending Multimodal
+        Backdoored Models.'
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00022
+    - title: Template Inversion Attack against Face Recognition Systems using 3D Face
+        Reconstruction.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.01801
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Exploiting Explanations for Model Inversion Attacks.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.00072
+    - title: Knowledge-Enriched Distributional Model Inversion Attacks.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.01587
+ECCV:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced
+        Model Inversion Attacks.'
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-73411-3_7
+    - title: Improving Robustness to Model Inversion Attacks via Sparse Coding Architectures.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72989-8_7
+    - title: Learning a Dynamic Privacy-Preserving Camera Robust to Inversion Attacks.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72897-6_20
+    - title: On the Vulnerability of Skip Connections to Model Inversion Attacks.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-73004-7_9
+    - title: 'Prediction Exposes Your Face: Black-Box Model Inversion via Prediction
+        Alignment.'
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72764-1_17
+    - title: Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72855-6_8
+    - title: Source Prompt Disentangled Inversion for Boosting Image Editability with
+        Diffusion Models.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-73347-5_23
+    - title: 'Viewpoint Textual Inversion: Discovering Scene Representations and 3D
+        View Control in 2D Diffusion Models.'
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-73039-9_24
+ACM Multimedia:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient-Free Textual Inversion.
+      venue: ACM Multimedia
+      year: 2023
+      link: https://doi.org/10.1145/3581783.3612599
+    - title: Model Inversion Attack via Dynamic Memory Learning.
+      venue: ACM Multimedia
+      year: 2023
+      link: https://doi.org/10.1145/3581783.3612072
+ACL:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ALGEN: Few-shot Inversion Attacks on Textual Embeddings via Cross-Model
+        Alignment and Generation.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.1185/
+    - title: Mitigating Paraphrase Attacks on Machine-Text Detection via Paraphrase
+        Inversion.
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.227/
+    - title: 'ObfusLM: Privacy-preserving Language Model Service against Embedding
+        Inversion Attacks.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.58/
+    - title: Stealing Training Data from Large Language Models in Decentralized Training
+        through Activation Inversion Attack.
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.707/
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Text Embedding Inversion Security for Multilingual Language Models.
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.acl-long.422
+    - title: 'Transferable Embedding Inversion Attack: Uncovering Privacy Risks in
+        Text Embeddings without Model Queries.'
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.acl-long.230
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Sentence Embedding Leaks More Information than You Expect: Generative
+        Embedding Inversion Attack to Recover the Whole Sentence.'
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.findings-acl.881
+EMNLP:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An Inversion Attack Against Obfuscated Embedding Matrix in Language Model
+        Inference.
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.126
+    - title: 'OpenSep: Leveraging Large Language Models with Textual Inversion for
+        Open World Audio Separation.'
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.735
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Invernet: An Inversion Attack Framework to Infer Fine-Tuning Datasets
+        through Word Embeddings.'
+      venue: EMNLP
+      year: 2022
+      link: https://doi.org/10.18653/v1/2022.findings-emnlp.368
+COLING:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Gradient Inversion Attack in Federated Learning: Exposing Text Data
+        through Discrete Optimization.'
+      venue: COLING
+      year: 2025
+      link: https://aclanthology.org/2025.coling-main.176/
+  '2012':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Code-Switch Language Model with Inversion Constraints for Mixed Language
+        Speech Recognition.
+      venue: COLING
+      year: 2012
+      link: https://aclanthology.org/C12-1102/
+  '1986':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'The Role of Inversion and PP-Fronting in Relating Discourse Elements:
+        some implications for cognitive and computational models of Natural Language
+        Processing.'
+      venue: COLING
+      year: 1986
+      link: https://aclanthology.org/C86-1040/
+SIGIR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Information Leakage of Sentence Embeddings via Generative Embedding Inversion
+        Attacks.
+      venue: SIGIR
+      year: 2025
+      link: https://doi.org/10.1145/3726302.3730303
+WWW:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Ginver: Generative Model Inversion Attacks Against Collaborative Inference.'
+      venue: WWW
+      year: 2023
+      link: https://doi.org/10.1145/3543507.3583306
+    - title: 'NetGuard: Protecting Commercial Web APIs from Model Inversion Attacks
+        using GAN-generated Fake Samples.'
+      venue: WWW
+      year: 2023
+      link: https://doi.org/10.1145/3543507.3583224
+DAC:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Ensembler: Protect Collaborative Inference Privacy from Model Inversion
+        Attack via Selective Ensemble.'
+      venue: DAC
+      year: 2025
+      link: https://doi.org/10.1109/DAC63849.2025.11132673
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'PRID: Model Inversion Privacy Attacks in Hyperdimensional Learning Systems.'
+      venue: DAC
+      year: 2021
+      link: https://doi.org/10.1109/DAC18074.2021.9586217
+IEEE Trans. Computers:
+  '2000':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Generalized Inversion Attack on Nonlinear Filter Generators.
+      venue: IEEE Trans. Computers
+      year: 2000
+      link: https://doi.org/10.1109/12.888045
+WACV:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Negative-Prompt Inversion: Fast Image Inversion for Editing with Text-Guided
+        Diffusion Models.'
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00207
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'PATROL: Privacy-Oriented Pruning for Collaborative Inference Against
+        Model Inversion Attacks.'
+      venue: WACV
+      year: 2024
+      link: https://doi.org/10.1109/WACV57701.2024.00465
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Reconstructing Training Data from Diverse ML Models by Ensemble Inversion.
+      venue: WACV
+      year: 2022
+      link: https://doi.org/10.1109/WACV51458.2022.00392
+IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
+  '2000':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: SPICE models for flicker noise in n-MOSFETs from subthreshold tostrong
+        inversion.
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 2000
+      link: https://doi.org/10.1109/43.892853
+  '1992':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A mobility model including the screening effect in MOS inversion layer.
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 1992
+      link: https://doi.org/10.1109/43.159997
+  '1989':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Universality of mobility-gate field characteristics of electrons in the
+        inversion charge layer and its application in MOSFET modeling.
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 1989
+      link: https://doi.org/10.1109/43.31529
