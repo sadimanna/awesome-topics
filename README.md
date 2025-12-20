@@ -1,8 +1,8 @@
-# Federated Learning Topics
+# Research Topics
 
 [![Stars](https://img.shields.io/github/stars/sadimanna/awesome-topics.svg?color=orange)](https://github.com/sadimanna/awesome-topics/stargazers) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/sadimanna/awesome-topics.svg?color=green)](https://github.com/youngfish42/image-registration-resources/blob/master/LICENSE) ![](https://img.shields.io/github/last-commit/sadimanna/awesome-topics) 
 
-![Topics](https://img.shields.io/badge/Topics-12-blue) ![Papers](https://img.shields.io/badge/Papers-482-green)
+![Topics](https://img.shields.io/badge/Topics-2-blue) ![Papers](https://img.shields.io/badge/Papers-2356-green)
 
 ## Topics by Paper Volume
 
