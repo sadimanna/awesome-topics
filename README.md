@@ -14,17 +14,6 @@
 
 ![Topic Distribution](assets/topic_distribution.svg)
 
-## Disclaimer & Reuse
-
-This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas.
-
-You are **strongly encouraged to fork this repository** and use it for:
-- Tracking your own research topics
-- Maintaining personalized paper collections
-- Running automated updates for new publications
-
-If you fork and extend this repository, please consider adding a link back to the original repository for attribution and discoverability.
-
 
 <!-- START:TOC -->
 ## Table of Contents
@@ -939,3 +928,13 @@ If you fork and extend this repository, please consider adding a link back to th
 
 <!-- END:TOC -->
 
+## Disclaimer & Reuse
+
+This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas.
+
+You are **strongly encouraged to fork this repository** and use it for:
+- Tracking your own research topics
+- Maintaining personalized paper collections
+- Running automated updates for new publications
+
+If you fork and extend this repository, please consider adding a link back to the original repository for attribution and discoverability.
