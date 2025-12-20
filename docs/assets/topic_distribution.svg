@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="108">
+<style>
+text { font-family: Arial, sans-serif; }
+</style>
+<text x="10" y="46" font-size="14">Federated ML</text>
+<rect x="180" y="30" width="400" height="24" fill="#4c72b0" rx="4" />
+<text x="588" y="46" font-size="14">2230</text>
+<text x="10" y="80" font-size="14">Inversion Attacks</text>
+<rect x="180" y="64" width="22" height="24" fill="#4c72b0" rx="4" />
+<text x="210" y="80" font-size="14">126</text>
+</svg>

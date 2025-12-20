@@ -1,8 +1,8 @@
 import json
 from pathlib import Path
 
-INPUT_JSON = Path("data/topic_counts.json")
-OUTPUT_SVG = Path("assets/topic_distribution.svg")
+INPUT_JSON = Path("./../data/topic_counts.json")
+OUTPUT_SVG = Path("./../docs/assets/topic_distribution.svg")
 
 BAR_HEIGHT = 24
 BAR_GAP = 10
