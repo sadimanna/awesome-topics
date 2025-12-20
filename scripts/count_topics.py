@@ -2,8 +2,8 @@ import json
 import re
 from pathlib import Path
 
-TOPICS_DIR = Path("topics")
-OUTPUT_JSON = Path("data/topic_counts.json")
+TOPICS_DIR = Path("./../docs/_topics")
+OUTPUT_JSON = Path("./../data/topic_counts.json")
 
 TR_PATTERN = re.compile(r"<tr>\s*<td>", re.IGNORECASE)
 
