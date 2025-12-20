@@ -7,6 +7,9 @@
 ![Research](https://img.shields.io/badge/Research-Federated%20Learning-informational)
 ![Research](https://img.shields.io/badge/Research-Inversion%20Attacks-informational)
 
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange) ![Fork Friendly](https://img.shields.io/badge/Fork-Friendly-brightgreen)
+
+
 ## Topics by Paper Volume
 
 ![Topic Distribution](assets/topic_distribution.svg)
