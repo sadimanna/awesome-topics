@@ -59,7 +59,9 @@ class Scaffold:
             venue_data = data.get(venue, {})
 
             md_lines.append(f'## {venue} <a id="{venue_id}"></a>')
+            md_lines.append("")   # REQUIRED blank line
             md_lines.append("<details markdown=\"1\">")
+            md_lines.append("")   # REQUIRED blank line
             md_lines.append(f"<summary>Expand {venue}</summary>")
             md_lines.append("")   # REQUIRED blank line
 
