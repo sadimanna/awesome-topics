@@ -2,15 +2,22 @@ name: auto
 
 on:
   push:
+    branches: [main]
   pull_request:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+    
+permissions: write-all
 
 jobs:
   build:
     runs-on: ubuntu-latest
     env:
       TZ: "Asia/Kolkata"
+      RUN_ENV: "prod" # within ['prod', 'dev']
       GH_USER: ${{ github.repository_owner }}
+      PYTHONDONTWRITEBYTECODE: 1
 
     steps:
       - name: Checkout
@@ -29,6 +36,31 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then python -m pip install -r requirements.txt; fi
 
+      # ============================================
+      # Run DBLP Watcher to get latest papers
+      # ============================================
+      - name: Run dblp watcher
+        run: |
+          cd src
+          python main.py run --env=${{ env.RUN_ENV }}
+
+      - name: Setup var
+        id: vars
+        run: |
+          raw="$(printenv MSG)"
+          echo "raw<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$raw" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Create an issue for new papers
+        if: ${{ steps.vars.outputs.content.raw != '' }}
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          MSG: ${{ steps.vars.outputs.content.raw }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/issue-template.md
+
       - name: Update readme
         run: |
           cd scripts && python main.py merge_md_yaml
@@ -39,28 +71,9 @@ jobs:
           cp README.md docs/index.md
 
       # FOR PROPER RENDERING OF TABLES IN GITHUB PAGES
-      - name: Fix Jekyll <details> blocks
-        run: |
-          sed -i -E 's/<details([^>]*)>/<details\1 markdown="1">/g' docs/index.md
-      
-      # FOR EMOJI RENDERING IN GITHUB PAGES (BECAUSE OF USING MARKDOWN=1 in the above step) 
-      # - name: Fetch emoji mapping
+      # - name: Fix Jekyll <details> blocks
       #   run: |
-      #     curl -s https://gist.githubusercontent.com/rxaviers/7360908/raw/emoji-list.txt > emoji-list.txt
-
-      # - name: Generate sed replacement script
-      #   run: |
-      #     awk '
-      #       {
-      #         emoji = $1
-      #         alias = $2
-      #         print "s/" alias "/" emoji "/g"
-      #       }
-      #     ' emoji-list.txt > replace-emojis.sed
-
-      # - name: Replace emoji aliases in Markdown
-      #   run: |
-      #     sed -i -f replace-emojis.sed docs/index.md
+      #     sed -i -E 's/<details([^>]*)>/<details\1 markdown="1">/g' docs/index.md
 
       - name: Count papers per topic
         run: |

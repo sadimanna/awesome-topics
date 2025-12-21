@@ -1,0 +1,117 @@
+name: Run DBLP Watch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [main]
+
+permissions: write-all
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Kolkata"
+      RUN_ENV: "prod" # within ['prod', 'dev']
+      GH_USER: ${{ github.repository_owner }}
+      PYTHONDONTWRITEBYTECODE: 1
+    steps:
+      # ============================================
+      # TODO [√] 检查工作分支及 Workflows 运行环境
+      # ============================================
+      - name: Checkout dblp-paper-daily repository
+        uses: actions/checkout@v3
+        with:
+          path: dblp-paper-daily
+      # 2. Checkout awesome-topics
+      - name: Checkout awesome-topics
+        uses: actions/checkout@v4
+        with:
+          repository: sadimanna/awesome-topics
+          path: awesome-topics
+          token: ${{ secrets.AWESOME_TOPICS_TOKEN }}
+      # ============================================
+      # TODO [√] 创建 Python3.6+ 编译环境
+      # ============================================
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.8
+      # ============================================
+      # TODO [√] 安装 Project 第三方依赖
+      # ============================================
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f dblp-paper-daily/requirements.txt ]; then pip install -r dblp-paper-daily/requirements.txt; fi
+          if [ -f awesome-topics/requirements.txt ]; then pip install -r awesome-topics/requirements.txt; fi
+      # ============================================
+      # TODO [√] 测试 Scaffold 脚手架指令
+      # ============================================
+      - name: Run dblp watcher
+        run: |
+          cd dblp-paper-daily/src
+          python main.py run --env=${{ env.RUN_ENV }}
+
+      - name: Setup var
+        id: vars
+        run: |
+          raw="$(printenv MSG)"
+          echo "raw<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$raw" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+      
+      # content="$(printenv MSG)"
+      # content="${content//'%'/'%25'}"
+      # content="${content//$'\n'/'%0A'}"
+      # content="${content//$'\r'/'%0D'}"
+      # echo "content=$content" >> "$GITHUB_OUTPUT"
+      # ============================================
+      # Updated: Push work for dblp-paper-daily
+      # ============================================
+      - name: Push done work (dblp-paper-daily)
+        working-directory: dblp-paper-daily
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _data _configs cached
+          git diff --staged --quiet || (git commit -m "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}" && git push --force origin main)
+
+      # ... intermediate steps ...
+
+      - name: Create an issue for new papers
+        if: ${{ steps.vars.outputs.content.raw != '' }}
+        uses: JasonEtco/create-an-issue@v2
+        env:
+          MSG: ${{ steps.vars.outputs.content.raw }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: dblp-paper-daily/.github/issue-template.md
+      
+      # 6. Regenerate README
+      - name: Update README
+        run: |
+          cd awesome-topics/scripts
+          python main.py merge_md_yaml
+
+      # 7. Commit & push
+      # ============================================
+      # Updated: Push work for awesome-topics
+      # ============================================
+      - name: Push (awesome-topics)
+        working-directory: awesome-topics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs _data README.md
+          git diff --staged --quiet || (git commit -m "Auto-update papers from DBLP" && git push)
+
+      - name: Trigger awesome-topics workflow
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.AWESOME_TOPICS_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/sadimanna/awesome-topics/dispatches \
+            -d '{"event_type":"dblp_update"}'
