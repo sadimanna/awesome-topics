@@ -11,7 +11,9 @@
 
 ## Venues Covered
 
-![IJCAI](https://img.shields.io/badge/Venue-IJCAI-blue) ![AAAI](https://img.shields.io/badge/Venue-AAAI-blue) ![NeurIPS](https://img.shields.io/badge/Venue-NeurIPS-blue) ![ICML](https://img.shields.io/badge/Venue-ICML-blue) ![ICLR](https://img.shields.io/badge/Venue-ICLR-blue) ![AISTATS](https://img.shields.io/badge/Venue-AISTATS-blue) ![UAI](https://img.shields.io/badge/Venue-UAI-blue) ![COLT](https://img.shields.io/badge/Venue-COLT-blue) ![MLSys](https://img.shields.io/badge/Venue-MLSys-blue) ![JMLR](https://img.shields.io/badge/Journal-JMLR-blue) ![PAMI](https://img.shields.io/badge/Journal-TPAMI-blue)
+![IJCAI](https://img.shields.io/badge/Venue-IJCAI-blue) ![AAAI](https://img.shields.io/badge/Venue-AAAI-blue) ![NeurIPS](https://img.shields.io/badge/Venue-NeurIPS-blue) ![ICML](https://img.shields.io/badge/Venue-ICML-blue) ![ICLR](https://img.shields.io/badge/Venue-ICLR-blue) ![AISTATS](https://img.shields.io/badge/Venue-AISTATS-blue) ![UAI](https://img.shields.io/badge/Venue-UAI-blue) ![COLT](https://img.shields.io/badge/Venue-COLT-blue) ![MLSys](https://img.shields.io/badge/Venue-MLSys-blue) 
+
+![JMLR](https://img.shields.io/badge/Journal-JMLR-maroon) ![PAMI](https://img.shields.io/badge/Journal-TPAMI-maroon)
 
 ![CVPR](https://img.shields.io/badge/Venue-CVPR-green) ![ICCV](https://img.shields.io/badge/Venue-ICCV-green) ![ECCV](https://img.shields.io/badge/Venue-ECCV-green) ![WACV](https://img.shields.io/badge/Venue-WACV-green)
 
