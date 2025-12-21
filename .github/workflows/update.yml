@@ -53,10 +53,10 @@ jobs:
           echo "EOF" >> "$GITHUB_OUTPUT"
 
       - name: Create an issue for new papers
-        if: ${{ steps.vars.outputs.content.raw != '' }}
+        if: ${{ steps.vars.outputs.raw != '' }}
         uses: JasonEtco/create-an-issue@v2
         env:
-          MSG: ${{ steps.vars.outputs.content.raw }}
+          MSG: ${{ steps.vars.outputs.raw }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           filename: .github/issue-template.md

@@ -3,6 +3,7 @@ from pathlib import Path
 
 INPUT_JSON = Path("./../data/topic_counts.json")
 OUTPUT_SVG = Path("./../docs/assets/topic_distribution.svg")
+ALT_OUTPUT_SVG = Path("./../assets/topic_distribution.svg")
 
 BAR_HEIGHT = 24
 BAR_GAP = 10
@@ -42,3 +43,6 @@ for topic, count in sorted(data.items(), key=lambda x: -x[1]):
 svg.append("</svg>")
 OUTPUT_SVG.parent.mkdir(parents=True, exist_ok=True)
 OUTPUT_SVG.write_text("\n".join(svg))
+
+ALT_OUTPUT_SVG.parent.mkdir(parents=True, exist_ok=True)
+ALT_OUTPUT_SVG.write_text("\n".join(svg))
