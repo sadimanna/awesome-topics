@@ -48,6 +48,7 @@ jobs:
         id: vars
         run: |
           raw="$(printenv MSG)"
+          raw="$(printf '%s' "$raw" | sed 's/\\n/\n/g')"
           echo "raw<<EOF" >> "$GITHUB_OUTPUT"
           echo "$raw" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
