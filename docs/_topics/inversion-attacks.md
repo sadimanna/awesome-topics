@@ -1,6 +1,7 @@
 ---
 title: Inversion Attacks
 layout: topic
+permalink: /inversion-attacks/
 ---
 
 # Inversion Attacks
@@ -238,7 +239,8 @@ layout: topic
 
 <summary>Expand IJCAI</summary>
 
-### 2025 <a id="ijcai-2025"></a>
+<a id="ijcai-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -261,7 +263,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2022 <a id="ijcai-2022"></a>
+<a id="ijcai-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -284,7 +287,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2021 <a id="ijcai-2021"></a>
+<a id="ijcai-2021"></a>
+<h3 class="year-heading">2021</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -307,7 +311,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2015 <a id="ijcai-2015"></a>
+<a id="ijcai-2015"></a>
+<h3 class="year-heading">2015</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -338,7 +343,8 @@ layout: topic
 
 <summary>Expand AAAI</summary>
 
-### 2025 <a id="aaai-2025"></a>
+<a id="aaai-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -373,7 +379,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="aaai-2024"></a>
+<a id="aaai-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -426,7 +433,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2023 <a id="aaai-2023"></a>
+<a id="aaai-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -455,7 +463,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2021 <a id="aaai-2021"></a>
+<a id="aaai-2021"></a>
+<h3 class="year-heading">2021</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -486,7 +495,8 @@ layout: topic
 
 <summary>Expand AISTATS</summary>
 
-### 2025 <a id="aistats-2025"></a>
+<a id="aistats-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -517,7 +527,8 @@ layout: topic
 
 <summary>Expand NeurIPS</summary>
 
-### 2024 <a id="neurips-2024"></a>
+<a id="neurips-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -576,7 +587,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2023 <a id="neurips-2023"></a>
+<a id="neurips-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -605,7 +617,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2022 <a id="neurips-2022"></a>
+<a id="neurips-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -628,7 +641,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2021 <a id="neurips-2021"></a>
+<a id="neurips-2021"></a>
+<h3 class="year-heading">2021</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -669,7 +683,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2020 <a id="neurips-2020"></a>
+<a id="neurips-2020"></a>
+<h3 class="year-heading">2020</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -692,7 +707,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2018 <a id="neurips-2018"></a>
+<a id="neurips-2018"></a>
+<h3 class="year-heading">2018</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -723,7 +739,8 @@ layout: topic
 
 <summary>Expand ICML</summary>
 
-### 2025 <a id="icml-2025"></a>
+<a id="icml-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -752,7 +769,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="icml-2024"></a>
+<a id="icml-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -787,7 +805,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2022 <a id="icml-2022"></a>
+<a id="icml-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -824,7 +843,8 @@ layout: topic
 
 <summary>Expand ICLR</summary>
 
-### 2025 <a id="iclr-2025"></a>
+<a id="iclr-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -871,7 +891,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="iclr-2024"></a>
+<a id="iclr-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -914,7 +935,8 @@ layout: topic
 
 <summary>Expand UAI</summary>
 
-### 2023 <a id="uai-2023"></a>
+<a id="uai-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -945,7 +967,8 @@ layout: topic
 
 <summary>Expand IEEE Trans. Pattern Anal. Mach. Intell.</summary>
 
-### 2025 <a id="ieee trans. pattern anal. mach. intell.-2025"></a>
+<a id="ieee trans. pattern anal. mach. intell.-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -968,7 +991,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="ieee trans. pattern anal. mach. intell.-2024"></a>
+<a id="ieee trans. pattern anal. mach. intell.-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -991,7 +1015,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2023 <a id="ieee trans. pattern anal. mach. intell.-2023"></a>
+<a id="ieee trans. pattern anal. mach. intell.-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1022,7 +1047,8 @@ layout: topic
 
 <summary>Expand KDD</summary>
 
-### 2022 <a id="kdd-2022"></a>
+<a id="kdd-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1053,7 +1079,8 @@ layout: topic
 
 <summary>Expand SP</summary>
 
-### 2025 <a id="sp-2025"></a>
+<a id="sp-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1076,7 +1103,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="sp-2024"></a>
+<a id="sp-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1107,7 +1135,8 @@ layout: topic
 
 <summary>Expand CCS</summary>
 
-### 2024 <a id="ccs-2024"></a>
+<a id="ccs-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1130,7 +1159,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2015 <a id="ccs-2015"></a>
+<a id="ccs-2015"></a>
+<h3 class="year-heading">2015</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1161,7 +1191,8 @@ layout: topic
 
 <summary>Expand USENIX Security Symposium</summary>
 
-### 2025 <a id="usenix security symposium-2025"></a>
+<a id="usenix security symposium-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1190,7 +1221,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2022 <a id="usenix security symposium-2022"></a>
+<a id="usenix security symposium-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1221,7 +1253,8 @@ layout: topic
 
 <summary>Expand NDSS</summary>
 
-### 2025 <a id="ndss-2025"></a>
+<a id="ndss-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1250,7 +1283,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="ndss-2024"></a>
+<a id="ndss-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1273,7 +1307,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2022 <a id="ndss-2022"></a>
+<a id="ndss-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1304,7 +1339,8 @@ layout: topic
 
 <summary>Expand CVPR</summary>
 
-### 2025 <a id="cvpr-2025"></a>
+<a id="cvpr-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1345,7 +1381,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="cvpr-2024"></a>
+<a id="cvpr-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1392,7 +1429,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2023 <a id="cvpr-2023"></a>
+<a id="cvpr-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1439,7 +1477,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2022 <a id="cvpr-2022"></a>
+<a id="cvpr-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1474,7 +1513,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2021 <a id="cvpr-2021"></a>
+<a id="cvpr-2021"></a>
+<h3 class="year-heading">2021</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1497,7 +1537,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2020 <a id="cvpr-2020"></a>
+<a id="cvpr-2020"></a>
+<h3 class="year-heading">2020</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1528,7 +1569,8 @@ layout: topic
 
 <summary>Expand ICCV</summary>
 
-### 2023 <a id="iccv-2023"></a>
+<a id="iccv-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1581,7 +1623,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2021 <a id="iccv-2021"></a>
+<a id="iccv-2021"></a>
+<h3 class="year-heading">2021</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1618,7 +1661,8 @@ layout: topic
 
 <summary>Expand ECCV</summary>
 
-### 2024 <a id="eccv-2024"></a>
+<a id="eccv-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1691,7 +1735,8 @@ layout: topic
 
 <summary>Expand ACM Multimedia</summary>
 
-### 2023 <a id="acm multimedia-2023"></a>
+<a id="acm multimedia-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1728,7 +1773,8 @@ layout: topic
 
 <summary>Expand ACL</summary>
 
-### 2025 <a id="acl-2025"></a>
+<a id="acl-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1769,7 +1815,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="acl-2024"></a>
+<a id="acl-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1798,7 +1845,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2023 <a id="acl-2023"></a>
+<a id="acl-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1829,7 +1877,8 @@ layout: topic
 
 <summary>Expand EMNLP</summary>
 
-### 2024 <a id="emnlp-2024"></a>
+<a id="emnlp-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1858,7 +1907,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2022 <a id="emnlp-2022"></a>
+<a id="emnlp-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1889,7 +1939,8 @@ layout: topic
 
 <summary>Expand COLING</summary>
 
-### 2025 <a id="coling-2025"></a>
+<a id="coling-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1912,7 +1963,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2012 <a id="coling-2012"></a>
+<a id="coling-2012"></a>
+<h3 class="year-heading">2012</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1935,7 +1987,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 1986 <a id="coling-1986"></a>
+<a id="coling-1986"></a>
+<h3 class="year-heading">1986</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1966,7 +2019,8 @@ layout: topic
 
 <summary>Expand SIGIR</summary>
 
-### 2025 <a id="sigir-2025"></a>
+<a id="sigir-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -1997,7 +2051,8 @@ layout: topic
 
 <summary>Expand WWW</summary>
 
-### 2023 <a id="www-2023"></a>
+<a id="www-2023"></a>
+<h3 class="year-heading">2023</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2034,7 +2089,8 @@ layout: topic
 
 <summary>Expand DAC</summary>
 
-### 2025 <a id="dac-2025"></a>
+<a id="dac-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2057,7 +2113,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2021 <a id="dac-2021"></a>
+<a id="dac-2021"></a>
+<h3 class="year-heading">2021</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2088,7 +2145,8 @@ layout: topic
 
 <summary>Expand IEEE Trans. Computers</summary>
 
-### 2000 <a id="ieee trans. computers-2000"></a>
+<a id="ieee trans. computers-2000"></a>
+<h3 class="year-heading">2000</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2119,7 +2177,8 @@ layout: topic
 
 <summary>Expand WACV</summary>
 
-### 2025 <a id="wacv-2025"></a>
+<a id="wacv-2025"></a>
+<h3 class="year-heading">2025</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2142,7 +2201,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2024 <a id="wacv-2024"></a>
+<a id="wacv-2024"></a>
+<h3 class="year-heading">2024</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2165,7 +2225,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 2022 <a id="wacv-2022"></a>
+<a id="wacv-2022"></a>
+<h3 class="year-heading">2022</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2196,7 +2257,8 @@ layout: topic
 
 <summary>Expand IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</summary>
 
-### 2000 <a id="ieee trans. comput. aided des. integr. circuits syst.-2000"></a>
+<a id="ieee trans. comput. aided des. integr. circuits syst.-2000"></a>
+<h3 class="year-heading">2000</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2219,7 +2281,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 1992 <a id="ieee trans. comput. aided des. integr. circuits syst.-1992"></a>
+<a id="ieee trans. comput. aided des. integr. circuits syst.-1992"></a>
+<h3 class="year-heading">1992</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">
@@ -2242,7 +2305,8 @@ layout: topic
 </tr>
 </tbody></table>
 
-### 1989 <a id="ieee trans. comput. aided des. integr. circuits syst.-1989"></a>
+<a id="ieee trans. comput. aided des. integr. circuits syst.-1989"></a>
+<h3 class="year-heading">1989</h3>
 <table class="paper-table">
 <colgroup>
 <col style="width: 60%">

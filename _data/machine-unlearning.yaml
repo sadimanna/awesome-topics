@@ -1,0 +1,1184 @@
+section:
+- title: IJCAI
+- title: AAAI
+- title: AISTATS
+- title: ALT
+- title: NeurIPS
+- title: ICML
+- title: ICLR
+- title: COLT
+- title: UAI
+- title: Mach. Learn.
+- title: IEEE Trans. Pattern Anal. Mach. Intell.
+- title: KDD
+- title: SP
+- title: IEEE Symposium on Security and Privacy
+- title: CCS
+- title: USENIX Security Symposium
+- title: NDSS
+- title: CVPR
+- title: ICCV
+- title: ECCV
+- title: ACM Multimedia
+- title: ACL
+- title: EMNLP
+- title: Proc. ACM Manag. Data
+- title: SIGMOD Conference
+- title: Proc. VLDB Endow.
+- title: INFOCOM
+- title: WWW
+- title: DAC
+- title: WACV
+IJCAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Contrastive Unlearning: A Contrastive Approach to Machine Unlearning.'
+      venue: IJCAI
+      year: 2025
+      link: https://doi.org/10.24963/ijcai.2025/830
+    - title: How to Make Reproducible Research in Machine Unlearning with ERASURE.
+      venue: IJCAI
+      year: 2025
+      link: https://doi.org/10.24963/ijcai.2025/1255
+    - title: Zero-Shot Machine Unlearning with Proxy Adversarial Data Generation.
+      venue: IJCAI
+      year: 2025
+      link: https://doi.org/10.24963/ijcai.2025/39
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning via Null Space Calibration.
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/40
+    - title: 'Machine Unlearning: Challenges in Data Quality and Access.'
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/987
+    - title: 'Unlearning during Learning: An Efficient Federated Machine Unlearning
+        Method.'
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/446
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ARCANE: An Efficient Architecture for Exact Machine Unlearning.'
+      venue: IJCAI
+      year: 2022
+      link: https://doi.org/10.24963/ijcai.2022/556
+AAAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Distribution-Level Feature Distancing for Machine Unlearning: Towards
+        a Better Trade-off Between Model Utility and Forgetting.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i3.32256
+    - title: 'Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language
+        Models for Privacy Leakage.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i19.34218
+    - title: 'SAP: Corrective Machine Unlearning with Scaled Activation Projection
+        for Label Noise Robustness.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i17.33972
+    - title: 'Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation
+        in Language Models.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i1.32068
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Backdoor Attacks via Machine Unlearning.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i13.29321
+    - title: Fast Machine Unlearning without Retraining through Selective Synaptic
+        Dampening.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i11.29092
+    - title: 'Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer
+        Level Attack and Knowledge Distillation.'
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i19.30118
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Hard to Forget: Poisoning Attacks on Certified Machine Unlearning.'
+      venue: AAAI
+      year: 2022
+      link: https://doi.org/10.1609/aaai.v36i7.20736
+AISTATS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Fair Machine Unlearning: Data Removal while Mitigating Disparities.'
+      venue: AISTATS
+      year: 2024
+      link: https://proceedings.mlr.press/v238/oesterling24a.html
+ALT:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Descent-to-Delete: Gradient-Based Methods for Machine Unlearning.'
+      venue: ALT
+      year: 2021
+      link: http://proceedings.mlr.press/v132/neel21a.html
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Certified Machine Unlearning via Noisy Stochastic Gradient Descent.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/448abd486677165ceedfa790e9a61802-Abstract-Conference.html
+    - title: 'Langevin Unlearning: A New Perspective of Noisy Gradient Descent for
+        Machine Unlearning.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/9161a3e810cc0542718abddb791e8aed-Abstract-Conference.html
+    - title: 'Reconstruction Attacks on Machine Unlearning: Simple Models are Vulnerable.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/bd996108ed57d388866ca6deb7acf6cb-Abstract-Conference.html
+    - title: 'Single Image Unlearning: Efficient Machine Unlearning in Multimodal
+        Large Language Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html
+    - title: Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/2e622ac74f66df03b686a12e2e0e4424-Abstract-Conference.html
+    - title: 'UnlearnCanvas: Stylized Image Dataset for Enhanced Machine Unlearning
+        Evaluation in Diffusion Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/aebf4822d30c3f2600566af7eba83548-Abstract-Datasets_and_Benchmarks_Track.html
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Fast Model DeBias with Machine Unlearning.
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/2ecc80084c96cc25b11b0ab995c25f47-Abstract-Conference.html
+    - title: 'Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks.'
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/8b4add8b0aa8749d80a34ca5d941c355-Abstract-Conference.html
+    - title: Model Sparsity Can Simplify Machine Unlearning.
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/a204aa68ab4e970e1ceccfb5b5cdc5e4-Abstract-Conference.html
+    - title: Towards Unbounded Machine Unlearning.
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/062d711fb777322e2152435459e6e9d9-Abstract-Conference.html
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Prompt Certified Machine Unlearning with Randomized Gradient Smoothing
+        and Quantization.
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/5771d9f214b75be6ff20f63bba315644-Abstract-Conference.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Adaptive Machine Unlearning.
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/87f7ee4fdb57bdfd52179947211b7ebb-Abstract.html
+    - title: 'Remember What You Want to Forget: Algorithms for Machine Unlearning.'
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/9627c45df543c816a3ddf2d8ea686a99-Abstract.html
+ICML:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Flexible, Efficient, and Stable Adversarial Attacks on Machine Unlearning.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=ba3sSfEnj1
+    - title: Leveraging Per-Instance Privacy for Machine Unlearning.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=0A4Y9qRnu9
+    - title: 'NegMerge: Sign-Consensual Weight Merging for Machine Unlearning.'
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=ZbWXovStjD
+    - title: 'SEMU: Singular Value Decomposition for Efficient Machine Unlearning.'
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=jnhkY0yCIW
+    - title: When to Forget? Complexity Trade-offs in Machine Unlearning.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=uEUIeIrRPv
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Verification of Machine Unlearning is Fragile.
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=OkChMnjF6s
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Fast Federated Machine Unlearning with Nonlinear Functional Theory.
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/che23b.html
+    - title: 'Forget Unlearning: Towards True Data-Deletion in Machine Learning.'
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/chourasia23a.html
+    - title: From Adaptive Query Release to Machine Unlearning.
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/ullah23a.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning for Random Forests.
+      venue: ICML
+      year: 2021
+      link: http://proceedings.mlr.press/v139/brophy21a.html
+ICLR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Closer Look at Machine Unlearning for Large Language Models.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=Q1MHvGmhyT
+    - title: Adversarial Machine Unlearning.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=swWF948IiC
+    - title: 'DynFrs: An Efficient Framework for Machine Unlearning in Random Forest.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=nsCOeCLR8e
+    - title: 'MUSE: Machine Unlearning Six-Way Evaluation for Language Models.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=TArmA033BU
+    - title: Machine Unlearning Fails to Remove Data Poisoning Attacks.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=HaX48yksVL
+    - title: Machine Unlearning via Simulated Oracle Matching.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=3vXpZpOn29
+    - title: 'Score Forgetting Distillation: A Swift, Data-Free Method for Machine
+        Unlearning in Diffusion Models.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=gjwhDHeAsz
+    - title: The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=HVFMooKrHX
+    - title: Towards Scalable Exact Machine Unlearning Using Parameter-Efficient Fine-Tuning.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=oe51Q5Uo37
+    - title: 'Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model
+        Accuracy.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=5xxGP9x5dZ
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning for Image-to-Image Generative Models.
+      venue: ICLR
+      year: 2024
+      link: https://openreview.net/forum?id=9hjVoPWPnh
+    - title: 'SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency
+        in Both Image Classification and Generation.'
+      venue: ICLR
+      year: 2024
+      link: https://openreview.net/forum?id=gn0mIhQGNM
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning of Federated Clusters.
+      venue: ICLR
+      year: 2023
+      link: https://openreview.net/forum?id=VzwfoFyYDga
+COLT:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning via Algorithmic Stability.
+      venue: COLT
+      year: 2021
+      link: http://proceedings.mlr.press/v134/ullah21a.html
+UAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SALSA: A Secure, Adaptive and Label-Agnostic Scalable Algorithm for
+        Machine Unlearning.'
+      venue: UAI
+      year: 2025
+      link: https://proceedings.mlr.press/v286/makroo25a.html
+Mach. Learn.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MUSO: achieving exact machine unlearning in over-parameterized regimes.'
+      venue: Mach. Learn.
+      year: 2025
+      link: https://doi.org/10.1007/s10994-025-06806-0
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Machine unlearning: linear filtration for logit-based classifiers.'
+      venue: Mach. Learn.
+      year: 2022
+      link: https://doi.org/10.1007/s10994-022-06178-9
+IEEE Trans. Pattern Anal. Mach. Intell.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Towards Natural Machine Unlearning.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TPAMI.2025.3597350
+KDD:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'From Expansion to Retraction: Long-tailed Machine Unlearning via Boundary
+        Manipulation.'
+      venue: KDD
+      year: 2025
+      link: https://doi.org/10.1145/3711896.3736970
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning in Gradient Boosting Decision Trees.
+      venue: KDD
+      year: 2023
+      link: https://doi.org/10.1145/3580305.3599420
+SP:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Learn What You Want to Unlearn: Unlearning Inversion Attacks against
+        Machine Unlearning.'
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00248
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning.
+      venue: SP
+      year: 2021
+      link: https://doi.org/10.1109/SP40001.2021.00019
+IEEE Symposium on Security and Privacy:
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Towards Making Systems Forget with Machine Unlearning.
+      venue: IEEE Symposium on Security and Privacy
+      year: 2015
+      link: https://doi.org/10.1109/SP.2015.35
+CCS:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient
+        Machine Unlearning.'
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3744827
+    - title: Rethinking Machine Unlearning in Image Generation Models.
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3744793
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach.'
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3670398
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: When Machine Unlearning Jeopardizes Privacy.
+      venue: CCS
+      year: 2021
+      link: https://doi.org/10.1145/3460120.3484756
+USENIX Security Symposium:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/ye-duplication
+    - title: 'Rectifying Privacy and Efficacy Measurements in Machine Unlearning:
+        A New Inference Attack Perspective.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/naderloui
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning.
+      venue: USENIX Security Symposium
+      year: 2022
+      link: https://www.usenix.org/conference/usenixsecurity22/presentation/thudi
+NDSS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in
+        Machine Unlearning Services.
+      venue: NDSS
+      year: 2024
+      link: https://www.ndss-symposium.org/ndss-paper/a-duty-to-forget-a-right-to-be-assured-exposing-vulnerabilities-in-machine-unlearning-services/
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning of Features and Labels.
+      venue: NDSS
+      year: 2023
+      link: https://www.ndss-symposium.org/ndss-paper/machine-unlearning-of-features-and-labels/
+CVPR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Spartalis_LoTUS_Large-Scale_Machine_Unlearning_with_a_Taste_of_Uncertainty_CVPR_2025_paper.html
+    - title: 'The Illusion of Unlearning: The Unstable Nature of Machine Unlearning
+        in Text-to-Image Diffusion Models.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html
+    - title: Towards Source-Free Machine Unlearning.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Ahmed_Towards_Source-Free_Machine_Unlearning_CVPR_2025_paper.html
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer.'
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01929
+ICCV:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MUter: Machine Unlearning on Adversarially Trained Models.'
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00451
+    - title: 'SAFE: Machine Unlearning With Shard Graphs.'
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.01569
+ECCV:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine
+        Unlearning.'
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72664-4_16
+    - title: Is Retain Set All You Need in Machine Unlearning? Restoring Performance
+        of Unlearned Models with Out-of-Distribution Images.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-73232-4_1
+    - title: Learning to Unlearn for Robust Machine Unlearning.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72943-0_12
+    - title: MultiDelete for Multimodal Machine Unlearning.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72940-9_10
+ACM Multimedia:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted
+        Gradients.'
+      venue: ACM Multimedia
+      year: 2024
+      link: https://doi.org/10.1145/3664647.3680775
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach.'
+      venue: ACM Multimedia
+      year: 2022
+      link: https://doi.org/10.1145/3503161.3548378
+ACL:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning
+        for Large Language Models.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.719/
+    - title: Disentangling Biased Knowledge from Reasoning in Large Language Models
+        via Machine Unlearning.
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.305/
+    - title: 'MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era
+        of Multimodal Large Language Models.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.375/
+    - title: 'SafeEraser: Enhancing Safety in Multimodal Large Language Models through
+        Multimodal Machine Unlearning.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.731/
+    - title: 'Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.1154/
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Deciphering the Impact of Pretraining Data on Large Language Models through
+        Machine Unlearning.
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-acl.559
+    - title: Machine Unlearning of Pre-trained Large Language Models.
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.acl-long.457
+    - title: Towards Safer Large Language Models through Machine Unlearning.
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-acl.107
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment.'
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.acl-long.740
+EMNLP:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Can Machine Unlearning Reduce Social Bias in Language Models?
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-industry.71
+    - title: Rethinking Evaluation Methods for Machine Unlearning.
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-emnlp.271
+Proc. ACM Manag. Data:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Machine Unlearning in Learned Databases: An Experimental Analysis.'
+      venue: Proc. ACM Manag. Data
+      year: 2024
+      link: https://doi.org/10.1145/3639304
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine
+        Unlearning.'
+      venue: Proc. ACM Manag. Data
+      year: 2023
+      link: https://doi.org/10.1145/3589313
+SIGMOD Conference:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning.'
+      venue: SIGMOD Conference
+      year: 2021
+      link: https://doi.org/10.1145/3448016.3457239
+Proc. VLDB Endow.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Snapcase - Regain Control over Your Predictions with Low-Latency Machine
+        Unlearning.
+      venue: Proc. VLDB Endow.
+      year: 2024
+      link: https://www.vldb.org/pvldb/vol17/p4273-schelter.pdf
+INFOCOM:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Backdoor Defense with Machine Unlearning.
+      venue: INFOCOM
+      year: 2022
+      link: https://doi.org/10.1109/INFOCOM48880.2022.9796974
+WWW:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FUNU: Boosting Machine Unlearning Efficiency by Filtering Unnecessary
+        Unlearning.'
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3696410.3714711
+    - title: Fairness and Robustness in Machine Unlearning.
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3701716.3715598
+    - title: 'TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning.'
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3696410.3714875
+    - title: 'Towards Safe Machine Unlearning: A Paradigm that Mitigates Performance
+        Degradation.'
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3696410.3714638
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Breaking the Trilemma of Privacy, Utility, and Efficiency via Controllable
+        Machine Unlearning.
+      venue: WWW
+      year: 2024
+      link: https://doi.org/10.1145/3589334.3645669
+DAC:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks
+        using Machine Unlearning.'
+      venue: DAC
+      year: 2025
+      link: https://doi.org/10.1109/DAC63849.2025.11133199
+WACV:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Revisiting Machine Unlearning with Dimensional Alignment.
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00317

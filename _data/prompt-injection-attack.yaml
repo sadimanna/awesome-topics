@@ -1,0 +1,294 @@
+section:
+- title: NeurIPS
+- title: ICML
+- title: ICLR
+- title: KDD
+- title: SP
+- title: CCS
+- title: USENIX Security Symposium
+- title: ACL
+- title: NAACL-HLT
+- title: EMNLP
+- title: ICSE
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks
+        and Defenses for LLM Agents.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html
+ICML:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MELON: Provable Defense Against Indirect Prompt Injection Attacks in
+        AI Agents.'
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=gt1MmGaKdZ
+ICLR:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Tensor Trust: Interpretable Prompt Injection Attacks from an Online
+        Game.'
+      venue: ICLR
+      year: 2024
+      link: https://openreview.net/forum?id=fsW7wJGLBd
+KDD:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Benchmarking and Defending against Indirect Prompt Injection Attacks
+        on Large Language Models.
+      venue: KDD
+      year: 2025
+      link: https://doi.org/10.1145/3690624.3709179
+    - title: Generalizable Graph Prompt Learning Framework with Model-level Prompt
+        Injection and Two-Stage Prompt Tuning.
+      venue: KDD
+      year: 2025
+      link: https://doi.org/10.1145/3711896.3736976
+SP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks.'
+      venue: SP
+      year: 2025
+      link: https://doi.org/10.1109/SP61157.2025.00250
+    - title: 'Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to
+        Optimization-Based Prompt Injection Attacks via the Fine-Tuning Interface.'
+      venue: SP
+      year: 2025
+      link: https://doi.org/10.1109/SP61157.2025.00121
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'PromptCARE: Prompt Copyright Protection by Watermark Injection and Verification.'
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00209
+CCS:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SecAlign: Defending Against Prompt Injection with Preference Optimization.'
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3744836
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Optimization-based Prompt Injection Attack to LLM-as-a-Judge.
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3690291
+USENIX Security Symposium:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'StruQ: Defending Against Prompt Injection with Structured Queries.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/chen-sizhe
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Formalizing and Benchmarking Prompt Injection Attacks and Defenses.
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei
+ACL:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Can Indirect Prompt Injection Attacks Be Detected and Removed?
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.890/
+    - title: Defense Against Prompt Injection Attack by Leveraging Attack Techniques.
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.897/
+    - title: 'PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.1468/
+    - title: 'The Task Shield: Enforcing Task Alignment to Defend Against Indirect
+        Prompt Injection in LLM Agents.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.1435/
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated
+        Large Language Model Agents.'
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-acl.624
+NAACL-HLT:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Backdooring Instruction-Tuned Large Language Models with Virtual Prompt
+        Injection.
+      venue: NAACL-HLT
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.naacl-long.337
+EMNLP:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Evaluating the Instruction-Following Robustness of Large Language Models
+        to Prompt Injection.
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.33
+ICSE:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Prompt-to-SQL Injections in LLM-Integrated Web Applications: Risks and
+        Defenses.'
+      venue: ICSE
+      year: 2025
+      link: https://doi.org/10.1109/ICSE55347.2025.00007

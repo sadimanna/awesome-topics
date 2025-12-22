@@ -1,0 +1,390 @@
+section:
+- title: IJCAI
+- title: ICML
+- title: ICLR
+- title: AAAI
+- title: AISTATS
+- title: NeurIPS
+- title: Mach. Learn.
+- title: IEEE Trans. Artif. Intell.
+- title: WSDM
+- title: CVPR
+- title: SIGIR
+- title: Proc. VLDB Endow.
+- title: INFOCOM
+- title: WWW
+- title: WACV
+IJCAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Zero-shot Federated Unlearning via Transforming from Data-Dependent to
+        Personalized Model-Centric.
+      venue: IJCAI
+      year: 2025
+      link: https://doi.org/10.24963/ijcai.2025/733
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Scalable Federated Unlearning via Isolated and Coded Sharding.
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/503
+    - title: 'Unlearning during Learning: An Efficient Federated Machine Unlearning
+        Method.'
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/446
+ICML:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Fast Federated Machine Unlearning with Nonlinear Functional Theory.
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/che23b.html
+ICLR:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Machine Unlearning of Federated Clusters.
+      venue: ICLR
+      year: 2023
+      link: https://openreview.net/forum?id=VzwfoFyYDga
+AAAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Federated Unlearning with Gradient Descent and Conflict Mitigation.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i19.34181
+AISTATS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SIFU: Sequential Informed Federated Unlearning for Efficient and Provable
+        Client Unlearning in Federated Optimization.'
+      venue: AISTATS
+      year: 2024
+      link: https://proceedings.mlr.press/v238/fraboni24a.html
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Ferrari: Federated Feature Unlearning via Optimizing Feature Sensitivity.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/2b09bb02b90584e2be94ff3ae09289bc-Abstract-Conference.html
+Mach. Learn.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Efficient federated unlearning under plausible deniability.
+      venue: Mach. Learn.
+      year: 2025
+      link: https://doi.org/10.1007/s10994-024-06685-x
+IEEE Trans. Artif. Intell.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Malicious Clients and Contribution Co-Aware Federated Unlearning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3556092
+WSDM:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Federated Unlearning for On-Device Recommendation.
+      venue: WSDM
+      year: 2023
+      link: https://doi.org/10.1145/3539597.3570463
+CVPR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'NoT: Federated Unlearning via Weight Negation.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Khalil_NoT_Federated_Unlearning_via_Weight_Negation_CVPR_2025_paper.html
+    - title: 'Unlearning through Knowledge Overwriting: Reversible Federated Unlearning
+        via Selective Sparse Adapter.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Unlearning_through_Knowledge_Overwriting_Reversible_Federated_Unlearning_via_Selective_Sparse_CVPR_2025_paper.html
+SIGIR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Unlearning for Federated Online Learning to Rank: A Reproducibility
+        Study.'
+      venue: SIGIR
+      year: 2025
+      link: https://doi.org/10.1145/3726302.3730336
+Proc. VLDB Endow.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Communication Efficient and Provable Federated Unlearning.
+      venue: Proc. VLDB Endow.
+      year: 2024
+      link: https://www.vldb.org/pvldb/vol17/p1119-wang.pdf
+INFOCOM:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: AoI-Aware Federated Unlearning for Streaming Data with Online Client
+        Selection and Pricing.
+      venue: INFOCOM
+      year: 2025
+      link: https://doi.org/10.1109/INFOCOM55648.2025.11044760
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Strategic Data Revocation in Federated Unlearning.
+      venue: INFOCOM
+      year: 2024
+      link: https://doi.org/10.1109/INFOCOM52122.2024.10621201
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Asynchronous Federated Unlearning.
+      venue: INFOCOM
+      year: 2023
+      link: https://doi.org/10.1109/INFOCOM53939.2023.10229075
+WWW:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems
+        against Attribute Inference Attacks.'
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3696410.3714823
+    - title: Poisoning Attacks and Defenses to Federated Unlearning.
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3701716.3715494
+    - title: Subgraph Federated Unlearning.
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3696410.3714821
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Incentive and Dynamic Client Selection for Federated Unlearning.
+      venue: WWW
+      year: 2024
+      link: https://doi.org/10.1145/3589334.3645462
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.
+      venue: WWW
+      year: 2023
+      link: https://doi.org/10.1145/3543507.3583305
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Federated Unlearning via Class-Discriminative Pruning.
+      venue: WWW
+      year: 2022
+      link: https://doi.org/10.1145/3485447.3512222
+WACV:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Identify Backdoored Model in Federated Learning via Individual Unlearning.
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00773

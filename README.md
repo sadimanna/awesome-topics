@@ -36,670 +36,815 @@
 <!-- START:TOC -->
 ## Table of Contents
 
-<details markdown="1">
 
-<summary><strong>[Federated ML](https://sadimanna.github.io/awesome-topics/federatedml)</strong></summary>
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/federated-m-l">Federated M L</a></strong></summary>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IJCAI](https://sadimanna.github.io/awesome-topics/federatedml#ijcai)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ijcai">IJCAI</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#ijcai-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#ijcai-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#ijcai-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#ijcai-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#ijcai-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#ijcai-2020)
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#ijcai-2019)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ijcai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ijcai-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ijcai-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ijcai-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#ijcai-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#ijcai-2020)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#ijcai-2019)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[AAAI](https://sadimanna.github.io/awesome-topics/federatedml#aaai)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#aaai">AAAI</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#aaai-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#aaai-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#aaai-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#aaai-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#aaai-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#aaai-2020)
-  - [2011](https://sadimanna.github.io/awesome-topics/federatedml#aaai-2011)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2020)
+  - [2011](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2011)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[AISTATS](https://sadimanna.github.io/awesome-topics/federatedml#aistats)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#aistats">AISTATS</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#aistats-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#aistats-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#aistats-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#aistats-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#aistats-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#aistats-2020)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#aistats-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#aistats-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#aistats-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#aistats-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#aistats-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#aistats-2020)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ALT](https://sadimanna.github.io/awesome-topics/federatedml#alt)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#alt">ALT</a></summary>
 
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#alt-2022)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#alt-2022)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[Artif. Intell.](https://sadimanna.github.io/awesome-topics/federatedml#artif. intell.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#artif-intell">Artif. Intell.</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#artif. intell.-2025)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#artif. intell.-2023)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#artif. intell.-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#artif. intell.-2023)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[NeurIPS](https://sadimanna.github.io/awesome-topics/federatedml#neurips)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#neurips">NeurIPS</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#neurips-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#neurips-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#neurips-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#neurips-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#neurips-2020)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#neurips-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#neurips-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#neurips-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#neurips-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#neurips-2020)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICML](https://sadimanna.github.io/awesome-topics/federatedml#icml)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#icml">ICML</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#icml-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#icml-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#icml-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#icml-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#icml-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#icml-2020)
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#icml-2019)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#icml-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#icml-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#icml-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#icml-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#icml-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#icml-2020)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#icml-2019)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICLR](https://sadimanna.github.io/awesome-topics/federatedml#iclr)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#iclr">ICLR</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#iclr-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#iclr-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#iclr-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#iclr-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#iclr-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#iclr-2020)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#iclr-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#iclr-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#iclr-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#iclr-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#iclr-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#iclr-2020)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[COLT](https://sadimanna.github.io/awesome-topics/federatedml#colt)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#colt">COLT</a></summary>
 
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#colt-2023)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#colt-2023)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[UAI](https://sadimanna.github.io/awesome-topics/federatedml#uai)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#uai">UAI</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#uai-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#uai-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#uai-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#uai-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#uai-2021)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#uai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#uai-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#uai-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#uai-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#uai-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[Mach. Learn.](https://sadimanna.github.io/awesome-topics/federatedml#mach. learn.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#mach-learn">Mach. Learn.</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#mach. learn.-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#mach. learn.-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#mach. learn.-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#mach. learn.-2022)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#mach. learn.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#mach. learn.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#mach. learn.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#mach. learn.-2022)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[J. Mach. Learn. Res.](https://sadimanna.github.io/awesome-topics/federatedml#j. mach. learn. res.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#j-mach-learn-res">J. Mach. Learn. Res.</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#j. mach. learn. res.-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#j. mach. learn. res.-2023)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#j. mach. learn. res.-2021)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#j. mach. learn. res.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#j. mach. learn. res.-2023)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#j. mach. learn. res.-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Trans. Pattern Anal. Mach. Intell.](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. pattern anal. mach. intell.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. pattern anal. mach. intell.-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. pattern anal. mach. intell.-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. pattern anal. mach. intell.-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. pattern anal. mach. intell.-2022)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. pattern anal. mach. intell.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. pattern anal. mach. intell.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. pattern anal. mach. intell.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. pattern anal. mach. intell.-2022)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[KDD](https://sadimanna.github.io/awesome-topics/federatedml#kdd)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#kdd">KDD</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#kdd-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#kdd-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#kdd-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#kdd-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#kdd-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#kdd-2020)
-  - [2017](https://sadimanna.github.io/awesome-topics/federatedml#kdd-2017)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#kdd-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#kdd-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#kdd-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#kdd-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#kdd-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#kdd-2020)
+  - [2017](https://sadimanna.github.io/awesome-topics/federated-m-l#kdd-2017)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[WSDM](https://sadimanna.github.io/awesome-topics/federatedml#wsdm)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm">WSDM</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#wsdm-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#wsdm-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#wsdm-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#wsdm-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#wsdm-2021)
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#wsdm-2019)
-  - [2012](https://sadimanna.github.io/awesome-topics/federatedml#wsdm-2012)
-  - [2011](https://sadimanna.github.io/awesome-topics/federatedml#wsdm-2011)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2021)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2019)
+  - [2012](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2012)
+  - [2011](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2011)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SP](https://sadimanna.github.io/awesome-topics/federatedml#sp)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#sp">SP</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#sp-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#sp-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#sp-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#sp-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#sp-2021)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#sp-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#sp-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#sp-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#sp-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#sp-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Symposium on Security and Privacy Workshops](https://sadimanna.github.io/awesome-topics/federatedml#ieee symposium on security and privacy workshops)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-symposium-on-security-and-privacy-workshops">IEEE Symposium on Security and Privacy Workshops</a></summary>
 
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#ieee symposium on security and privacy workshops-2019)
-  - [2015](https://sadimanna.github.io/awesome-topics/federatedml#ieee symposium on security and privacy workshops-2015)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee symposium on security and privacy workshops-2019)
+  - [2015](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee symposium on security and privacy workshops-2015)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Symposium on Security and Privacy](https://sadimanna.github.io/awesome-topics/federatedml#ieee symposium on security and privacy)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-symposium-on-security-and-privacy">IEEE Symposium on Security and Privacy</a></summary>
 
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#ieee symposium on security and privacy-2019)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee symposium on security and privacy-2019)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[CCS](https://sadimanna.github.io/awesome-topics/federatedml#ccs)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ccs">CCS</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#ccs-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#ccs-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#ccs-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#ccs-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#ccs-2021)
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#ccs-2019)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ccs-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ccs-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ccs-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ccs-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#ccs-2021)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#ccs-2019)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[USENIX Security Symposium](https://sadimanna.github.io/awesome-topics/federatedml#usenix security symposium)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#usenix-security-symposium">USENIX Security Symposium</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#usenix security symposium-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#usenix security symposium-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#usenix security symposium-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#usenix security symposium-2022)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#usenix security symposium-2020)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#usenix security symposium-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#usenix security symposium-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#usenix security symposium-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#usenix security symposium-2022)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#usenix security symposium-2020)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[CSET @ USENIX Security Symposium](https://sadimanna.github.io/awesome-topics/federatedml#cset @ usenix security symposium)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#cset-usenix-security-symposium">CSET @ USENIX Security Symposium</a></summary>
 
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#cset @ usenix security symposium-2019)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#cset @ usenix security symposium-2019)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[NDSS](https://sadimanna.github.io/awesome-topics/federatedml#ndss)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ndss">NDSS</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#ndss-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#ndss-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#ndss-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#ndss-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#ndss-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#ndss-2020)
-  - [2014](https://sadimanna.github.io/awesome-topics/federatedml#ndss-2014)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ndss-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ndss-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ndss-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ndss-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#ndss-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#ndss-2020)
+  - [2014](https://sadimanna.github.io/awesome-topics/federated-m-l#ndss-2014)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[CVPR](https://sadimanna.github.io/awesome-topics/federatedml#cvpr)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#cvpr">CVPR</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#cvpr-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#cvpr-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#cvpr-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#cvpr-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#cvpr-2021)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#cvpr-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#cvpr-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#cvpr-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#cvpr-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#cvpr-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICCV](https://sadimanna.github.io/awesome-topics/federatedml#iccv)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#iccv">ICCV</a></summary>
 
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#iccv-2023)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#iccv-2021)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#iccv-2023)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#iccv-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ECCV](https://sadimanna.github.io/awesome-topics/federatedml#eccv)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#eccv">ECCV</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#eccv-2024)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#eccv-2022)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#eccv-2020)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#eccv-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#eccv-2022)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#eccv-2020)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ACM Multimedia](https://sadimanna.github.io/awesome-topics/federatedml#acm multimedia)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#acm-multimedia">ACM Multimedia</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#acm multimedia-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#acm multimedia-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#acm multimedia-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#acm multimedia-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#acm multimedia-2020)
-  - [1999](https://sadimanna.github.io/awesome-topics/federatedml#acm multimedia-1999)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2020)
+  - [1999](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-1999)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[Int. J. Comput. Vis.](https://sadimanna.github.io/awesome-topics/federatedml#int. j. comput. vis.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#int-j-comput-vis">Int. J. Comput. Vis.</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#int. j. comput. vis.-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#int. j. comput. vis.-2024)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#int. j. comput. vis.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#int. j. comput. vis.-2024)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ACL](https://sadimanna.github.io/awesome-topics/federatedml#acl)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#acl">ACL</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#acl-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#acl-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#acl-2023)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#acl-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#acl-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#acl-2023)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[NAACL-HLT](https://sadimanna.github.io/awesome-topics/federatedml#naacl-hlt)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#naacl-hlt">NAACL-HLT</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#naacl-hlt-2024)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#naacl-hlt-2022)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#naacl-hlt-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#naacl-hlt-2022)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[EMNLP](https://sadimanna.github.io/awesome-topics/federatedml#emnlp)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#emnlp">EMNLP</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#emnlp-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#emnlp-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#emnlp-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#emnlp-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#emnlp-2020)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#emnlp-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#emnlp-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#emnlp-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#emnlp-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#emnlp-2020)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[COLING](https://sadimanna.github.io/awesome-topics/federatedml#coling)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#coling">COLING</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#coling-2025)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#coling-2020)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#coling-2025)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#coling-2020)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SIGIR](https://sadimanna.github.io/awesome-topics/federatedml#sigir)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#sigir">SIGIR</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2020)
-  - [2013](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2013)
-  - [2012](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2012)
-  - [2011](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2011)
-  - [2010](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2010)
-  - [2009](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2009)
-  - [2007](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2007)
-  - [2006](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2006)
-  - [2005](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2005)
-  - [2004](https://sadimanna.github.io/awesome-topics/federatedml#sigir-2004)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2020)
+  - [2013](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2013)
+  - [2012](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2012)
+  - [2011](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2011)
+  - [2010](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2010)
+  - [2009](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2009)
+  - [2007](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2007)
+  - [2006](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2006)
+  - [2005](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2005)
+  - [2004](https://sadimanna.github.io/awesome-topics/federated-m-l#sigir-2004)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[Proc. ACM Manag. Data](https://sadimanna.github.io/awesome-topics/federatedml#proc. acm manag. data)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#proc-acm-manag-data">Proc. ACM Manag. Data</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#proc. acm manag. data-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#proc. acm manag. data-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#proc. acm manag. data-2023)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. acm manag. data-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. acm manag. data-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. acm manag. data-2023)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SIGMOD Conference](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod-conference">SIGMOD Conference</a></summary>
 
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference-2021)
-  - [2016](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference-2016)
-  - [2005](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference-2005)
-  - [2002](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference-2002)
-  - [1995](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference-1995)
-  - [1994](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference-1994)
-  - [1993](https://sadimanna.github.io/awesome-topics/federatedml#sigmod conference-1993)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod conference-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod conference-2021)
+  - [2016](https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod conference-2016)
+  - [2005](https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod conference-2005)
+  - [2002](https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod conference-2002)
+  - [1995](https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod conference-1995)
+  - [1994](https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod conference-1994)
+  - [1993](https://sadimanna.github.io/awesome-topics/federated-m-l#sigmod conference-1993)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICDE](https://sadimanna.github.io/awesome-topics/federatedml#icde)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#icde">ICDE</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#icde-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#icde-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#icde-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#icde-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#icde-2021)
-  - [2010](https://sadimanna.github.io/awesome-topics/federatedml#icde-2010)
-  - [2002](https://sadimanna.github.io/awesome-topics/federatedml#icde-2002)
-  - [1997](https://sadimanna.github.io/awesome-topics/federatedml#icde-1997)
-  - [1995](https://sadimanna.github.io/awesome-topics/federatedml#icde-1995)
-  - [1994](https://sadimanna.github.io/awesome-topics/federatedml#icde-1994)
-  - [1993](https://sadimanna.github.io/awesome-topics/federatedml#icde-1993)
-  - [1989](https://sadimanna.github.io/awesome-topics/federatedml#icde-1989)
-  - [1987](https://sadimanna.github.io/awesome-topics/federatedml#icde-1987)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-2021)
+  - [2010](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-2010)
+  - [2002](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-2002)
+  - [1997](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-1997)
+  - [1995](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-1995)
+  - [1994](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-1994)
+  - [1993](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-1993)
+  - [1989](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-1989)
+  - [1987](https://sadimanna.github.io/awesome-topics/federated-m-l#icde-1987)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[Proc. VLDB Endow.](https://sadimanna.github.io/awesome-topics/federatedml#proc. vldb endow.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#proc-vldb-endow">Proc. VLDB Endow.</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#proc. vldb endow.-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#proc. vldb endow.-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#proc. vldb endow.-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#proc. vldb endow.-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#proc. vldb endow.-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#proc. vldb endow.-2020)
-  - [2008](https://sadimanna.github.io/awesome-topics/federatedml#proc. vldb endow.-2008)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. vldb endow.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. vldb endow.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. vldb endow.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. vldb endow.-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. vldb endow.-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. vldb endow.-2020)
+  - [2008](https://sadimanna.github.io/awesome-topics/federated-m-l#proc. vldb endow.-2008)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SIGCOMM](https://sadimanna.github.io/awesome-topics/federatedml#sigcomm)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#sigcomm">SIGCOMM</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#sigcomm-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#sigcomm-2024)
-  - [2015](https://sadimanna.github.io/awesome-topics/federatedml#sigcomm-2015)
-  - [2011](https://sadimanna.github.io/awesome-topics/federatedml#sigcomm-2011)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#sigcomm-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#sigcomm-2024)
+  - [2015](https://sadimanna.github.io/awesome-topics/federated-m-l#sigcomm-2015)
+  - [2011](https://sadimanna.github.io/awesome-topics/federated-m-l#sigcomm-2011)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[INFOCOM](https://sadimanna.github.io/awesome-topics/federatedml#infocom)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#infocom">INFOCOM</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2020)
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2019)
-  - [2015](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2015)
-  - [2009](https://sadimanna.github.io/awesome-topics/federatedml#infocom-2009)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2020)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2019)
+  - [2015](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2015)
+  - [2009](https://sadimanna.github.io/awesome-topics/federated-m-l#infocom-2009)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[MobiCom](https://sadimanna.github.io/awesome-topics/federatedml#mobicom)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom">MobiCom</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#mobicom-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#mobicom-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#mobicom-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#mobicom-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#mobicom-2020)
-  - [2013](https://sadimanna.github.io/awesome-topics/federatedml#mobicom-2013)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2020)
+  - [2013](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2013)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[NSDI](https://sadimanna.github.io/awesome-topics/federatedml#nsdi)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#nsdi">NSDI</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#nsdi-2025)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#nsdi-2023)
-  - [2019](https://sadimanna.github.io/awesome-topics/federatedml#nsdi-2019)
-  - [2004](https://sadimanna.github.io/awesome-topics/federatedml#nsdi-2004)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#nsdi-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#nsdi-2023)
+  - [2019](https://sadimanna.github.io/awesome-topics/federated-m-l#nsdi-2019)
+  - [2004](https://sadimanna.github.io/awesome-topics/federated-m-l#nsdi-2004)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[WWW](https://sadimanna.github.io/awesome-topics/federatedml#www)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#www">WWW</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#www-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#www-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#www-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#www-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#www-2021)
-  - [2018](https://sadimanna.github.io/awesome-topics/federatedml#www-2018)
-  - [2016](https://sadimanna.github.io/awesome-topics/federatedml#www-2016)
-  - [2015](https://sadimanna.github.io/awesome-topics/federatedml#www-2015)
-  - [2012](https://sadimanna.github.io/awesome-topics/federatedml#www-2012)
-  - [2011](https://sadimanna.github.io/awesome-topics/federatedml#www-2011)
-  - [2006](https://sadimanna.github.io/awesome-topics/federatedml#www-2006)
-  - [2005](https://sadimanna.github.io/awesome-topics/federatedml#www-2005)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2021)
+  - [2018](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2018)
+  - [2016](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2016)
+  - [2015](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2015)
+  - [2012](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2012)
+  - [2011](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2011)
+  - [2006](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2006)
+  - [2005](https://sadimanna.github.io/awesome-topics/federated-m-l#www-2005)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[OSDI](https://sadimanna.github.io/awesome-topics/federatedml#osdi)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#osdi">OSDI</a></summary>
 
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#osdi-2021)
-  - [2002](https://sadimanna.github.io/awesome-topics/federatedml#osdi-2002)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#osdi-2021)
+  - [2002](https://sadimanna.github.io/awesome-topics/federated-m-l#osdi-2002)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SOSP](https://sadimanna.github.io/awesome-topics/federatedml#sosp)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#sosp">SOSP</a></summary>
 
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#sosp-2023)
-  - [2005](https://sadimanna.github.io/awesome-topics/federatedml#sosp-2005)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#sosp-2023)
+  - [2005](https://sadimanna.github.io/awesome-topics/federated-m-l#sosp-2005)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ISCA](https://sadimanna.github.io/awesome-topics/federatedml#isca)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#isca">ISCA</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#isca-2024)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#isca-2024)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[MLSys](https://sadimanna.github.io/awesome-topics/federatedml#mlsys)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys">MLSys</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#mlsys-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#mlsys-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#mlsys-2022)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#mlsys-2020)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys-2022)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys-2020)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[EuroSys](https://sadimanna.github.io/awesome-topics/federatedml#eurosys)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#eurosys">EuroSys</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#eurosys-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#eurosys-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#eurosys-2023)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#eurosys-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#eurosys-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#eurosys-2023)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Trans. Parallel Distributed Syst.](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. parallel distributed syst.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-parallel-distributed-syst">IEEE Trans. Parallel Distributed Syst.</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. parallel distributed syst.-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. parallel distributed syst.-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. parallel distributed syst.-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. parallel distributed syst.-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. parallel distributed syst.-2021)
-  - [2020](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. parallel distributed syst.-2020)
-  - [2013](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. parallel distributed syst.-2013)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2020)
+  - [2013](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2013)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[DAC](https://sadimanna.github.io/awesome-topics/federatedml#dac)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#dac">DAC</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#dac-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#dac-2024)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#dac-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#dac-2021)
-  - [2014](https://sadimanna.github.io/awesome-topics/federatedml#dac-2014)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#dac-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#dac-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#dac-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#dac-2021)
+  - [2014](https://sadimanna.github.io/awesome-topics/federated-m-l#dac-2014)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ACM Trans. Storage](https://sadimanna.github.io/awesome-topics/federatedml#acm trans. storage)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#acm-trans-storage">ACM Trans. Storage</a></summary>
 
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#acm trans. storage-2021)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. storage-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. comput. aided des. integr. circuits syst.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-comput-aided-des-integr-circuits-syst">IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. comput. aided des. integr. circuits syst.-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. comput. aided des. integr. circuits syst.-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. comput. aided des. integr. circuits syst.-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. comput. aided des. integr. circuits syst.-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. comput. aided des. integr. circuits syst.-2021)
-  - [2009](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. comput. aided des. integr. circuits syst.-2009)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2021)
+  - [2009](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2009)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Trans. Computers](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. computers)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-computers">IEEE Trans. Computers</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. computers-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. computers-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. computers-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. computers-2022)
-  - [2021](https://sadimanna.github.io/awesome-topics/federatedml#ieee trans. computers-2021)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SVM@ICSE](https://sadimanna.github.io/awesome-topics/federatedml#svm@icse)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#svmicse">SVM@ICSE</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#svm@icse-2025)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#svm@icse-2025)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICSE](https://sadimanna.github.io/awesome-topics/federatedml#icse)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#icse">ICSE</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#icse-2025)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#icse-2023)
-  - [2012](https://sadimanna.github.io/awesome-topics/federatedml#icse-2012)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#icse-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#icse-2023)
+  - [2012](https://sadimanna.github.io/awesome-topics/federated-m-l#icse-2012)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SEiGS@ICSE](https://sadimanna.github.io/awesome-topics/federatedml#seigs@icse)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#seigsicse">SEiGS@ICSE</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#seigs@icse-2025)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#seigs@icse-2025)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICSE Companion](https://sadimanna.github.io/awesome-topics/federatedml#icse companion)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#icse-companion">ICSE Companion</a></summary>
 
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#icse companion-2024)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#icse companion-2024)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[WACV](https://sadimanna.github.io/awesome-topics/federatedml#wacv)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#wacv">WACV</a></summary>
 
-  - [2025](https://sadimanna.github.io/awesome-topics/federatedml#wacv-2025)
-  - [2024](https://sadimanna.github.io/awesome-topics/federatedml#wacv-2024)
-  - [2023](https://sadimanna.github.io/awesome-topics/federatedml#wacv-2023)
-  - [2022](https://sadimanna.github.io/awesome-topics/federatedml#wacv-2022)
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#wacv-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#wacv-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#wacv-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#wacv-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-artif-intell">IEEE Trans. Artif. Intell.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. artif. intell.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. artif. intell.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. artif. intell.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. artif. intell.-2022)
   </details>
 
 </details>
 
 
-<details markdown="1">
+<details>
 
-<summary><strong>[Inversion Attacks](https://sadimanna.github.io/awesome-topics/inversion-attacks)</strong></summary>
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning">Federated Unlearning</a></strong></summary>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IJCAI](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#ijcai">IJCAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#ijcai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-unlearning#ijcai-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#icml">ICML</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-unlearning#icml-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#iclr">ICLR</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-unlearning#iclr-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#aaai">AAAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#aaai-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#aistats">AISTATS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-unlearning#aistats-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#neurips">NeurIPS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-unlearning#neurips-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#mach-learn">Mach. Learn.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#mach. learn.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#ieee-trans-artif-intell">IEEE Trans. Artif. Intell.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#ieee trans. artif. intell.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#wsdm">WSDM</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-unlearning#wsdm-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#cvpr">CVPR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#cvpr-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#sigir">SIGIR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#sigir-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#proc-vldb-endow">Proc. VLDB Endow.</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-unlearning#proc. vldb endow.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#infocom">INFOCOM</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#infocom-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-unlearning#infocom-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-unlearning#infocom-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#www">WWW</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#www-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/federated-unlearning#www-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/federated-unlearning#www-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/federated-unlearning#www-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#wacv">WACV</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-unlearning#wacv-2025)
+  </details>
+
+</details>
+
+
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks">Inversion Attacks</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai">IJCAI</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai-2025)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai-2022)
@@ -708,9 +853,9 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[AAAI](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai">AAAI</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2024)
@@ -719,17 +864,17 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[AISTATS](https://sadimanna.github.io/awesome-topics/inversion-attacks#aistats)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#aistats">AISTATS</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#aistats-2025)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[NeurIPS](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurips)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#neurips">NeurIPS</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurips-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurips-2023)
@@ -740,9 +885,9 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICML](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#icml">ICML</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml-2024)
@@ -750,26 +895,26 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICLR](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr">ICLR</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2024)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[UAI](https://sadimanna.github.io/awesome-topics/inversion-attacks#uai)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#uai">UAI</a></summary>
 
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#uai-2023)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Trans. Pattern Anal. Mach. Intell.](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2024)
@@ -777,44 +922,44 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[KDD](https://sadimanna.github.io/awesome-topics/inversion-attacks#kdd)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#kdd">KDD</a></summary>
 
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#kdd-2022)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SP](https://sadimanna.github.io/awesome-topics/inversion-attacks#sp)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#sp">SP</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#sp-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#sp-2024)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[CCS](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs">CCS</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2024)
   - [2015](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2015)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[USENIX Security Symposium](https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix security symposium)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix-security-symposium">USENIX Security Symposium</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix security symposium-2025)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix security symposium-2022)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[NDSS](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss">NDSS</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2024)
@@ -822,9 +967,9 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[CVPR](https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr">CVPR</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr-2024)
@@ -835,34 +980,34 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ICCV](https://sadimanna.github.io/awesome-topics/inversion-attacks#iccv)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#iccv">ICCV</a></summary>
 
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#iccv-2023)
   - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#iccv-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ECCV](https://sadimanna.github.io/awesome-topics/inversion-attacks#eccv)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#eccv">ECCV</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#eccv-2024)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ACM Multimedia](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#acm-multimedia">ACM Multimedia</a></summary>
 
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia-2023)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[ACL](https://sadimanna.github.io/awesome-topics/inversion-attacks#acl)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#acl">ACL</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#acl-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#acl-2024)
@@ -870,18 +1015,18 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[EMNLP](https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp">EMNLP</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp-2024)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp-2022)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[COLING](https://sadimanna.github.io/awesome-topics/inversion-attacks#coling)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#coling">COLING</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#coling-2025)
   - [2012](https://sadimanna.github.io/awesome-topics/inversion-attacks#coling-2012)
@@ -889,42 +1034,42 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[SIGIR](https://sadimanna.github.io/awesome-topics/inversion-attacks#sigir)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#sigir">SIGIR</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#sigir-2025)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[WWW](https://sadimanna.github.io/awesome-topics/inversion-attacks#www)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#www">WWW</a></summary>
 
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#www-2023)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[DAC](https://sadimanna.github.io/awesome-topics/inversion-attacks#dac)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#dac">DAC</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#dac-2025)
   - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#dac-2021)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Trans. Computers](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. computers)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-computers">IEEE Trans. Computers</a></summary>
 
   - [2000](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. computers-2000)
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[WACV](https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv">WACV</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv-2024)
@@ -932,13 +1077,481 @@
   </details>
 
 
-<details markdown="1">
+<details>
 
-  <summary>[IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. comput. aided des. integr. circuits syst.)</summary>
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-comput-aided-des-integr-circuits-syst">IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</a></summary>
 
   - [2000](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. comput. aided des. integr. circuits syst.-2000)
   - [1992](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. comput. aided des. integr. circuits syst.-1992)
   - [1989](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. comput. aided des. integr. circuits syst.-1989)
+  </details>
+
+</details>
+
+
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning">L L M Unlearning</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#neurips">NeurIPS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#neurips-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#icml">ICML</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#icml-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#icml-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#iclr">ICLR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#iclr-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#kdd">KDD</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#kdd-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#acl">ACL</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#acl-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#acl-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#emnlp">EMNLP</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#emnlp-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#emnlp-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#aaai">AAAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#aaai-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#usenix-security-symposium">USENIX Security Symposium</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#usenix security symposium-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#coling">COLING</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#coling-2025)
+  </details>
+
+</details>
+
+
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning">Machine Unlearning</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#ijcai">IJCAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#ijcai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#ijcai-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/machine-unlearning#ijcai-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai">AAAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#aistats">AISTATS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#aistats-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#alt">ALT</a></summary>
+
+  - [2021](https://sadimanna.github.io/awesome-topics/machine-unlearning#alt-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#neurips">NeurIPS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#neurips-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#neurips-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/machine-unlearning#neurips-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/machine-unlearning#neurips-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#icml">ICML</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#icml-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#icml-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#icml-2023)
+  - [2021](https://sadimanna.github.io/awesome-topics/machine-unlearning#icml-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#iclr">ICLR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#iclr-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#iclr-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#iclr-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#colt">COLT</a></summary>
+
+  - [2021](https://sadimanna.github.io/awesome-topics/machine-unlearning#colt-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#uai">UAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#uai-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#mach-learn">Mach. Learn.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#mach. learn.-2025)
+  - [2022](https://sadimanna.github.io/awesome-topics/machine-unlearning#mach. learn.-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#ieee trans. pattern anal. mach. intell.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#kdd">KDD</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#kdd-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#kdd-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#sp">SP</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#sp-2024)
+  - [2021](https://sadimanna.github.io/awesome-topics/machine-unlearning#sp-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#ieee-symposium-on-security-and-privacy">IEEE Symposium on Security and Privacy</a></summary>
+
+  - [2015](https://sadimanna.github.io/awesome-topics/machine-unlearning#ieee symposium on security and privacy-2015)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#ccs">CCS</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#ccs-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#ccs-2024)
+  - [2021](https://sadimanna.github.io/awesome-topics/machine-unlearning#ccs-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#usenix-security-symposium">USENIX Security Symposium</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#usenix security symposium-2025)
+  - [2022](https://sadimanna.github.io/awesome-topics/machine-unlearning#usenix security symposium-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#ndss">NDSS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#ndss-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#ndss-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#cvpr">CVPR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#cvpr-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#cvpr-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#iccv">ICCV</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#iccv-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#eccv">ECCV</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#eccv-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#acm-multimedia">ACM Multimedia</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#acm multimedia-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/machine-unlearning#acm multimedia-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#acl">ACL</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#acl-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#acl-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#acl-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#emnlp">EMNLP</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#emnlp-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#proc-acm-manag-data">Proc. ACM Manag. Data</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#proc. acm manag. data-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/machine-unlearning#proc. acm manag. data-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#sigmod-conference">SIGMOD Conference</a></summary>
+
+  - [2021](https://sadimanna.github.io/awesome-topics/machine-unlearning#sigmod conference-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#proc-vldb-endow">Proc. VLDB Endow.</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#proc. vldb endow.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#infocom">INFOCOM</a></summary>
+
+  - [2022](https://sadimanna.github.io/awesome-topics/machine-unlearning#infocom-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#www">WWW</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#www-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#www-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#dac">DAC</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#dac-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#wacv">WACV</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#wacv-2025)
+  </details>
+
+</details>
+
+
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack">Prompt Injection Attack</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#neurips">NeurIPS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#neurips-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#icml">ICML</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#icml-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#iclr">ICLR</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#iclr-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#kdd">KDD</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#kdd-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#sp">SP</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#sp-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#sp-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#ccs">CCS</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#ccs-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#ccs-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#usenix-security-symposium">USENIX Security Symposium</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#usenix security symposium-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#usenix security symposium-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#acl">ACL</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#acl-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#acl-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#naacl-hlt">NAACL-HLT</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#naacl-hlt-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#emnlp">EMNLP</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#emnlp-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#icse">ICSE</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#icse-2025)
+  </details>
+
+</details>
+
+
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/prompt-poisoning-attack">Prompt Poisoning Attack</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-poisoning-attack#sp">SP</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/prompt-poisoning-attack#sp-2024)
   </details>
 
 </details>

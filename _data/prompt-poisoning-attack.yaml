@@ -1,0 +1,20 @@
+section:
+- title: SP
+SP:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative
+        Models.'
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00207

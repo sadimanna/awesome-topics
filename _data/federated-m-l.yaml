@@ -55,6 +55,7 @@ section:
 - title: SEiGS@ICSE
 - title: ICSE Companion
 - title: WACV
+- title: IEEE Trans. Artif. Intell.
 IJCAI:
   '2025':
     header:
@@ -13337,3 +13338,240 @@ WACV:
       venue: WACV
       year: 2022
       link: https://doi.org/10.1109/WACV51458.2022.00115
+IEEE Trans. Artif. Intell.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Credible and Fair Federated Learning Framework Based on Blockchain.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3355362
+    - title: A Trustworthy AIoT-Enabled Localization System via Federated Learning
+        and Blockchain.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3528917
+    - title: Active Gradient Manipulation for Privacy Breaching in Vertical Federated
+        Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3556094
+    - title: Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy
+        Edge Computing.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3539258
+    - title: Exploiting Gaussian Noise Variance for Dynamic Differential Poisoning
+        in Federated Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3540030
+    - title: 'FLyer: Federated Learning-Based Crop Yield Prediction for Agriculture
+        5.0.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3534149
+    - title: 'FedDGA: Federated Multitask Learning Based on Dynamic Guided Attention.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3350538
+    - title: 'FedECE: Federated Estimation of Causal Effect Based on Causal Graphical
+        Modeling.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3545794
+    - title: Federated Multiarmed Bandits Under Byzantine Attacks.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3524954
+    - title: 'From Routine to Reflection: Pruning Neural Networks in Communication-Efficient
+        Federated Learning.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3462300
+    - title: Intrusion Detection Approach for Industrial Internet of Things Traffic
+        Using Deep Recurrent Reinforcement Learning Assisted Federated Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3443787
+    - title: Malicious Clients and Contribution Co-Aware Federated Unlearning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3556092
+    - title: Model-Heterogeneous Federated Graph Learning With Prototype Propagation.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3490557
+    - title: Performance Analysis and Design of a Weighted Personalized Quantum Federated
+        Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3545393
+    - title: 'Privacy Inference Attack and Defense in Centralized and Federated Learning:
+        A Comprehensive Survey.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3363670
+    - title: Unsupervised Multivariate Time Series Anomaly Detection by Feature Decoupling
+        in Federated Learning Scenarios.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2025.3533437
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Novel Incentive Mechanism for Federated Learning Over Wireless Communications.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3419757
+    - title: A Practical Recipe for Federated Learning Under Statistical Heterogeneity
+        Experimental Design.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3297090
+    - title: A Study of Enhancing Federated Learning on Non-IID Data With Server Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3430250
+    - title: An Adaptive Federated Relevance Framework for Spatial-Temporal Graph
+        Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3316629
+    - title: 'Attacking-Distance-Aware Attack: Semi-targeted Model Poisoning on Federated
+        Learning.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3280155
+    - title: Blockchain and Federated Reinforcement Learning for Vehicle-to-Everything
+        Energy Trading in Smart Grids.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3262597
+    - title: Communication-Efficient Federated Learning for Decision Trees.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3433419
+    - title: Contrastive-Enhanced Domain Generalization With Federated Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3298297
+    - title: Cost-Efficient Feature Selection for Horizontal Federated Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3436664
+    - title: Defending Against Poisoning Attacks in Federated Learning With Blockchain.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3376651
+    - title: Differentially Private and Heterogeneity-Robust Federated Learning With
+        Theoretical Guarantee.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3446759
+    - title: Federated $c$-Means and Fuzzy $c$-Means Clustering Algorithms for Horizontally
+        and Vertically Partitioned Data.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3426408
+    - title: Federated Learning for Distribution Skewed Data Using Sample Weights.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3348073
+    - title: Federated Multi-Phase Curriculum Learning to Synchronously Correlate
+        User Heterogeneity.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3307664
+    - title: Federated Multitask Learning for Complaint Identification Using Graph
+        Attention Network.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3285196
+    - title: Federated Reinforcement Learning With Knowledge Transfer for Network
+        Selection in Hybrid WiFi-VLC Networks.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3333267
+    - title: 'Get Rid of Your Trail: Remotely Erasing Backdoors in Federated Learning.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3465441
+    - title: 'Rethinking Data Heterogeneity in Federated Learning: Introducing a New
+        Notion and Standard Benchmarks.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3293068
+    - title: Robust and Verifiable Privacy Federated Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3309273
+    - title: Synergetic Focal Loss for Imbalanced Classification in Federated XGBoost.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3254519
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Federated Dictionary Learning Method for Process Monitoring With Industrial
+        Applications.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2023
+      link: https://doi.org/10.1109/TAI.2022.3152458
+    - title: 'FastSlowMo: Federated Learning With Combined Worker and Aggregator Momenta.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2023
+      link: https://doi.org/10.1109/TAI.2022.3187678
+    - title: Multiparticipant Federated Feature Selection Algorithm With Particle
+        Swarm Optimization for Imbalanced Data Under Privacy Protection.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2023
+      link: https://doi.org/10.1109/TAI.2022.3145333
+    - title: 'PIVODL: Privacy-Preserving Vertical Federated Learning Over Distributed
+        Labels.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2023
+      link: https://doi.org/10.1109/TAI.2021.3139055
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Federated Multitask Learning for HyperFace.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2022
+      link: https://doi.org/10.1109/TAI.2021.3133816

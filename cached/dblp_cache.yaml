@@ -27083,3 +27083,2929 @@ federated%20venue%3AWACV%3A:
   doi: 10.1109/WACV51458.2022.00115
   ee: https://doi.org/10.1109/WACV51458.2022.00115
   url: https://dblp.org/rec/conf/wacv/YaoGQCZ022
+llm%20unlearning%20venue%3ANeurIPS%3A:
+- author: Jiabao Ji, Yujian Liu, Yang Zhang 0001, Gaowen Liu, Ramana Kompella, Sijia
+    Liu 0001, Shiyu Chang
+  title: 'Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework
+    from Logit Difference.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/JiLZLK0C24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/171291d8fed723c6dfc76330aa827ff8-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/JiLZLK0C24
+- author: "Leo Schwinn, David Dobre, Sophie Xhonneux, Gauthier Gidel, Stephan G\xFC\
+    nnemann"
+  title: 'Soft Prompt Threats: Attacking Safety Alignment and Unlearning in Open-Source
+    LLMs through the Embedding Space.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/SchwinnDXGG24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/10f34ee79b62627b7ebf6279d35ea480-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/SchwinnDXGG24
+llm%20unlearning%20venue%3AICML%3A:
+- author: Jiali Cheng, Hadi Amiri
+  title: Tool Unlearning for Tool-Augmented LLMs.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChengA25
+  doi: ''
+  ee: https://openreview.net/forum?id=7ez7LqHsP5
+  url: https://dblp.org/rec/conf/icml/ChengA25
+- author: Chongyu Fan, Jinghan Jia, Yihua Zhang, Anil Ramakrishna, Mingyi Hong 0001,
+    Sijia Liu 0001
+  title: 'Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware
+    Minimization Perspective and Beyond.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/FanJZR0025
+  doi: ''
+  ee: https://openreview.net/forum?id=zZjLv6F0Ks
+  url: https://dblp.org/rec/conf/icml/FanJZR0025
+- author: Andrei Ioan Muresanu, Anvith Thudi, Michael R. Zhang, Nicolas Papernot
+  title: Fast Exact Unlearning for In-Context Learning Data for LLMs.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/MuresanuTZP25
+  doi: ''
+  ee: https://openreview.net/forum?id=TzNVZEsqTi
+  url: https://dblp.org/rec/conf/icml/MuresanuTZP25
+- author: Yue Wang, Qizhou Wang, Feng Liu 0003, Wei Huang 0034, Yali Du 0001, Xiaojiang
+    Du, Bo Han 0003
+  title: 'GRU: Mitigating the Trade-off between Unlearning and Retention for LLMs.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangW000D025
+  doi: ''
+  ee: https://openreview.net/forum?id=EAjhGr1Oeo
+  url: https://dblp.org/rec/conf/icml/WangW000D025
+- author: Changsheng Wang, Yihua Zhang, Jinghan Jia, Parikshit Ram, Dennis Wei, Yuguang
+    Yao, Soumyadeep Pal, Nathalie Baracaldo, Sijia Liu 0001
+  title: Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream
+    Fine-Tuning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangZJRWYPB025
+  doi: ''
+  ee: https://openreview.net/forum?id=x2lm33kdrZ
+  url: https://dblp.org/rec/conf/icml/WangZJRWYPB025
+- author: Abudukelimu Wuerkaixi, Qizhou Wang, Sen Cui, Wutong Xu, Bo Han 0003, Gang
+    Niu 0001, Masashi Sugiyama, Changshui Zhang
+  title: Adaptive Localization of Knowledge Negation for Continual LLM Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WuerkaixiWCX00S25
+  doi: ''
+  ee: https://openreview.net/forum?id=tcK4PV3VN4
+  url: https://dblp.org/rec/conf/icml/WuerkaixiWCX00S25
+- author: Puning Yang, Qizhou Wang, Zhuo Huang, Tongliang Liu, Chengqi Zhang, Bo Han
+    0003
+  title: Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YangWHLZ025
+  doi: ''
+  ee: https://openreview.net/forum?id=mGOugCZlAq
+  url: https://dblp.org/rec/conf/icml/YangWHLZ025
+llm%20unlearning%20venue%3AICLR%3A:
+- author: Shengyuan Hu 0001, Yiwei Fu, Steven Z. Wu, Virginia Smith
+  title: Unlearning or Obfuscating? Jogging the Memory of Unlearned LLMs via Benign
+    Relearning.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/0001FWS25
+  doi: ''
+  ee: https://openreview.net/forum?id=fMNRYBvcQN
+  url: https://dblp.org/rec/conf/iclr/0001FWS25
+- author: Sungmin Cha, Sungjun Cho, Dasol Hwang, Moontae Lee
+  title: Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ChaCHL25
+  doi: ''
+  ee: https://openreview.net/forum?id=1ExfUpmIW4
+  url: https://dblp.org/rec/conf/iclr/ChaCHL25
+- author: Chenlu Ding, Jiancan Wu, Yancheng Yuan, Jinda Lu, Kai Zhang 0038, Alex Su,
+    Xiang Wang 0010, Xiangnan He 0001
+  title: Unified Parameter-Efficient Unlearning for LLMs.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/DingWYL0S0025
+  doi: ''
+  ee: https://openreview.net/forum?id=zONMuIVCAT
+  url: https://dblp.org/rec/conf/iclr/DingWYL0S0025
+- author: Qizhou Wang, Bo Han 0003, Puning Yang, Jianing Zhu, Tongliang Liu, Masashi
+    Sugiyama
+  title: Towards Effective Evaluations and Comparisons for LLM Unlearning Methods.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/Wang0YZLS25
+  doi: ''
+  ee: https://openreview.net/forum?id=wUtCieKuQU
+  url: https://dblp.org/rec/conf/iclr/Wang0YZLS25
+- author: Yaxuan Wang, Jiaheng Wei, Chris Yuhao Liu, Jinlong Pang, Quan Liu, Ankit
+    Shah 0001, Yujia Bao, Yang Liu 0018, Wei Wei 0019
+  title: LLM Unlearning via Loss Adjustment with Only Forget Data.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/WangWLPL0B0W25
+  doi: ''
+  ee: https://openreview.net/forum?id=6ESRicalFE
+  url: https://dblp.org/rec/conf/iclr/WangWLPL0B0W25
+- author: Qizhou Wang, Jin Peng Zhou, Zhanke Zhou, Saebyeol Shin, Bo Han 0003, Kilian
+    Q. Weinberger
+  title: 'Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/WangZZS0W25
+  doi: ''
+  ee: https://openreview.net/forum?id=huo8MqVH6t
+  url: https://dblp.org/rec/conf/iclr/WangZZS0W25
+- author: Zhiwei Zhang, Fali Wang, Xiaomin Li, Zongyu Wu 0001, Xianfeng Tang, Hui
+    Liu 0031, Qi He 0002, Wenpeng Yin 0001, Suhang Wang
+  title: Catastrophic Failure of LLM Unlearning via Quantization.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ZhangWLWTL00W25
+  doi: ''
+  ee: https://openreview.net/forum?id=lHSeDYamnz
+  url: https://dblp.org/rec/conf/iclr/ZhangWLWTL00W25
+llm%20unlearning%20venue%3AKDD%3A:
+- author: Shengming Zhang, Le Zhang 0010, Jingbo Zhou 0003, Zhi Zheng 0008, Hui Xiong
+    0001
+  title: 'LLM-Eraser: Optimizing Large Language Model Unlearning through Selective
+    Pruning.'
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/Zhang0ZZ025
+  doi: 10.1145/3690624.3709312
+  ee: https://doi.org/10.1145/3690624.3709312
+  url: https://dblp.org/rec/conf/kdd/Zhang0ZZ025
+llm%20unlearning%20venue%3AACL%3A:
+- author: Hwan Chang, Hwanhee Lee
+  title: Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ChangL25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.310/
+  url: https://dblp.org/rec/conf/acl/ChangL25
+- author: Shuai Zhao 0007, Xiaobao Wu, Cong-Duy T. Nguyen, Yanhao Jia, Meihuizi Jia,
+    Yichao Feng, Anh Tuan Luu
+  title: Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/0007WNJJFL25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.255/
+  url: https://dblp.org/rec/conf/acl/0007WNJJFL25
+- author: Jie Ren 0019, Zhenwei Dai, Xianfeng Tang, Hui Liu, Jingying Zeng, Zhen Li,
+    Rahul Goutam, Suhang Wang, Yue Xing 0002, Qi He 0002
+  title: A General Framework to Enhance Fine-tuning-based LLM Unlearning.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/0019DTLZLGW0H25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.949/
+  url: https://dblp.org/rec/conf/acl/0019DTLZLGW0H25
+- author: Tianle Gu, Kexin Huang, Ruilin Luo, Yuanqi Yao, Xiuying Chen, Yujiu Yang
+    0001, Yan Teng 0002, Yingchun Wang
+  title: 'From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/GuHLYCYTW25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.535/
+  url: https://dblp.org/rec/conf/acl/GuHLYCYTW25
+- author: Yicheng Lang, Kehan Guo, Yue Huang 0001, Yujun Zhou 0010, Haomin Zhuang,
+    Tianyu Yang, Yao Su 0003, Xiangliang Zhang 0001
+  title: 'Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with
+    Cognitive Diagnosis.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/LangG00ZY0025
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.1102/
+  url: https://dblp.org/rec/conf/acl/LangG00ZY0025
+- author: Ayana Niwa, Masahiro Kaneko, Kentaro Inui
+  title: Rectifying Belief Space via Unlearning to Harness LLMs&apos; Reasoning.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/NiwaKI25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.1285/
+  url: https://dblp.org/rec/conf/acl/NiwaKI25
+- author: Stefan Vasilev, Christian Herold, Baohao Liao, Seyyed Hadi Hashemi, Shahram
+    Khadivi, Christof Monz
+  title: 'Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/VasilevHLHKM25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.1154/
+  url: https://dblp.org/rec/conf/acl/VasilevHLHKM25
+- author: Haomin Zhuang, Yihua Zhang, Kehan Guo, Jinghan Jia, Gaowen Liu, Sijia Liu
+    0001, Xiangliang Zhang 0001
+  title: 'SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs?'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ZhuangZGJL0025
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.424/
+  url: https://dblp.org/rec/conf/acl/ZhuangZGJL0025
+llm%20unlearning%20venue%3AEMNLP%3A:
+- author: Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James
+    Diffenderfer, Bhavya Kailkhura, Sijia Liu 0001
+  title: 'SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning.'
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/JiaZZLRDK024
+  doi: 10.18653/V1/2024.EMNLP-MAIN.245
+  ee: https://doi.org/10.18653/v1/2024.emnlp-main.245
+  url: https://dblp.org/rec/conf/emnlp/JiaZZLRDK024
+- author: Abhinav Joshi, Shaswati Saha, Divyaksh Shukla, Sriram Vema, Harsh Jhamtani,
+    Manas Gaur, Ashutosh Modi
+  title: Towards Robust Evaluation of Unlearning in LLMs via Data Transformations.
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/JoshiSSVJGM24
+  doi: 10.18653/V1/2024.FINDINGS-EMNLP.706
+  ee: https://doi.org/10.18653/v1/2024.findings-emnlp.706
+  url: https://dblp.org/rec/conf/emnlp/JoshiSSVJGM24
+- author: Jiaao Chen, Diyi Yang
+  title: 'Unlearn What You Want to Forget: Efficient Unlearning for LLMs.'
+  venue: EMNLP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChenY23
+  doi: 10.18653/V1/2023.EMNLP-MAIN.738
+  ee: https://doi.org/10.18653/v1/2023.emnlp-main.738
+  url: https://dblp.org/rec/conf/emnlp/ChenY23
+large%20language%20models%20unlearning%20venue%3AAAAI%3A:
+- author: Hongbang Yuan, Zhuoran Jin, Pengfei Cao, Yubo Chen 0001, Kang Liu 0001,
+    Jun Zhao 0001
+  title: 'Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing
+    and Improving Unlearning Robustness in Large Language Models.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/YuanJC0LZ25
+  doi: 10.1609/AAAI.V39I24.34769
+  ee: https://doi.org/10.1609/aaai.v39i24.34769
+  url: https://dblp.org/rec/conf/aaai/YuanJC0LZ25
+large%20language%20models%20unlearning%20venue%3ANeurIPS%3A:
+- author: Jiaqi Li, Qianshan Wei, Chuanyi Zhang, Guilin Qi, Miaozeng Du, Yongrui Chen
+    0002, Sheng Bi, Fan Liu
+  title: 'Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large
+    Language Models.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiWZQD0BL24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiWZQD0BL24
+- author: Jinghan Jia, Jiancheng Liu, Yihua Zhang, Parikshit Ram, Nathalie Baracaldo,
+    Sijia Liu 0001
+  title: 'WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning
+    in Large Language Models.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/JiaLZRB024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/649ad92e7067b3553a0f15acac68806d-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/JiaLZRB024
+- author: Zhuoran Jin, Pengfei Cao, Chenhao Wang 0004, Zhitao He 0001, Hongbang Yuan,
+    Jiachun Li, Yubo Chen 0001, Kang Liu 0001, Jun Zhao 0001
+  title: 'RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/JinCWHYL00024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/b1f78dfc9ca0156498241012aec4efa0-Abstract-Datasets_and_Benchmarks_Track.html
+  url: https://dblp.org/rec/conf/nips/JinCWHYL00024
+large%20language%20models%20unlearning%20venue%3AICML%3A:
+- author: George-Octavian Barbulescu, Peter Triantafillou
+  title: 'To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning
+    in Large Language Models.'
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/BarbulescuT24
+  doi: ''
+  ee: https://openreview.net/forum?id=FWlNA3et6X
+  url: https://dblp.org/rec/conf/icml/BarbulescuT24
+large%20language%20models%20unlearning%20venue%3AICLR%3A:
+- author: "Yan Scholten, Stephan G\xFCnnemann, Leo Schwinn"
+  title: A Probabilistic Perspective on Unlearning and Alignment for Large Language
+    Models.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ScholtenGS25
+  doi: ''
+  ee: https://openreview.net/forum?id=51WraMid8K
+  url: https://dblp.org/rec/conf/iclr/ScholtenGS25
+- author: Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang 0001, Min
+    Lin
+  title: A Closer Look at Machine Unlearning for Large Language Models.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/YuanPDC0L25
+  doi: ''
+  ee: https://openreview.net/forum?id=Q1MHvGmhyT
+  url: https://dblp.org/rec/conf/iclr/YuanPDC0L25
+large%20language%20models%20unlearning%20streamid%3Aconf%2Fuss%3A:
+- author: Minkyoo Song, Hanna Kim, Jaehan Kim, Seungwon Shin 0001, Sooel Son
+  title: 'Refusal Is Not an Option: Unlearning Safety Alignment of Large Language
+    Models.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/SongKK0S25
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/song-minkyoo
+  url: https://dblp.org/rec/conf/uss/SongKK0S25
+large%20language%20models%20unlearning%20venue%3AACL%3A:
+- author: Zheyuan Liu 0010, Guangyao Dou, Xiangchi Yuan, Chunhui Zhang, Zhaoxuan Tan,
+    Meng Jiang 0001
+  title: Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language
+    Models.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/0010DYZT025
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.295/
+  url: https://dblp.org/rec/conf/acl/0010DYZT025
+- author: Junkai Chen, Zhijie Deng, Kening Zheng, Yibo Yan, Shuliang Liu, PeiJun Wu,
+    Peijie Jiang, Jia Liu, Xuming Hu
+  title: 'SafeEraser: Enhancing Safety in Multimodal Large Language Models through
+    Multimodal Machine Unlearning.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ChenDZYLWJLH25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.731/
+  url: https://dblp.org/rec/conf/acl/ChenDZYLWJLH25
+- author: Minseok Choi, Daniel Rim, Dohyun Lee 0001, Jaegul Choo
+  title: 'Opt-Out: Investigating Entity-Level Unlearning for Large Language Models
+    via Optimal Transport.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ChoiRLC25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.1371/
+  url: https://dblp.org/rec/conf/acl/ChoiRLC25
+- author: Lishuai Hou, Zixiong Wang, Gaoyang Liu, Chen Wang 0011, Wei Liu 0004, Kai
+    Peng 0001
+  title: 'Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning
+    for Large Language Models.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/HouWLWL025
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.719/
+  url: https://dblp.org/rec/conf/acl/HouWLWL025
+- author: Jiahao Huo, Yibo Yan, Xu Zheng 0002, Yuanhuiyi Lyu, Xin Zou 0001, Zhihua
+    Wei, Xuming Hu
+  title: 'MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal
+    Large Language Models.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/HuoY0L0WH25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.375/
+  url: https://dblp.org/rec/conf/acl/HuoY0L0WH25
+- author: Zheyuan Liu 0010, Suraj Maharjan, Fanyou Wu, Rahil Parikh, Belhassen Bayar,
+    Srinivasan H. Sengamedu, Meng Jiang 0001
+  title: Disentangling Biased Knowledge from Reasoning in Large Language Models via
+    Machine Unlearning.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/LiuMWPBSJ25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.305/
+  url: https://dblp.org/rec/conf/acl/LiuMWPBSJ25
+- author: Toan Tran, Ruixuan Liu, Li Xiong 0001
+  title: 'Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference
+    Attacks in Large Language Models via Dual-Purpose Training.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/TranL025
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.1174/
+  url: https://dblp.org/rec/conf/acl/TranL025
+- author: Haoming Xu, Ningyuan Zhao, Liming Yang, Sendong Zhao, Shumin Deng, Mengru
+    Wang, Bryan Hooi, Nay Oo, Huajun Chen, Ningyu Zhang 0001
+  title: 'ReLearn: Unlearning via Learning for Large Language Models.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/Xu0YZDWHOC025
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.297/
+  url: https://dblp.org/rec/conf/acl/Xu0YZDWHOC025
+- author: Zheyuan Liu 0010, Guangyao Dou, Zhaoxuan Tan, Yijun Tian 0001, Meng Jiang
+    0001
+  title: Towards Safer Large Language Models through Machine Unlearning.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/0010DT0024
+  doi: 10.18653/V1/2024.FINDINGS-ACL.107
+  ee: https://doi.org/10.18653/v1/2024.findings-acl.107
+  url: https://dblp.org/rec/conf/acl/0010DT0024
+- author: Jin Yao, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang 0001, Zezhou Cheng,
+    Xiang Yue
+  title: Machine Unlearning of Pre-trained Large Language Models.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/YaoCDNWCY24
+  doi: 10.18653/V1/2024.ACL-LONG.457
+  ee: https://doi.org/10.18653/v1/2024.acl-long.457
+  url: https://dblp.org/rec/conf/acl/YaoCDNWCY24
+- author: Yang Zhao 0023, Li Du, Xiao Ding, Kai Xiong 0002, Zhouhao Sun, Shi Jun,
+    Ting Liu 0001, Bing Qin 0001
+  title: Deciphering the Impact of Pretraining Data on Large Language Models through
+    Machine Unlearning.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ZhaoDD0SJ0024
+  doi: 10.18653/V1/2024.FINDINGS-ACL.559
+  ee: https://doi.org/10.18653/v1/2024.findings-acl.559
+  url: https://dblp.org/rec/conf/acl/ZhaoDD0SJ0024
+large%20language%20models%20unlearning%20venue%3AEMNLP%3A:
+- author: Yihuai Hong, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang 0015, Haiqin Yang
+  title: Dissecting Fine-Tuning Unlearning in Large Language Models.
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/HongZHZ0Y24
+  doi: 10.18653/V1/2024.EMNLP-MAIN.228
+  ee: https://doi.org/10.18653/v1/2024.emnlp-main.228
+  url: https://dblp.org/rec/conf/emnlp/HongZHZ0Y24
+- author: Shaojie Shi, Xiaoyu Tan, Xihe Qiu, Chao Qu, Kexin Nie, Yuan Cheng, Wei Chu,
+    Yinghui Xu, Yuan Qi 0001
+  title: 'ULMR: Unlearning Large Language Models via Negative Response and Model Parameter
+    Average.'
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ShiTQQNCCX024
+  doi: 10.18653/V1/2024.EMNLP-INDUSTRY.57
+  ee: https://doi.org/10.18653/v1/2024.emnlp-industry.57
+  url: https://dblp.org/rec/conf/emnlp/ShiTQQNCCX024
+- author: Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng 0008, Qingbin Liu, Mengru Wang,
+    Dianbo Sui, Xi Chen 0003, Huajun Chen, Ningyu Zhang 0001
+  title: To Forget or Not? Towards Practical Knowledge Unlearning for Large Language
+    Models.
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/TianL0LWS0C024
+  doi: 10.18653/V1/2024.FINDINGS-EMNLP.82
+  ee: https://doi.org/10.18653/v1/2024.findings-emnlp.82
+  url: https://dblp.org/rec/conf/emnlp/TianL0LWS0C024
+- author: Shangyu Xing, Fei Zhao 0012, Zhen Wu 0002, Tuo An, Weihao Chen, Chunhui
+    Li, Jianbing Zhang, Xinyu Dai
+  title: 'EFUF: Efficient Fine-Grained Unlearning Framework for Mitigating Hallucinations
+    in Multimodal Large Language Models.'
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/XingZWACLZD24
+  doi: 10.18653/V1/2024.EMNLP-MAIN.67
+  ee: https://doi.org/10.18653/v1/2024.emnlp-main.67
+  url: https://dblp.org/rec/conf/emnlp/XingZWACLZD24
+large%20language%20models%20unlearning%20venue%3ACOLING%3A:
+- author: Weitao Ma, Xiaocheng Feng, Weihong Zhong, Lei Huang 0021, Yangfan Ye, Xiachong
+    Feng, Bing Qin 0001
+  title: 'Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive
+    Analysis.'
+  venue: COLING
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/coling/MaFZ0YF025
+  doi: ''
+  ee: https://aclanthology.org/2025.coling-main.358/
+  url: https://dblp.org/rec/conf/coling/MaFZ0YF025
+- author: Anmol Reddy Mekala, Vineeth Dorna, Shreya Dubey, Abhishek Lalwani, David
+    Koleczek, Mukund Rungta, Sadid A. Hasan, Elita A. Lobo
+  title: Alternate Preference Optimization for Unlearning Factual Knowledge in Large
+    Language Models.
+  venue: COLING
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/coling/MekalaDDLKRHL25
+  doi: ''
+  ee: https://aclanthology.org/2025.coling-main.252/
+  url: https://dblp.org/rec/conf/coling/MekalaDDLKRHL25
+federated%20machine%20unlearning%20venue%3AIJCAI%3A:
+- author: Hanlin Gu, Gongxi Zhu, Jie Zhang 0078, Xinyuan Zhao, Yuxing Han 0001, Lixin
+    Fan, Qiang Yang 0001
+  title: 'Unlearning during Learning: An Efficient Federated Machine Unlearning Method.'
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/GuZ0Z0F024
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/446
+  url: https://dblp.org/rec/conf/ijcai/GuZ0Z0F024
+federated%20machine%20unlearning%20venue%3AICML%3A:
+- author: Tianshi Che, Yang Zhou 0001, Zijie Zhang 0001, Lingjuan Lyu, Ji Liu 0003,
+    Da Yan 0001, Dejing Dou, Jun Huan
+  title: Fast Federated Machine Unlearning with Nonlinear Functional Theory.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/CheZZLL0DH23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/che23b.html
+  url: https://dblp.org/rec/conf/icml/CheZZLL0DH23
+federated%20machine%20unlearning%20venue%3AICLR%3A:
+- author: Chao Pan 0003, Jin Sima, Saurav Prakash, Vishal Rana, Olgica Milenkovic
+  title: Machine Unlearning of Federated Clusters.
+  venue: ICLR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/0003SPRM23
+  doi: ''
+  ee: https://openreview.net/forum?id=VzwfoFyYDga
+  url: https://dblp.org/rec/conf/iclr/0003SPRM23
+federated%20unlearning%20venue%3AIJCAI%3A:
+- author: Hanlin Gu, Gongxi Zhu, Jie Zhang 0078, Xinyuan Zhao, Yuxing Han 0001, Lixin
+    Fan, Qiang Yang 0001
+  title: 'Unlearning during Learning: An Efficient Federated Machine Unlearning Method.'
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/GuZ0Z0F024
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/446
+  url: https://dblp.org/rec/conf/ijcai/GuZ0Z0F024
+- author: Wenhan Wu, Huanghuang Liang, Jingling Yuan, Jiawei Jiang 0001, Kanye Ye
+    Wang, Chuang Hu, Xiaobo Zhou 0002, Dazhao Cheng
+  title: Zero-shot Federated Unlearning via Transforming from Data-Dependent to Personalized
+    Model-Centric.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/WuLYJWH0C25
+  doi: 10.24963/IJCAI.2025/733
+  ee: https://doi.org/10.24963/ijcai.2025/733
+  url: https://dblp.org/rec/conf/ijcai/WuLYJWH0C25
+- author: Yijing Lin, Zhipeng Gao 0001, Hongyang Du, Dusit Niyato, Gui Gui, Shuguang
+    Cui, Jinke Ren
+  title: Scalable Federated Unlearning via Isolated and Coded Sharding.
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/LinGDNGCR24
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/503
+  url: https://dblp.org/rec/conf/ijcai/LinGDNGCR24
+federated%20unlearning%20venue%3AAAAI%3A:
+- author: Zibin Pan, Zhichao Wang, Chi Li, Kaiyan Zheng, Boqi Wang, Xiaoying Tang
+    0002, Junhua Zhao 0001
+  title: Federated Unlearning with Gradient Descent and Conflict Mitigation.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/PanWLZW0Z25
+  doi: 10.1609/AAAI.V39I19.34181
+  ee: https://doi.org/10.1609/aaai.v39i19.34181
+  url: https://dblp.org/rec/conf/aaai/PanWLZW0Z25
+federated%20unlearning%20venue%3AAISTATS%3A:
+- author: Yann Fraboni, Martin Van Waerebeke, Kevin Scaman, Richard Vidal, Laetitia
+    Kameni, Marco Lorenzi
+  title: 'SIFU: Sequential Informed Federated Unlearning for Efficient and Provable
+    Client Unlearning in Federated Optimization.'
+  venue: AISTATS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aistats/FraboniWSVKL24
+  doi: ''
+  ee: https://proceedings.mlr.press/v238/fraboni24a.html
+  url: https://dblp.org/rec/conf/aistats/FraboniWSVKL24
+federated%20unlearning%20venue%3ANeurIPS%3A:
+- author: Hanlin Gu, WinKent Ong, Chee Seng Chan, Lixin Fan
+  title: 'Ferrari: Federated Feature Unlearning via Optimizing Feature Sensitivity.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/GuOCF24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/2b09bb02b90584e2be94ff3ae09289bc-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/GuOCF24
+federated%20unlearning%20venue%3AICML%3A:
+- author: Tianshi Che, Yang Zhou 0001, Zijie Zhang 0001, Lingjuan Lyu, Ji Liu 0003,
+    Da Yan 0001, Dejing Dou, Jun Huan
+  title: Fast Federated Machine Unlearning with Nonlinear Functional Theory.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/CheZZLL0DH23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/che23b.html
+  url: https://dblp.org/rec/conf/icml/CheZZLL0DH23
+federated%20unlearning%20venue%3AICLR%3A:
+- author: Chao Pan 0003, Jin Sima, Saurav Prakash, Vishal Rana, Olgica Milenkovic
+  title: Machine Unlearning of Federated Clusters.
+  venue: ICLR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/0003SPRM23
+  doi: ''
+  ee: https://openreview.net/forum?id=VzwfoFyYDga
+  url: https://dblp.org/rec/conf/iclr/0003SPRM23
+federated%20unlearning%20streamid%3Ajournals%2Fml%3A:
+- author: "Ayush K. Varshney, Vicen\xE7 Torra"
+  title: Efficient federated unlearning under plausible deniability.
+  venue: Mach. Learn.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ml/VarshneyT25
+  doi: 10.1007/S10994-024-06685-X
+  ee: https://doi.org/10.1007/s10994-024-06685-x
+  url: https://dblp.org/rec/journals/ml/VarshneyT25
+federated%20unlearning%20streamid%3Ajournals%2Ftai%3A:
+- author: Yang Wang, Xue Li 0034, Siguang Chen
+  title: Malicious Clients and Contribution Co-Aware Federated Unlearning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/WangLC25
+  doi: 10.1109/TAI.2025.3556092
+  ee: https://doi.org/10.1109/TAI.2025.3556092
+  url: https://dblp.org/rec/journals/tai/WangLC25
+federated%20unlearning%20venue%3AWSDM%3A:
+- author: Wei Yuan 0003, Hongzhi Yin, Fangzhao Wu, Shijie Zhang, Tieke He, Hao Wang
+    0005
+  title: Federated Unlearning for On-Device Recommendation.
+  venue: WSDM
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wsdm/YuanYWZHW23
+  doi: 10.1145/3539597.3570463
+  ee: https://doi.org/10.1145/3539597.3570463
+  url: https://dblp.org/rec/conf/wsdm/YuanYWZHW23
+federated%20unlearning%20venue%3ACVPR%3A:
+- author: Zhengyi Zhong, Weidong Bao 0001, Ji Wang 0002, Shuai Zhang 0004, Jingxuan
+    Zhou, Lingjuan Lyu, Wei Yang Bryan Lim
+  title: 'Unlearning through Knowledge Overwriting: Reversible Federated Unlearning
+    via Selective Sparse Adapter.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/Zhong000ZLL25
+  doi: 10.1109/CVPR52734.2025.02855
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Unlearning_through_Knowledge_Overwriting_Reversible_Federated_Unlearning_via_Selective_Sparse_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/Zhong000ZLL25
+- author: Yasser H. Khalil, Leo Maxime Brunswic, Soufiane Lamghari, Xu Li 0001, Mahdi
+    Beitollahi, Xi Chen 0009
+  title: 'NoT: Federated Unlearning via Weight Negation.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/KhalilBL0B025
+  doi: 10.1109/CVPR52734.2025.02399
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Khalil_NoT_Federated_Unlearning_via_Weight_Negation_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/KhalilBL0B025
+federated%20unlearning%20venue%3ASIGIR%3A:
+- author: Yiling Tao, Shuyi Wang 0001, Jiaxi Yang 0003, Guido Zuccon
+  title: 'Unlearning for Federated Online Learning to Rank: A Reproducibility Study.'
+  venue: SIGIR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sigir/Tao0YZ25
+  doi: 10.1145/3726302.3730336
+  ee: https://doi.org/10.1145/3726302.3730336
+  url: https://dblp.org/rec/conf/sigir/Tao0YZ25
+federated%20unlearning%20streamid%3Ajournals%2Fpvldb%3A:
+- author: Youming Tao 0001, Cheng-Long Wang 0003, Miao Pan, Dongxiao Yu, Xiuzhen Cheng
+    0001, Di Wang 0015
+  title: Communication Efficient and Provable Federated Unlearning.
+  venue: Proc. VLDB Endow.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/pvldb/TaoWPYCW24
+  doi: 10.14778/3641204.3641220
+  ee: https://www.vldb.org/pvldb/vol17/p1119-wang.pdf
+  url: https://dblp.org/rec/journals/pvldb/TaoWPYCW24
+federated%20unlearning%20venue%3AINFOCOM%3A:
+- author: Yue Cui, Ningning Ding, Man Hon Cheung
+  title: AoI-Aware Federated Unlearning for Streaming Data with Online Client Selection
+    and Pricing.
+  venue: INFOCOM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/CuiDC25
+  doi: 10.1109/INFOCOM55648.2025.11044760
+  ee: https://doi.org/10.1109/INFOCOM55648.2025.11044760
+  url: https://dblp.org/rec/conf/infocom/CuiDC25
+- author: Ningning Ding, Ermin Wei, Randall Berry
+  title: Strategic Data Revocation in Federated Unlearning.
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/DingWB24
+  doi: 10.1109/INFOCOM52122.2024.10621201
+  ee: https://doi.org/10.1109/INFOCOM52122.2024.10621201
+  url: https://dblp.org/rec/conf/infocom/DingWB24
+- author: Ningxin Su, Baochun Li
+  title: Asynchronous Federated Unlearning.
+  venue: INFOCOM
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/SuL23
+  doi: 10.1109/INFOCOM53939.2023.10229075
+  ee: https://doi.org/10.1109/INFOCOM53939.2023.10229075
+  url: https://dblp.org/rec/conf/infocom/SuL23
+federated%20unlearning%20venue%3AWWW%3A:
+- author: Fan Liu, Hao Liu 0026
+  title: Subgraph Federated Unlearning.
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/LiuL25
+  doi: 10.1145/3696410.3714821
+  ee: https://doi.org/10.1145/3696410.3714821
+  url: https://dblp.org/rec/conf/www/LiuL25
+- author: Wenbin Wang, Qiwen Ma, Zifan Zhang, Yuchen Liu 0001, Zhuqing Liu, Minghong
+    Fang
+  title: Poisoning Attacks and Defenses to Federated Unlearning.
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/www/WangMZLLF25
+  doi: 10.1145/3701716.3715494
+  ee: https://doi.org/10.1145/3701716.3715494
+  url: https://dblp.org/rec/conf/www/WangMZLLF25
+- author: Wenhan Wu, Jiawei Jiang 0001, Chuang Hu
+  title: 'Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems
+    against Attribute Inference Attacks.'
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/WuJH25
+  doi: 10.1145/3696410.3714823
+  ee: https://doi.org/10.1145/3696410.3714823
+  url: https://dblp.org/rec/conf/www/WuJH25
+- author: Yijing Lin, Zhipeng Gao 0001, Hongyang Du, Dusit Niyato, Jiawen Kang 0001,
+    Xiaoyuan Liu 0002
+  title: Incentive and Dynamic Client Selection for Federated Unlearning.
+  venue: WWW
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/LinGDNK024
+  doi: 10.1145/3589334.3645462
+  ee: https://doi.org/10.1145/3589334.3645462
+  url: https://dblp.org/rec/conf/www/LinGDNK024
+- author: Xiangrong Zhu 0001, Guangyao Li, Wei Hu 0007
+  title: Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.
+  venue: WWW
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/ZhuL023
+  doi: 10.1145/3543507.3583305
+  ee: https://doi.org/10.1145/3543507.3583305
+  url: https://dblp.org/rec/conf/www/ZhuL023
+- author: Junxiao Wang, Song Guo 0001, Xin Xie 0001, Heng Qi
+  title: Federated Unlearning via Class-Discriminative Pruning.
+  venue: WWW
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/Wang0XQ22
+  doi: 10.1145/3485447.3512222
+  ee: https://doi.org/10.1145/3485447.3512222
+  url: https://dblp.org/rec/conf/www/Wang0XQ22
+federated%20unlearning%20venue%3AWACV%3A:
+- author: Jiahao Xu, Zikai Zhang 0003, Rui Hu 0005
+  title: Identify Backdoored Model in Federated Learning via Individual Unlearning.
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/XuZH25a
+  doi: 10.1109/WACV61041.2025.00773
+  ee: https://doi.org/10.1109/WACV61041.2025.00773
+  url: https://dblp.org/rec/conf/wacv/XuZH25a
+prompt%20injection%20attack%20venue%3ANeurIPS%3A:
+- author: "Edoardo Debenedetti, Jie Zhang 0107, Mislav Balunovic, Luca Beurer-Kellner,\
+    \ Marc Fischer 0002, Florian Tram\xE8r"
+  title: 'AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and
+    Defenses for LLM Agents.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/DebenedettiZBB024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html
+  url: https://dblp.org/rec/conf/nips/DebenedettiZBB024
+prompt%20injection%20attack%20venue%3AICML%3A:
+- author: Kaijie Zhu, Xianjun Yang, Jindong Wang 0001, Wenbo Guo 0002, William Yang
+    Wang
+  title: 'MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI
+    Agents.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhuY00W25
+  doi: ''
+  ee: https://openreview.net/forum?id=gt1MmGaKdZ
+  url: https://dblp.org/rec/conf/icml/ZhuY00W25
+prompt%20injection%20attack%20venue%3AICLR%3A:
+- author: Sam Toyer, Olivia Watkins, Ethan Adrian Mendes, Justin Svegliato, Luke Bailey,
+    Tiffany Wang, Isaac Ong, Karim Elmaaroufi, Pieter Abbeel, Trevor Darrell, Alan
+    Ritter, Stuart Russell 0001
+  title: 'Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game.'
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ToyerWMSBWOEADR24
+  doi: ''
+  ee: https://openreview.net/forum?id=fsW7wJGLBd
+  url: https://dblp.org/rec/conf/iclr/ToyerWMSBWOEADR24
+prompt%20injection%20attack%20venue%3AKDD%3A:
+- author: Jingwei Yi, Yueqi Xie, Bin Zhu 0008, Emre Kiciman, Guangzhong Sun, Xing
+    Xie 0001, Fangzhao Wu
+  title: Benchmarking and Defending against Indirect Prompt Injection Attacks on Large
+    Language Models.
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/YiX0KS0W25
+  doi: 10.1145/3690624.3709179
+  ee: https://doi.org/10.1145/3690624.3709179
+  url: https://dblp.org/rec/conf/kdd/YiX0KS0W25
+prompt%20injection%20attack%20streamid%3Aconf%2Fsp%3A:
+- author: Andrey Labunets, Nishit V. Pandya, Ashish Hooda, Xiaohan Fu, Earlence Fernandes
+  title: 'Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-Based
+    Prompt Injection Attacks via the Fine-Tuning Interface.'
+  venue: SP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/LabunetsPHFF25
+  doi: 10.1109/SP61157.2025.00121
+  ee: https://doi.org/10.1109/SP61157.2025.00121
+  url: https://dblp.org/rec/conf/sp/LabunetsPHFF25
+- author: Yupei Liu, Yuqi Jia, Jinyuan Jia 0001, Dawn Song, Neil Zhenqiang Gong
+  title: 'DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks.'
+  venue: SP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/LiuJ0SG25
+  doi: 10.1109/SP61157.2025.00250
+  ee: https://doi.org/10.1109/SP61157.2025.00250
+  url: https://dblp.org/rec/conf/sp/LiuJ0SG25
+prompt%20injection%20attack%20venue%3ACCS%3A:
+- author: Jiawen Shi, Zenghui Yuan, Yinuo Liu, Yue Huang 0001, Pan Zhou 0001, Lichao
+    Sun 0001, Neil Zhenqiang Gong
+  title: Optimization-based Prompt Injection Attack to LLM-as-a-Judge.
+  venue: CCS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/ShiYLH00G24
+  doi: 10.1145/3658644.3690291
+  ee: https://doi.org/10.1145/3658644.3690291
+  url: https://dblp.org/rec/conf/ccs/ShiYLH00G24
+prompt%20injection%20attack%20streamid%3Aconf%2Fuss%3A:
+- author: Yupei Liu, Yuqi Jia, Runpeng Geng, Jinyuan Jia 0001, Neil Zhenqiang Gong
+  title: Formalizing and Benchmarking Prompt Injection Attacks and Defenses.
+  venue: USENIX Security Symposium
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/LiuJGJG24
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei
+  url: https://dblp.org/rec/conf/uss/LiuJGJG24
+prompt%20injection%20attack%20venue%3AACL%3A:
+- author: Yulin Chen, Haoran Li 0003, Zihao Zheng, Dekai Wu, Yangqiu Song, Bryan Hooi
+  title: Defense Against Prompt Injection Attack by Leveraging Attack Techniques.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/Chen0ZWSH25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.897/
+  url: https://dblp.org/rec/conf/acl/Chen0ZWSH25
+- author: Yulin Chen, Haoran Li 0003, Yuan Sui 0001, Yufei He, Yue Liu 0008, Yangqiu
+    Song, Bryan Hooi
+  title: Can Indirect Prompt Injection Attacks Be Detected and Removed?
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ChenLSH0SH25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.890/
+  url: https://dblp.org/rec/conf/acl/ChenLSH0SH25
+prompt%20injection%20venue%3ANeurIPS%3A:
+- author: "Edoardo Debenedetti, Jie Zhang 0107, Mislav Balunovic, Luca Beurer-Kellner,\
+    \ Marc Fischer 0002, Florian Tram\xE8r"
+  title: 'AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and
+    Defenses for LLM Agents.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/DebenedettiZBB024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html
+  url: https://dblp.org/rec/conf/nips/DebenedettiZBB024
+prompt%20injection%20venue%3AICML%3A:
+- author: Kaijie Zhu, Xianjun Yang, Jindong Wang 0001, Wenbo Guo 0002, William Yang
+    Wang
+  title: 'MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI
+    Agents.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhuY00W25
+  doi: ''
+  ee: https://openreview.net/forum?id=gt1MmGaKdZ
+  url: https://dblp.org/rec/conf/icml/ZhuY00W25
+prompt%20injection%20venue%3AICLR%3A:
+- author: Sam Toyer, Olivia Watkins, Ethan Adrian Mendes, Justin Svegliato, Luke Bailey,
+    Tiffany Wang, Isaac Ong, Karim Elmaaroufi, Pieter Abbeel, Trevor Darrell, Alan
+    Ritter, Stuart Russell 0001
+  title: 'Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game.'
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ToyerWMSBWOEADR24
+  doi: ''
+  ee: https://openreview.net/forum?id=fsW7wJGLBd
+  url: https://dblp.org/rec/conf/iclr/ToyerWMSBWOEADR24
+prompt%20injection%20venue%3AKDD%3A:
+- author: Mingchen Sun, Jiahui Hou, Yutong Zhang, Yingji Li, Ying Wang 0009
+  title: Generalizable Graph Prompt Learning Framework with Model-level Prompt Injection
+    and Two-Stage Prompt Tuning.
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/SunHZL025
+  doi: 10.1145/3711896.3736976
+  ee: https://doi.org/10.1145/3711896.3736976
+  url: https://dblp.org/rec/conf/kdd/SunHZL025
+- author: Jingwei Yi, Yueqi Xie, Bin Zhu 0008, Emre Kiciman, Guangzhong Sun, Xing
+    Xie 0001, Fangzhao Wu
+  title: Benchmarking and Defending against Indirect Prompt Injection Attacks on Large
+    Language Models.
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/YiX0KS0W25
+  doi: 10.1145/3690624.3709179
+  ee: https://doi.org/10.1145/3690624.3709179
+  url: https://dblp.org/rec/conf/kdd/YiX0KS0W25
+prompt%20injection%20streamid%3Aconf%2Fsp%3A:
+- author: Hongwei Yao, Jian Lou 0001, Zhan Qin, Kui Ren 0001
+  title: 'PromptCARE: Prompt Copyright Protection by Watermark Injection and Verification.'
+  venue: SP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/YaoLQR24
+  doi: 10.1109/SP54263.2024.00209
+  ee: https://doi.org/10.1109/SP54263.2024.00209
+  url: https://dblp.org/rec/conf/sp/YaoLQR24
+- author: Andrey Labunets, Nishit V. Pandya, Ashish Hooda, Xiaohan Fu, Earlence Fernandes
+  title: 'Fun-tuning: Characterizing the Vulnerability of Proprietary LLMs to Optimization-Based
+    Prompt Injection Attacks via the Fine-Tuning Interface.'
+  venue: SP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/LabunetsPHFF25
+  doi: 10.1109/SP61157.2025.00121
+  ee: https://doi.org/10.1109/SP61157.2025.00121
+  url: https://dblp.org/rec/conf/sp/LabunetsPHFF25
+- author: Yupei Liu, Yuqi Jia, Jinyuan Jia 0001, Dawn Song, Neil Zhenqiang Gong
+  title: 'DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks.'
+  venue: SP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/LiuJ0SG25
+  doi: 10.1109/SP61157.2025.00250
+  ee: https://doi.org/10.1109/SP61157.2025.00250
+  url: https://dblp.org/rec/conf/sp/LiuJ0SG25
+prompt%20injection%20venue%3ACCS%3A:
+- author: Sizhe Chen, Arman Zharmagambetov, Saeed Mahloujifar, Kamalika Chaudhuri,
+    David A. Wagner 0001, Chuan Guo 0001
+  title: 'SecAlign: Defending Against Prompt Injection with Preference Optimization.'
+  venue: CCS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/ChenZMC0025
+  doi: 10.1145/3719027.3744836
+  ee: https://doi.org/10.1145/3719027.3744836
+  url: https://dblp.org/rec/conf/ccs/ChenZMC0025
+- author: Jiawen Shi, Zenghui Yuan, Yinuo Liu, Yue Huang 0001, Pan Zhou 0001, Lichao
+    Sun 0001, Neil Zhenqiang Gong
+  title: Optimization-based Prompt Injection Attack to LLM-as-a-Judge.
+  venue: CCS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/ShiYLH00G24
+  doi: 10.1145/3658644.3690291
+  ee: https://doi.org/10.1145/3658644.3690291
+  url: https://dblp.org/rec/conf/ccs/ShiYLH00G24
+prompt%20injection%20streamid%3Aconf%2Fuss%3A:
+- author: Sizhe Chen, Julien Piet, Chawin Sitawarin, David A. Wagner 0001
+  title: 'StruQ: Defending Against Prompt Injection with Structured Queries.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/ChenPS025
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/chen-sizhe
+  url: https://dblp.org/rec/conf/uss/ChenPS025
+- author: Yupei Liu, Yuqi Jia, Runpeng Geng, Jinyuan Jia 0001, Neil Zhenqiang Gong
+  title: Formalizing and Benchmarking Prompt Injection Attacks and Defenses.
+  venue: USENIX Security Symposium
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/LiuJGJG24
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei
+  url: https://dblp.org/rec/conf/uss/LiuJGJG24
+prompt%20injection%20venue%3AACL%3A:
+- author: Yulin Chen, Haoran Li 0003, Zihao Zheng, Dekai Wu, Yangqiu Song, Bryan Hooi
+  title: Defense Against Prompt Injection Attack by Leveraging Attack Techniques.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/Chen0ZWSH25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.897/
+  url: https://dblp.org/rec/conf/acl/Chen0ZWSH25
+- author: Yulin Chen, Haoran Li 0003, Yuan Sui 0001, Yufei He, Yue Liu 0008, Yangqiu
+    Song, Bryan Hooi
+  title: Can Indirect Prompt Injection Attacks Be Detected and Removed?
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ChenLSH0SH25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.890/
+  url: https://dblp.org/rec/conf/acl/ChenLSH0SH25
+- author: Feiran Jia, Tong Wu, Xin Qin, Anna Cinzia Squicciarini
+  title: 'The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt
+    Injection in LLM Agents.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/JiaWQS25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.1435/
+  url: https://dblp.org/rec/conf/acl/JiaWQS25
+- author: Hao Li, Xiaogeng Liu, Ning Zhang, Chaowei Xiao
+  title: 'PIGuard: Prompt Injection Guardrail via Mitigating Overdefense for Free.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/LiLZX25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.1468/
+  url: https://dblp.org/rec/conf/acl/LiLZX25
+- author: Qiusi Zhan, Zhixiang Liang, Zifan Ying, Daniel Kang
+  title: 'InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large
+    Language Model Agents.'
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ZhanLYK24
+  doi: 10.18653/V1/2024.FINDINGS-ACL.624
+  ee: https://doi.org/10.18653/v1/2024.findings-acl.624
+  url: https://dblp.org/rec/conf/acl/ZhanLYK24
+prompt%20injection%20venue%3ANAACL-HLT%3A:
+- author: Jun Yan, Vikas Yadav, Shiyang Li, Lichang Chen, Zheng Tang, Hai Wang, Vijay
+    Srinivasan, Xiang Ren, Hongxia Jin
+  title: Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection.
+  venue: NAACL-HLT
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/naacl/YanYLCTWSRJ24
+  doi: 10.18653/V1/2024.NAACL-LONG.337
+  ee: https://doi.org/10.18653/v1/2024.naacl-long.337
+  url: https://dblp.org/rec/conf/naacl/YanYLCTWSRJ24
+prompt%20injection%20venue%3AEMNLP%3A:
+- author: Zekun Li 0008, Baolin Peng, Pengcheng He, Xifeng Yan
+  title: Evaluating the Instruction-Following Robustness of Large Language Models
+    to Prompt Injection.
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/0008PHY24
+  doi: 10.18653/V1/2024.EMNLP-MAIN.33
+  ee: https://doi.org/10.18653/v1/2024.emnlp-main.33
+  url: https://dblp.org/rec/conf/emnlp/0008PHY24
+prompt%20injection%20streamid%3Aconf%2Ficse%3A:
+- author: Rodrigo Pedro, Miguel E. Coimbra, Daniel Castro 0004, Paulo Carreira 0001,
+    Nuno Santos 0001
+  title: 'Prompt-to-SQL Injections in LLM-Integrated Web Applications: Risks and Defenses.'
+  venue: ICSE
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icse/PedroC00025
+  doi: 10.1109/ICSE55347.2025.00007
+  ee: https://doi.org/10.1109/ICSE55347.2025.00007
+  url: https://dblp.org/rec/conf/icse/PedroC00025
+machine%20unlearning%20venue%3AIJCAI%3A:
+- author: Hong-Kyu Lee, Qiuchen Zhang, Carl Yang 0001, Jian Lou 0001, Li Xiong 0001
+  title: 'Contrastive Unlearning: A Contrastive Approach to Machine Unlearning.'
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/LeeZ00025
+  doi: 10.24963/IJCAI.2025/830
+  ee: https://doi.org/10.24963/ijcai.2025/830
+  url: https://dblp.org/rec/conf/ijcai/LeeZ00025
+- author: Hanlin Gu, Gongxi Zhu, Jie Zhang 0078, Xinyuan Zhao, Yuxing Han 0001, Lixin
+    Fan, Qiang Yang 0001
+  title: 'Unlearning during Learning: An Efficient Federated Machine Unlearning Method.'
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/GuZ0Z0F024
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/446
+  url: https://dblp.org/rec/conf/ijcai/GuZ0Z0F024
+- author: Huiqiang Chen, Tianqing Zhu, Xin Yu 0002, Wanlei Zhou 0001
+  title: Zero-Shot Machine Unlearning with Proxy Adversarial Data Generation.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenZ0025
+  doi: 10.24963/IJCAI.2025/39
+  ee: https://doi.org/10.24963/ijcai.2025/39
+  url: https://dblp.org/rec/conf/ijcai/ChenZ0025
+- author: Andrea D&apos;Angelo, Claudio Savelli, Gabriele Tagliente, Flavio Giobergia,
+    Elena Baralis, Giovanni Stilo
+  title: How to Make Reproducible Research in Machine Unlearning with ERASURE.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/DAngeloSTGBS25
+  doi: 10.24963/IJCAI.2025/1255
+  ee: https://doi.org/10.24963/ijcai.2025/1255
+  url: https://dblp.org/rec/conf/ijcai/DAngeloSTGBS25
+- author: Huiqiang Chen, Tianqing Zhu, Xin Yu 0002, Wanlei Zhou 0001
+  title: Machine Unlearning via Null Space Calibration.
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenZ0024
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/40
+  url: https://dblp.org/rec/conf/ijcai/ChenZ0024
+- author: Miao Xu 0001
+  title: 'Machine Unlearning: Challenges in Data Quality and Access.'
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/Xu24
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/987
+  url: https://dblp.org/rec/conf/ijcai/Xu24
+- author: Haonan Yan, Xiaoguang Li, Ziyao Guo, Hui Li 0006, Fenghua Li, Xiaodong Lin
+    0001
+  title: 'ARCANE: An Efficient Architecture for Exact Machine Unlearning.'
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/YanLG0L022
+  doi: 10.24963/IJCAI.2022/556
+  ee: https://doi.org/10.24963/ijcai.2022/556
+  url: https://dblp.org/rec/conf/ijcai/YanLG0L022
+machine%20unlearning%20venue%3AAAAI%3A:
+- author: Hyunjune Kim, Sangyong Lee, Simon S. Woo
+  title: 'Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer
+    Level Attack and Knowledge Distillation.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/KimLW24
+  doi: 10.1609/AAAI.V38I19.30118
+  ee: https://doi.org/10.1609/aaai.v38i19.30118
+  url: https://dblp.org/rec/conf/aaai/KimLW24
+- author: Dasol Choi, Dongbin Na
+  title: 'Distribution-Level Feature Distancing for Machine Unlearning: Towards a
+    Better Trade-off Between Model Utility and Forgetting.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChoiN25
+  doi: 10.1609/AAAI.V39I3.32256
+  ee: https://doi.org/10.1609/aaai.v39i3.32256
+  url: https://dblp.org/rec/conf/aaai/ChoiN25
+- author: Sangamesh Kodge, Deepak Ravikumar, Gobinda Saha, Kaushik Roy 0001
+  title: 'SAP: Corrective Machine Unlearning with Scaled Activation Projection for
+    Label Noise Robustness.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/KodgeRS025
+  doi: 10.1609/AAAI.V39I17.33972
+  ee: https://doi.org/10.1609/aaai.v39i17.33972
+  url: https://dblp.org/rec/conf/aaai/KodgeRS025
+- author: Md. Rafi Ur Rashid, Jing Liu 0009, Toshiaki Koike-Akino, Ye Wang 0001, Shagufta
+    Mehnaz
+  title: 'Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language
+    Models for Privacy Leakage.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/RashidLKWM25
+  doi: 10.1609/AAAI.V39I19.34218
+  ee: https://doi.org/10.1609/aaai.v39i19.34218
+  url: https://dblp.org/rec/conf/aaai/RashidLKWM25
+- author: Lingzhi Wang 0001, Xingshan Zeng, Jinsong Guo, Kam-Fai Wong, Georg Gottlob
+  title: 'Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation
+    in Language Models.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangZGWG25
+  doi: 10.1609/AAAI.V39I1.32068
+  ee: https://doi.org/10.1609/aaai.v39i1.32068
+  url: https://dblp.org/rec/conf/aaai/WangZGWG25
+- author: Jack Foster, Stefan Schoepf, Alexandra Brintrup
+  title: Fast Machine Unlearning without Retraining through Selective Synaptic Dampening.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/FosterSB24
+  doi: 10.1609/AAAI.V38I11.29092
+  ee: https://doi.org/10.1609/aaai.v38i11.29092
+  url: https://dblp.org/rec/conf/aaai/FosterSB24
+- author: Zihao Liu, Tianhao Wang 0001, Mengdi Huai, Chenglin Miao
+  title: Backdoor Attacks via Machine Unlearning.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuWHM24
+  doi: 10.1609/AAAI.V38I13.29321
+  ee: https://doi.org/10.1609/aaai.v38i13.29321
+  url: https://dblp.org/rec/conf/aaai/LiuWHM24
+- author: Neil G. Marchant, Benjamin I. P. Rubinstein, Scott Alfeld
+  title: 'Hard to Forget: Poisoning Attacks on Certified Machine Unlearning.'
+  venue: AAAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/MarchantRA22
+  doi: 10.1609/AAAI.V36I7.20736
+  ee: https://doi.org/10.1609/aaai.v36i7.20736
+  url: https://dblp.org/rec/conf/aaai/MarchantRA22
+machine%20unlearning%20venue%3AAISTATS%3A:
+- author: "Alex Oesterling, Jiaqi Ma 0001, Fl\xE1vio P. Calmon, Himabindu Lakkaraju"
+  title: 'Fair Machine Unlearning: Data Removal while Mitigating Disparities.'
+  venue: AISTATS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aistats/OesterlingMCL24
+  doi: ''
+  ee: https://proceedings.mlr.press/v238/oesterling24a.html
+  url: https://dblp.org/rec/conf/aistats/OesterlingMCL24
+machine%20unlearning%20streamid%3Aconf%2Falt%3A:
+- author: Seth Neel, Aaron Roth 0001, Saeed Sharifi-Malvajerdi
+  title: 'Descent-to-Delete: Gradient-Based Methods for Machine Unlearning.'
+  venue: ALT
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/alt/Neel0S21
+  doi: ''
+  ee: http://proceedings.mlr.press/v132/neel21a.html
+  url: https://dblp.org/rec/conf/alt/Neel0S21
+machine%20unlearning%20venue%3ANeurIPS%3A:
+- author: Eli Chien, Haoyu Wang 0004, Ziang Chen, Pan Li 0005
+  title: 'Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine
+    Unlearning.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ChienWCL24a
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/9161a3e810cc0542718abddb791e8aed-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/ChienWCL24a
+- author: Jiaqi Li, Qianshan Wei, Chuanyi Zhang, Guilin Qi, Miaozeng Du, Yongrui Chen
+    0002, Sheng Bi, Fan Liu
+  title: 'Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large
+    Language Models.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiWZQD0BL24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/3e53d82a1113e3d240059a9195668edc-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiWZQD0BL24
+- author: "Mart\xEDn Bertr\xE1n, Shuai Tang, Michael Kearns, Jamie H. Morgenstern,\
+    \ Aaron Roth 0001, Steven Z. Wu"
+  title: 'Reconstruction Attacks on Machine Unlearning: Simple Models are Vulnerable.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/BertranTKM0W24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/bd996108ed57d388866ca6deb7acf6cb-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/BertranTKM0W24
+- author: Eli Chien, Haoyu Wang 0004, Ziang Chen, Pan Li 0005
+  title: Certified Machine Unlearning via Noisy Stochastic Gradient Descent.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ChienWCL24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/448abd486677165ceedfa790e9a61802-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/ChienWCL24
+- author: Zhehao Huang, Xinwen Cheng, JingHao Zheng, Haoran Wang, Zhengbao He, Tao
+    Li, Xiaolin Huang
+  title: Unified Gradient-Based Machine Unlearning with Remain Geometry Enhancement.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/HuangCZWHLH24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/2e622ac74f66df03b686a12e2e0e4424-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/HuangCZWHLH24
+- author: Yihua Zhang, Chongyu Fan, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng
+    Liu, Gaoyuan Zhang, Gaowen Liu, Ramana Kompella, Xiaoming Liu 0002, Sijia Liu
+    0001
+  title: 'UnlearnCanvas: Stylized Image Dataset for Enhanced Machine Unlearning Evaluation
+    in Diffusion Models.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ZhangFZYJLZLK0024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/aebf4822d30c3f2600566af7eba83548-Abstract-Datasets_and_Benchmarks_Track.html
+  url: https://dblp.org/rec/conf/nips/ZhangFZYJLZLK0024
+- author: Ruizhe Chen, Jianfei Yang, Huimin Xiong, Jianhong Bai, Tianxiang Hu, Jin
+    Hao, Yang Feng 0011, Joey Tianyi Zhou, Jian Wu 0001, Zuozhu Liu
+  title: Fast Model DeBias with Machine Unlearning.
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ChenYXBHHFZWL23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/2ecc80084c96cc25b11b0ab995c25f47-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/ChenYXBHHFZWL23
+- author: Jimmy Z. Di, Jack Douglas, Jayadev Acharya, Gautam Kamath 0001, Ayush Sekhari
+  title: 'Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks.'
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/DiDA0S23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/8b4add8b0aa8749d80a34ca5d941c355-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/DiDA0S23
+- author: Jinghan Jia, Jiancheng Liu, Parikshit Ram, Yuguang Yao, Gaowen Liu, Yang
+    Liu 0018, Pranay Sharma, Sijia Liu 0001
+  title: Model Sparsity Can Simplify Machine Unlearning.
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/JiaLRYLLSL23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/a204aa68ab4e970e1ceccfb5b5cdc5e4-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/JiaLRYLLSL23
+- author: Meghdad Kurmanji, Peter Triantafillou, Jamie Hayes, Eleni Triantafillou
+  title: Towards Unbounded Machine Unlearning.
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/KurmanjiTHT23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/062d711fb777322e2152435459e6e9d9-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/KurmanjiTHT23
+- author: Zijie Zhang 0001, Yang Zhou 0001, Xin Zhao, Tianshi Che, Lingjuan Lyu
+  title: Prompt Certified Machine Unlearning with Randomized Gradient Smoothing and
+    Quantization.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/Zhang0ZCL22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/5771d9f214b75be6ff20f63bba315644-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/Zhang0ZCL22
+- author: Varun Gupta 0006, Christopher Jung 0001, Seth Neel, Aaron Roth 0001, Saeed
+    Sharifi-Malvajerdi, Chris Waites
+  title: Adaptive Machine Unlearning.
+  venue: NeurIPS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/GuptaJNRSW21
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2021/hash/87f7ee4fdb57bdfd52179947211b7ebb-Abstract.html
+  url: https://dblp.org/rec/conf/nips/GuptaJNRSW21
+- author: Ayush Sekhari, Jayadev Acharya, Gautam Kamath 0001, Ananda Theertha Suresh
+  title: 'Remember What You Want to Forget: Algorithms for Machine Unlearning.'
+  venue: NeurIPS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/SekhariAKS21
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2021/hash/9627c45df543c816a3ddf2d8ea686a99-Abstract.html
+  url: https://dblp.org/rec/conf/nips/SekhariAKS21
+machine%20unlearning%20venue%3AICML%3A:
+- author: Hyoseo Kim, Dongyoon Han, Junsuk Choe
+  title: 'NegMerge: Sign-Consensual Weight Merging for Machine Unlearning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/KimHC25
+  doi: ''
+  ee: https://openreview.net/forum?id=ZbWXovStjD
+  url: https://dblp.org/rec/conf/icml/KimHC25
+- author: Marcin Sendera, Lukasz Struski, Kamil Ksiazek, Kryspin Musiol, Jacek Tabor,
+    Dawid Damian Rymarczyk
+  title: 'SEMU: Singular Value Decomposition for Efficient Machine Unlearning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/SenderaSKMTR25
+  doi: ''
+  ee: https://openreview.net/forum?id=jnhkY0yCIW
+  url: https://dblp.org/rec/conf/icml/SenderaSKMTR25
+- author: Nazanin Mohammadi Sepahvand, Anvith Thudi, Berivan Isik, Ashmita Bhattacharyya,
+    Nicolas Papernot, Eleni Triantafillou, Daniel M. Roy 0001, Gintare Karolina Dziugaite
+  title: Leveraging Per-Instance Privacy for Machine Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/SepahvandTIBPT025
+  doi: ''
+  ee: https://openreview.net/forum?id=0A4Y9qRnu9
+  url: https://dblp.org/rec/conf/icml/SepahvandTIBPT025
+- author: Martin Van Waerebeke, Marco Lorenzi, Giovanni Neglia, Kevin Scaman
+  title: When to Forget? Complexity Trade-offs in Machine Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WaerebekeLNS25
+  doi: ''
+  ee: https://openreview.net/forum?id=uEUIeIrRPv
+  url: https://dblp.org/rec/conf/icml/WaerebekeLNS25
+- author: Zihan Zhou, Yang Zhou 0001, Zijie Zhang 0001, Lingjuan Lyu, Da Yan 0001,
+    Ruoming Jin, Dejing Dou
+  title: Flexible, Efficient, and Stable Adversarial Attacks on Machine Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Zhou00L0JD25
+  doi: ''
+  ee: https://openreview.net/forum?id=ba3sSfEnj1
+  url: https://dblp.org/rec/conf/icml/Zhou00L0JD25
+- author: Binchi Zhang, Zihan Chen 0002, Cong Shen 0001, Jundong Li
+  title: Verification of Machine Unlearning is Fragile.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhangCSL24
+  doi: ''
+  ee: https://openreview.net/forum?id=OkChMnjF6s
+  url: https://dblp.org/rec/conf/icml/ZhangCSL24
+- author: Tianshi Che, Yang Zhou 0001, Zijie Zhang 0001, Lingjuan Lyu, Ji Liu 0003,
+    Da Yan 0001, Dejing Dou, Jun Huan
+  title: Fast Federated Machine Unlearning with Nonlinear Functional Theory.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/CheZZLL0DH23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/che23b.html
+  url: https://dblp.org/rec/conf/icml/CheZZLL0DH23
+- author: Rishav Chourasia, Neil Shah
+  title: 'Forget Unlearning: Towards True Data-Deletion in Machine Learning.'
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChourasiaS23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/chourasia23a.html
+  url: https://dblp.org/rec/conf/icml/ChourasiaS23
+- author: Enayat Ullah, Raman Arora
+  title: From Adaptive Query Release to Machine Unlearning.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/UllahA23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/ullah23a.html
+  url: https://dblp.org/rec/conf/icml/UllahA23
+- author: Jonathan Brophy, Daniel Lowd
+  title: Machine Unlearning for Random Forests.
+  venue: ICML
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/BrophyL21
+  doi: ''
+  ee: http://proceedings.mlr.press/v139/brophy21a.html
+  url: https://dblp.org/rec/conf/icml/BrophyL21
+machine%20unlearning%20venue%3AICLR%3A:
+- author: Youssef Allouah, Joshua Kazdan, Rachid Guerraoui, Sanmi Koyejo
+  title: The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/AllouahKGK25
+  doi: ''
+  ee: https://openreview.net/forum?id=HVFMooKrHX
+  url: https://dblp.org/rec/conf/iclr/AllouahKGK25
+- author: Tianqi Chen, Shujian Zhang, Mingyuan Zhou
+  title: 'Score Forgetting Distillation: A Swift, Data-Free Method for Machine Unlearning
+    in Diffusion Models.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ChenZZ25a
+  doi: ''
+  ee: https://openreview.net/forum?id=gjwhDHeAsz
+  url: https://dblp.org/rec/conf/iclr/ChenZZ25a
+- author: Somnath Basu Roy Chowdhury, Krzysztof Marcin Choromanski, Arijit Sehanobish,
+    Kumar Avinava Dubey, Snigdha Chaturvedi
+  title: Towards Scalable Exact Machine Unlearning Using Parameter-Efficient Fine-Tuning.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ChowdhuryCSDC25
+  doi: ''
+  ee: https://openreview.net/forum?id=oe51Q5Uo37
+  url: https://dblp.org/rec/conf/iclr/ChowdhuryCSDC25
+- author: Zonglin Di, Sixie Yu, Yevgeniy Vorobeychik, Yang Liu 0018
+  title: Adversarial Machine Unlearning.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/DiYVL25
+  doi: ''
+  ee: https://openreview.net/forum?id=swWF948IiC
+  url: https://dblp.org/rec/conf/iclr/DiYVL25
+- author: Kristian Georgiev, Roy Rinberg, Sung Min Park, Shivam Garg, Andrew Ilyas,
+    Aleksander Madry, Seth Neel
+  title: Machine Unlearning via Simulated Oracle Matching.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/GeorgievRPGIMN25
+  doi: ''
+  ee: https://openreview.net/forum?id=3vXpZpOn29
+  url: https://dblp.org/rec/conf/iclr/GeorgievRPGIMN25
+- author: Yangsibo Huang, Daogao Liu, Lynn Chua, Badih Ghazi, Pritish Kamath, Ravi
+    Kumar 0001, Pasin Manurangsi, Milad Nasr, Amer Sinha, Chiyuan Zhang
+  title: 'Unlearn and Burn: Adversarial Machine Unlearning Requests Destroy Model
+    Accuracy.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/HuangLCGK0MNSZ25
+  doi: ''
+  ee: https://openreview.net/forum?id=5xxGP9x5dZ
+  url: https://dblp.org/rec/conf/iclr/HuangLCGK0MNSZ25
+- author: Martin Pawelczyk, Jimmy Z. Di, Yiwei Lu 0001, Gautam Kamath 0001, Ayush
+    Sekhari, Seth Neel
+  title: Machine Unlearning Fails to Remove Data Poisoning Attacks.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/PawelczykD00SN25
+  doi: ''
+  ee: https://openreview.net/forum?id=HaX48yksVL
+  url: https://dblp.org/rec/conf/iclr/PawelczykD00SN25
+- author: Weijia Shi, Jaechan Lee, Yangsibo Huang, Sadhika Malladi, Jieyu Zhao 0001,
+    Ari Holtzman, Daogao Liu, Luke Zettlemoyer, Noah A. Smith, Chiyuan Zhang
+  title: 'MUSE: Machine Unlearning Six-Way Evaluation for Language Models.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ShiLHMZHLZSZ25
+  doi: ''
+  ee: https://openreview.net/forum?id=TArmA033BU
+  url: https://dblp.org/rec/conf/iclr/ShiLHMZHLZSZ25
+- author: Shurong Wang, Zhuoyang Shen, Xinbao Qiao, Tongning Zhang, Meng Zhang 0013
+  title: 'DynFrs: An Efficient Framework for Machine Unlearning in Random Forest.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/WangSQZZ25
+  doi: ''
+  ee: https://openreview.net/forum?id=nsCOeCLR8e
+  url: https://dblp.org/rec/conf/iclr/WangSQZZ25
+- author: Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang 0001, Min
+    Lin
+  title: A Closer Look at Machine Unlearning for Large Language Models.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/YuanPDC0L25
+  doi: ''
+  ee: https://openreview.net/forum?id=Q1MHvGmhyT
+  url: https://dblp.org/rec/conf/iclr/YuanPDC0L25
+- author: Chongyu Fan, Jiancheng Liu, Yihua Zhang, Eric Wong 0001, Dennis Wei, Sijia
+    Liu 0001
+  title: 'SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency
+    in Both Image Classification and Generation.'
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/FanLZ0W024
+  doi: ''
+  ee: https://openreview.net/forum?id=gn0mIhQGNM
+  url: https://dblp.org/rec/conf/iclr/FanLZ0W024
+- author: Guihong Li, Hsiang Hsu, Chun-Fu Chen 0001, Radu Marculescu
+  title: Machine Unlearning for Image-to-Image Generative Models.
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/LiH0M24
+  doi: ''
+  ee: https://openreview.net/forum?id=9hjVoPWPnh
+  url: https://dblp.org/rec/conf/iclr/LiH0M24
+- author: Chao Pan 0003, Jin Sima, Saurav Prakash, Vishal Rana, Olgica Milenkovic
+  title: Machine Unlearning of Federated Clusters.
+  venue: ICLR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/0003SPRM23
+  doi: ''
+  ee: https://openreview.net/forum?id=VzwfoFyYDga
+  url: https://dblp.org/rec/conf/iclr/0003SPRM23
+machine%20unlearning%20venue%3ACOLT%3A:
+- author: Enayat Ullah, Tung Mai, Anup Rao 0002, Ryan A. Rossi, Raman Arora
+  title: Machine Unlearning via Algorithmic Stability.
+  venue: COLT
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/colt/UllahM0RA21
+  doi: ''
+  ee: http://proceedings.mlr.press/v134/ullah21a.html
+  url: https://dblp.org/rec/conf/colt/UllahM0RA21
+machine%20unlearning%20venue%3AUAI%3A:
+- author: Owais Makroo, Atif Hassan, Swanand R. Khare
+  title: 'SALSA: A Secure, Adaptive and Label-Agnostic Scalable Algorithm for Machine
+    Unlearning.'
+  venue: UAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uai/MakrooHK25
+  doi: ''
+  ee: https://proceedings.mlr.press/v286/makroo25a.html
+  url: https://dblp.org/rec/conf/uai/MakrooHK25
+machine%20unlearning%20streamid%3Ajournals%2Fml%3A:
+- author: Ruikai Yang, Mingzhen He, Zhenghao He, Youmei Qiu, Xiaolin Huang
+  title: 'MUSO: achieving exact machine unlearning in over-parameterized regimes.'
+  venue: Mach. Learn.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ml/YangHHQH25
+  doi: 10.1007/S10994-025-06806-0
+  ee: https://doi.org/10.1007/s10994-025-06806-0
+  url: https://dblp.org/rec/journals/ml/YangHHQH25
+- author: "Thomas Baumhauer, Pascal Sch\xF6ttle, Matthias Zeppelzauer"
+  title: 'Machine unlearning: linear filtration for logit-based classifiers.'
+  venue: Mach. Learn.
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/ml/BaumhauerSZ22
+  doi: 10.1007/S10994-022-06178-9
+  ee: https://doi.org/10.1007/s10994-022-06178-9
+  url: https://dblp.org/rec/journals/ml/BaumhauerSZ22
+machine%20unlearning%20streamid%3Ajournals%2Fpami%3A:
+- author: Zhengbao He, Tao Li 0054, Xinwen Cheng, Zhehao Huang, Xiaolin Huang
+  title: Towards Natural Machine Unlearning.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/HeLCHH25
+  doi: 10.1109/TPAMI.2025.3597350
+  ee: https://doi.org/10.1109/TPAMI.2025.3597350
+  url: https://dblp.org/rec/journals/pami/HeLCHH25
+machine%20unlearning%20venue%3AKDD%3A:
+- author: Min Chen, Weizhuo Gao, Chen Wang 0011, Gaoyang Liu, Ahmed M. Abdelmoniem,
+    Kai Peng 0001
+  title: 'From Expansion to Retraction: Long-tailed Machine Unlearning via Boundary
+    Manipulation.'
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/ChenG0LA025
+  doi: 10.1145/3711896.3736970
+  ee: https://doi.org/10.1145/3711896.3736970
+  url: https://dblp.org/rec/conf/kdd/ChenG0LA025
+- author: Huawei Lin 0001, Jun Woo Chung, Yingjie Lao, Weijie Zhao 0001
+  title: Machine Unlearning in Gradient Boosting Decision Trees.
+  venue: KDD
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/LinCL023
+  doi: 10.1145/3580305.3599420
+  ee: https://doi.org/10.1145/3580305.3599420
+  url: https://dblp.org/rec/conf/kdd/LinCL023
+machine%20unlearning%20streamid%3Aconf%2Fsp%3A:
+- author: Hongsheng Hu, Shuo Wang 0012, Tian Dong, Minhui Xue 0001
+  title: 'Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine
+    Unlearning.'
+  venue: SP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/HuWDX24
+  doi: 10.1109/SP54263.2024.00248
+  ee: https://doi.org/10.1109/SP54263.2024.00248
+  url: https://dblp.org/rec/conf/sp/HuWDX24
+- author: Lucas Bourtoule, Varun Chandrasekaran, Christopher A. Choquette-Choo, Hengrui
+    Jia 0001, Adelin Travers, Baiwu Zhang, David Lie, Nicolas Papernot
+  title: Machine Unlearning.
+  venue: SP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/BourtouleCCJTZL21
+  doi: 10.1109/SP40001.2021.00019
+  ee: https://doi.org/10.1109/SP40001.2021.00019
+  url: https://dblp.org/rec/conf/sp/BourtouleCCJTZL21
+- author: Yinzhi Cao, Junfeng Yang
+  title: Towards Making Systems Forget with Machine Unlearning.
+  venue: IEEE Symposium on Security and Privacy
+  year: '2015'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/CaoY15
+  doi: 10.1109/SP.2015.35
+  ee: https://doi.org/10.1109/SP.2015.35
+  url: https://dblp.org/rec/conf/sp/CaoY15
+machine%20unlearning%20venue%3ACCS%3A:
+- author: Renyang Liu 0001, Wenjie Feng 0001, Tianwei Zhang 0004, Wei Zhou 0011, Xueqi
+    Cheng, See-Kiong Ng
+  title: Rethinking Machine Unlearning in Image Generation Models.
+  venue: CCS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/Liu0ZZCN25
+  doi: 10.1145/3719027.3744793
+  ee: https://doi.org/10.1145/3719027.3744793
+  url: https://dblp.org/rec/conf/ccs/Liu0ZZCN25
+- author: Gaoyang Liu, Xijie Wang, Zixiong Wang, Chen Wang 0011, Ahmed M. Abdelmoniem,
+    Desheng Wang 0001
+  title: 'Prototype Surgery: Tailoring Neural Prototypes via Soft Labels for Efficient
+    Machine Unlearning.'
+  venue: CCS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/LiuWWWA025
+  doi: 10.1145/3719027.3744827
+  ee: https://doi.org/10.1145/3719027.3744827
+  url: https://dblp.org/rec/conf/ccs/LiuWWWA025
+- author: Yuke Hu, Jian Lou 0001, Jiaqi Liu 0003, Wangze Ni, Feng Lin 0004, Zhan Qin,
+    Kui Ren 0001
+  title: 'ERASER: Machine Unlearning in MLaaS via an Inference Serving-Aware Approach.'
+  venue: CCS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/Hu00N0Q024
+  doi: 10.1145/3658644.3670398
+  ee: https://doi.org/10.1145/3658644.3670398
+  url: https://dblp.org/rec/conf/ccs/Hu00N0Q024
+- author: Min Chen 0032, Zhikun Zhang 0001, Tianhao Wang 0001, Michael Backes 0001,
+    Mathias Humbert, Yang Zhang 0016
+  title: When Machine Unlearning Jeopardizes Privacy.
+  venue: CCS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/Chen000HZ21
+  doi: 10.1145/3460120.3484756
+  ee: https://doi.org/10.1145/3460120.3484756
+  url: https://dblp.org/rec/conf/ccs/Chen000HZ21
+machine%20unlearning%20streamid%3Aconf%2Fuss%3A:
+- author: Nima Naderloui, Shenao Yan, Binghui Wang, Jie Fu 0003, Wendy Hui Wang, Weiran
+    Liu, Yuan Hong 0001
+  title: 'Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New
+    Inference Attack Perspective.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/NaderlouiYW0WL025
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/naderloui
+  url: https://dblp.org/rec/conf/uss/NaderlouiYW0WL025
+- author: Dayong Ye, Tianqing Zhu, Jiayang Li, Kun Gao 0006, Bo Liu 0001, Leo Yu Zhang,
+    Wanlei Zhou 0001, Yang Zhang 0016
+  title: 'Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/YeZL00Z0025
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/ye-duplication
+  url: https://dblp.org/rec/conf/uss/YeZL00Z0025
+- author: Anvith Thudi, Hengrui Jia 0001, Ilia Shumailov, Nicolas Papernot
+  title: On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning.
+  venue: USENIX Security Symposium
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/ThudiJSP22
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity22/presentation/thudi
+  url: https://dblp.org/rec/conf/uss/ThudiJSP22
+machine%20unlearning%20venue%3ANDSS%3A:
+- author: Hongsheng Hu, Shuo Wang 0012, Jiamin Chang, Haonan Zhong, Ruoxi Sun 0001,
+    Shuang Hao 0001, Haojin Zhu, Minhui Xue 0001
+  title: A Duty to Forget, a Right to be Assured? Exposing Vulnerabilities in Machine
+    Unlearning Services.
+  venue: NDSS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/Hu0CZ00ZX24
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/a-duty-to-forget-a-right-to-be-assured-exposing-vulnerabilities-in-machine-unlearning-services/
+  url: https://dblp.org/rec/conf/ndss/Hu0CZ00ZX24
+- author: Alexander Warnecke, Lukas Pirch, Christian Wressnegger, Konrad Rieck
+  title: Machine Unlearning of Features and Labels.
+  venue: NDSS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/WarneckePWR23
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/machine-unlearning-of-features-and-labels/
+  url: https://dblp.org/rec/conf/ndss/WarneckePWR23
+machine%20unlearning%20venue%3ACVPR%3A:
+- author: Naveen George, Karthik Nandan Dasaraju, Rutheesh Reddy Chittepu, Konda Reddy
+    Mopuri
+  title: 'The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in
+    Text-to-Image Diffusion Models.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/GeorgeDCM25
+  doi: 10.1109/CVPR52734.2025.01250
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/GeorgeDCM25
+- author: Sk Miraj Ahmed, Umit Yigit Basaran, Dripta S. Raychaudhuri, Arindam Dutta,
+    Rohit Kundu, Fahim Faisal Niloy, Basak Guler, Amit K. Roy-Chowdhury
+  title: Towards Source-Free Machine Unlearning.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/AhmedBRDKNGR25
+  doi: 10.1109/CVPR52734.2025.00466
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Ahmed_Towards_Source-Free_Machine_Unlearning_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/AhmedBRDKNGR25
+- author: Christoforos N. Spartalis, Theodoros Semertzidis, Efstratios Gavves, Petros
+    Daras
+  title: 'LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/SpartalisSGD25
+  doi: 10.1109/CVPR52734.2025.00939
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Spartalis_LoTUS_Large-Scale_Machine_Unlearning_with_a_Taste_of_Uncertainty_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/SpartalisSGD25
+- author: Shen Lin 0006, Xiaoyu Zhang 0010, Chenyang Chen, Xiaofeng Chen 0001, Willy
+    Susilo
+  title: 'ERM-KTP: Knowledge-Level Machine Unlearning via Knowledge Transfer.'
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/LinZCCS23
+  doi: 10.1109/CVPR52729.2023.01929
+  ee: https://doi.org/10.1109/CVPR52729.2023.01929
+  url: https://dblp.org/rec/conf/cvpr/LinZCCS23
+machine%20unlearning%20venue%3AICCV%3A:
+- author: Yonatan Dukler, Benjamin Bowman, Alessandro Achille, Aditya Golatkar, Ashwin
+    Swaminathan, Stefano Soatto
+  title: 'SAFE: Machine Unlearning With Shard Graphs.'
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/DuklerBAGSS23
+  doi: 10.1109/ICCV51070.2023.01569
+  ee: https://doi.org/10.1109/ICCV51070.2023.01569
+  url: https://dblp.org/rec/conf/iccv/DuklerBAGSS23
+- author: Junxu Liu, Mingsheng Xue, Jian Lou 0001, Xiaoyu Zhang 0010, Li Xiong 0001,
+    Zhan Qin
+  title: 'MUter: Machine Unlearning on Adversarially Trained Models.'
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/LiuX0Z0Q23
+  doi: 10.1109/ICCV51070.2023.00451
+  ee: https://doi.org/10.1109/ICCV51070.2023.00451
+  url: https://dblp.org/rec/conf/iccv/LiuX0Z0Q23
+machine%20unlearning%20venue%3AECCV%3A:
+- author: Jacopo Bonato, Marco Cotogni, Luigi Sabetta
+  title: Is Retain Set All You Need in Machine Unlearning? Restoring Performance of
+    Unlearned Models with Out-of-Distribution Images.
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/BonatoCS24
+  doi: 10.1007/978-3-031-73232-4_1
+  ee: https://doi.org/10.1007/978-3-031-73232-4_1
+  url: https://dblp.org/rec/conf/eccv/BonatoCS24
+- author: Jiali Cheng, Hadi Amiri
+  title: MultiDelete for Multimodal Machine Unlearning.
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/ChengA24
+  doi: 10.1007/978-3-031-72940-9_10
+  ee: https://doi.org/10.1007/978-3-031-72940-9_10
+  url: https://dblp.org/rec/conf/eccv/ChengA24
+- author: Chongyu Fan, Jiancheng Liu, Alfred Olivier Hero, Sijia Liu 0001
+  title: 'Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning.'
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/FanLHL24
+  doi: 10.1007/978-3-031-72664-4_16
+  ee: https://doi.org/10.1007/978-3-031-72664-4_16
+  url: https://dblp.org/rec/conf/eccv/FanLHL24
+- author: Mark He Huang, Lin Geng Foo, Jun Liu 0036
+  title: Learning to Unlearn for Robust Machine Unlearning.
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/HuangFL24
+  doi: 10.1007/978-3-031-72943-0_12
+  ee: https://doi.org/10.1007/978-3-031-72943-0_12
+  url: https://dblp.org/rec/conf/eccv/HuangFL24
+machine%20unlearning%20streamid%3Aconf%2Fmm%3A:
+- author: Shen Lin 0006, Xiaoyu Zhang 0010, Willy Susilo, Xiaofeng Chen 0001, Jun
+    Liu 0036
+  title: 'GDR-GMA: Machine Unlearning via Direction-Rectified and Magnitude-Adjusted
+    Gradients.'
+  venue: ACM Multimedia
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/0006ZS0024
+  doi: 10.1145/3664647.3680775
+  ee: https://doi.org/10.1145/3664647.3680775
+  url: https://dblp.org/rec/conf/mm/0006ZS0024
+- author: Peng-Fei Zhang, Guangdong Bai, Zi Huang, Xin-Shun Xu
+  title: 'Machine Unlearning for Image Retrieval: A Generative Scrubbing Approach.'
+  venue: ACM Multimedia
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ZhangBHX22
+  doi: 10.1145/3503161.3548378
+  ee: https://doi.org/10.1145/3503161.3548378
+  url: https://dblp.org/rec/conf/mm/ZhangBHX22
+machine%20unlearning%20venue%3AACL%3A:
+- author: Junkai Chen, Zhijie Deng, Kening Zheng, Yibo Yan, Shuliang Liu, PeiJun Wu,
+    Peijie Jiang, Jia Liu, Xuming Hu
+  title: 'SafeEraser: Enhancing Safety in Multimodal Large Language Models through
+    Multimodal Machine Unlearning.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ChenDZYLWJLH25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.731/
+  url: https://dblp.org/rec/conf/acl/ChenDZYLWJLH25
+- author: Lishuai Hou, Zixiong Wang, Gaoyang Liu, Chen Wang 0011, Wei Liu 0004, Kai
+    Peng 0001
+  title: 'Decoupling Memories, Muting Neurons: Towards Practical Machine Unlearning
+    for Large Language Models.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/HouWLWL025
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.719/
+  url: https://dblp.org/rec/conf/acl/HouWLWL025
+- author: Jiahao Huo, Yibo Yan, Xu Zheng 0002, Yuanhuiyi Lyu, Xin Zou 0001, Zhihua
+    Wei, Xuming Hu
+  title: 'MMUnlearner: Reformulating Multimodal Machine Unlearning in the Era of Multimodal
+    Large Language Models.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/HuoY0L0WH25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.375/
+  url: https://dblp.org/rec/conf/acl/HuoY0L0WH25
+- author: Zheyuan Liu 0010, Suraj Maharjan, Fanyou Wu, Rahil Parikh, Belhassen Bayar,
+    Srinivasan H. Sengamedu, Meng Jiang 0001
+  title: Disentangling Biased Knowledge from Reasoning in Large Language Models via
+    Machine Unlearning.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/LiuMWPBSJ25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.305/
+  url: https://dblp.org/rec/conf/acl/LiuMWPBSJ25
+- author: Stefan Vasilev, Christian Herold, Baohao Liao, Seyyed Hadi Hashemi, Shahram
+    Khadivi, Christof Monz
+  title: 'Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/VasilevHLHKM25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.1154/
+  url: https://dblp.org/rec/conf/acl/VasilevHLHKM25
+- author: Zheyuan Liu 0010, Guangyao Dou, Zhaoxuan Tan, Yijun Tian 0001, Meng Jiang
+    0001
+  title: Towards Safer Large Language Models through Machine Unlearning.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/0010DT0024
+  doi: 10.18653/V1/2024.FINDINGS-ACL.107
+  ee: https://doi.org/10.18653/v1/2024.findings-acl.107
+  url: https://dblp.org/rec/conf/acl/0010DT0024
+- author: Jin Yao, Eli Chien, Minxin Du, Xinyao Niu, Tianhao Wang 0001, Zezhou Cheng,
+    Xiang Yue
+  title: Machine Unlearning of Pre-trained Large Language Models.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/YaoCDNWCY24
+  doi: 10.18653/V1/2024.ACL-LONG.457
+  ee: https://doi.org/10.18653/v1/2024.acl-long.457
+  url: https://dblp.org/rec/conf/acl/YaoCDNWCY24
+- author: Yang Zhao 0023, Li Du, Xiao Ding, Kai Xiong 0002, Zhouhao Sun, Shi Jun,
+    Ting Liu 0001, Bing Qin 0001
+  title: Deciphering the Impact of Pretraining Data on Large Language Models through
+    Machine Unlearning.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ZhaoDD0SJ0024
+  doi: 10.18653/V1/2024.FINDINGS-ACL.559
+  ee: https://doi.org/10.18653/v1/2024.findings-acl.559
+  url: https://dblp.org/rec/conf/acl/ZhaoDD0SJ0024
+- author: Lingzhi Wang 0001, Tong Chen 0005, Wei Yuan 0003, Xingshan Zeng, Kam-Fai
+    Wong, Hongzhi Yin
+  title: 'KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment.'
+  venue: ACL
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/WangCYZWY23
+  doi: 10.18653/V1/2023.ACL-LONG.740
+  ee: https://doi.org/10.18653/v1/2023.acl-long.740
+  url: https://dblp.org/rec/conf/acl/WangCYZWY23
+machine%20unlearning%20venue%3AEMNLP%3A:
+- author: Omkar Dige, Diljot Arneja, Tsz Fung Yau, Qixuan Zhang, Mohammad Bolandraftar,
+    Xiaodan Zhu 0001, Faiza Khan Khattak
+  title: Can Machine Unlearning Reduce Social Bias in Language Models?
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/DigeAYZB0K24
+  doi: 10.18653/V1/2024.EMNLP-INDUSTRY.71
+  ee: https://doi.org/10.18653/v1/2024.emnlp-industry.71
+  url: https://dblp.org/rec/conf/emnlp/DigeAYZB0K24
+- author: Leon Wichert, Sandipan Sikdar
+  title: Rethinking Evaluation Methods for Machine Unlearning.
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/WichertS24
+  doi: 10.18653/V1/2024.FINDINGS-EMNLP.271
+  ee: https://doi.org/10.18653/v1/2024.findings-emnlp.271
+  url: https://dblp.org/rec/conf/emnlp/WichertS24
+machine%20unlearning%20streamid%3Aconf%2Fsigmod%3A:
+- author: Meghdad Kurmanji, Eleni Triantafillou, Peter Triantafillou
+  title: 'Machine Unlearning in Learned Databases: An Experimental Analysis.'
+  venue: Proc. ACM Manag. Data
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pacmmod/KurmanjiTT24
+  doi: 10.1145/3639304
+  ee: https://doi.org/10.1145/3639304
+  url: https://dblp.org/rec/journals/pacmmod/KurmanjiTT24
+- author: Zhaomin Wu, Junhui Zhu, Qinbin Li, Bingsheng He
+  title: 'DeltaBoost: Gradient Boosting Decision Trees with Efficient Machine Unlearning.'
+  venue: Proc. ACM Manag. Data
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pacmmod/WuZLH23
+  doi: 10.1145/3589313
+  ee: https://doi.org/10.1145/3589313
+  url: https://dblp.org/rec/journals/pacmmod/WuZLH23
+- author: Sebastian Schelter, Stefan Grafberger, Ted Dunning
+  title: 'HedgeCut: Maintaining Randomised Trees for Low-Latency Machine Unlearning.'
+  venue: SIGMOD Conference
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sigmod/SchelterGD21
+  doi: 10.1145/3448016.3457239
+  ee: https://doi.org/10.1145/3448016.3457239
+  url: https://dblp.org/rec/conf/sigmod/SchelterGD21
+machine%20unlearning%20streamid%3Ajournals%2Fpvldb%3A:
+- author: Sebastian Schelter, Stefan Grafberger, Maarten de Rijke
+  title: Snapcase - Regain Control over Your Predictions with Low-Latency Machine
+    Unlearning.
+  venue: Proc. VLDB Endow.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/pvldb/SchelterGR24
+  doi: 10.14778/3685800.3685853
+  ee: https://www.vldb.org/pvldb/vol17/p4273-schelter.pdf
+  url: https://dblp.org/rec/journals/pvldb/SchelterGR24
+machine%20unlearning%20venue%3AINFOCOM%3A:
+- author: Yang Liu 0118, Mingyuan Fan 0003, Cen Chen 0001, Ximeng Liu, Zhuo Ma 0001,
+    Li Wang 0056, Jianfeng Ma 0001
+  title: Backdoor Defense with Machine Unlearning.
+  venue: INFOCOM
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/LiuFCLMWM22
+  doi: 10.1109/INFOCOM48880.2022.9796974
+  ee: https://doi.org/10.1109/INFOCOM48880.2022.9796974
+  url: https://dblp.org/rec/conf/infocom/LiuFCLMWM22
+machine%20unlearning%20venue%3AWWW%3A:
+- author: Zitong Li, Qingqing Ye 0001, Haibo Hu 0001
+  title: 'FUNU: Boosting Machine Unlearning Efficiency by Filtering Unnecessary Unlearning.'
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/Li0025
+  doi: 10.1145/3696410.3714711
+  ee: https://doi.org/10.1145/3696410.3714711
+  url: https://dblp.org/rec/conf/www/Li0025
+- author: Khoa Tran, Simon S. Woo
+  title: Fairness and Robustness in Machine Unlearning.
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/www/TranW25
+  doi: 10.1145/3701716.3715598
+  ee: https://doi.org/10.1145/3701716.3715598
+  url: https://dblp.org/rec/conf/www/TranW25
+- author: Weiqi Wang 0003, Zhiyi Tian, An Liu 0002, Shui Yu 0001
+  title: 'TAPE: Tailored Posterior Difference for Auditing of Machine Unlearning.'
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/WangT0025
+  doi: 10.1145/3696410.3714875
+  ee: https://doi.org/10.1145/3696410.3714875
+  url: https://dblp.org/rec/conf/www/WangT0025
+- author: Shanshan Ye, Jie Lu 0001, Guangquan Zhang 0001
+  title: 'Towards Safe Machine Unlearning: A Paradigm that Mitigates Performance Degradation.'
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/Ye0025
+  doi: 10.1145/3696410.3714638
+  ee: https://doi.org/10.1145/3696410.3714638
+  url: https://dblp.org/rec/conf/www/Ye0025
+- author: Zheyuan Liu 0010, Guangyao Dou, Eli Chien, Chunhui Zhang, Yijun Tian 0001,
+    Ziwei Zhu 0001
+  title: Breaking the Trilemma of Privacy, Utility, and Efficiency via Controllable
+    Machine Unlearning.
+  venue: WWW
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/0010DCZ0Z24
+  doi: 10.1145/3589334.3645669
+  ee: https://doi.org/10.1145/3589334.3645669
+  url: https://dblp.org/rec/conf/www/0010DCZ0Z24
+machine%20unlearning%20venue%3ADAC%3A:
+- author: Manaar Alam, Hithem Lamri, Michail Maniatakos
+  title: 'ReVeil: Unconstrained Concealed Backdoor Attack on Deep Neural Networks
+    using Machine Unlearning.'
+  venue: DAC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dac/AlamLM25
+  doi: 10.1109/DAC63849.2025.11133199
+  ee: https://doi.org/10.1109/DAC63849.2025.11133199
+  url: https://dblp.org/rec/conf/dac/AlamLM25
+machine%20unlearning%20venue%3AWACV%3A:
+- author: Seonguk Seo, Dongwan Kim, Bohyung Han
+  title: Revisiting Machine Unlearning with Dimensional Alignment.
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/SeoKH25
+  doi: 10.1109/WACV61041.2025.00317
+  ee: https://doi.org/10.1109/WACV61041.2025.00317
+  url: https://dblp.org/rec/conf/wacv/SeoKH25
+federated%20streamid%3Ajournals%2Ftai%3A:
+- author: Leiming Chen, Dehai Zhao, Liping Tao, Kai Wang 0063, Sibo Qiao, Xingjie
+    Zeng, Chee Wei Tan 0001
+  title: A Credible and Fair Federated Learning Framework Based on Blockchain.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/ChenZTWQZT25
+  doi: 10.1109/TAI.2024.3355362
+  ee: https://doi.org/10.1109/TAI.2024.3355362
+  url: https://dblp.org/rec/journals/tai/ChenZTWQZT25
+- author: Tanushree Dey, Somnath Bera, Anwesha Mukherjee, Debashis De, Rajkumar Buyya
+  title: 'FLyer: Federated Learning-Based Crop Yield Prediction for Agriculture 5.0.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/DeyBMDB25
+  doi: 10.1109/TAI.2025.3534149
+  ee: https://doi.org/10.1109/TAI.2025.3534149
+  url: https://dblp.org/rec/journals/tai/DeyBMDB25
+- author: Dev Gurung, Shiva Raj Pokhrel
+  title: Performance Analysis and Design of a Weighted Personalized Quantum Federated
+    Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/GurungP25
+  doi: 10.1109/TAI.2025.3545393
+  ee: https://doi.org/10.1109/TAI.2025.3545393
+  url: https://dblp.org/rec/journals/tai/GurungP25
+- author: Yifan He 0005, Xi Ding, Yateng Tang, Jihong Guan, Shuigeng Zhou
+  title: Unsupervised Multivariate Time Series Anomaly Detection by Feature Decoupling
+    in Federated Learning Scenarios.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/HeDTGZ25
+  doi: 10.1109/TAI.2025.3533437
+  ee: https://doi.org/10.1109/TAI.2025.3533437
+  url: https://dblp.org/rec/journals/tai/HeDTGZ25
+- author: Md Tamjid Hossain, Shahriar Badsha, Hung Manh La, Shafkat Islam, Ibrahim
+    Khalil 0001
+  title: Exploiting Gaussian Noise Variance for Dynamic Differential Poisoning in
+    Federated Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/HossainBLIK25
+  doi: 10.1109/TAI.2025.3540030
+  ee: https://doi.org/10.1109/TAI.2025.3540030
+  url: https://dblp.org/rec/journals/tai/HossainBLIK25
+- author: Tre&apos; R. Jeter, Minh N. Vu, Raed Alharbi, Jung-Taek Seo, My T. Thai
+  title: Active Gradient Manipulation for Privacy Breaching in Vertical Federated
+    Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/JeterVAST25
+  doi: 10.1109/TAI.2025.3556094
+  ee: https://doi.org/10.1109/TAI.2025.3556094
+  url: https://dblp.org/rec/journals/tai/JeterVAST25
+- author: Amandeep Kaur 0002
+  title: Intrusion Detection Approach for Industrial Internet of Things Traffic Using
+    Deep Recurrent Reinforcement Learning Assisted Federated Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/Kaur25
+  doi: 10.1109/TAI.2024.3443787
+  ee: https://doi.org/10.1109/TAI.2024.3443787
+  url: https://dblp.org/rec/journals/tai/Kaur25
+- author: Zhi Liu 0009, Hanlin Zhou, Xiaohua He, Haopeng Yuan, Jiaxin Du, Mengmeng
+    Wang 0005, Guojiang Shen, Xiangjie Kong 0001, Feng Xia 0001
+  title: Model-Heterogeneous Federated Graph Learning With Prototype Propagation.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/LiuZHYDWSKX25
+  doi: 10.1109/TAI.2024.3490557
+  ee: https://doi.org/10.1109/TAI.2024.3490557
+  url: https://dblp.org/rec/journals/tai/LiuZHYDWSKX25
+- author: Ervin Moore, Ahmed Imteaj, Md. Zarif Hossain, Shabnam Rezapour, M. Hadi
+    Amini
+  title: Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy Edge
+    Computing.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/MooreIHRA25
+  doi: 10.1109/TAI.2025.3539258
+  ee: https://doi.org/10.1109/TAI.2025.3539258
+  url: https://dblp.org/rec/journals/tai/MooreIHRA25
+- author: Jiaming Pei, Wei Li 0058, Shahid Mumtaz
+  title: 'From Routine to Reflection: Pruning Neural Networks in Communication-Efficient
+    Federated Learning.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/PeiLM25
+  doi: 10.1109/TAI.2024.3462300
+  ee: https://doi.org/10.1109/TAI.2024.3462300
+  url: https://dblp.org/rec/journals/tai/PeiLM25
+- author: Bosen Rao, Jiale Zhang 0001, Di Wu 0050, Chengcheng Zhu, Xiaobing Sun 0001,
+    Bing Chen 0002
+  title: 'Privacy Inference Attack and Defense in Centralized and Federated Learning:
+    A Comprehensive Survey.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/RaoZWZSC25
+  doi: 10.1109/TAI.2024.3363670
+  ee: https://doi.org/10.1109/TAI.2024.3363670
+  url: https://dblp.org/rec/journals/tai/RaoZWZSC25
+- author: Artun Saday, Ilker Demirel, Yigit Yildirim, Cem Tekin
+  title: Federated Multiarmed Bandits Under Byzantine Attacks.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/SadayDYT25
+  doi: 10.1109/TAI.2024.3524954
+  ee: https://doi.org/10.1109/TAI.2024.3524954
+  url: https://dblp.org/rec/journals/tai/SadayDYT25
+- author: Haoyun Sun, Hongwei Zhao, Liang Xu 0009, Weishan Zhang, Hongqing Guan, Su
+    Yang 0001
+  title: 'FedDGA: Federated Multitask Learning Based on Dynamic Guided Attention.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/SunZXZGY25
+  doi: 10.1109/TAI.2024.3350538
+  ee: https://doi.org/10.1109/TAI.2024.3350538
+  url: https://dblp.org/rec/journals/tai/SunZXZGY25
+- author: Junfei Wang, He Huang, Jingze Feng, Steven Wong, Lihua Xie 0001, Jianfei
+    Yang
+  title: A Trustworthy AIoT-Enabled Localization System via Federated Learning and
+    Blockchain.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/WangHFWXY25
+  doi: 10.1109/TAI.2025.3528917
+  ee: https://doi.org/10.1109/TAI.2025.3528917
+  url: https://dblp.org/rec/journals/tai/WangHFWXY25
+- author: Yang Wang, Xue Li 0034, Siguang Chen
+  title: Malicious Clients and Contribution Co-Aware Federated Unlearning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/WangLC25
+  doi: 10.1109/TAI.2025.3556092
+  ee: https://doi.org/10.1109/TAI.2025.3556092
+  url: https://dblp.org/rec/journals/tai/WangLC25
+- author: Yongsheng Zhao, Kui Yu, Guodu Xiang, Xianjie Guo, Fuyuan Cao
+  title: 'FedECE: Federated Estimation of Causal Effect Based on Causal Graphical
+    Modeling.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/ZhaoYXGC25
+  doi: 10.1109/TAI.2025.3545794
+  ee: https://doi.org/10.1109/TAI.2025.3545794
+  url: https://dblp.org/rec/journals/tai/ZhaoYXGC25
+- author: Manaar Alam, Hithem Lamri, Michail Maniatakos
+  title: 'Get Rid of Your Trail: Remotely Erasing Backdoors in Federated Learning.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/AlamLM24
+  doi: 10.1109/TAI.2024.3465441
+  ee: https://doi.org/10.1109/TAI.2024.3465441
+  url: https://dblp.org/rec/journals/tai/AlamLM24
+- author: Abdulmajeed M. Alenezi, Khairi A. Hamdi
+  title: Federated Reinforcement Learning With Knowledge Transfer for Network Selection
+    in Hybrid WiFi-VLC Networks.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/AleneziH24
+  doi: 10.1109/TAI.2023.3333267
+  ee: https://doi.org/10.1109/TAI.2023.3333267
+  url: https://dblp.org/rec/journals/tai/AleneziH24
+- author: Sourasekhar Banerjee, Devvjiit Bhuyan, Erik Elmroth, Monowar Bhuyan
+  title: Cost-Efficient Feature Selection for Horizontal Federated Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/BanerjeeBEB24
+  doi: 10.1109/TAI.2024.3436664
+  ee: https://doi.org/10.1109/TAI.2024.3436664
+  url: https://dblp.org/rec/journals/tai/BanerjeeBEB24
+- author: "Jos\xE9 Luis Corcuera B\xE1rcena, Francesco Marcelloni, Alessandro Renda,\
+    \ Alessio Bechini, Pietro Ducange"
+  title: Federated $c$-Means and Fuzzy $c$-Means Clustering Algorithms for Horizontally
+    and Vertically Partitioned Data.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tai/BarcenaMRBD24
+  doi: 10.1109/TAI.2024.3426408
+  ee: https://doi.org/10.1109/TAI.2024.3426408
+  url: https://dblp.org/rec/journals/tai/BarcenaMRBD24
+- author: Nanqing Dong, Zhipeng Wang 0009, Jiahao Sun, Michael Kampffmeyer, William
+    J. Knottenbelt, Eric P. Xing
+  title: Defending Against Poisoning Attacks in Federated Learning With Blockchain.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tai/DongWSKKX24
+  doi: 10.1109/TAI.2024.3376651
+  ee: https://doi.org/10.1109/TAI.2024.3376651
+  url: https://dblp.org/rec/journals/tai/DongWSKKX24
+- author: Zhi Lu, Songfeng Lu, Xueming Tang, Junjun Wu
+  title: Robust and Verifiable Privacy Federated Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/LuLTW24
+  doi: 10.1109/TAI.2023.3309273
+  ee: https://doi.org/10.1109/TAI.2023.3309273
+  url: https://dblp.org/rec/journals/tai/LuLTW24
+- author: Van Sy Mai, Richard J. La, Tao Zhang 0005
+  title: A Study of Enhancing Federated Learning on Non-IID Data With Server Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/MaiLZ24
+  doi: 10.1109/TAI.2024.3430250
+  ee: https://doi.org/10.1109/TAI.2024.3430250
+  url: https://dblp.org/rec/journals/tai/MaiLZ24
+- author: Md. Moniruzzaman, Abdulsalam Yassine, Rachid Benlamri
+  title: Blockchain and Federated Reinforcement Learning for Vehicle-to-Everything
+    Energy Trading in Smart Grids.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/MoniruzzamanYB24
+  doi: 10.1109/TAI.2023.3262597
+  ee: https://doi.org/10.1109/TAI.2023.3262597
+  url: https://dblp.org/rec/journals/tai/MoniruzzamanYB24
+- author: Mahdi Morafah, Weijia Wang 0002, Bill Lin 0001
+  title: A Practical Recipe for Federated Learning Under Statistical Heterogeneity
+    Experimental Design.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/MorafahWL24
+  doi: 10.1109/TAI.2023.3297090
+  ee: https://doi.org/10.1109/TAI.2023.3297090
+  url: https://dblp.org/rec/journals/tai/MorafahWL24
+- author: Hung Nguyen 0008, Pei Yuan Wu, J. Morris Chang
+  title: Federated Learning for Distribution Skewed Data Using Sample Weights.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/NguyenWC24
+  doi: 10.1109/TAI.2023.3348073
+  ee: https://doi.org/10.1109/TAI.2023.3348073
+  url: https://dblp.org/rec/journals/tai/NguyenWC24
+- author: Apoorva Singh, Siddarth Chandrasekar, Tanmay Sen, Sriparna Saha 0001
+  title: Federated Multitask Learning for Complaint Identification Using Graph Attention
+    Network.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/SinghCSS24
+  doi: 10.1109/TAI.2023.3285196
+  ee: https://doi.org/10.1109/TAI.2023.3285196
+  url: https://dblp.org/rec/journals/tai/SinghCSS24
+- author: Yuwei Sun, Hideya Ochiai, Jun Sakuma
+  title: 'Attacking-Distance-Aware Attack: Semi-targeted Model Poisoning on Federated
+    Learning.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tai/SunOS24
+  doi: 10.1109/TAI.2023.3280155
+  ee: https://doi.org/10.1109/TAI.2023.3280155
+  url: https://dblp.org/rec/journals/tai/SunOS24
+- author: Jiao Tian, Pei-Wei Tsai, Kai Zhang 0074, Xinyi Cai, Hongwang Xiao, Ke Yu,
+    Wenyu Zhao, Jinjun Chen
+  title: Synergetic Focal Loss for Imbalanced Classification in Federated XGBoost.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/TianTZCXYZC24
+  doi: 10.1109/TAI.2023.3254519
+  ee: https://doi.org/10.1109/TAI.2023.3254519
+  url: https://dblp.org/rec/journals/tai/TianTZCXYZC24
+- author: Saeed Vahidian, Mahdi Morafah, Chen Chen 0001, Mubarak Shah, Bill Lin 0001
+  title: 'Rethinking Data Heterogeneity in Federated Learning: Introducing a New Notion
+    and Standard Benchmarks.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/tai/VahidianMCSL24
+  doi: 10.1109/TAI.2023.3293068
+  ee: https://doi.org/10.1109/TAI.2023.3293068
+  url: https://dblp.org/rec/journals/tai/VahidianMCSL24
+- author: Mingjie Wang 0001, Jianxiong Guo, Weijia Jia 0001
+  title: Federated Multi-Phase Curriculum Learning to Synchronously Correlate User
+    Heterogeneity.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/WangGJ24
+  doi: 10.1109/TAI.2023.3307664
+  ee: https://doi.org/10.1109/TAI.2023.3307664
+  url: https://dblp.org/rec/journals/tai/WangGJ24
+- author: Xiuhua Wang 0009, Shuai Wang 0033, Yiwei Li 0003, Fengrui Fan, Shikang Li,
+    Xiaodong Lin 0001
+  title: Differentially Private and Heterogeneity-Robust Federated Learning With Theoretical
+    Guarantee.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/WangWLFLL24
+  doi: 10.1109/TAI.2024.3446759
+  ee: https://doi.org/10.1109/TAI.2024.3446759
+  url: https://dblp.org/rec/journals/tai/WangWLFLL24
+- author: Yong Wang 0002, Yu Zhou 0045, Pei-Qiu Huang
+  title: A Novel Incentive Mechanism for Federated Learning Over Wireless Communications.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/WangZH24
+  doi: 10.1109/TAI.2024.3419757
+  ee: https://doi.org/10.1109/TAI.2024.3419757
+  url: https://dblp.org/rec/journals/tai/WangZH24
+- author: Xinhui Yu, Dan Wang 0011, Martin J. McKeown, Z. Jane Wang 0001
+  title: Contrastive-Enhanced Domain Generalization With Federated Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/YuWMW24
+  doi: 10.1109/TAI.2023.3298297
+  ee: https://doi.org/10.1109/TAI.2023.3298297
+  url: https://dblp.org/rec/journals/tai/YuWMW24
+- author: Tiehua Zhang, Yuze Liu, Zhishu Shen, Rui Xu, Xin Chen, Xiaowei Huang, Xi
+    Zheng 0001
+  title: An Adaptive Federated Relevance Framework for Spatial-Temporal Graph Learning.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/ZhangLSXCHZ24
+  doi: 10.1109/TAI.2023.3316629
+  ee: https://doi.org/10.1109/TAI.2023.3316629
+  url: https://dblp.org/rec/journals/tai/ZhangLSXCHZ24
+- author: Shuo Zhao, Zikun Zhu, Xin Li 0001, Ying-Chi Chen
+  title: Communication-Efficient Federated Learning for Decision Trees.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/ZhaoZLC24
+  doi: 10.1109/TAI.2024.3433419
+  ee: https://doi.org/10.1109/TAI.2024.3433419
+  url: https://dblp.org/rec/journals/tai/ZhaoZLC24
+- author: Ying Hu 0006, Yong Zhang 0016, Dunwei Gong, Xiaoyan Sun 0002
+  title: Multiparticipant Federated Feature Selection Algorithm With Particle Swarm
+    Optimization for Imbalanced Data Under Privacy Protection.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/HuZGS23
+  doi: 10.1109/TAI.2022.3145333
+  ee: https://doi.org/10.1109/TAI.2022.3145333
+  url: https://dblp.org/rec/journals/tai/HuZGS23
+- author: Keke Huang, Xinyi Liu, Fanbiao Li, Chunhua Yang 0001, Okyay Kaynak, Tingwen
+    Huang
+  title: A Federated Dictionary Learning Method for Process Monitoring With Industrial
+    Applications.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/HuangLLYKH23
+  doi: 10.1109/TAI.2022.3152458
+  ee: https://doi.org/10.1109/TAI.2022.3152458
+  url: https://dblp.org/rec/journals/tai/HuangLLYKH23
+- author: Zhengjie Yang, Sen Fu, Wei Bao 0001, Dong Yuan 0001, Albert Y. Zomaya
+  title: 'FastSlowMo: Federated Learning With Combined Worker and Aggregator Momenta.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/YangFBYZ23
+  doi: 10.1109/TAI.2022.3187678
+  ee: https://doi.org/10.1109/TAI.2022.3187678
+  url: https://dblp.org/rec/journals/tai/YangFBYZ23
+- author: Hangyu Zhu, Rui Wang 0070, Yaochu Jin, Kaitai Liang
+  title: 'PIVODL: Privacy-Preserving Vertical Federated Learning Over Distributed
+    Labels.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/ZhuWJL23
+  doi: 10.1109/TAI.2021.3139055
+  ee: https://doi.org/10.1109/TAI.2021.3139055
+  url: https://dblp.org/rec/journals/tai/ZhuWJL23
+- author: Chen Zhang 0015, Hang Bai, Yonggang Zhang, Xinyi Niu, Bin Yu 0011, Yuan
+    Gao 0019, Yu Xie 0009
+  title: Federated Multitask Learning for HyperFace.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/ZhangBZNYGX22
+  doi: 10.1109/TAI.2021.3133816
+  ee: https://doi.org/10.1109/TAI.2021.3133816
+  url: https://dblp.org/rec/journals/tai/ZhangBZNYGX22
+prompt%20poisoning%20attack%20streamid%3Aconf%2Fsp%3A:
+- author: Shawn Shan, Wenxin Ding, Josephine Passananti, Stanley Wu, Haitao Zheng
+    0001, Ben Y. Zhao
+  title: 'Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative
+    Models.'
+  venue: SP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/ShanDPWZZ24
+  doi: 10.1109/SP54263.2024.00207
+  ee: https://doi.org/10.1109/SP54263.2024.00207
+  url: https://dblp.org/rec/conf/sp/ShanDPWZZ24
+prompt%20poisoning%20streamid%3Aconf%2Fsp%3A:
+- author: Shawn Shan, Wenxin Ding, Josephine Passananti, Stanley Wu, Haitao Zheng
+    0001, Ben Y. Zhao
+  title: 'Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative
+    Models.'
+  venue: SP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/ShanDPWZZ24
+  doi: 10.1109/SP54263.2024.00207
+  ee: https://doi.org/10.1109/SP54263.2024.00207
+  url: https://dblp.org/rec/conf/sp/ShanDPWZZ24
