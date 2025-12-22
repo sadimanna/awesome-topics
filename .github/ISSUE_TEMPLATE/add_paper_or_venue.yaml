@@ -1,0 +1,57 @@
+name: Add New Paper or Venue Template
+description: Suggest addition of papers or venues not listed on the topic-wise webpages.
+title: "[ADD]: <Paper/Venue Name>"
+labels: ["enhancement", "content-update"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new entry! Please fill out the details below to help us update the topic-wise webpages.
+  
+  - type: dropdown
+    id: type
+    attributes:
+      label: Suggestion Type
+      description: Are you suggesting a specific paper or a venue (Conference/Journal)?
+      options:
+        - Research Paper
+        - Venue (Conference/Journal)
+    validations:
+      required: true
+
+  - type: input
+    id: title_name
+    attributes:
+      label: Paper Title or Venue Name
+      placeholder: "e.g., Attention Is All You Need / NeurIPS"
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: URL / Link
+      placeholder: "Link to the paper (arXiv/DOI) or Venue website"
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Additional Details
+      description: |
+        - For Papers: Mention authors, year, and which topic-wise webpage it belongs to.
+        - For Venues: Mention the acronym and frequency.
+      placeholder: "Provide any extra context here..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: I have checked that this paper/venue is not already listed.
+          required: true
+        - label: The information provided is accurate and up-to-date.
+          required: true

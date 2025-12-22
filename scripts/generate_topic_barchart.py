@@ -9,7 +9,7 @@ BAR_HEIGHT = 24
 BAR_GAP = 10
 LABEL_WIDTH = 180
 MAX_BAR_WIDTH = 400
-FONT_SIZE = 16
+FONT_SIZE = 14
 
 data = json.loads(INPUT_JSON.read_text())
 max_count = max(data.values())

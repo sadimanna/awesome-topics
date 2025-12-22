@@ -26,15 +26,15 @@
 ![OSDI](https://img.shields.io/badge/Venue-OSDI-lightgrey) ![SOSP](https://img.shields.io/badge/Venue-SOSP-lightgrey) ![SIGMOD](https://img.shields.io/badge/Venue-SIGMOD-lightgrey) ![PVLDB](https://img.shields.io/badge/Venue-PVLDB-lightgrey) ![SIGCOMM](https://img.shields.io/badge/Venue-SIGCOMM-lightgrey)
 
 > More Venues will be added gradually!
+> For suggestion of papers or venues not listed here, kindly create an issue on the repository following the appropriate issue template.
+> For suggestion of new research topic to be listed, kindly create an issue on the repository following the appropriate issue template.
 
 ## Topics by Paper Volume
 
 ![Topic Distribution](assets/topic_distribution.svg)
 
-
 <!-- START:TOC -->
 ## Table of Contents
-
 
 <details markdown="1">
 

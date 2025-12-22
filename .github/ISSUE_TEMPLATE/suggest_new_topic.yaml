@@ -1,0 +1,43 @@
+name: Suggest New Topic
+description: Propose a new category or research area (e.g., Federated ML, Machine Unlearning) to be added.
+title: "[TOPIC]: <Proposed Topic Name>"
+labels: ["new-topic", "discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to suggest a major new area of study that isn't currently covered in the repository.
+  
+  - type: input
+    id: topic_name
+    attributes:
+      label: Proposed Topic Name
+      placeholder: "e.g., Federated Learning, Machine Unlearning, Privacy-Preserving AI"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the Topic
+      description: Provide a brief overview of what this topic covers and why it is significant.
+      placeholder: "Explain the scope of this research area..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: existing_resources
+    attributes:
+      label: Initial Resources
+      description: Please provide 2-3 key papers or links to get this topic started.
+      placeholder: "1. Paper Title / Link\n2. Paper Title / Link..."
+    validations:
+      required: true
+
+  - type: input
+    id: parent_topic
+    attributes:
+      label: Parent Category (if applicable)
+      placeholder: "e.g., If this is 'Machine Unlearning', the parent might be 'Trustworthy AI'"
+    validations:
+      required: false
