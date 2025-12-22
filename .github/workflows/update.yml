@@ -47,11 +47,12 @@ jobs:
       - name: Setup var
         id: vars
         run: |
-          raw="$(printenv MSG)"
-          raw="$(printf '%s' "$raw" | sed 's/\\n/\n/g')"
-          echo "raw<<EOF" >> "$GITHUB_OUTPUT"
-          echo "$raw" >> "$GITHUB_OUTPUT"
-          echo "EOF" >> "$GITHUB_OUTPUT"
+          raw="${MSG:-}"
+          {
+            echo "raw<<EOF"
+            echo "$raw"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Create an issue for new papers
         if: ${{ steps.vars.outputs.raw != '' }}
@@ -90,7 +91,7 @@ jobs:
       ################################################################################
       - name: Get date time
         id: date
-        run: echo "::set-output name=date::$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+        run: echo "date=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_OUTPUT"
 
       - name: Commit Updated
         uses: stefanzweifel/git-auto-commit-action@v4
