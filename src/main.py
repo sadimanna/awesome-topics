@@ -70,7 +70,7 @@ class Scaffold:
                     dblp_cache[topic_query].extend(new_items)
 
                     # Generate messages for Github/Logs
-                    aggregated_msg += get_msg(new_items, topic_query, aggregated=True)
+                    aggregated_msg += get_msg(new_items, topic_query, c_file.name, aggregated=True)
                     
                     # Write to the specific YAML file in _data/
                     write_venue_yaml(new_items, target_yaml_path)

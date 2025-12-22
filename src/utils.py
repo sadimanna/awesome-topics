@@ -111,13 +111,15 @@ def get_dblp_items(dblp_data):
     return res_items
 
 
-def get_msg(items, topic, aggregated=False):
+def get_msg(items, topic, cfilename, aggregated=False):
     # change "topic" from url to string
     string_topic = urllib.parse.unquote(topic)
     # get name of topic
     name_topic = string_topic.split(":")[-2]
 
     # print information of topic
+    research_topic = " ".join([c[0].upper()+c[1:] for c in cfilename.split("-")])
+    msg = f"# {research_topic} - New papers about {research_topic}\n\n"
     msg = f"## [{name_topic}](https://dblp.org/search?q={topic})\n\n"
     msg += f"""Explore {len(items)} new papers about {name_topic}.\n\n"""
 
