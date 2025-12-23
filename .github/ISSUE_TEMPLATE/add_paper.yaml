@@ -1,0 +1,79 @@
+name: Add New Research Paper
+description: Suggest a research paper to be added to the topic-wise webpages.
+title: "[ADD PAPER]: <Paper Title>"
+labels: ["enhancement", "content-update", "paper"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a new research paper.
+        Please provide complete and accurate information to help us update the topic-wise webpages efficiently.
+
+  - type: input
+    id: paper_title
+    attributes:
+      label: Paper Title
+      placeholder: "e.g., Attention Is All You Need"
+    validations:
+      required: true
+
+  - type: input
+    id: paper_link
+    attributes:
+      label: Paper URL
+      description: Link to the paper (arXiv, DOI, publisher page, etc.).
+      placeholder: "https://arxiv.org/abs/1706.03762"
+    validations:
+      required: true
+
+  - type: input
+    id: authors
+    attributes:
+      label: Authors
+      placeholder: "Vaswani et al."
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Year of Publication
+      placeholder: "2017"
+    validations:
+      required: true
+
+  - type: input
+    id: venue
+    attributes:
+      label: Venue
+      description: Conference or journal where the paper was published.
+      placeholder: "NeurIPS"
+    validations:
+      required: true
+
+  - type: input
+    id: topic
+    attributes:
+      label: Relevant Topic Page
+      description: Topic-wise webpage where this paper should appear.
+      placeholder: "Federated Learning / Prompt Tuning / Gradient Inversion"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Additional Notes (Optional)
+      placeholder: "Any extra context, relevance, or notes..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: I have checked that this paper is not already listed.
+          required: true
+        - label: The metadata (title, authors, year, venue) is correct.
+          required: true

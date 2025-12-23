@@ -1,0 +1,72 @@
+name: Add New Venue
+description: Suggest a conference or journal to be added to the venue list.
+title: "[ADD VENUE]: <Venue Name>"
+labels: ["enhancement", "content-update", "venue"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting a new venue.
+        Please provide accurate and complete information so it can be categorized correctly.
+
+  - type: input
+    id: venue_name
+    attributes:
+      label: Venue Name
+      placeholder: "e.g., Neural Information Processing Systems"
+    validations:
+      required: true
+
+  - type: input
+    id: acronym
+    attributes:
+      label: Acronym
+      placeholder: "NeurIPS"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: venue_type
+    attributes:
+      label: Venue Type
+      description: Is this a conference or a journal?
+      options:
+        - Conference
+        - Journal
+    validations:
+      required: true
+
+  - type: input
+    id: venue_link
+    attributes:
+      label: Official Website
+      placeholder: "https://neurips.cc"
+    validations:
+      required: true
+
+  - type: input
+    id: frequency
+    attributes:
+      label: Publication Frequency
+      description: For conferences (annual, biennial) or journals (monthly, quarterly, continuous).
+      placeholder: "Annual"
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope / Research Areas
+      placeholder: "Briefly describe the research areas covered by this venue."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: I have checked that this venue is not already listed.
+          required: true
+        - label: The venue information provided is accurate and current.
+          required: true
