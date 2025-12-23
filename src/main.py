@@ -16,6 +16,17 @@ class Scaffold:
         self.data_out_dir = self.root_dir / "_data"
         self.data_out_dir.mkdir(exist_ok=True)
 
+    def topic_to_title(self, topic_name: str) -> str:
+        """
+        Convert topic slug to human-readable title.
+        federatedml -> Federated ML
+        gradient-inversion-attacks -> Gradient Inversion Attacks
+        """
+        return " ".join(
+            word.upper() if word.isupper() else word.capitalize()
+            for word in topic_name.replace("-", " ").split()
+        )
+
     def run(self, env: str = "dev", global_cfg_path: str = "./../config.yaml"):
         # Initialize global settings (logging, etc)
         global_cfg = init(cfg_path=global_cfg_path)
@@ -34,7 +45,8 @@ class Scaffold:
         total_flag = False
 
         for c_file in config_files:
-            logger.info(f"Processing topic config: {c_file.name}")
+            temp_topic_name = self.topic_to_title(c_file.stem)
+            logger.info(f"Processing topic config: {temp_topic_name}")
             
             with open(c_file, 'r') as f:
                 topic_cfg = yaml.safe_load(f)
@@ -70,7 +82,7 @@ class Scaffold:
                     dblp_cache[topic_query].extend(new_items)
 
                     # Generate messages for Github/Logs
-                    aggregated_msg += get_msg(new_items, topic_query, c_file.name, aggregated=True)
+                    aggregated_msg += get_msg(new_items, topic_query, temp_topic_name, aggregated=True)
                     
                     # Write to the specific YAML file in _data/
                     write_venue_yaml(new_items, target_yaml_path)
