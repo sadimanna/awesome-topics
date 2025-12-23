@@ -1,0 +1,131 @@
+section:
+- title: NeurIPS
+- title: ICML
+- title: ICLR
+- title: IEEE Symposium on Security and Privacy
+- title: IEEE Trans. Inf. Forensics Secur.
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Privacy Backdoors: Enhancing Membership Inference through Poisoning
+        Pre-trained Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/97d008f7873b8dd55cb6dd343fc4386f-Abstract-Conference.html
+ICML:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Privacy Backdoors: Stealing Data with Corrupted Pretrained Models.'
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=7yixJXmzb8
+ICLR:
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Robust anomaly detection and backdoor attack detection via differential
+        privacy.
+      venue: ICLR
+      year: 2020
+      link: https://openreview.net/forum?id=SJx0q1rtvS
+IEEE Symposium on Security and Privacy:
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural
+        Networks.'
+      venue: IEEE Symposium on Security and Privacy
+      year: 2019
+      link: https://doi.org/10.1109/SP.2019.00031
+    - title: 'True2F: Backdoor-Resistant Authentication Tokens.'
+      venue: IEEE Symposium on Security and Privacy
+      year: 2019
+      link: https://doi.org/10.1109/SP.2019.00048
+  '2012':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Framework to Eliminate Backdoors from Response-Computable Authentication.
+      venue: IEEE Symposium on Security and Privacy
+      year: 2012
+      link: https://doi.org/10.1109/SP.2012.10
+  '2011':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Silencing Hardware Backdoors.
+      venue: IEEE Symposium on Security and Privacy
+      year: 2011
+      link: https://doi.org/10.1109/SP.2011.27
+IEEE Trans. Inf. Forensics Secur.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Privacy-Enhancing and Robust Backdoor Defense for Federated Learning
+        on Heterogeneous Data.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2023.3326983

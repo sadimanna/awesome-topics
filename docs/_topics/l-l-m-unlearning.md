@@ -43,6 +43,7 @@ permalink: /l-l-m-unlearning/
 
   - [2025](#acl-2025)
   - [2024](#acl-2024)
+  - [2023](#acl-2023)
 
 </details>
 
@@ -75,6 +76,41 @@ permalink: /l-l-m-unlearning/
 
 </details>
 
+<details markdown="1">
+<summary>CIKM</summary>
+
+  - [2025](#cikm-2025)
+
+</details>
+
+<details markdown="1">
+<summary>Expert Syst. Appl.</summary>
+
+  - [2025](#expert-syst-appl-2025)
+
+</details>
+
+<details markdown="1">
+<summary>Neural Networks</summary>
+
+  - [2025](#neural-networks-2025)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Knowl. Data Eng.</summary>
+
+  - [2025](#ieee-trans-knowl-data-eng-2025)
+
+</details>
+
+<details markdown="1">
+<summary>Nat. Mac. Intell.</summary>
+
+  - [2025](#nat-mac-intell-2025)
+
+</details>
+
 </details>
 
 
@@ -102,6 +138,18 @@ permalink: /l-l-m-unlearning/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Large Language Model Unlearning via Embedding-Corrupted Prompts.</td>
+<td>NeurIPS</td>
+<td>2024</td>
+<td><a href="http://papers.nips.cc/paper_files/paper/2024/hash/d6359156e0e30b1caa116a4306b12688-Abstract-Conference.html">Link</a></td>
+</tr>
+<tr>
+<td>Large Language Model Unlearning.</td>
+<td>NeurIPS</td>
+<td>2024</td>
+<td><a href="http://papers.nips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html">Link</a></td>
+</tr>
 <tr>
 <td>RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models.</td>
 <td>NeurIPS</td>
@@ -200,6 +248,12 @@ permalink: /l-l-m-unlearning/
 <td>2025</td>
 <td><a href="https://openreview.net/forum?id=zZjLv6F0Ks">Link</a></td>
 </tr>
+<tr>
+<td>Underestimated Privacy Risks for Minority Populations in Large Language Model Unlearning.</td>
+<td>ICML</td>
+<td>2025</td>
+<td><a href="https://openreview.net/forum?id=NsU6MKwbis">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="icml-2024"></a>
@@ -218,6 +272,12 @@ permalink: /l-l-m-unlearning/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>In-Context Unlearning: Language Models as Few-Shot Unlearners.</td>
+<td>ICML</td>
+<td>2024</td>
+<td><a href="https://openreview.net/forum?id=GKcwle8XC9">Link</a></td>
+</tr>
 <tr>
 <td>To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning in Large Language Models.</td>
 <td>ICML</td>
@@ -263,6 +323,12 @@ permalink: /l-l-m-unlearning/
 <td><a href="https://openreview.net/forum?id=51WraMid8K">Link</a></td>
 </tr>
 <tr>
+<td>Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset.</td>
+<td>ICLR</td>
+<td>2025</td>
+<td><a href="https://openreview.net/forum?id=0y3hGn1wOk">Link</a></td>
+</tr>
+<tr>
 <td>Catastrophic Failure of LLM Unlearning via Quantization.</td>
 <td>ICLR</td>
 <td>2025</td>
@@ -273,6 +339,18 @@ permalink: /l-l-m-unlearning/
 <td>ICLR</td>
 <td>2025</td>
 <td><a href="https://openreview.net/forum?id=6ESRicalFE">Link</a></td>
+</tr>
+<tr>
+<td>MUSE: Machine Unlearning Six-Way Evaluation for Language Models.</td>
+<td>ICLR</td>
+<td>2025</td>
+<td><a href="https://openreview.net/forum?id=TArmA033BU">Link</a></td>
+</tr>
+<tr>
+<td>On Large Language Model Continual Unlearning.</td>
+<td>ICLR</td>
+<td>2025</td>
+<td><a href="https://openreview.net/forum?id=Essg9kb4yx">Link</a></td>
 </tr>
 <tr>
 <td>Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond.</td>
@@ -369,6 +447,12 @@ permalink: /l-l-m-unlearning/
 <td><a href="https://aclanthology.org/2025.findings-acl.949/">Link</a></td>
 </tr>
 <tr>
+<td>Answer When Needed, Forget When Not: Language Models Pretend to Forget via In-Context Knowledge Unlearning.</td>
+<td>ACL</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-acl.1276/">Link</a></td>
+</tr>
+<tr>
 <td>Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis.</td>
 <td>ACL</td>
 <td>2025</td>
@@ -409,6 +493,12 @@ permalink: /l-l-m-unlearning/
 <td>ACL</td>
 <td>2025</td>
 <td><a href="https://aclanthology.org/2025.acl-long.1371/">Link</a></td>
+</tr>
+<tr>
+<td>REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space.</td>
+<td>ACL</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-acl.763/">Link</a></td>
 </tr>
 <tr>
 <td>ReLearn: Unlearning via Learning for Large Language Models.</td>
@@ -489,10 +579,52 @@ permalink: /l-l-m-unlearning/
 <td><a href="https://doi.org/10.18653/v1/2024.acl-long.457">Link</a></td>
 </tr>
 <tr>
+<td>Protecting Privacy Through Approximating Optimal Parameters for Sequence Unlearning in Language Models.</td>
+<td>ACL</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.18653/v1/2024.findings-acl.936">Link</a></td>
+</tr>
+<tr>
 <td>Towards Safer Large Language Models through Machine Unlearning.</td>
 <td>ACL</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.18653/v1/2024.findings-acl.107">Link</a></td>
+</tr>
+<tr>
+<td>Unlearning Traces the Influential Training Data of Language Models.</td>
+<td>ACL</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.18653/v1/2024.acl-long.343">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="acl-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Knowledge Unlearning for Mitigating Privacy Risks in Language Models.</td>
+<td>ACL</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.18653/v1/2023.acl-long.805">Link</a></td>
+</tr>
+<tr>
+<td>Unlearning Bias in Language Models by Partitioning Gradients.</td>
+<td>ACL</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.18653/v1/2023.findings-acl.375">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -521,6 +653,18 @@ permalink: /l-l-m-unlearning/
 </tr></thead>
 <tbody>
 <tr>
+<td>Can Machine Unlearning Reduce Social Bias in Language Models?</td>
+<td>EMNLP</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.18653/v1/2024.emnlp-industry.71">Link</a></td>
+</tr>
+<tr>
+<td>Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models.</td>
+<td>EMNLP</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.18653/v1/2024.findings-emnlp.630">Link</a></td>
+</tr>
+<tr>
 <td>Dissecting Fine-Tuning Unlearning in Large Language Models.</td>
 <td>EMNLP</td>
 <td>2024</td>
@@ -531,6 +675,12 @@ permalink: /l-l-m-unlearning/
 <td>EMNLP</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.18653/v1/2024.emnlp-main.67">Link</a></td>
+</tr>
+<tr>
+<td>Fine-grained Pluggable Gradient Ascent for Knowledge Unlearning in Language Models.</td>
+<td>EMNLP</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.18653/v1/2024.emnlp-main.566">Link</a></td>
 </tr>
 <tr>
 <td>SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning.</td>
@@ -575,6 +725,12 @@ permalink: /l-l-m-unlearning/
 </tr></thead>
 <tbody>
 <tr>
+<td>Preserving Privacy Through Dememorization: An Unlearning Technique For Mitigating Memorization Risks In Language Models.</td>
+<td>EMNLP</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.18653/v1/2023.emnlp-main.265">Link</a></td>
+</tr>
+<tr>
 <td>Unlearn What You Want to Forget: Efficient Unlearning for LLMs.</td>
 <td>EMNLP</td>
 <td>2023</td>
@@ -606,6 +762,30 @@ permalink: /l-l-m-unlearning/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models.</td>
+<td>AAAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1609/aaai.v39i23.34605">Link</a></td>
+</tr>
+<tr>
+<td>Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language Models for Privacy Leakage.</td>
+<td>AAAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1609/aaai.v39i19.34218">Link</a></td>
+</tr>
+<tr>
+<td>On Effects of Steering Latent Representation for Large Language Model Unlearning.</td>
+<td>AAAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1609/aaai.v39i22.34544">Link</a></td>
+</tr>
+<tr>
+<td>Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models.</td>
+<td>AAAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1609/aaai.v39i1.32068">Link</a></td>
+</tr>
 <tr>
 <td>Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models.</td>
 <td>AAAI</td>
@@ -681,6 +861,166 @@ permalink: /l-l-m-unlearning/
 <td>COLING</td>
 <td>2025</td>
 <td><a href="https://aclanthology.org/2025.coling-main.358/">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## CIKM <a id="venue-cikm"></a>
+
+<details>
+
+<summary>Expand CIKM</summary>
+
+<a id="cikm-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Pseudo-Inverse Prefix Tuning for Effective Unlearning in LLMs.</td>
+<td>CIKM</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746252.3760939">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Expert Syst. Appl. <a id="venue-expert syst. appl."></a>
+
+<details>
+
+<summary>Expand Expert Syst. Appl.</summary>
+
+<a id="expert syst. appl.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Law LLM unlearning via interfere prompt, review output and update parameter: new challenges, method and baseline.</td>
+<td>Expert Syst. Appl.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.128612">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Neural Networks <a id="venue-neural networks"></a>
+
+<details>
+
+<summary>Expand Neural Networks</summary>
+
+<a id="neural networks-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>DP2Unlearning: An efficient and guaranteed unlearning framework for LLMs.</td>
+<td>Neural Networks</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2025.107879">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Knowl. Data Eng. <a id="venue-ieee trans. knowl. data eng."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Knowl. Data Eng.</summary>
+
+<a id="ieee trans. knowl. data eng.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Exact and Efficient Unlearning for Large Language Model-Based Recommendation.</td>
+<td>IEEE Trans. Knowl. Data Eng.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TKDE.2025.3594687">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Nat. Mac. Intell. <a id="venue-nat. mac. intell."></a>
+
+<details>
+
+<summary>Expand Nat. Mac. Intell.</summary>
+
+<a id="nat. mac. intell.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Rethinking machine unlearning for large language models.</td>
+<td>Nat. Mac. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1038/s42256-025-00985-0">Link</a></td>
 </tr>
 </tbody></table>
 

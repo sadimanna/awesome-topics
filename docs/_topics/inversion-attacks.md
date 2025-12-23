@@ -228,6 +228,174 @@ permalink: /inversion-attacks/
 
 </details>
 
+<details markdown="1">
+<summary>IEEE Trans. Neural Networks Learn. Syst.</summary>
+
+  - [2025](#ieee-trans-neural-networks-learn-syst-2025)
+  - [2024](#ieee-trans-neural-networks-learn-syst-2024)
+  - [2023](#ieee-trans-neural-networks-learn-syst-2023)
+  - [2020](#ieee-trans-neural-networks-learn-syst-2020)
+  - [2013](#ieee-trans-neural-networks-learn-syst-2013)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Big Data</summary>
+
+  - [2025](#ieee-trans-big-data-2025)
+  - [2024](#ieee-trans-big-data-2024)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Medical Imaging</summary>
+
+  - [2023](#ieee-trans-medical-imaging-2023)
+  - [2016](#ieee-trans-medical-imaging-2016)
+  - [2015](#ieee-trans-medical-imaging-2015)
+  - [2014](#ieee-trans-medical-imaging-2014)
+  - [2010](#ieee-trans-medical-imaging-2010)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Inf. Forensics Secur.</summary>
+
+  - [2025](#ieee-trans-inf-forensics-secur-2025)
+  - [2024](#ieee-trans-inf-forensics-secur-2024)
+  - [2023](#ieee-trans-inf-forensics-secur-2023)
+  - [2022](#ieee-trans-inf-forensics-secur-2022)
+
+</details>
+
+<details markdown="1">
+<summary>ACM Trans. Priv. Secur.</summary>
+
+  - [2023](#acm-trans-priv-secur-2023)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE J. Biomed. Health Informatics</summary>
+
+  - [2023](#ieee-j-biomed-health-informatics-2023)
+
+</details>
+
+<details markdown="1">
+<summary>Medical Image Anal.</summary>
+
+  - [2026](#medical-image-anal-2026)
+  - [2025](#medical-image-anal-2025)
+
+</details>
+
+<details markdown="1">
+<summary>Knowl. Based Syst.</summary>
+
+  - [2025](#knowl-based-syst-2025)
+  - [2024](#knowl-based-syst-2024)
+
+</details>
+
+<details markdown="1">
+<summary>Neurocomputing</summary>
+
+  - [2025](#neurocomputing-2025)
+  - [2020](#neurocomputing-2020)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Knowl. Data Eng.</summary>
+
+  - [2023](#ieee-trans-knowl-data-eng-2023)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Syst. Man Cybern. Syst.</summary>
+
+  - [2023](#ieee-trans-syst-man-cybern-syst-2023)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Emerg. Top. Comput.</summary>
+
+  - [2022](#ieee-trans-emerg-top-comput-2022)
+
+</details>
+
+<details markdown="1">
+<summary>Neural Networks</summary>
+
+  - [2024](#neural-networks-2024)
+  - [2019](#neural-networks-2019)
+  - [2007](#neural-networks-2007)
+
+</details>
+
+<details markdown="1">
+<summary>J. Artif. Intell. Res.</summary>
+
+  - [2025](#j-artif-intell-res-2025)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Image Process.</summary>
+
+  - [2003](#ieee-trans-image-process-2003)
+  - [1992](#ieee-trans-image-process-1992)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Neural Networks</summary>
+
+  - [2005](#ieee-trans-neural-networks-2005)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Intell. Transp. Syst.</summary>
+
+  - [2022](#ieee-trans-intell-transp-syst-2022)
+
+</details>
+
+<details markdown="1">
+<summary>Expert Syst. Appl.</summary>
+
+  - [2025](#expert-syst-appl-2025)
+  - [2024](#expert-syst-appl-2024)
+  - [2016](#expert-syst-appl-2016)
+  - [2014](#expert-syst-appl-2014)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE ACM Trans. Audio Speech Lang. Process.</summary>
+
+  - [2022](#ieee-acm-trans-audio-speech-lang-process-2022)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Speech Audio Process.</summary>
+
+  - [2013](#ieee-trans-speech-audio-process-2013)
+
+</details>
+
+<details markdown="1">
+<summary>Neural Comput. Appl.</summary>
+
+  - [2012](#neural-comput-appl-2012)
+
+</details>
+
 </details>
 
 
@@ -2326,6 +2494,1308 @@ permalink: /inversion-attacks/
 <td>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</td>
 <td>1989</td>
 <td><a href="https://doi.org/10.1109/43.31529">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Neural Networks Learn. Syst. <a id="venue-ieee trans. neural networks learn. syst."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Neural Networks Learn. Syst.</summary>
+
+<a id="ieee trans. neural networks learn. syst.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Defending Against Neural Network Model Inversion Attacks via Data Poisoning.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2025.3554656">Link</a></td>
+</tr>
+<tr>
+<td>Neural Honeypoint: An Active Defense Framework Against Model Inversion Attacks.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2025.3554217">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. neural networks learn. syst.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Dynamic-Varying Parameter Enhanced ZNN Model for Solving Time-Varying Complex-Valued Tensor Inversion With Its Application to Image Encryption.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2023.3270563">Link</a></td>
+</tr>
+<tr>
+<td>GNN Model for Time-Varying Matrix Inversion With Robust Finite-Time Convergence.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2022.3175899">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. neural networks learn. syst.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Dynamic Moore-Penrose Inversion With Unknown Derivatives: Gradient Neural Network Approach.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2022.3171715">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. neural networks learn. syst.-2020"></a>
+<h3 class="year-heading">2020</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>New Varying-Parameter ZNN Models With Finite-Time Convergence and Noise Suppression for Time-Varying Matrix Moore-Penrose Inversion.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2020</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2019.2934734">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. neural networks learn. syst.-2013"></a>
+<h3 class="year-heading">2013</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Common Nature of Learning Between Back-Propagation and Hopfield-Type Neural Networks for Generalized Matrix Inversion With Simplified Models.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2013</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2013.2238555">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Big Data <a id="venue-ieee trans. big data"></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Big Data</summary>
+
+<a id="ieee trans. big data-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Comprehensive Privacy Analysis on Recommendation With Causal Embedding Against Model Inversion Attacks.</td>
+<td>IEEE Trans. Big Data</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TBDATA.2025.3594291">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. big data-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Improved Gradient Inversion Attacks and Defenses in Federated Learning.</td>
+<td>IEEE Trans. Big Data</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TBDATA.2023.3239116">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Medical Imaging <a id="venue-ieee trans. medical imaging"></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Medical Imaging</summary>
+
+<a id="ieee trans. medical imaging-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Do Gradient Inversion Attacks Make Federated Learning Unsafe?</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TMI.2023.3239391">Link</a></td>
+</tr>
+<tr>
+<td>Ensemble Inversion for Brain Tumor Growth Models With Mass Effect.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TMI.2022.3221913">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. medical imaging-2016"></a>
+<h3 class="year-heading">2016</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Real-Time Model-Based Inversion in Cross-Sectional Optoacoustic Tomography.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2016</td>
+<td><a href="https://doi.org/10.1109/TMI.2016.2536779">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. medical imaging-2015"></a>
+<h3 class="year-heading">2015</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Quantitative Susceptibility Mapping by Inversion of a Perturbation Field Model: Correlation With Brain Iron in Normal Aging.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2015</td>
+<td><a href="https://doi.org/10.1109/TMI.2014.2358552">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. medical imaging-2014"></a>
+<h3 class="year-heading">2014</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Model Based Inversion for Deriving Maps of Histological Parameters Characteristic of Cancer From Ex-Vivo Multispectral Images of the Colon.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2014</td>
+<td><a href="https://doi.org/10.1109/TMI.2013.2290697">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. medical imaging-2010"></a>
+<h3 class="year-heading">2010</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Fast Semi-Analytical Model-Based Acoustic Inversion for Quantitative Optoacoustic Tomography.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2010</td>
+<td><a href="https://doi.org/10.1109/TMI.2010.2044584">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Inf. Forensics Secur. <a id="venue-ieee trans. inf. forensics secur."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Inf. Forensics Secur.</summary>
+
+<a id="ieee trans. inf. forensics secur.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Adv-Inversion: Stealthy Adversarial Attacks via GAN-Inversion for Facial Privacy Protection.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3625635">Link</a></td>
+</tr>
+<tr>
+<td>Defending Against Model Inversion Attack via Feature Purification.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3565997">Link</a></td>
+</tr>
+<tr>
+<td>Distributional Black-Box Model Inversion Attack With Multi-Agent Reinforcement Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3564043">Link</a></td>
+</tr>
+<tr>
+<td>Dual Dependency Disentangling for Defending Model Inversion Attacks in Split Federated Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3621008">Link</a></td>
+</tr>
+<tr>
+<td>Enabling Gradient Inversion Attack Against SplitFed Learning via L2 Norm Amplification.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3616594">Link</a></td>
+</tr>
+<tr>
+<td>FGMIA: Feature-Guided Model Inversion Attacks Against Face Recognition Models.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3592542">Link</a></td>
+</tr>
+<tr>
+<td>GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture Search.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3589127">Link</a></td>
+</tr>
+<tr>
+<td>Gradient Inversion of Text-Modal Data in Distributed Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3522792">Link</a></td>
+</tr>
+<tr>
+<td>Query-Efficient Model Inversion Attacks: An Information Flow View.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3518779">Link</a></td>
+</tr>
+<tr>
+<td>Semantic and Precise Trigger Inversion: Detecting Backdoored Language Models.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3594037">Link</a></td>
+</tr>
+<tr>
+<td>TrapNet: Model Inversion Defense via Trapdoor.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3560557">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. inf. forensics secur.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Inversion-Guided Defense: Detecting Model Stealing Attacks by Output Inverting.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3376190">Link</a></td>
+</tr>
+<tr>
+<td>RVE-PFL: Robust Variational Encoder-Based Personalized Federated Learning Against Model Inversion Attacks.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3368879">Link</a></td>
+</tr>
+<tr>
+<td>Unstoppable Attack: Label-Only Model Inversion Via Conditional Diffusion Model.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3372815">Link</a></td>
+</tr>
+<tr>
+<td>Vulnerability of State-of-the-Art Face Recognition Models to Template Inversion Attack.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3381820">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. inf. forensics secur.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A GAN-Based Defense Framework Against Model Inversion Attacks.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TIFS.2023.3295944">Link</a></td>
+</tr>
+<tr>
+<td>Analysis and Utilization of Hidden Information in Model Inversion Attacks.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TIFS.2023.3295942">Link</a></td>
+</tr>
+<tr>
+<td>EGIA: An External Gradient Inversion Attack in Federated Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TIFS.2023.3302161">Link</a></td>
+</tr>
+<tr>
+<td>Label-Only Model Inversion Attacks: Attack With the Least Information.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TIFS.2022.3233190">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. inf. forensics secur.-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive Face Generation From a Face Recognition System.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1109/TIFS.2022.3140687">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## ACM Trans. Priv. Secur. <a id="venue-acm trans. priv. secur."></a>
+
+<details>
+
+<summary>Expand ACM Trans. Priv. Secur.</summary>
+
+<a id="acm trans. priv. secur.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Beyond Gradients: Exploiting Adversarial Priors in Model Inversion Attacks.</td>
+<td>ACM Trans. Priv. Secur.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1145/3592800">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE J. Biomed. Health Informatics <a id="venue-ieee j. biomed. health informatics"></a>
+
+<details>
+
+<summary>Expand IEEE J. Biomed. Health Informatics</summary>
+
+<a id="ieee j. biomed. health informatics-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>E2EGI: End-to-End Gradient Inversion in Federated Learning.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/JBHI.2022.3204455">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Medical Image Anal. <a id="venue-medical image anal."></a>
+
+<details>
+
+<summary>Expand Medical Image Anal.</summary>
+
+<a id="medical image anal.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A novel gradient inversion attack framework to investigate privacy vulnerabilities during retinal image-based federated learning.</td>
+<td>Medical Image Anal.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.media.2025.103807">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="medical image anal.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Shadow defense against gradient inversion attack in federated learning.</td>
+<td>Medical Image Anal.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.media.2025.103673">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Knowl. Based Syst. <a id="venue-knowl. based syst."></a>
+
+<details>
+
+<summary>Expand Knowl. Based Syst.</summary>
+
+<a id="knowl. based syst.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Stand-in Model Protection: Synthetic defense for membership inference and model inversion attacks.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.113339">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="knowl. based syst.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Defending against gradient inversion attacks in federated learning via statistical machine unlearning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2024.111983">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Neurocomputing <a id="venue-neurocomputing"></a>
+
+<details>
+
+<summary>Expand Neurocomputing</summary>
+
+<a id="neurocomputing-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Exploiting the connections between images and deep feature vectors in model inversion attacks.</td>
+<td>Neurocomputing</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2025.131457">Link</a></td>
+</tr>
+<tr>
+<td>Label-only model inversion attacks: Adaptive boundary exclusion for limited queries.</td>
+<td>Neurocomputing</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2025.129902">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="neurocomputing-2020"></a>
+<h3 class="year-heading">2020</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Modified gradient neural networks for solving the time-varying Sylvester equation with adaptive coefficients and elimination of matrix inversion.</td>
+<td>Neurocomputing</td>
+<td>2020</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2019.10.080">Link</a></td>
+</tr>
+<tr>
+<td>New error function designs for finite-time ZNN models with application to dynamic matrix inversion.</td>
+<td>Neurocomputing</td>
+<td>2020</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2020.02.121">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Knowl. Data Eng. <a id="venue-ieee trans. knowl. data eng."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Knowl. Data Eng.</summary>
+
+<a id="ieee trans. knowl. data eng.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Model Inversion Attacks Against Graph Neural Networks.</td>
+<td>IEEE Trans. Knowl. Data Eng.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TKDE.2022.3207915">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Syst. Man Cybern. Syst. <a id="venue-ieee trans. syst. man cybern. syst."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Syst. Man Cybern. Syst.</summary>
+
+<a id="ieee trans. syst. man cybern. syst.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Social IoT Approach to Cyber Defense of a Deep-Learning-Based Recognition System in Front of Media Clones Generated by Model Inversion Attack.</td>
+<td>IEEE Trans. Syst. Man Cybern. Syst.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TSMC.2022.3220080">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Emerg. Top. Comput. <a id="venue-ieee trans. emerg. top. comput."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Emerg. Top. Comput.</summary>
+
+<a id="ieee trans. emerg. top. comput.-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>An Approximate Memory Based Defense Against Model Inversion Attacks to Neural Networks.</td>
+<td>IEEE Trans. Emerg. Top. Comput.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1109/TETC.2022.3179980">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Neural Networks <a id="venue-neural networks"></a>
+
+<details>
+
+<summary>Expand Neural Networks</summary>
+
+<a id="neural networks-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Aligning the domains in cross domain model inversion attack.</td>
+<td>Neural Networks</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2024.106490">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="neural networks-2019"></a>
+<h3 class="year-heading">2019</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A new noise-tolerant and predefined-time ZNN model for time-dependent matrix inversion.</td>
+<td>Neural Networks</td>
+<td>2019</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2019.05.005">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="neural networks-2007"></a>
+<h3 class="year-heading">2007</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Model inversion by parameter fit using NN emulating the forward model - Evaluation of indirect measurements.</td>
+<td>Neural Networks</td>
+<td>2007</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2007.04.022">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## J. Artif. Intell. Res. <a id="venue-j. artif. intell. res."></a>
+
+<details>
+
+<summary>Expand J. Artif. Intell. Res.</summary>
+
+<a id="j. artif. intell. res.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Detecting Generative Model Inversion Attacks for Protecting Intellectual Property of Deep Neural Networks.</td>
+<td>J. Artif. Intell. Res.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1613/jair.1.19468">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Image Process. <a id="venue-ieee trans. image process."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Image Process.</summary>
+
+<a id="ieee trans. image process.-2003"></a>
+<h3 class="year-heading">2003</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A local spectral inversion of a linearized TV model for denoising and deblurring.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2003</td>
+<td><a href="https://doi.org/10.1109/TIP.2003.812760">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. image process.-1992"></a>
+<h3 class="year-heading">1992</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A system model and inversion for synthetic aperture radar imaging.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>1992</td>
+<td><a href="https://doi.org/10.1109/83.128031">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Neural Networks <a id="venue-ieee trans. neural networks"></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Neural Networks</summary>
+
+<a id="ieee trans. neural networks-2005"></a>
+<h3 class="year-heading">2005</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Design and analysis of a general recurrent neural network model for time-varying matrix inversion.</td>
+<td>IEEE Trans. Neural Networks</td>
+<td>2005</td>
+<td><a href="https://doi.org/10.1109/TNN.2005.857946">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Intell. Transp. Syst. <a id="venue-ieee trans. intell. transp. syst."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Intell. Transp. Syst.</summary>
+
+<a id="ieee trans. intell. transp. syst.-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Optimal Trajectory Planning and Robust Tracking Using Vehicle Model Inversion.</td>
+<td>IEEE Trans. Intell. Transp. Syst.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1109/TITS.2020.3045917">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Expert Syst. Appl. <a id="venue-expert syst. appl."></a>
+
+<details>
+
+<summary>Expand Expert Syst. Appl.</summary>
+
+<a id="expert syst. appl.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Uni-3DAD: Gan-inversion aided universal 3D anomaly detection on model-free products.</td>
+<td>Expert Syst. Appl.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.126665">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="expert syst. appl.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Fixed-time convergence ZNN model for solving rectangular dynamic full-rank matrices inversion.</td>
+<td>Expert Syst. Appl.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2024.123992">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="expert syst. appl.-2016"></a>
+<h3 class="year-heading">2016</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Ridders algorithm in approximate inversion of fuzzy model with parametrized consequences.</td>
+<td>Expert Syst. Appl.</td>
+<td>2016</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2015.12.042">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="expert syst. appl.-2014"></a>
+<h3 class="year-heading">2014</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Inversion mechanism with functional extrema model for identification incommensurate and hyper fractional chaos via differential evolution.</td>
+<td>Expert Syst. Appl.</td>
+<td>2014</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2013.08.087">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE ACM Trans. Audio Speech Lang. Process. <a id="venue-ieee acm trans. audio speech lang. process."></a>
+
+<details>
+
+<summary>Expand IEEE ACM Trans. Audio Speech Lang. Process.</summary>
+
+<a id="ieee acm trans. audio speech lang. process.-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Acoustic-to-Articulatory Mapping With Joint Optimization of Deep Speech Enhancement and Articulatory Inversion Models.</td>
+<td>IEEE ACM Trans. Audio Speech Lang. Process.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1109/TASLP.2021.3133218">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Speech Audio Process. <a id="venue-ieee trans. speech audio process."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Speech Audio Process.</summary>
+
+<a id="ieee trans. speech audio process.-2013"></a>
+<h3 class="year-heading">2013</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Model-Based Inversion of Dynamic Range Compression.</td>
+<td>IEEE Trans. Speech Audio Process.</td>
+<td>2013</td>
+<td><a href="https://doi.org/10.1109/TASL.2013.2253099">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Neural Comput. Appl. <a id="venue-neural comput. appl."></a>
+
+<details>
+
+<summary>Expand Neural Comput. Appl.</summary>
+
+<a id="neural comput. appl.-2012"></a>
+<h3 class="year-heading">2012</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A novel neural-based model for acoustic-articulatory inversion mapping.</td>
+<td>Neural Comput. Appl.</td>
+<td>2012</td>
+<td><a href="https://doi.org/10.1007/s00521-011-0563-0">Link</a></td>
 </tr>
 </tbody></table>
 

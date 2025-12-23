@@ -1,0 +1,20 @@
+section:
+- title: ICLR
+ICLR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Improving Complex Reasoning with Dynamic Prompt Corruption: A Soft Prompt
+        Optimization Approach.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=h7Qz1ulnvF

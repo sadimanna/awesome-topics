@@ -25,6 +25,27 @@ section:
 - title: IEEE Trans. Computers
 - title: WACV
 - title: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+- title: IEEE Trans. Neural Networks Learn. Syst.
+- title: IEEE Trans. Big Data
+- title: IEEE Trans. Medical Imaging
+- title: IEEE Trans. Inf. Forensics Secur.
+- title: ACM Trans. Priv. Secur.
+- title: IEEE J. Biomed. Health Informatics
+- title: Medical Image Anal.
+- title: Knowl. Based Syst.
+- title: Neurocomputing
+- title: IEEE Trans. Knowl. Data Eng.
+- title: IEEE Trans. Syst. Man Cybern. Syst.
+- title: IEEE Trans. Emerg. Top. Comput.
+- title: Neural Networks
+- title: J. Artif. Intell. Res.
+- title: IEEE Trans. Image Process.
+- title: IEEE Trans. Neural Networks
+- title: IEEE Trans. Intell. Transp. Syst.
+- title: Expert Syst. Appl.
+- title: IEEE ACM Trans. Audio Speech Lang. Process.
+- title: IEEE Trans. Speech Audio Process.
+- title: Neural Comput. Appl.
 IJCAI:
   '2025':
     header:
@@ -1378,3 +1399,820 @@ IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
       venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
       year: 1989
       link: https://doi.org/10.1109/43.31529
+IEEE Trans. Neural Networks Learn. Syst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Defending Against Neural Network Model Inversion Attacks via Data Poisoning.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2025.3554656
+    - title: 'Neural Honeypoint: An Active Defense Framework Against Model Inversion
+        Attacks.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2025.3554217
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Dynamic-Varying Parameter Enhanced ZNN Model for Solving Time-Varying
+        Complex-Valued Tensor Inversion With Its Application to Image Encryption.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2024
+      link: https://doi.org/10.1109/TNNLS.2023.3270563
+    - title: GNN Model for Time-Varying Matrix Inversion With Robust Finite-Time Convergence.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2024
+      link: https://doi.org/10.1109/TNNLS.2022.3175899
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Dynamic Moore-Penrose Inversion With Unknown Derivatives: Gradient Neural
+        Network Approach.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2023
+      link: https://doi.org/10.1109/TNNLS.2022.3171715
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: New Varying-Parameter ZNN Models With Finite-Time Convergence and Noise
+        Suppression for Time-Varying Matrix Moore-Penrose Inversion.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2020
+      link: https://doi.org/10.1109/TNNLS.2019.2934734
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Common Nature of Learning Between Back-Propagation and Hopfield-Type
+        Neural Networks for Generalized Matrix Inversion With Simplified Models.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2013
+      link: https://doi.org/10.1109/TNNLS.2013.2238555
+IEEE Trans. Big Data:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Comprehensive Privacy Analysis on Recommendation With Causal Embedding
+        Against Model Inversion Attacks.
+      venue: IEEE Trans. Big Data
+      year: 2025
+      link: https://doi.org/10.1109/TBDATA.2025.3594291
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Improved Gradient Inversion Attacks and Defenses in Federated Learning.
+      venue: IEEE Trans. Big Data
+      year: 2024
+      link: https://doi.org/10.1109/TBDATA.2023.3239116
+IEEE Trans. Medical Imaging:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Do Gradient Inversion Attacks Make Federated Learning Unsafe?
+      venue: IEEE Trans. Medical Imaging
+      year: 2023
+      link: https://doi.org/10.1109/TMI.2023.3239391
+    - title: Ensemble Inversion for Brain Tumor Growth Models With Mass Effect.
+      venue: IEEE Trans. Medical Imaging
+      year: 2023
+      link: https://doi.org/10.1109/TMI.2022.3221913
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Real-Time Model-Based Inversion in Cross-Sectional Optoacoustic Tomography.
+      venue: IEEE Trans. Medical Imaging
+      year: 2016
+      link: https://doi.org/10.1109/TMI.2016.2536779
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Quantitative Susceptibility Mapping by Inversion of a Perturbation Field
+        Model: Correlation With Brain Iron in Normal Aging.'
+      venue: IEEE Trans. Medical Imaging
+      year: 2015
+      link: https://doi.org/10.1109/TMI.2014.2358552
+  '2014':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model Based Inversion for Deriving Maps of Histological Parameters Characteristic
+        of Cancer From Ex-Vivo Multispectral Images of the Colon.
+      venue: IEEE Trans. Medical Imaging
+      year: 2014
+      link: https://doi.org/10.1109/TMI.2013.2290697
+  '2010':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Fast Semi-Analytical Model-Based Acoustic Inversion for Quantitative
+        Optoacoustic Tomography.
+      venue: IEEE Trans. Medical Imaging
+      year: 2010
+      link: https://doi.org/10.1109/TMI.2010.2044584
+IEEE Trans. Inf. Forensics Secur.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Adv-Inversion: Stealthy Adversarial Attacks via GAN-Inversion for Facial
+        Privacy Protection.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3625635
+    - title: Defending Against Model Inversion Attack via Feature Purification.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3565997
+    - title: Distributional Black-Box Model Inversion Attack With Multi-Agent Reinforcement
+        Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3564043
+    - title: Dual Dependency Disentangling for Defending Model Inversion Attacks in
+        Split Federated Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3621008
+    - title: Enabling Gradient Inversion Attack Against SplitFed Learning via L2 Norm
+        Amplification.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3616594
+    - title: 'FGMIA: Feature-Guided Model Inversion Attacks Against Face Recognition
+        Models.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3592542
+    - title: 'GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural
+        Architecture Search.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3589127
+    - title: Gradient Inversion of Text-Modal Data in Distributed Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2024.3522792
+    - title: 'Query-Efficient Model Inversion Attacks: An Information Flow View.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2024.3518779
+    - title: 'Semantic and Precise Trigger Inversion: Detecting Backdoored Language
+        Models.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3594037
+    - title: 'TrapNet: Model Inversion Defense via Trapdoor.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3560557
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Inversion-Guided Defense: Detecting Model Stealing Attacks by Output
+        Inverting.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3376190
+    - title: 'RVE-PFL: Robust Variational Encoder-Based Personalized Federated Learning
+        Against Model Inversion Attacks.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3368879
+    - title: 'Unstoppable Attack: Label-Only Model Inversion Via Conditional Diffusion
+        Model.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3372815
+    - title: Vulnerability of State-of-the-Art Face Recognition Models to Template
+        Inversion Attack.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3381820
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A GAN-Based Defense Framework Against Model Inversion Attacks.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2023.3295944
+    - title: Analysis and Utilization of Hidden Information in Model Inversion Attacks.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2023.3295942
+    - title: 'EGIA: An External Gradient Inversion Attack in Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2023.3302161
+    - title: 'Label-Only Model Inversion Attacks: Attack With the Least Information.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2022.3233190
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive
+        Face Generation From a Face Recognition System.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2022
+      link: https://doi.org/10.1109/TIFS.2022.3140687
+ACM Trans. Priv. Secur.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Beyond Gradients: Exploiting Adversarial Priors in Model Inversion Attacks.'
+      venue: ACM Trans. Priv. Secur.
+      year: 2023
+      link: https://doi.org/10.1145/3592800
+IEEE J. Biomed. Health Informatics:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'E2EGI: End-to-End Gradient Inversion in Federated Learning.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2023
+      link: https://doi.org/10.1109/JBHI.2022.3204455
+Medical Image Anal.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A novel gradient inversion attack framework to investigate privacy vulnerabilities
+        during retinal image-based federated learning.
+      venue: Medical Image Anal.
+      year: 2026
+      link: https://doi.org/10.1016/j.media.2025.103807
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Shadow defense against gradient inversion attack in federated learning.
+      venue: Medical Image Anal.
+      year: 2025
+      link: https://doi.org/10.1016/j.media.2025.103673
+Knowl. Based Syst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Stand-in Model Protection: Synthetic defense for membership inference
+        and model inversion attacks.'
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.113339
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Defending against gradient inversion attacks in federated learning via
+        statistical machine unlearning.
+      venue: Knowl. Based Syst.
+      year: 2024
+      link: https://doi.org/10.1016/j.knosys.2024.111983
+Neurocomputing:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Exploiting the connections between images and deep feature vectors in
+        model inversion attacks.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.131457
+    - title: 'Label-only model inversion attacks: Adaptive boundary exclusion for
+        limited queries.'
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.129902
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Modified gradient neural networks for solving the time-varying Sylvester
+        equation with adaptive coefficients and elimination of matrix inversion.
+      venue: Neurocomputing
+      year: 2020
+      link: https://doi.org/10.1016/j.neucom.2019.10.080
+    - title: New error function designs for finite-time ZNN models with application
+        to dynamic matrix inversion.
+      venue: Neurocomputing
+      year: 2020
+      link: https://doi.org/10.1016/j.neucom.2020.02.121
+IEEE Trans. Knowl. Data Eng.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model Inversion Attacks Against Graph Neural Networks.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2023
+      link: https://doi.org/10.1109/TKDE.2022.3207915
+IEEE Trans. Syst. Man Cybern. Syst.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Social IoT Approach to Cyber Defense of a Deep-Learning-Based Recognition
+        System in Front of Media Clones Generated by Model Inversion Attack.
+      venue: IEEE Trans. Syst. Man Cybern. Syst.
+      year: 2023
+      link: https://doi.org/10.1109/TSMC.2022.3220080
+IEEE Trans. Emerg. Top. Comput.:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An Approximate Memory Based Defense Against Model Inversion Attacks to
+        Neural Networks.
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2022
+      link: https://doi.org/10.1109/TETC.2022.3179980
+Neural Networks:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Aligning the domains in cross domain model inversion attack.
+      venue: Neural Networks
+      year: 2024
+      link: https://doi.org/10.1016/j.neunet.2024.106490
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A new noise-tolerant and predefined-time ZNN model for time-dependent
+        matrix inversion.
+      venue: Neural Networks
+      year: 2019
+      link: https://doi.org/10.1016/j.neunet.2019.05.005
+  '2007':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model inversion by parameter fit using NN emulating the forward model
+        - Evaluation of indirect measurements.
+      venue: Neural Networks
+      year: 2007
+      link: https://doi.org/10.1016/j.neunet.2007.04.022
+J. Artif. Intell. Res.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Detecting Generative Model Inversion Attacks for Protecting Intellectual
+        Property of Deep Neural Networks.
+      venue: J. Artif. Intell. Res.
+      year: 2025
+      link: https://doi.org/10.1613/jair.1.19468
+IEEE Trans. Image Process.:
+  '2003':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A local spectral inversion of a linearized TV model for denoising and
+        deblurring.
+      venue: IEEE Trans. Image Process.
+      year: 2003
+      link: https://doi.org/10.1109/TIP.2003.812760
+  '1992':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A system model and inversion for synthetic aperture radar imaging.
+      venue: IEEE Trans. Image Process.
+      year: 1992
+      link: https://doi.org/10.1109/83.128031
+IEEE Trans. Neural Networks:
+  '2005':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Design and analysis of a general recurrent neural network model for time-varying
+        matrix inversion.
+      venue: IEEE Trans. Neural Networks
+      year: 2005
+      link: https://doi.org/10.1109/TNN.2005.857946
+IEEE Trans. Intell. Transp. Syst.:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Optimal Trajectory Planning and Robust Tracking Using Vehicle Model Inversion.
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2022
+      link: https://doi.org/10.1109/TITS.2020.3045917
+Expert Syst. Appl.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Uni-3DAD: Gan-inversion aided universal 3D anomaly detection on model-free
+        products.'
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2025.126665
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Fixed-time convergence ZNN model for solving rectangular dynamic full-rank
+        matrices inversion.
+      venue: Expert Syst. Appl.
+      year: 2024
+      link: https://doi.org/10.1016/j.eswa.2024.123992
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Ridders algorithm in approximate inversion of fuzzy model with parametrized
+        consequences.
+      venue: Expert Syst. Appl.
+      year: 2016
+      link: https://doi.org/10.1016/j.eswa.2015.12.042
+  '2014':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Inversion mechanism with functional extrema model for identification
+        incommensurate and hyper fractional chaos via differential evolution.
+      venue: Expert Syst. Appl.
+      year: 2014
+      link: https://doi.org/10.1016/j.eswa.2013.08.087
+IEEE ACM Trans. Audio Speech Lang. Process.:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Acoustic-to-Articulatory Mapping With Joint Optimization of Deep Speech
+        Enhancement and Articulatory Inversion Models.
+      venue: IEEE ACM Trans. Audio Speech Lang. Process.
+      year: 2022
+      link: https://doi.org/10.1109/TASLP.2021.3133218
+IEEE Trans. Speech Audio Process.:
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model-Based Inversion of Dynamic Range Compression.
+      venue: IEEE Trans. Speech Audio Process.
+      year: 2013
+      link: https://doi.org/10.1109/TASL.2013.2253099
+Neural Comput. Appl.:
+  '2012':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A novel neural-based model for acoustic-articulatory inversion mapping.
+      venue: Neural Comput. Appl.
+      year: 2012
+      link: https://doi.org/10.1007/s00521-011-0563-0

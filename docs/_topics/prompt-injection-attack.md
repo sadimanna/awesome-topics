@@ -90,6 +90,13 @@ permalink: /prompt-injection-attack/
 
 </details>
 
+<details markdown="1">
+<summary>ICDM</summary>
+
+  - [2024](#icdm-2024)
+
+</details>
+
 </details>
 
 
@@ -568,6 +575,38 @@ permalink: /prompt-injection-attack/
 <td>ICSE</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/ICSE55347.2025.00007">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## ICDM <a id="venue-icdm"></a>
+
+<details>
+
+<summary>Expand ICDM</summary>
+
+<a id="icdm-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Goal-Guided Generative Prompt Injection Attack on Large Language Models.</td>
+<td>ICDM</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/ICDM59182.2024.00119">Link</a></td>
 </tr>
 </tbody></table>
 

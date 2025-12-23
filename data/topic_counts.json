@@ -1,9 +1,14 @@
 {
   "Federated M L": 2271,
-  "Federated Unlearning": 25,
-  "Inversion Attacks": 126,
-  "L L M Unlearning": 53,
-  "Machine Unlearning": 107,
-  "Prompt Injection Attack": 20,
+  "Federated Unlearning": 29,
+  "Inversion Attacks": 189,
+  "L L M Unlearning": 79,
+  "Machine Unlearning": 1657,
+  "Model Inference Attack": 1074,
+  "Model Injection Attack": 55,
+  "Model Poisoning Attack": 79,
+  "Privacy Backdoor Attack": 8,
+  "Prompt Corruption": 1,
+  "Prompt Injection Attack": 21,
   "Prompt Poisoning Attack": 1
 }

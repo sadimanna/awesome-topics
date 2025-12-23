@@ -1,0 +1,1103 @@
+section:
+- title: NeurIPS
+- title: ICML
+- title: ICLR
+- title: NDSS
+- title: CVPR
+- title: IJCAI
+- title: AAAI
+- title: AISTATS
+- title: KDD
+- title: CCS
+- title: ACL
+- title: NAACL-HLT
+- title: EMNLP
+- title: SIGIR
+- title: ICDE
+- title: WWW
+- title: SP
+- title: USENIX Security Symposium
+- title: ACM Multimedia
+- title: IEEE Trans. Neural Networks Learn. Syst.
+- title: IEEE Trans. Artif. Intell.
+- title: IEEE Trans. Knowl. Data Eng.
+- title: IEEE Trans. Emerg. Top. Comput.
+- title: IEEE Trans. Inf. Forensics Secur.
+- title: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+- title: IEEE Trans. Computers
+- title: Nat. Mac. Intell.
+- title: Inf. Sci.
+- title: Expert Syst. Appl.
+- title: Neural Networks
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'From Trojan Horses to Castle Walls: Unveiling Bilateral Data Poisoning
+        Effects in Diffusion Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/95dcc1f6463491d37a8918c1d38380a7-Abstract-Conference.html
+    - title: 'Privacy Backdoors: Enhancing Membership Inference through Poisoning
+        Pre-trained Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/97d008f7873b8dd55cb6dd343fc4386f-Abstract-Conference.html
+    - title: 'Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language
+        Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/6a2e30664b9647f97d7b9275358d083c-Abstract-Conference.html
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'RECESS Vaccine for Federated Learning: Proactive Defense Against Model
+        Poisoning Attacks.'
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/1b80fe066fdbceb3a2960117bac33917-Abstract-Conference.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated
+        Learning from a Client Perspective.'
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/692baebec3bb4b53d7ebc3b9fabac31b-Abstract.html
+ICML:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'PoisonedEye: Knowledge Poisoning Attack on Retrieval-Augmented Generation
+        based Large Vision-Language Models.'
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=6SIymOqJlc
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FedREDefense: Defending against Model Poisoning Attacks for Federated
+        Learning using Model Update Reconstruction Error.'
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=Wjq2bS7fTK
+    - title: 'The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning
+        to Induce Copyright BreachesWithout Adjusting Finetuning Pipeline.'
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=ZvFLbEPv6x
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Exploring Model Dynamics for Accumulative Poisoning Discovery.
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/zhu23d.html
+    - title: Exploring the Limits of Model-Targeted Indiscriminate Data Poisoning
+        Attacks.
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/lu23e.html
+    - title: 'LeadFL: Client Self-Defense against Model Poisoning in Federated Learning.'
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/zhu23j.html
+    - title: Poisoning Language Models During Instruction Tuning.
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/wan23b.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model-Targeted Poisoning Attacks with Provable Convergence.
+      venue: ICML
+      year: 2021
+      link: http://proceedings.mlr.press/v139/suya21a.html
+ICLR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Concept-ROT: Poisoning Concepts in Large Language Models with Model
+        Editing.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=RzUvkI3p1D
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks.'
+      venue: ICLR
+      year: 2020
+      link: https://openreview.net/forum?id=SyevYxHtDB
+NDSS:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses
+        for Federated Learning.'
+      venue: NDSS
+      year: 2021
+      link: https://www.ndss-symposium.org/ndss-paper/manipulating-the-byzantine-optimizing-model-poisoning-attacks-and-defenses-for-federated-learning/
+CVPR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Xie_Model_Poisoning_Attacks_to_Federated_Learning_via_Multi-Round_Consistency_CVPR_2025_paper.html
+    - title: 'Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image
+        Diffusion Models.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Jang_Silent_Branding_Attack_Trigger-free_Data_Poisoning_Attack_on_Text-to-Image_Diffusion_CVPR_2025_paper.html
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Semantic Shield: Defending Vision-Language Models Against Backdooring
+        and Poisoning via Fine-Grained Knowledge Alignment.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02344
+IJCAI:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'EAB-FL: Exacerbating Algorithmic Bias through Model Poisoning Attacks
+        in Federated Learning.'
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/51
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning
+        Attacks on Federated Learning.'
+      venue: IJCAI
+      year: 2023
+      link: https://doi.org/10.24963/ijcai.2023/508
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Poisoning Deep Learning Based Recommender Model in Federated Learning
+        Scenarios.
+      venue: IJCAI
+      year: 2022
+      link: https://doi.org/10.24963/ijcai.2022/306
+AAAI:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DeFL: Defending against Model Poisoning Attacks in Federated Learning
+        via Critical Learning Periods Awareness.'
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i9.26271
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Data Poisoning Attacks against Autoregressive Models.
+      venue: AAAI
+      year: 2016
+      link: https://doi.org/10.1609/aaai.v30i1.10237
+AISTATS:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SparseFed: Mitigating Model Poisoning Attacks in Federated Learning
+        with Sparsification.'
+      venue: AISTATS
+      year: 2022
+      link: https://proceedings.mlr.press/v151/panda22a.html
+KDD:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based
+        Aggregation.'
+      venue: KDD
+      year: 2024
+      link: https://doi.org/10.1145/3637528.3671906
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FLDetector: Defending Federated Learning Against Model Poisoning Attacks
+        via Detecting Malicious Clients.'
+      venue: KDD
+      year: 2022
+      link: https://doi.org/10.1145/3534678.3539231
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Data Poisoning Attacks Against Outcome Interpretations of Predictive
+        Models.
+      venue: KDD
+      year: 2021
+      link: https://doi.org/10.1145/3447548.3467405
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Predictive Modeling for Public Health: Preventing Childhood Lead Poisoning.'
+      venue: KDD
+      year: 2015
+      link: https://doi.org/10.1145/2783258.2788629
+CCS:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: On the Feasibility of Poisoning Text-to-Image AI Models via Adversarial
+        Mislabeling.
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3744845
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets.'
+      venue: CCS
+      year: 2022
+      link: https://doi.org/10.1145/3548606.3560554
+ACL:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with
+        Human Feedback in Large Language Models.'
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.acl-long.140
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Weight Poisoning Attacks on Pretrained Models.
+      venue: ACL
+      year: 2020
+      link: https://doi.org/10.18653/v1/2020.acl-main.249
+NAACL-HLT:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Concealed Data Poisoning Attacks on NLP Models.
+      venue: NAACL-HLT
+      year: 2021
+      link: https://doi.org/10.18653/v1/2021.naacl-main.13
+EMNLP:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning.
+      venue: EMNLP
+      year: 2021
+      link: https://doi.org/10.18653/v1/2021.emnlp-main.241
+SIGIR:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Revisit Targeted Model Poisoning on Federated Recommendation: Optimize
+        via Multi-objective Transport.'
+      venue: SIGIR
+      year: 2024
+      link: https://doi.org/10.1145/3626772.3657764
+ICDE:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FedRecAttack: Model Poisoning Attack to Federated Recommendation.'
+      venue: ICDE
+      year: 2022
+      link: https://doi.org/10.1109/ICDE53745.2022.00243
+WWW:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding
+        Indistinguishability.'
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3696410.3714624
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MaSS: Model-agnostic, Semantic and Stealthy Data Poisoning Attack on
+        Knowledge Graph Embedding.'
+      venue: WWW
+      year: 2023
+      link: https://doi.org/10.1145/3543507.3583203
+SP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Preference Poisoning Attacks on Reward Model Learning.
+      venue: SP
+      year: 2025
+      link: https://doi.org/10.1109/SP61157.2025.00094
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Nightshade: Prompt-Specific Poisoning Attacks on Text-to-Image Generative
+        Models.'
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00207
+    - title: Test-Time Poisoning Attacks Against Test-Time Adaptation Models.
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00072
+    - title: 'TrojanPuzzle: Covertly Poisoning Code-Suggestion Models.'
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00140
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Benchmarking the Effect of Poisoning Defenses on the Security and Bias
+        of Deep Learning Models.
+      venue: SP
+      year: 2023
+      link: https://doi.org/10.1109/SPW59333.2023.00010
+USENIX Security Symposium:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ACE: A Model Poisoning Attack on Contribution Evaluation Methods in
+        Federated Learning.'
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/xu-zhangchen
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Local Model Poisoning Attacks to Byzantine-Robust Federated Learning.
+      venue: USENIX Security Symposium
+      year: 2020
+      link: https://www.usenix.org/conference/usenixsecurity20/presentation/fang
+ACM Multimedia:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal
+        Data Poisoning.
+      venue: ACM Multimedia
+      year: 2023
+      link: https://doi.org/10.1145/3581783.3612108
+IEEE Trans. Neural Networks Learn. Syst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Defending Against Neural Network Model Inversion Attacks via Data Poisoning.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2025.3554656
+    - title: Leverage Variational Graph Representation for Model Poisoning on Federated
+        Learning.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2024.3394252
+    - title: Secure and Efficient Federated Learning Against Model Poisoning Attacks
+        in Horizontal and Vertical Data Partitioning.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2024.3486028
+IEEE Trans. Artif. Intell.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Attacking-Distance-Aware Attack: Semi-targeted Model Poisoning on Federated
+        Learning.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2023.3280155
+IEEE Trans. Knowl. Data Eng.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'HidAttack: An Effective and Undetectable Model Poisoning Attack to Federated
+        Recommenders.'
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2025
+      link: https://doi.org/10.1109/TKDE.2024.3522763
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'BIC-Based Mixture Model Defense Against Data Poisoning Attacks on Classifiers:
+        A Comprehensive Study.'
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2024
+      link: https://doi.org/10.1109/tkde.2024.3365548
+IEEE Trans. Emerg. Top. Comput.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Blockchain-Based Federated Learning With SMPC Model Verification Against
+        Poisoning Attack for Healthcare Systems.
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2024
+      link: https://doi.org/10.1109/TETC.2023.3268186
+IEEE Trans. Inf. Forensics Secur.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DamPa: Dynamic Adaptive Model Poisoning Attack in Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3631449
+    - title: Enhanced Model Poisoning Attack and Multi-Strategy Defense in Federated
+        Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3555193
+    - title: 'FLGuardian: Defending Against Model Poisoning Attacks via Fine-Grained
+        Detection in Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3570119
+    - title: 'FedGhost: Data-Free Model Poisoning Enhancement in Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3539087
+    - title: Maximizing Uncertainty for Federated Learning via Bayesian Optimization-Based
+        Model Poisoning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3531143
+    - title: 'PoisonPatch: Natural Adversarial Patches via Diffusion Models and Federated
+        Learning Poisoning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3620155
+    - title: Securing Federated Learning Against Extreme Model Poisoning Attacks via
+        Multidimensional Time Series Anomaly Detection on Local Updates.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3608671
+    - title: 'The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks
+        Through Model Poisoning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3607271
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Robust Privacy-Preserving Federated Learning Model Against Model Poisoning
+        Attacks.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3420126
+    - title: 'Data-Agnostic Model Poisoning Against Federated Learning: A Graph Autoencoder
+        Approach.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3362147
+    - title: 'MODEL: A Model Poisoning Defense Framework for Federated Learning via
+        Truth Discovery.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3461449
+    - title: Secure Model Aggregation Against Poisoning Attacks for Cross-Silo Federated
+        Learning With Robustness and Fairness.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3416042
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Manifold Consistency Interpolation Method of Poisoning Attacks Against
+        Semi-Supervised Model.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2023.3268882
+    - title: 'Categorical Inference Poisoning: Verifiable Defense Against Black-Box
+        DNN Model Stealing Without Constraining Surrogate Data and Query Times.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2023.3244107
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ShieldFL: Mitigating Model Poisoning Attacks in Privacy-Preserving Federated
+        Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2022
+      link: https://doi.org/10.1109/TIFS.2022.3169918
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'With Great Dispersion Comes Greater Resilience: Efficient Poisoning
+        Attacks and Defenses for Linear Regression Models.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2021
+      link: https://doi.org/10.1109/TIFS.2021.3087332
+IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Enhancing Reliability and Security: A Configurable Poisoning PUF Against
+        Modeling Attacks.'
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 2022
+      link: https://doi.org/10.1109/TCAD.2022.3197529
+IEEE Trans. Computers:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'BaDFL: Mitigating Model Poisoning in Decentralized Federated Learning.'
+      venue: IEEE Trans. Computers
+      year: 2025
+      link: https://doi.org/10.1109/TC.2025.3603683
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model Poisoning Attack on Neural Network Without Reference Data.
+      venue: IEEE Trans. Computers
+      year: 2023
+      link: https://doi.org/10.1109/TC.2023.3280133
+Nat. Mac. Intell.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Poisoning medical knowledge using large language models.
+      venue: Nat. Mac. Intell.
+      year: 2024
+      link: https://doi.org/10.1038/s42256-024-00899-3
+Inf. Sci.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'TPFL: Privacy-preserving personalized federated learning mitigates model
+        poisoning attacks.'
+      venue: Inf. Sci.
+      year: 2025
+      link: https://doi.org/10.1016/j.ins.2025.121901
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Compromise privacy in large-batch Federated Learning via model poisoning.
+      venue: Inf. Sci.
+      year: 2023
+      link: https://doi.org/10.1016/j.ins.2023.119421
+    - title: Model poisoning attack in differential privacy-based federated learning.
+      venue: Inf. Sci.
+      year: 2023
+      link: https://doi.org/10.1016/j.ins.2023.02.025
+Expert Syst. Appl.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Bandit-based data poisoning attack against federated learning for autonomous
+        driving models.
+      venue: Expert Syst. Appl.
+      year: 2023
+      link: https://doi.org/10.1016/j.eswa.2023.120295
+Neural Networks:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Learning a robust foundation model against clean-label data poisoning
+        attacks at downstream tasks.
+      venue: Neural Networks
+      year: 2024
+      link: https://doi.org/10.1016/j.neunet.2023.10.034

@@ -10,6 +10,7 @@ section:
 - title: NAACL-HLT
 - title: EMNLP
 - title: ICSE
+- title: ICDM
 NeurIPS:
   '2024':
     header:
@@ -292,3 +293,20 @@ ICSE:
       venue: ICSE
       year: 2025
       link: https://doi.org/10.1109/ICSE55347.2025.00007
+ICDM:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Goal-Guided Generative Prompt Injection Attack on Large Language Models.
+      venue: ICDM
+      year: 2024
+      link: https://doi.org/10.1109/ICDM59182.2024.00119

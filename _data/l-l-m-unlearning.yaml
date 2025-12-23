@@ -8,6 +8,11 @@ section:
 - title: AAAI
 - title: USENIX Security Symposium
 - title: COLING
+- title: CIKM
+- title: Expert Syst. Appl.
+- title: Neural Networks
+- title: IEEE Trans. Knowl. Data Eng.
+- title: Nat. Mac. Intell.
 NeurIPS:
   '2024':
     header:
@@ -21,6 +26,14 @@ NeurIPS:
       year: 4
       link: 60
     body:
+    - title: Large Language Model Unlearning via Embedding-Corrupted Prompts.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/d6359156e0e30b1caa116a4306b12688-Abstract-Conference.html
+    - title: Large Language Model Unlearning.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html
     - title: 'RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language
         Models.'
       venue: NeurIPS
@@ -89,6 +102,11 @@ ICML:
       venue: ICML
       year: 2025
       link: https://openreview.net/forum?id=zZjLv6F0Ks
+    - title: Underestimated Privacy Risks for Minority Populations in Large Language
+        Model Unlearning.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=NsU6MKwbis
   '2024':
     header:
       title: Title
@@ -101,6 +119,10 @@ ICML:
       year: 4
       link: 60
     body:
+    - title: 'In-Context Unlearning: Language Models as Few-Shot Unlearners.'
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=GKcwle8XC9
     - title: 'To Each (Textual Sequence) Its Own: Improving Memorized-Data Unlearning
         in Large Language Models.'
       venue: ICML
@@ -128,6 +150,11 @@ ICLR:
       venue: ICLR
       year: 2025
       link: https://openreview.net/forum?id=51WraMid8K
+    - title: Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity
+        Dataset.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=0y3hGn1wOk
     - title: Catastrophic Failure of LLM Unlearning via Quantization.
       venue: ICLR
       year: 2025
@@ -136,6 +163,14 @@ ICLR:
       venue: ICLR
       year: 2025
       link: https://openreview.net/forum?id=6ESRicalFE
+    - title: 'MUSE: Machine Unlearning Six-Way Evaluation for Language Models.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=TArmA033BU
+    - title: On Large Language Model Continual Unlearning.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=Essg9kb4yx
     - title: 'Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go
         Beyond.'
       venue: ICLR
@@ -193,6 +228,11 @@ ACL:
       venue: ACL
       year: 2025
       link: https://aclanthology.org/2025.findings-acl.949/
+    - title: 'Answer When Needed, Forget When Not: Language Models Pretend to Forget
+        via In-Context Knowledge Unlearning.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.1276/
     - title: 'Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning
         with Cognitive Diagnosis.'
       venue: ACL
@@ -227,6 +267,11 @@ ACL:
       venue: ACL
       year: 2025
       link: https://aclanthology.org/2025.acl-long.1371/
+    - title: 'REVS: Unlearning Sensitive Information in Language Models via Rank Editing
+        in the Vocabulary Space.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.763/
     - title: 'ReLearn: Unlearning via Learning for Large Language Models.'
       venue: ACL
       year: 2025
@@ -282,10 +327,39 @@ ACL:
       venue: ACL
       year: 2024
       link: https://doi.org/10.18653/v1/2024.acl-long.457
+    - title: Protecting Privacy Through Approximating Optimal Parameters for Sequence
+        Unlearning in Language Models.
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-acl.936
     - title: Towards Safer Large Language Models through Machine Unlearning.
       venue: ACL
       year: 2024
       link: https://doi.org/10.18653/v1/2024.findings-acl.107
+    - title: Unlearning Traces the Influential Training Data of Language Models.
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.acl-long.343
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Knowledge Unlearning for Mitigating Privacy Risks in Language Models.
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.acl-long.805
+    - title: Unlearning Bias in Language Models by Partitioning Gradients.
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.findings-acl.375
 EMNLP:
   '2024':
     header:
@@ -299,6 +373,15 @@ EMNLP:
       year: 4
       link: 60
     body:
+    - title: Can Machine Unlearning Reduce Social Bias in Language Models?
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-industry.71
+    - title: Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language
+        Models.
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-emnlp.630
     - title: Dissecting Fine-Tuning Unlearning in Large Language Models.
       venue: EMNLP
       year: 2024
@@ -308,6 +391,11 @@ EMNLP:
       venue: EMNLP
       year: 2024
       link: https://doi.org/10.18653/v1/2024.emnlp-main.67
+    - title: Fine-grained Pluggable Gradient Ascent for Knowledge Unlearning in Language
+        Models.
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.566
     - title: 'SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning.'
       venue: EMNLP
       year: 2024
@@ -338,6 +426,11 @@ EMNLP:
       year: 4
       link: 60
     body:
+    - title: 'Preserving Privacy Through Dememorization: An Unlearning Technique For
+        Mitigating Memorization Risks In Language Models.'
+      venue: EMNLP
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.emnlp-main.265
     - title: 'Unlearn What You Want to Forget: Efficient Unlearning for LLMs.'
       venue: EMNLP
       year: 2023
@@ -355,6 +448,26 @@ AAAI:
       year: 4
       link: 60
     body:
+    - title: 'Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained
+        Language Models.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i23.34605
+    - title: 'Forget to Flourish: Leveraging Machine-Unlearning on Pretrained Language
+        Models for Privacy Leakage.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i19.34218
+    - title: On Effects of Steering Latent Representation for Large Language Model
+        Unlearning.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i22.34544
+    - title: 'Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation
+        in Language Models.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i1.32068
     - title: 'Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing
         and Improving Unlearning Robustness in Large Language Models.'
       venue: AAAI
@@ -401,3 +514,90 @@ COLING:
       venue: COLING
       year: 2025
       link: https://aclanthology.org/2025.coling-main.358/
+CIKM:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Pseudo-Inverse Prefix Tuning for Effective Unlearning in LLMs.
+      venue: CIKM
+      year: 2025
+      link: https://doi.org/10.1145/3746252.3760939
+Expert Syst. Appl.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Law LLM unlearning via interfere prompt, review output and update parameter:
+        new challenges, method and baseline.'
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2025.128612
+Neural Networks:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DP2Unlearning: An efficient and guaranteed unlearning framework for
+        LLMs.'
+      venue: Neural Networks
+      year: 2025
+      link: https://doi.org/10.1016/j.neunet.2025.107879
+IEEE Trans. Knowl. Data Eng.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Exact and Efficient Unlearning for Large Language Model-Based Recommendation.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2025
+      link: https://doi.org/10.1109/TKDE.2025.3594687
+Nat. Mac. Intell.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Rethinking machine unlearning for large language models.
+      venue: Nat. Mac. Intell.
+      year: 2025
+      link: https://doi.org/10.1038/s42256-025-00985-0

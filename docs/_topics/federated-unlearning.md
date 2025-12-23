@@ -120,6 +120,34 @@ permalink: /federated-unlearning/
 
 </details>
 
+<details markdown="1">
+<summary>IEEE Trans. Knowl. Data Eng.</summary>
+
+  - [2024](#ieee-trans-knowl-data-eng-2024)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Big Data</summary>
+
+  - [2025](#ieee-trans-big-data-2025)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Inf. Forensics Secur.</summary>
+
+  - [2023](#ieee-trans-inf-forensics-secur-2023)
+
+</details>
+
+<details markdown="1">
+<summary>Knowl. Based Syst.</summary>
+
+  - [2024](#knowl-based-syst-2024)
+
+</details>
+
 </details>
 
 
@@ -768,6 +796,134 @@ permalink: /federated-unlearning/
 <td>WACV</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/WACV61041.2025.00773">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Knowl. Data Eng. <a id="venue-ieee trans. knowl. data eng."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Knowl. Data Eng.</summary>
+
+<a id="ieee trans. knowl. data eng.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>FRAMU: Attention-Based Machine Unlearning Using Federated Reinforcement Learning.</td>
+<td>IEEE Trans. Knowl. Data Eng.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TKDE.2024.3382726">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Big Data <a id="venue-ieee trans. big data"></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Big Data</summary>
+
+<a id="ieee trans. big data-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Update Selective Parameters: Federated Machine Unlearning Based on Model Explanation.</td>
+<td>IEEE Trans. Big Data</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TBDATA.2024.3409947">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Inf. Forensics Secur. <a id="venue-ieee trans. inf. forensics secur."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Inf. Forensics Secur.</summary>
+
+<a id="ieee trans. inf. forensics secur.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>FedRecovery: Differentially Private Machine Unlearning for Federated Learning Frameworks.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TIFS.2023.3297905">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Knowl. Based Syst. <a id="venue-knowl. based syst."></a>
+
+<details>
+
+<summary>Expand Knowl. Based Syst.</summary>
+
+<a id="knowl. based syst.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Defending against gradient inversion attacks in federated learning via statistical machine unlearning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2024.111983">Link</a></td>
 </tr>
 </tbody></table>
 

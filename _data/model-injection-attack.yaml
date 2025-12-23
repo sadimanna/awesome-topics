@@ -1,0 +1,798 @@
+section:
+- title: NeurIPS
+- title: ICML
+- title: CVPR
+- title: AAAI
+- title: AISTATS
+- title: KDD
+- title: CCS
+- title: ACL
+- title: NAACL-HLT
+- title: EMNLP
+- title: COLING
+- title: SIGIR
+- title: ICDM
+- title: WACV
+- title: WWW
+- title: SP
+- title: USENIX Security Symposium
+- title: ICSE
+- title: CIKM
+- title: IEEE Trans. Inf. Forensics Secur.
+- title: ACM Trans. Priv. Secur.
+- title: Proc. VLDB Endow.
+- title: IEEE Trans. Parallel Distributed Syst.
+- title: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+- title: Expert Syst. Appl.
+- title: Neural Networks
+- title: Neurocomputing
+- title: Neural Comput. Appl.
+- title: J. Artif. Intell. Res.
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Are Your Models Still Fair? Fairness Attacks on Graph Neural Networks
+        via Node Injections.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/83b7da3ed13f06c13ce82235c8eedf35-Abstract-Conference.html
+    - title: 'FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated
+        Knowledge Injection.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/0235cbb8cd6425d0b55daefce388fc0b-Abstract-Datasets_and_Benchmarks_Track.html
+    - title: 'Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection
+        in Language Models.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/d85030334fadbd55043c911076caf0ae-Abstract-Conference.html
+ICML:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MH-pFLID: Model Heterogeneous personalized Federated Learning via Injection
+        and Distillation for Medical Data Analysis.'
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=Jvh8HM9YEJ
+CVPR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal
+        Large Language Models.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Hybrid-Level_Instruction_Injection_for_Video_Token_Compression_in_Multi-modal_Large_CVPR_2025_paper.html
+    - title: Implicit Bias Injection Attacks against Text-to-Image Diffusion Models.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Implicit_Bias_Injection_Attacks_against_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Style Injection in Diffusion: A Training-Free Approach for Adapting
+        Large-Scale Diffusion Models for Style Transfer.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00840
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Expanding Large Pre-trained Unimodal Models with Multimodal Information
+        Injection for Image-Text Multimodal Classification.
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.01505
+AAAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AIA: Autoregression-Based Injection Attacks Against Text2SQL Models.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i17.34009
+    - title: Assessing Vulnerabilities in State-of-the-Art Large Language Models Through
+        Hex Injection (Student Abstract).
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i28.35257
+    - title: 'J&amp;H: Evaluating the Robustness of Large Language Models Under Knowledge-Injection
+        Attacks in Legal Domain.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i27.35029
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with
+        Semi-supervised Learning and Explicit Policy Injection.'
+      venue: AAAI
+      year: 2022
+      link: https://doi.org/10.1609/aaai.v36i10.21320
+  '2006':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model-Based Collaborative Filtering as a Defense against Profile Injection
+        Attacks.
+      venue: AAAI
+      year: 2006
+      link: http://www.aaai.org/Library/AAAI/2006/aaai06-218.php
+AISTATS:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Explicit Regularization in Overparametrized Models via Noise Injection.
+      venue: AISTATS
+      year: 2023
+      link: https://proceedings.mlr.press/v206/orvieto23a.html
+KDD:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Benchmarking and Defending against Indirect Prompt Injection Attacks
+        on Large Language Models.
+      venue: KDD
+      year: 2025
+      link: https://doi.org/10.1145/3690624.3709179
+    - title: Generalizable Graph Prompt Learning Framework with Model-level Prompt
+        Injection and Two-Stage Prompt Tuning.
+      venue: KDD
+      year: 2025
+      link: https://doi.org/10.1145/3711896.3736976
+CCS:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Cascading Adversarial Bias from Injection to Distillation in Language
+        Models.
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3765122
+ACL:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SQL Injection Jailbreak: A Structural Disaster of Large Language Models.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.358/
+    - title: Structure-aware Domain Knowledge Injection for Large Language Models.
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.1425/
+    - title: Task Knowledge Injection via Interpolations and Reinstatement for Large
+        Language Model Generalization.
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.780/
+    - title: 'Tracr-Injection: Distilling Algorithms into Pre-trained Language Models.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.146/
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated
+        Large Language Model Agents.'
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-acl.624
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'KILM: Knowledge Injection into Encoder-Decoder Language Models.'
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.acl-long.275
+    - title: Plug-and-Play Knowledge Injection for Pre-trained Language Models.
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.acl-long.594
+    - title: Retrieval-free Knowledge Injection through Multi-Document Traversal for
+        Dialogue Models.
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.acl-long.364
+NAACL-HLT:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Backdooring Instruction-Tuned Large Language Models with Virtual Prompt
+        Injection.
+      venue: NAACL-HLT
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.naacl-long.337
+    - title: Stealthy and Persistent Unalignment on Large Language Models via Backdoor
+        Injections.
+      venue: NAACL-HLT
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.naacl-long.276
+EMNLP:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Evaluating the Instruction-Following Robustness of Large Language Models
+        to Prompt Injection.
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.33
+    - title: 'FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation
+        Models.'
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.464
+    - title: 'Synthetic Knowledge Ingestion: Towards Knowledge Refinement and Injection
+        for Enhancing Large Language Models.'
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.1196
+    - title: Training-free Deep Concept Injection Enables Language Models for Video
+        Question Answering.
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.1249
+COLING:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Attribute Injection for Pretrained Language Models: A New Benchmark
+        and an Efficient Method.'
+      venue: COLING
+      year: 2022
+      link: https://aclanthology.org/2022.coling-1.88
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An Enhanced Knowledge Injection Model for Commonsense Generation.
+      venue: COLING
+      year: 2020
+      link: https://doi.org/10.18653/v1/2020.coling-main.182
+SIGIR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Enhancing Knowledge Injection in Large Language Models for Efficient
+        and Trustworthy Responses.
+      venue: SIGIR
+      year: 2025
+      link: https://doi.org/10.1145/3726302.3730130
+ICDM:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Goal-Guided Generative Prompt Injection Attack on Large Language Models.
+      venue: ICDM
+      year: 2024
+      link: https://doi.org/10.1109/ICDM59182.2024.00119
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender
+        Systems.
+      venue: ICDM
+      year: 2023
+      link: https://doi.org/10.1109/ICDM58522.2023.00195
+WACV:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Training-free Content Injection using h-space in Diffusion Models.
+      venue: WACV
+      year: 2024
+      link: https://doi.org/10.1109/WACV57701.2024.00507
+WWW:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Message Injection Attack on Rumor Detection under the Black-Box Evasion
+        Setting Using Large Language Model.
+      venue: WWW
+      year: 2024
+      link: https://doi.org/10.1145/3589334.3648139
+SP:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Hakuin: Optimizing Blind SQL Injection with Probabilistic Language Models.'
+      venue: SP
+      year: 2023
+      link: https://doi.org/10.1109/SPW59333.2023.00039
+USENIX Security Symposium:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with
+        Runtime Code Fault Injection.
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng
+  '2008':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Automatic Generation of XSS and SQL Injection Attacks with Goal-Directed
+        Model Checking.
+      venue: USENIX Security Symposium
+      year: 2008
+      link: http://www.usenix.org/events/sec08/tech/full_papers/martin/martin.pdf
+ICSE:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DeepPayload: Black-box Backdoor Attack on Deep Learning Models through
+        Neural Payload Injection.'
+      venue: ICSE
+      year: 2021
+      link: https://doi.org/10.1109/ICSE43902.2021.00035
+CIKM:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'XploitSQL: Advancing Adversarial SQL Injection Attack Generation with
+        Language Models and Reinforcement Learning.'
+      venue: CIKM
+      year: 2024
+      link: https://doi.org/10.1145/3627673.3680102
+IEEE Trans. Inf. Forensics Secur.:
+  '2017':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Modeling and Mitigating Impact of False Data Injection Attacks on Automatic
+        Generation Control.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2017
+      link: https://doi.org/10.1109/TIFS.2017.2676721
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Against Double Fault Attacks: Injection Effort Model, Space and Time
+        Randomization Based Countermeasures for Reconfigurable Array Architecture.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2016
+      link: https://doi.org/10.1109/TIFS.2016.2518130
+ACM Trans. Priv. Secur.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Behavior Nets: Context-Aware Behavior Modeling for Code Injection-Based
+        Windows Malware.'
+      venue: ACM Trans. Priv. Secur.
+      year: 2025
+      link: https://doi.org/10.1145/3729228
+Proc. VLDB Endow.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'From Zero to Hero: Detecting Leaked Data through Synthetic Data Injection
+        and Model Querying.'
+      venue: Proc. VLDB Endow.
+      year: 2024
+      link: https://www.vldb.org/pvldb/vol17/p1898-huang.pdf
+IEEE Trans. Parallel Distributed Syst.:
+  '2014':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'On False Data-Injection Attacks against Power System State Estimation:
+        Modeling and Countermeasures.'
+      venue: IEEE Trans. Parallel Distributed Syst.
+      year: 2014
+      link: https://doi.org/10.1109/TPDS.2013.92
+IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Modeling and Simulating Electromagnetic Fault Injection.
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 2021
+      link: https://doi.org/10.1109/TCAD.2020.3003287
+  '1999':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Modeling digital substrate noise injection in mixed-signal IC&apos;s.
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 1999
+      link: https://doi.org/10.1109/43.748160
+Expert Syst. Appl.:
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A principal component analysis model-based predictive controller for
+        controlling part warpage in plastic injection molding.
+      venue: Expert Syst. Appl.
+      year: 2015
+      link: https://doi.org/10.1016/j.eswa.2014.11.030
+Neural Networks:
+  '2010':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Fitting a stochastic spiking model to neuronal current injection data.
+      venue: Neural Networks
+      year: 2010
+      link: https://doi.org/10.1016/j.neunet.2010.04.004
+Neurocomputing:
+  '2008':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Enhanced feature selection models using gradient-based and point injection
+        techniques.
+      venue: Neurocomputing
+      year: 2008
+      link: https://doi.org/10.1016/j.neucom.2008.04.023
+Neural Comput. Appl.:
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Modeling and simulation of injection control system on a four-stroke
+        type diesel engine development platform using artificial neural networks.
+      venue: Neural Comput. Appl.
+      year: 2013
+      link: https://doi.org/10.1007/s00521-012-1054-7
+J. Artif. Intell. Res.:
+  '2004':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Dual Modelling of Permutation and Injection Problems.
+      venue: J. Artif. Intell. Res.
+      year: 2004
+      link: https://doi.org/10.1613/jair.1351
