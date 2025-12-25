@@ -4,34 +4,34 @@ text { font-family: Times New Roman, sans-serif; }
 </style>
 <text x="10" y="46" font-size="14">Federated M L</text>
 <rect x="180" y="30" width="400" height="24" fill="#4c72b0" rx="4" />
-<text x="588" y="46" font-size="14">2271</text>
-<text x="10" y="80" font-size="14">Machine Unlearning</text>
-<rect x="180" y="64" width="291" height="24" fill="#4c72b0" rx="4" />
-<text x="479" y="80" font-size="14">1657</text>
-<text x="10" y="114" font-size="14">Model Inference Attack</text>
-<rect x="180" y="98" width="189" height="24" fill="#4c72b0" rx="4" />
-<text x="377" y="114" font-size="14">1074</text>
-<text x="10" y="148" font-size="14">Inversion Attacks</text>
-<rect x="180" y="132" width="33" height="24" fill="#4c72b0" rx="4" />
-<text x="221" y="148" font-size="14">189</text>
+<text x="588" y="46" font-size="14">3798</text>
+<text x="10" y="80" font-size="14">Model Inference Attack</text>
+<rect x="180" y="64" width="113" height="24" fill="#4c72b0" rx="4" />
+<text x="301" y="80" font-size="14">1074</text>
+<text x="10" y="114" font-size="14">Inversion Attacks</text>
+<rect x="180" y="98" width="19" height="24" fill="#4c72b0" rx="4" />
+<text x="207" y="114" font-size="14">189</text>
+<text x="10" y="148" font-size="14">Machine Unlearning</text>
+<rect x="180" y="132" width="14" height="24" fill="#4c72b0" rx="4" />
+<text x="202" y="148" font-size="14">134</text>
 <text x="10" y="182" font-size="14">L L M Unlearning</text>
-<rect x="180" y="166" width="13" height="24" fill="#4c72b0" rx="4" />
-<text x="201" y="182" font-size="14">79</text>
+<rect x="180" y="166" width="8" height="24" fill="#4c72b0" rx="4" />
+<text x="196" y="182" font-size="14">79</text>
 <text x="10" y="216" font-size="14">Model Poisoning Attack</text>
-<rect x="180" y="200" width="13" height="24" fill="#4c72b0" rx="4" />
-<text x="201" y="216" font-size="14">79</text>
+<rect x="180" y="200" width="8" height="24" fill="#4c72b0" rx="4" />
+<text x="196" y="216" font-size="14">79</text>
 <text x="10" y="250" font-size="14">Model Injection Attack</text>
-<rect x="180" y="234" width="9" height="24" fill="#4c72b0" rx="4" />
-<text x="197" y="250" font-size="14">55</text>
+<rect x="180" y="234" width="5" height="24" fill="#4c72b0" rx="4" />
+<text x="193" y="250" font-size="14">55</text>
 <text x="10" y="284" font-size="14">Federated Unlearning</text>
-<rect x="180" y="268" width="5" height="24" fill="#4c72b0" rx="4" />
-<text x="193" y="284" font-size="14">29</text>
+<rect x="180" y="268" width="3" height="24" fill="#4c72b0" rx="4" />
+<text x="191" y="284" font-size="14">29</text>
 <text x="10" y="318" font-size="14">Prompt Injection Attack</text>
-<rect x="180" y="302" width="3" height="24" fill="#4c72b0" rx="4" />
-<text x="191" y="318" font-size="14">21</text>
+<rect x="180" y="302" width="2" height="24" fill="#4c72b0" rx="4" />
+<text x="190" y="318" font-size="14">21</text>
 <text x="10" y="352" font-size="14">Privacy Backdoor Attack</text>
-<rect x="180" y="336" width="1" height="24" fill="#4c72b0" rx="4" />
-<text x="189" y="352" font-size="14">8</text>
+<rect x="180" y="336" width="0" height="24" fill="#4c72b0" rx="4" />
+<text x="188" y="352" font-size="14">8</text>
 <text x="10" y="386" font-size="14">Prompt Corruption</text>
 <rect x="180" y="370" width="0" height="24" fill="#4c72b0" rx="4" />
 <text x="188" y="386" font-size="14">1</text>
