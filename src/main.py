@@ -30,9 +30,12 @@ class Scaffold:
     def run(self, env: str = "dev", global_cfg_path: str = "./../config.yaml"):
         # Initialize global settings (logging, etc)
         global_cfg = init(cfg_path=global_cfg_path)
+        # print(global_cfg)
+        # {'cache_path': PosixPath('../cached'), 'dblp': {'topics': ['federate%20venue%3AICML%3A'], 'url': 'https://dblp.org/search/publ/api?q={}&format=json&h=1000'}}
         
         # 1. Iterate through every yaml in _configs
         config_files = list(self.configs_dir.glob("*.yaml"))
+        # print(config_files)
         if not config_files:
             logger.warning(f"No config files found in {self.configs_dir}")
             return
@@ -40,6 +43,7 @@ class Scaffold:
         # Load cache for DBLP to avoid duplicates across runs
         cache_path = global_cfg["cache_path"] / "dblp_cache.yaml"
         dblp_cache = yaml.safe_load(open(cache_path, "r")) if cache_path.exists() else {}
+        # print(dblp_cache is None)
         
         aggregated_msg = ""
         total_flag = False
@@ -57,6 +61,7 @@ class Scaffold:
             # The URL template from global config
             dblp_url_template = global_cfg["dblp"]["url"]
             topics = topic_cfg.get("dblp", {}).get("topics", [])
+            # print(topics)
 
             topic_new_items_found = False
 
@@ -71,6 +76,7 @@ class Scaffold:
                 # Filter against cache
                 cached_items = dblp_cache.get(topic_query, [])
                 new_items = [item for item in items if item not in cached_items]
+                # new_items = cached_items
                 
                 if len(new_items) > 0:
                     topic_new_items_found = True

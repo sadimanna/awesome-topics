@@ -134,9 +134,9 @@ def get_msg(items, topic, cfilename, aggregated=False):
     msg = msg.replace("'", "")
     return msg
 
-def request_data(url, retry=10, sleep_time=5):
+def request_data(url, retry=3, sleep_time=5):
     try:
-        time.sleep(sleep_time + random.random() * 3)
+        time.sleep(sleep_time + random.random() * 5)  # sleep to avoid being blocked
         response = requests.get(url)
         response.raise_for_status()  # 如果响应状态不是200，将引发HTTPError异常
         data = response.json()
@@ -188,16 +188,24 @@ def update_yaml_from_dblp(items, topic, yaml_path):
 
 # ... (rest of your imports and init functions remain the same)
 
+def normalize_data_schema(data):
+    if not isinstance(data, dict):
+        data = {}
+    data.setdefault("section", [])
+    return data
+
 def write_venue_yaml(items, yaml_path):
     """
     Write DBLP items into specific data yaml in _data/
     """
-    yaml_path = Path(yaml_path)
     if yaml_path.exists():
         with open(yaml_path, 'r') as f:
             data = yaml.safe_load(f) or {}
     else:
-        data = {"section": []}
+        data = {}
+
+    # ---- schema normalization ----
+    data = normalize_data_schema(data)
 
     for item in items:
         venue = item.get("venue", "Unknown Venue")
