@@ -19480,18 +19480,6 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1145/3746252.3761091">Link</a></td>
 </tr>
 <tr>
-<td>ERASURE: A Modular and Extensible Framework for Machine Unlearning.</td>
-<td>CIKM</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1145/3746252.3761627">Link</a></td>
-</tr>
-<tr>
-<td>Enabling Group Fairness in Machine Unlearning via Distribution Correction.</td>
-<td>CIKM</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1145/3746252.3761299">Link</a></td>
-</tr>
-<tr>
 <td>FedFMD: Fairness-Driven Adaptive Aggregation in Federated Learning via Mahalanobis Distance.</td>
 <td>CIKM</td>
 <td>2025</td>
@@ -19544,12 +19532,6 @@ permalink: /federated-m-l/
 <td>CIKM</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1145/3746252.3761140">Link</a></td>
-</tr>
-<tr>
-<td>MU-OT: Effective and Unified Machine Unlearning with Optimal Transport for Feature Realignment.</td>
-<td>CIKM</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1145/3746252.3760915">Link</a></td>
 </tr>
 <tr>
 <td>OFedED: One-shot Federated Learning with Model Ensemble and Dataset Distillation.</td>
@@ -19730,12 +19712,6 @@ permalink: /federated-m-l/
 <td>CIKM</td>
 <td>2023</td>
 <td><a href="https://doi.org/10.1145/3583780.3615173">Link</a></td>
-</tr>
-<tr>
-<td>Closed-form Machine Unlearning for Matrix Factorization.</td>
-<td>CIKM</td>
-<td>2023</td>
-<td><a href="https://doi.org/10.1145/3583780.3614811">Link</a></td>
 </tr>
 <tr>
 <td>Differential Privacy in HyperNetworks for Personalized Federated Learning.</td>
@@ -20274,12 +20250,6 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TNNLS.2024.3427789">Link</a></td>
 </tr>
 <tr>
-<td>Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy.</td>
-<td>IEEE Trans. Neural Networks Learn. Syst.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TNNLS.2024.3486109">Link</a></td>
-</tr>
-<tr>
 <td>FADngs: Federated Learning for Anomaly Detection.</td>
 <td>IEEE Trans. Neural Networks Learn. Syst.</td>
 <td>2025</td>
@@ -20436,12 +20406,6 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TNNLS.2024.3394252">Link</a></td>
 </tr>
 <tr>
-<td>Machine Unlearning: Taxonomy, Metrics, Applications, Challenges, and Prospects.</td>
-<td>IEEE Trans. Neural Networks Learn. Syst.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TNNLS.2025.3530988">Link</a></td>
-</tr>
-<tr>
 <td>Multicenter Hierarchical Federated Learning With Fault-Tolerance Mechanisms for Resilient Edge Computing Networks.</td>
 <td>IEEE Trans. Neural Networks Learn. Syst.</td>
 <td>2025</td>
@@ -20520,12 +20484,6 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TNNLS.2025.3563537">Link</a></td>
 </tr>
 <tr>
-<td>Toward Efficient Target-Level Machine Unlearning Based on Essential Graph.</td>
-<td>IEEE Trans. Neural Networks Learn. Syst.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TNNLS.2024.3514607">Link</a></td>
-</tr>
-<tr>
 <td>Toward Quantum Federated Learning.</td>
 <td>IEEE Trans. Neural Networks Learn. Syst.</td>
 <td>2025</td>
@@ -20602,12 +20560,6 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Neural Networks Learn. Syst.</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1109/TNNLS.2022.3212627">Link</a></td>
-</tr>
-<tr>
-<td>Fast Yet Effective Machine Unlearning.</td>
-<td>IEEE Trans. Neural Networks Learn. Syst.</td>
-<td>2024</td>
-<td><a href="https://doi.org/10.1109/TNNLS.2023.3266233">Link</a></td>
 </tr>
 <tr>
 <td>FedGAMMA: Federated Learning With Global Sharpness-Aware Minimization.</td>
@@ -20952,12 +20904,6 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Knowl. Data Eng.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TKDE.2024.3522763">Link</a></td>
-</tr>
-<tr>
-<td>Machine Unlearning Through Fine-Grained Model Parameters Perturbation.</td>
-<td>IEEE Trans. Knowl. Data Eng.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TKDE.2025.3528551">Link</a></td>
 </tr>
 <tr>
 <td>Personalized Recommendation Models in Federated Settings: A Survey.</td>
@@ -21978,12 +21924,6 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TETCI.2023.3245103">Link</a></td>
 </tr>
 <tr>
-<td>Machine Unlearning: Solutions and Challenges.</td>
-<td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
-<td>2024</td>
-<td><a href="https://doi.org/10.1109/TETCI.2024.3379240">Link</a></td>
-</tr>
-<tr>
 <td>Time-Sensitive Federated Learning With Heterogeneous Training Intensity: A Deep Reinforcement Learning Approach.</td>
 <td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
 <td>2024</td>
@@ -22206,12 +22146,6 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TIFS.2024.3490861">Link</a></td>
-</tr>
-<tr>
-<td>Evaluation of Machine Unlearning Through Model Difference.</td>
-<td>IEEE Trans. Inf. Forensics Secur.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TIFS.2025.3571666">Link</a></td>
 </tr>
 <tr>
 <td>Extracting Private Training Data in Federated Learning From Clients.</td>
@@ -22544,12 +22478,6 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TIFS.2025.3579290">Link</a></td>
 </tr>
 <tr>
-<td>SCU: An Efficient Machine Unlearning Scheme for Deep Learning Enabled Semantic Communications.</td>
-<td>IEEE Trans. Inf. Forensics Secur.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TIFS.2024.3516576">Link</a></td>
-</tr>
-<tr>
 <td>SGBoost+: Efficient and Privacy-Preserving Vertical Boosting Trees for Federated Outsourced Training and Inference.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
@@ -22608,12 +22536,6 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TIFS.2025.3550787">Link</a></td>
-</tr>
-<tr>
-<td>TruVRF: Toward Triple-Granularity Verification on Machine Unlearning.</td>
-<td>IEEE Trans. Inf. Forensics Secur.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1109/TIFS.2025.3565991">Link</a></td>
 </tr>
 <tr>
 <td>Trustworthy and Fair Federated Learning via Reputation-Based Consensus and Adaptive Incentives.</td>
@@ -22850,12 +22772,6 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TIFS.2024.3461449">Link</a></td>
 </tr>
 <tr>
-<td>Machine Unlearning via Representation Forgetting With Parameter Self-Sharing.</td>
-<td>IEEE Trans. Inf. Forensics Secur.</td>
-<td>2024</td>
-<td><a href="https://doi.org/10.1109/TIFS.2023.3331239">Link</a></td>
-</tr>
-<tr>
 <td>NSPFL: A Novel Secure and Privacy-Preserving Federated Learning With Data Integrity Auditing.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2024</td>
@@ -22962,12 +22878,6 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1109/TIFS.2024.3357288">Link</a></td>
-</tr>
-<tr>
-<td>Verifying in the Dark: Verifiable Machine Unlearning by Using Invisible Backdoor Triggers.</td>
-<td>IEEE Trans. Inf. Forensics Secur.</td>
-<td>2024</td>
-<td><a href="https://doi.org/10.1109/TIFS.2023.3328269">Link</a></td>
 </tr>
 <tr>
 <td>Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation.</td>
@@ -23185,12 +23095,6 @@ permalink: /federated-m-l/
 <td>2023</td>
 <td><a href="https://doi.org/10.1109/TIFS.2023.3271268">Link</a></td>
 </tr>
-<tr>
-<td>Zero-Shot Machine Unlearning.</td>
-<td>IEEE Trans. Inf. Forensics Secur.</td>
-<td>2023</td>
-<td><a href="https://doi.org/10.1109/TIFS.2023.3265506">Link</a></td>
-</tr>
 </tbody></table>
 
 <a id="ieee trans. inf. forensics secur.-2022"></a>
@@ -23348,12 +23252,6 @@ permalink: /federated-m-l/
 <td>ACM Trans. Intell. Syst. Technol.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1145/3665931">Link</a></td>
-</tr>
-<tr>
-<td>A Survey of Machine Unlearning.</td>
-<td>ACM Trans. Intell. Syst. Technol.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1145/3749987">Link</a></td>
 </tr>
 <tr>
 <td>Cross-User Federated Recommendation Unlearning.</td>
@@ -23836,12 +23734,6 @@ permalink: /federated-m-l/
 <td>Nat. Mac. Intell.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1038/s42256-025-00991-2">Link</a></td>
-</tr>
-<tr>
-<td>Rethinking machine unlearning for large language models.</td>
-<td>Nat. Mac. Intell.</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1038/s42256-025-00985-0">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -25186,12 +25078,6 @@ permalink: /federated-m-l/
 <td>Neural Networks</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1016/j.neunet.2025.107920">Link</a></td>
-</tr>
-<tr>
-<td>Fast yet versatile machine unlearning for deep neural networks.</td>
-<td>Neural Networks</td>
-<td>2025</td>
-<td><a href="https://doi.org/10.1016/j.neunet.2025.107648">Link</a></td>
 </tr>
 <tr>
 <td>FedADMM-InSa: An inexact and self-adaptive ADMM for federated learning.</td>
