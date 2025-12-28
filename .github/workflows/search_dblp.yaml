@@ -1,4 +1,4 @@
-name: auto
+name: search-dblp
 
 on:
   workflow_dispatch:
@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update:
+  search:
     runs-on: self-hosted
     env:
       TZ: "Asia/Kolkata"
@@ -66,29 +66,29 @@ jobs:
         with:
           filename: .github/issue-template.md
 
-      - name: Update readme
-        run: |
-          cd scripts && python3 main.py merge_md_yaml
+    #   - name: Update readme
+    #     run: |
+    #       cd scripts && python3 main.py merge_md_yaml
 
-      - name: Copy README.md to docs/index.md
-        run: |
-          mkdir -p docs
-          cp README.md docs/index.md
+    #   - name: Copy README.md to docs/index.md
+    #     run: |
+    #       mkdir -p docs
+    #       cp README.md docs/index.md
 
       # FOR PROPER RENDERING OF TABLES IN GITHUB PAGES
       # - name: Fix Jekyll <details> blocks
       #   run: |
       #     sed -i -E 's/<details([^>]*)>/<details\1 markdown="1">/g' docs/index.md
 
-      - name: Count papers per topic
-        run: |
-          cd scripts
-          python3 count_topics.py
+    #   - name: Count papers per topic
+    #     run: |
+    #       cd scripts
+    #       python3 count_topics.py
 
-      - name: Generate topic distribution bar chart
-        run: |
-          cd scripts
-          python3 generate_topic_barchart.py
+    #   - name: Generate topic distribution bar chart
+    #     run: |
+    #       cd scripts
+    #       python3 generate_topic_barchart.py
       ################################################################################
       # COMMIT CHANGES IF ANY
       ################################################################################

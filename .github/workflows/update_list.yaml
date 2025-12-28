@@ -1,21 +1,16 @@
-name: auto
+name: update-paper-list
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
+  push:
+    branches: ['main']
     
 permissions:
   contents: write
   issues: write
 
-concurrency:
-  group: awesome-topics-runner
-  cancel-in-progress: false
-
 jobs:
   update:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     env:
       TZ: "Asia/Kolkata"
       RUN_ENV: "prod" # within ['prod', 'dev']
@@ -29,10 +24,10 @@ jobs:
           ref: ${{ github.head_ref }}
           fetch-depth: 0
 
-      # - name: Set up Python 3.8
-      #   uses: actions/setup-python@v2
-      #   with:
-      #     python-version: 3.8
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
 
       - name: Install dependencies
         run: |
@@ -42,29 +37,29 @@ jobs:
       # ============================================
       # Run DBLP Watcher to get latest papers
       # ============================================
-      - name: Run dblp watcher
-        run: |
-          cd src
-          python3 main.py run --env=${{ env.RUN_ENV }}
+    #   - name: Run dblp watcher
+    #     run: |
+    #       cd src
+    #       python3 main.py run --env=${{ env.RUN_ENV }}
 
-      - name: Setup var
-        id: vars
-        run: |
-          raw="${MSG:-}"
-          {
-            echo "raw<<EOF"
-            echo "$raw"
-            echo "EOF"
-          } >> "$GITHUB_OUTPUT"
+    #   - name: Setup var
+    #     id: vars
+    #     run: |
+    #       raw="${MSG:-}"
+    #       {
+    #         echo "raw<<EOF"
+    #         echo "$raw"
+    #         echo "EOF"
+    #       } >> "$GITHUB_OUTPUT"
 
-      - name: Create an issue for new papers
-        if: ${{ steps.vars.outputs.raw != '' }}
-        uses: JasonEtco/create-an-issue@v2
-        env:
-          MSG: ${{ steps.vars.outputs.raw }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          filename: .github/issue-template.md
+    #   - name: Create an issue for new papers
+    #     if: ${{ steps.vars.outputs.raw != '' }}
+    #     uses: JasonEtco/create-an-issue@v2
+    #     env:
+    #       MSG: ${{ steps.vars.outputs.raw }}
+    #       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    #     with:
+    #       filename: .github/issue-template.md
 
       - name: Update readme
         run: |
@@ -101,9 +96,9 @@ jobs:
         with:
           commit_message: "auto update @ ${{ steps.date.outputs.date }} ${{ env.TZ }}"
 
-      - name: Cleanup
-        run: |
-          rm -rf $GITHUB_WORKSPACE/*
+    #   - name: Cleanup
+    #     run: |
+    #       rm -rf $GITHUB_WORKSPACE/*
 
       
 
