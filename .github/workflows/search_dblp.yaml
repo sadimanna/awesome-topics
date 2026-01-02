@@ -16,6 +16,7 @@ concurrency:
 jobs:
   search:
     runs-on: self-hosted
+    timeout-minutes: 7200
     env:
       TZ: "Asia/Kolkata"
       RUN_ENV: "prod" # within ['prod', 'dev']
