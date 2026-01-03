@@ -4152,13 +4152,18 @@
 
 ## Disclaimer & Reuse
 
-This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas. This repository was forked from [Awesome-FL](https://github.com/youngfish42/Awesome-FL) and then modified in many ways, which I am too lazy to type.
+This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas. This repository was forked from [Awesome-FL](https://github.com/youngfish42/Awesome-FL) and then modified in by adding the paper searching capabilities of [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily), which was forked from [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker). The mechanism from [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily) has already been embedded into this repository which enables automated updated everyday, and generates or updates the corresponding pages topic-wise, and also updates the TOC in the landing page [here](https://sadimanna.github.io/awesome-topics).
 
 You are **strongly encouraged to fork this repository** and use it for:
 - Tracking your own research topics
 - Maintaining personalized paper collections
 - Running automated updates for new publications
 
-This repository works in conjunction with another repository [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily), which was forked from [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker). The mechanism from [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily) has already been embedded into this repository which enables automated updated everyday, and generates or updates the corresponding pages topic-wise, and also updates the TOC in the landing page [here](https://sadimanna.github.io/awesome-topics).
-
 If you fork and extend this repository, please consider adding a link back to the original repository for attribution and discoverability.
+
+A detailed tutorial on how this repository works is described in these blog articles on Medium.
+[Part 1](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-1-4098f4222d66)
+[Part 2](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-2-cf41e2631702)
+[Part 3](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-3-3e2dd63b5f4a)
+[Part 4](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-4-709ea8b515d3)
+[Part 5](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-5-0d79862bf224)

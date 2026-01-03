@@ -23,6 +23,9 @@ jobs:
       GH_USER: ${{ github.repository_owner }}
       PYTHONDONTWRITEBYTECODE: 1
 
+    outputs:
+      data_changed: ${{steps.diff.outputs.data_changed }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,10 +33,9 @@ jobs:
           # ref: ${{ github.head_ref }}
           fetch-depth: 0
 
-      # - name: Set up Python 3.8
-      #   uses: actions/setup-python@v2
-      #   with:
-      #     python-version: 3.8
+      ################################################################################
+      # install dependencies
+      ################################################################################
 
       - name: Install dependencies
         run: |
@@ -58,6 +60,9 @@ jobs:
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
+      ################################################################################
+      # CREATES ISSUE FOR NEW PAPERS
+      ################################################################################
       - name: Create an issue for new papers
         if: ${{ steps.vars.outputs.raw != '' }}
         uses: JasonEtco/create-an-issue@v2
@@ -67,37 +72,31 @@ jobs:
         with:
           filename: .github/issue-template.md
 
-    #   - name: Update readme
-    #     run: |
-    #       cd scripts && python3 main.py merge_md_yaml
-
-    #   - name: Copy README.md to docs/index.md
-    #     run: |
-    #       mkdir -p docs
-    #       cp README.md docs/index.md
-
-      # FOR PROPER RENDERING OF TABLES IN GITHUB PAGES
-      # - name: Fix Jekyll <details> blocks
-      #   run: |
-      #     sed -i -E 's/<details([^>]*)>/<details\1 markdown="1">/g' docs/index.md
-
-    #   - name: Count papers per topic
-    #     run: |
-    #       cd scripts
-    #       python3 count_topics.py
-
-    #   - name: Generate topic distribution bar chart
-    #     run: |
-    #       cd scripts
-    #       python3 generate_topic_barchart.py
       ################################################################################
       # COMMIT CHANGES IF ANY
       ################################################################################
+      # ------------------------------------------------
+      # Detect whether _data/*.yaml changed
+      # ------------------------------------------------
+      - name: Detect data changes
+        id: diff
+        run: |
+          git status --porcelain
+          if git diff --name-only | grep -q '^_data/.*\.ya\?ml$'; then
+            echo "data_changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "data_changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Get date time
         id: date
         run: echo "date=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_OUTPUT"
 
+      # ------------------------------------------------
+      # Commit only if changes exist
+      # ------------------------------------------------
       - name: Commit Updated
+        if: steps.diff.outputs.data_changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "auto update @ ${{ steps.date.outputs.date }} ${{ env.TZ }}"
