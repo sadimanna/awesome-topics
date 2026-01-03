@@ -36,6 +36,125 @@
 
 <details>
 
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers">Explainability Transformers</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#iclr">ICLR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#iclr-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#cvpr">CVPR</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/explainability-transformers#cvpr-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#iccv">ICCV</a></summary>
+
+  - [2021](https://sadimanna.github.io/awesome-topics/explainability-transformers#iccv-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#aaai">AAAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#aaai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/explainability-transformers#aaai-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/explainability-transformers#aaai-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/explainability-transformers#aaai-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#acl">ACL</a></summary>
+
+  - [2021](https://sadimanna.github.io/awesome-topics/explainability-transformers#acl-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#ieee-trans-image-process">IEEE Trans. Image Process.</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/explainability-transformers#ieee trans. image process.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#ieee j. biomed. health informatics-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/explainability-transformers#ieee j. biomed. health informatics-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/explainability-transformers#ieee j. biomed. health informatics-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#int-j-comput-vis">Int. J. Comput. Vis.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#int. j. comput. vis.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#pattern-recognit">Pattern Recognit.</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/explainability-transformers#pattern recognit.-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#comput-medical-imaging-graph">Comput. Medical Imaging Graph.</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/explainability-transformers#comput. medical imaging graph.-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#knowl-based-syst">Knowl. Based Syst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#knowl. based syst.-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/explainability-transformers#knowl. based syst.-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#expert-syst-appl">Expert Syst. Appl.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/explainability-transformers#expert syst. appl.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#expert syst. appl.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/explainability-transformers#expert syst. appl.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#neural-comput-appl">Neural Comput. Appl.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#neural comput. appl.-2025)
+  </details>
+
+</details>
+
+
+<details>
+
 <summary><strong><a href="https://sadimanna.github.io/awesome-topics/federated-m-l">Federated M L</a></strong></summary>
 
 
@@ -2268,6 +2387,447 @@
 
 <details>
 
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation">Mamba Segmentation</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#neurips">NeurIPS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba-segmentation#neurips-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#cvpr">CVPR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#cvpr-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#eccv">ECCV</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba-segmentation#eccv-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#aaai">AAAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#aaai-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#wacv">WACV</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#wacv-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#acm-multimedia">ACM Multimedia</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba-segmentation#acm multimedia-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee-trans-medical-imaging">IEEE Trans. Medical Imaging</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee trans. medical imaging-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee j. biomed. health informatics-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#comput-vis-image-underst">Comput. Vis. Image Underst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#comput. vis. image underst.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#pattern-recognit">Pattern Recognit.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#pattern recognit.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#pattern recognit.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#medical-image-anal">Medical Image Anal.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#medical image anal.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#medical image anal.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#comput-medical-imaging-graph">Comput. Medical Imaging Graph.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#comput. medical imaging graph.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#knowl-based-syst">Knowl. Based Syst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#knowl. based syst.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba-segmentation#knowl. based syst.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#expert-syst-appl">Expert Syst. Appl.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#expert syst. appl.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#expert syst. appl.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#neurocomputing">Neurocomputing</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#neurocomputing-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#neurocomputing-2025)
+  </details>
+
+</details>
+
+
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/mamba">Mamba</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#neurips">NeurIPS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#neurips-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#icml">ICML</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#icml-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#icml-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#iclr">ICLR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#iclr-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#iclr-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#cvpr">CVPR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#cvpr-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#eccv">ECCV</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#eccv-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ijcai">IJCAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#ijcai-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#aaai">AAAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#aaai-2025)
+  - [2021](https://sadimanna.github.io/awesome-topics/mamba#aaai-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#kdd">KDD</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#kdd-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#acl">ACL</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#acl-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#emnlp">EMNLP</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#emnlp-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#coling">COLING</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#coling-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#icdm">ICDM</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#icdm-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#wacv">WACV</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#wacv-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#infocom">INFOCOM</a></summary>
+
+  - [2020](https://sadimanna.github.io/awesome-topics/mamba#infocom-2020)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#mobicom">MobiCom</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#mobicom-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#dac">DAC</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#dac-2025)
+  - [2018](https://sadimanna.github.io/awesome-topics/mamba#dac-2018)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#acm-multimedia">ACM Multimedia</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#acm multimedia-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/mamba#acm multimedia-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#cikm">CIKM</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#cikm-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#cikm-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. pattern anal. mach. intell.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-image-process">IEEE Trans. Image Process.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. image process.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-medical-imaging">IEEE Trans. Medical Imaging</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. medical imaging-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-syst-man-cybern-syst">IEEE Trans. Syst. Man Cybern. Syst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. syst. man cybern. syst.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-inf-forensics-secur">IEEE Trans. Inf. Forensics Secur.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. inf. forensics secur.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee j. biomed. health informatics-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#int-j-comput-vis">Int. J. Comput. Vis.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#int. j. comput. vis.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#comput-vis-image-underst">Comput. Vis. Image Underst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#comput. vis. image underst.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#pattern-recognit">Pattern Recognit.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#pattern recognit.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#pattern recognit.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#pattern-recognit-lett">Pattern Recognit. Lett.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#pattern recognit. lett.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#medical-image-anal">Medical Image Anal.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#medical image anal.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#medical image anal.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#comput-medical-imaging-graph">Comput. Medical Imaging Graph.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#comput. medical imaging graph.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#data-min-knowl-discov">Data Min. Knowl. Discov.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#data min. knowl. discov.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#knowl-based-syst">Knowl. Based Syst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#knowl. based syst.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#knowl. based syst.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#inf-sci">Inf. Sci.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#inf. sci.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#expert-syst-appl">Expert Syst. Appl.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#expert syst. appl.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#expert syst. appl.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#expert syst. appl.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#neural-networks">Neural Networks</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#neural networks-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#neural networks-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#neurocomputing">Neurocomputing</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#neurocomputing-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#neurocomputing-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/mamba#neurocomputing-2024)
+  </details>
+
+</details>
+
+
+<details>
+
 <summary><strong><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack">Model Inference Attack</a></strong></summary>
 
 
@@ -2332,6 +2892,10 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ndss">NDSS</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#ndss-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#ndss-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#ndss-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#ndss-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/model-inference-attack#ndss-2020)
   - [2019](https://sadimanna.github.io/awesome-topics/model-inference-attack#ndss-2019)
   - [2018](https://sadimanna.github.io/awesome-topics/model-inference-attack#ndss-2018)
   </details>
@@ -2375,6 +2939,7 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#eccv">ECCV</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#eccv-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#eccv-2022)
   - [2020](https://sadimanna.github.io/awesome-topics/model-inference-attack#eccv-2020)
   - [2014](https://sadimanna.github.io/awesome-topics/model-inference-attack#eccv-2014)
   - [2010](https://sadimanna.github.io/awesome-topics/model-inference-attack#eccv-2010)
@@ -2504,6 +3069,7 @@
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#kdd-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#kdd-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#kdd-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#kdd-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#kdd-2021)
   - [2013](https://sadimanna.github.io/awesome-topics/model-inference-attack#kdd-2013)
   - [2010](https://sadimanna.github.io/awesome-topics/model-inference-attack#kdd-2010)
@@ -2526,9 +3092,17 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs">CCS</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2021)
   - [2020](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2020)
+  - [2019](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2019)
+  - [2018](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2018)
+  - [2016](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2016)
+  - [2015](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2015)
+  - [2012](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2012)
+  - [2011](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2011)
   - [2010](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2010)
   - [2003](https://sadimanna.github.io/awesome-topics/model-inference-attack#ccs-2003)
   </details>
@@ -2671,11 +3245,13 @@
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2021)
   - [2019](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2019)
   - [2018](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2018)
   - [2017](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2017)
   - [2013](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2013)
   - [2012](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2012)
+  - [2011](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2011)
   - [2004](https://sadimanna.github.io/awesome-topics/model-inference-attack#www-2004)
   </details>
 
@@ -2735,7 +3311,9 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#sp">SP</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#sp-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#sp-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#sp-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#sp-2022)
   </details>
 
 
@@ -2744,6 +3322,8 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee-symposium-on-security-and-privacy-workshops">IEEE Symposium on Security and Privacy Workshops</a></summary>
 
   - [2019](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee symposium on security and privacy workshops-2019)
+  - [2016](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee symposium on security and privacy workshops-2016)
+  - [2015](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee symposium on security and privacy workshops-2015)
   - [2013](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee symposium on security and privacy workshops-2013)
   </details>
 
@@ -2752,7 +3332,10 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee-symposium-on-security-and-privacy">IEEE Symposium on Security and Privacy</a></summary>
 
+  - [2019](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee symposium on security and privacy-2019)
   - [2017](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee symposium on security and privacy-2017)
+  - [2016](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee symposium on security and privacy-2016)
+  - [2012](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee symposium on security and privacy-2012)
   </details>
 
 
@@ -2770,9 +3353,13 @@
 
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2021)
   - [2020](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2020)
+  - [2018](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2018)
+  - [2016](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2016)
+  - [2014](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2014)
   - [2011](https://sadimanna.github.io/awesome-topics/model-inference-attack#usenix security symposium-2011)
   </details>
 
@@ -2885,6 +3472,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#mach-learn">Mach. Learn.</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#mach. learn.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#mach. learn.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#mach. learn.-2023)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#mach. learn.-2021)
@@ -3012,9 +3600,11 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee-trans-knowl-data-eng">IEEE Trans. Knowl. Data Eng.</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. knowl. data eng.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. knowl. data eng.-2024)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. knowl. data eng.-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. knowl. data eng.-2021)
   - [2014](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. knowl. data eng.-2014)
+  - [2013](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. knowl. data eng.-2013)
   - [2008](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. knowl. data eng.-2008)
   - [1993](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. knowl. data eng.-1993)
   </details>
@@ -3024,6 +3614,8 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee-trans-big-data">IEEE Trans. Big Data</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. big data-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. big data-2024)
   - [2019](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. big data-2019)
   </details>
 
@@ -3116,6 +3708,8 @@
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2022)
+  - [2019](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2019)
   </details>
 
 
@@ -3132,6 +3726,7 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#acm-trans-intell-syst-technol">ACM Trans. Intell. Syst. Technol.</a></summary>
 
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm trans. intell. syst. technol.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm trans. intell. syst. technol.-2022)
   - [2020](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm trans. intell. syst. technol.-2020)
   - [2013](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm trans. intell. syst. technol.-2013)
   </details>
@@ -3172,6 +3767,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#int-j-comput-vis">Int. J. Comput. Vis.</a></summary>
 
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#int. j. comput. vis.-2024)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#int. j. comput. vis.-2022)
   - [2012](https://sadimanna.github.io/awesome-topics/model-inference-attack#int. j. comput. vis.-2012)
   - [2011](https://sadimanna.github.io/awesome-topics/model-inference-attack#int. j. comput. vis.-2011)
@@ -3303,6 +3899,8 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#knowl-based-syst">Knowl. Based Syst.</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#knowl. based syst.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#knowl. based syst.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#knowl. based syst.-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#knowl. based syst.-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#knowl. based syst.-2021)
   - [2020](https://sadimanna.github.io/awesome-topics/model-inference-attack#knowl. based syst.-2020)
@@ -3322,6 +3920,7 @@
 
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2021)
   - [2020](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2020)
   - [2008](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2008)
@@ -3381,6 +3980,7 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#neural-networks">Neural Networks</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural networks-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural networks-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural networks-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural networks-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural networks-2021)
@@ -3435,6 +4035,32 @@
 
   - [2011](https://sadimanna.github.io/awesome-topics/model-inference-attack#j. artif. intell. res.-2011)
   - [2008](https://sadimanna.github.io/awesome-topics/model-inference-attack#j. artif. intell. res.-2008)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#woot-usenix-security-symposium">WOOT @ USENIX Security Symposium</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#woot @ usenix security symposium-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee-trans-emerg-top-comput">IEEE Trans. Emerg. Top. Comput.</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. emerg. top. comput.-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#acm-trans-priv-secur">ACM Trans. Priv. Secur.</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm trans. priv. secur.-2023)
+  - [2018](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm trans. priv. secur.-2018)
+  - [2017](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm trans. priv. secur.-2017)
   </details>
 
 </details>
@@ -4152,13 +4778,18 @@
 
 ## Disclaimer & Reuse
 
-This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas. This repository was forked from [Awesome-FL](https://github.com/youngfish42/Awesome-FL) and then modified in many ways, which I am too lazy to type.
+This repository is intended as a **curated and automated paper-tracking resource** for research topics in Federated Learning and related areas. This repository was forked from [Awesome-FL](https://github.com/youngfish42/Awesome-FL) and then modified in by adding the paper searching capabilities of [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily), which was forked from [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker). The mechanism from [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily) has already been embedded into this repository which enables automated updated everyday, and generates or updates the corresponding pages topic-wise, and also updates the TOC in the landing page [here](https://sadimanna.github.io/awesome-topics).
 
 You are **strongly encouraged to fork this repository** and use it for:
 - Tracking your own research topics
 - Maintaining personalized paper collections
 - Running automated updates for new publications
 
-This repository works in conjunction with another repository [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily), which was forked from [FL-paper-update-tracker](https://github.com/youngfish42/FL-paper-update-tracker). The mechanism from [dblp-paper-daily](https://github.com/sadimanna/dblp-paper-daily) has already been embedded into this repository which enables automated updated everyday, and generates or updates the corresponding pages topic-wise, and also updates the TOC in the landing page [here](https://sadimanna.github.io/awesome-topics).
-
 If you fork and extend this repository, please consider adding a link back to the original repository for attribution and discoverability.
+
+A detailed tutorial on how this repository works is described in these blog articles on Medium.
+[Part 1](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-1-4098f4222d66)
+[Part 2](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-2-cf41e2631702)
+[Part 3](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-3-3e2dd63b5f4a)
+[Part 4](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-4-709ea8b515d3)
+[Part 5](https://medium.com/the-owl/awesome-topics-fully-automated-research-paper-curation-on-github-pages-part-5-0d79862bf224)

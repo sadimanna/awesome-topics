@@ -66,6 +66,10 @@ permalink: /model-inference-attack/
 <summary>NDSS</summary>
 
   - [2025](#ndss-2025)
+  - [2024](#ndss-2024)
+  - [2022](#ndss-2022)
+  - [2021](#ndss-2021)
+  - [2020](#ndss-2020)
   - [2019](#ndss-2019)
   - [2018](#ndss-2018)
 
@@ -106,6 +110,7 @@ permalink: /model-inference-attack/
 <summary>ECCV</summary>
 
   - [2024](#eccv-2024)
+  - [2022](#eccv-2022)
   - [2020](#eccv-2020)
   - [2014](#eccv-2014)
   - [2010](#eccv-2010)
@@ -229,6 +234,7 @@ permalink: /model-inference-attack/
   - [2025](#kdd-2025)
   - [2024](#kdd-2024)
   - [2023](#kdd-2023)
+  - [2022](#kdd-2022)
   - [2021](#kdd-2021)
   - [2013](#kdd-2013)
   - [2010](#kdd-2010)
@@ -249,9 +255,17 @@ permalink: /model-inference-attack/
 <summary>CCS</summary>
 
   - [2025](#ccs-2025)
+  - [2024](#ccs-2024)
   - [2023](#ccs-2023)
   - [2022](#ccs-2022)
+  - [2021](#ccs-2021)
   - [2020](#ccs-2020)
+  - [2019](#ccs-2019)
+  - [2018](#ccs-2018)
+  - [2016](#ccs-2016)
+  - [2015](#ccs-2015)
+  - [2012](#ccs-2012)
+  - [2011](#ccs-2011)
   - [2010](#ccs-2010)
   - [2003](#ccs-2003)
 
@@ -382,11 +396,13 @@ permalink: /model-inference-attack/
   - [2024](#www-2024)
   - [2023](#www-2023)
   - [2022](#www-2022)
+  - [2021](#www-2021)
   - [2019](#www-2019)
   - [2018](#www-2018)
   - [2017](#www-2017)
   - [2013](#www-2013)
   - [2012](#www-2012)
+  - [2011](#www-2011)
   - [2004](#www-2004)
 
 </details>
@@ -440,7 +456,9 @@ permalink: /model-inference-attack/
 <summary>SP</summary>
 
   - [2025](#sp-2025)
+  - [2024](#sp-2024)
   - [2023](#sp-2023)
+  - [2022](#sp-2022)
 
 </details>
 
@@ -448,6 +466,8 @@ permalink: /model-inference-attack/
 <summary>IEEE Symposium on Security and Privacy Workshops</summary>
 
   - [2019](#ieee-symposium-on-security-and-privacy-workshops-2019)
+  - [2016](#ieee-symposium-on-security-and-privacy-workshops-2016)
+  - [2015](#ieee-symposium-on-security-and-privacy-workshops-2015)
   - [2013](#ieee-symposium-on-security-and-privacy-workshops-2013)
 
 </details>
@@ -455,7 +475,10 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>IEEE Symposium on Security and Privacy</summary>
 
+  - [2019](#ieee-symposium-on-security-and-privacy-2019)
   - [2017](#ieee-symposium-on-security-and-privacy-2017)
+  - [2016](#ieee-symposium-on-security-and-privacy-2016)
+  - [2012](#ieee-symposium-on-security-and-privacy-2012)
 
 </details>
 
@@ -471,9 +494,13 @@ permalink: /model-inference-attack/
 
   - [2025](#usenix-security-symposium-2025)
   - [2024](#usenix-security-symposium-2024)
+  - [2023](#usenix-security-symposium-2023)
   - [2022](#usenix-security-symposium-2022)
   - [2021](#usenix-security-symposium-2021)
   - [2020](#usenix-security-symposium-2020)
+  - [2018](#usenix-security-symposium-2018)
+  - [2016](#usenix-security-symposium-2016)
+  - [2014](#usenix-security-symposium-2014)
   - [2011](#usenix-security-symposium-2011)
 
 </details>
@@ -575,6 +602,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>Mach. Learn.</summary>
 
+  - [2025](#mach-learn-2025)
   - [2024](#mach-learn-2024)
   - [2023](#mach-learn-2023)
   - [2021](#mach-learn-2021)
@@ -694,9 +722,11 @@ permalink: /model-inference-attack/
 <summary>IEEE Trans. Knowl. Data Eng.</summary>
 
   - [2025](#ieee-trans-knowl-data-eng-2025)
+  - [2024](#ieee-trans-knowl-data-eng-2024)
   - [2022](#ieee-trans-knowl-data-eng-2022)
   - [2021](#ieee-trans-knowl-data-eng-2021)
   - [2014](#ieee-trans-knowl-data-eng-2014)
+  - [2013](#ieee-trans-knowl-data-eng-2013)
   - [2008](#ieee-trans-knowl-data-eng-2008)
   - [1993](#ieee-trans-knowl-data-eng-1993)
 
@@ -705,6 +735,8 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>IEEE Trans. Big Data</summary>
 
+  - [2025](#ieee-trans-big-data-2025)
+  - [2024](#ieee-trans-big-data-2024)
   - [2019](#ieee-trans-big-data-2019)
 
 </details>
@@ -788,6 +820,8 @@ permalink: /model-inference-attack/
   - [2025](#ieee-trans-inf-forensics-secur-2025)
   - [2024](#ieee-trans-inf-forensics-secur-2024)
   - [2023](#ieee-trans-inf-forensics-secur-2023)
+  - [2022](#ieee-trans-inf-forensics-secur-2022)
+  - [2019](#ieee-trans-inf-forensics-secur-2019)
 
 </details>
 
@@ -802,6 +836,7 @@ permalink: /model-inference-attack/
 <summary>ACM Trans. Intell. Syst. Technol.</summary>
 
   - [2023](#acm-trans-intell-syst-technol-2023)
+  - [2022](#acm-trans-intell-syst-technol-2022)
   - [2020](#acm-trans-intell-syst-technol-2020)
   - [2013](#acm-trans-intell-syst-technol-2013)
 
@@ -838,6 +873,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>Int. J. Comput. Vis.</summary>
 
+  - [2024](#int-j-comput-vis-2024)
   - [2022](#int-j-comput-vis-2022)
   - [2012](#int-j-comput-vis-2012)
   - [2011](#int-j-comput-vis-2011)
@@ -956,6 +992,8 @@ permalink: /model-inference-attack/
 <summary>Knowl. Based Syst.</summary>
 
   - [2025](#knowl-based-syst-2025)
+  - [2024](#knowl-based-syst-2024)
+  - [2023](#knowl-based-syst-2023)
   - [2022](#knowl-based-syst-2022)
   - [2021](#knowl-based-syst-2021)
   - [2020](#knowl-based-syst-2020)
@@ -974,6 +1012,7 @@ permalink: /model-inference-attack/
 
   - [2024](#inf-sci-2024)
   - [2023](#inf-sci-2023)
+  - [2022](#inf-sci-2022)
   - [2021](#inf-sci-2021)
   - [2020](#inf-sci-2020)
   - [2008](#inf-sci-2008)
@@ -1028,6 +1067,7 @@ permalink: /model-inference-attack/
 <summary>Neural Networks</summary>
 
   - [2025](#neural-networks-2025)
+  - [2024](#neural-networks-2024)
   - [2023](#neural-networks-2023)
   - [2022](#neural-networks-2022)
   - [2021](#neural-networks-2021)
@@ -1082,6 +1122,29 @@ permalink: /model-inference-attack/
 
 </details>
 
+<details markdown="1">
+<summary>WOOT @ USENIX Security Symposium</summary>
+
+  - [2024](#woot-usenix-security-symposium-2024)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Emerg. Top. Comput.</summary>
+
+  - [2023](#ieee-trans-emerg-top-comput-2023)
+
+</details>
+
+<details markdown="1">
+<summary>ACM Trans. Priv. Secur.</summary>
+
+  - [2023](#acm-trans-priv-secur-2023)
+  - [2018](#acm-trans-priv-secur-2018)
+  - [2017](#acm-trans-priv-secur-2017)
+
+</details>
+
 </details>
 
 
@@ -1128,6 +1191,12 @@ permalink: /model-inference-attack/
 <td><a href="http://papers.nips.cc/paper_files/paper/2024/hash/8b21a7ea42cbcd1c29a7a88c444cce45-Abstract-Conference.html">Link</a></td>
 </tr>
 <tr>
+<td>Auditing Privacy Mechanisms via Label Inference Attacks.</td>
+<td>NeurIPS</td>
+<td>2024</td>
+<td><a href="http://papers.nips.cc/paper_files/paper/2024/hash/97005e2b425c93015a91c312ba5c5298-Abstract-Conference.html">Link</a></td>
+</tr>
+<tr>
 <td>Block Transformer: Global-to-Local Language Modeling for Fast Inference.</td>
 <td>NeurIPS</td>
 <td>2024</td>
@@ -1150,6 +1219,12 @@ permalink: /model-inference-attack/
 <td>NeurIPS</td>
 <td>2024</td>
 <td><a href="http://papers.nips.cc/paper_files/paper/2024/hash/e58026e2b2929108e1bd24cbfa1c8e4b-Abstract-Conference.html">Link</a></td>
+</tr>
+<tr>
+<td>Data Mixture Inference Attack: BPE Tokenizers Reveal Training Data Compositions.</td>
+<td>NeurIPS</td>
+<td>2024</td>
+<td><a href="http://papers.nips.cc/paper_files/paper/2024/hash/10e6dfea9a673bef4a7b1cb9234891bc-Abstract-Conference.html">Link</a></td>
 </tr>
 <tr>
 <td>DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution.</td>
@@ -1228,6 +1303,12 @@ permalink: /model-inference-attack/
 <td>NeurIPS</td>
 <td>2024</td>
 <td><a href="http://papers.nips.cc/paper_files/paper/2024/hash/571082ea18d30060177dfcaf662ff0e5-Abstract-Conference.html">Link</a></td>
+</tr>
+<tr>
+<td>OSLO: One-Shot Label-Only Membership Inference Attacks.</td>
+<td>NeurIPS</td>
+<td>2024</td>
+<td><a href="http://papers.nips.cc/paper_files/paper/2024/hash/71f88122d414cfeb455ac0ed932fbe1f-Abstract-Conference.html">Link</a></td>
 </tr>
 <tr>
 <td>Opponent Modeling based on Subgoal Inference.</td>
@@ -1350,6 +1431,12 @@ permalink: /model-inference-attack/
 <td><a href="http://papers.nips.cc/paper_files/paper/2023/hash/0747af6f877c0cb555fea595f01b0e83-Abstract-Conference.html">Link</a></td>
 </tr>
 <tr>
+<td>GAN You See Me? Enhanced Data Reconstruction Attacks against Split Inference.</td>
+<td>NeurIPS</td>
+<td>2023</td>
+<td><a href="http://papers.nips.cc/paper_files/paper/2023/hash/ab003a4f85ecb1b7b1514ff539dc7395-Abstract-Conference.html">Link</a></td>
+</tr>
+<tr>
 <td>H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models.</td>
 <td>NeurIPS</td>
 <td>2023</td>
@@ -1372,6 +1459,12 @@ permalink: /model-inference-attack/
 <td>NeurIPS</td>
 <td>2023</td>
 <td><a href="http://papers.nips.cc/paper_files/paper/2023/hash/16c5b4102a6b6eb061e502ce6736ad8a-Abstract-Conference.html">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Membership Inference Attacks via Quantile Regression.</td>
+<td>NeurIPS</td>
+<td>2023</td>
+<td><a href="http://papers.nips.cc/paper_files/paper/2023/hash/01328d0767830e73a612f9073e9ff15f-Abstract-Conference.html">Link</a></td>
 </tr>
 <tr>
 <td>Statistical Limits of Adaptive Linear Models: Low-Dimensional Estimation and Inference.</td>
@@ -1802,6 +1895,12 @@ permalink: /model-inference-attack/
 <td><a href="https://openreview.net/forum?id=dfOqiHuklY">Link</a></td>
 </tr>
 <tr>
+<td>Hidden No More: Attacking and Defending Private Third-Party LLM Inference.</td>
+<td>ICML</td>
+<td>2025</td>
+<td><a href="https://openreview.net/forum?id=QfD9P9IIoz">Link</a></td>
+</tr>
+<tr>
 <td>InfAlign: Inference-aware language model alignment.</td>
 <td>ICML</td>
 <td>2025</td>
@@ -1976,6 +2075,12 @@ permalink: /model-inference-attack/
 <td><a href="https://openreview.net/forum?id=wDDGQabYPQ">Link</a></td>
 </tr>
 <tr>
+<td>Low-Cost High-Power Membership Inference Attacks.</td>
+<td>ICML</td>
+<td>2024</td>
+<td><a href="https://openreview.net/forum?id=sT7UJh5CTc">Link</a></td>
+</tr>
+<tr>
 <td>Membership Inference Attacks on Diffusion Models via Quantile Regression.</td>
 <td>ICML</td>
 <td>2024</td>
@@ -2022,6 +2127,12 @@ permalink: /model-inference-attack/
 <td>ICML</td>
 <td>2024</td>
 <td><a href="https://openreview.net/forum?id=DwwI9L67B5">Link</a></td>
+</tr>
+<tr>
+<td>The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks.</td>
+<td>ICML</td>
+<td>2024</td>
+<td><a href="https://openreview.net/forum?id=2xLyc5TkFl">Link</a></td>
 </tr>
 <tr>
 <td>Towards an Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model.</td>
@@ -2168,6 +2279,18 @@ permalink: /model-inference-attack/
 <td><a href="http://proceedings.mlr.press/v139/pan21a.html">Link</a></td>
 </tr>
 <tr>
+<td>Label Inference Attacks from Log-loss Scores.</td>
+<td>ICML</td>
+<td>2021</td>
+<td><a href="http://proceedings.mlr.press/v139/aggarwal21a.html">Link</a></td>
+</tr>
+<tr>
+<td>Label-Only Membership Inference Attacks.</td>
+<td>ICML</td>
+<td>2021</td>
+<td><a href="http://proceedings.mlr.press/v139/choquette-choo21a.html">Link</a></td>
+</tr>
+<tr>
 <td>On Variational Inference in Biclustering Models.</td>
 <td>ICML</td>
 <td>2021</td>
@@ -2178,6 +2301,12 @@ permalink: /model-inference-attack/
 <td>ICML</td>
 <td>2021</td>
 <td><a href="http://proceedings.mlr.press/v139/wang21m.html">Link</a></td>
+</tr>
+<tr>
+<td>When Does Data Augmentation Help With Membership Inference Attacks?</td>
+<td>ICML</td>
+<td>2021</td>
+<td><a href="http://proceedings.mlr.press/v139/kaya21a.html">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -2895,6 +3024,12 @@ permalink: /model-inference-attack/
 <td>2024</td>
 <td><a href="https://openreview.net/forum?id=VrHiF2hsrm">Link</a></td>
 </tr>
+<tr>
+<td>You Only Query Once: An Efficient Label-Only Membership Inference Attack.</td>
+<td>ICLR</td>
+<td>2024</td>
+<td><a href="https://openreview.net/forum?id=7WsivwyHrS">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="iclr-2023"></a>
@@ -2974,6 +3109,18 @@ permalink: /model-inference-attack/
 <td><a href="https://openreview.net/forum?id=HObMhrCeAAF">Link</a></td>
 </tr>
 <tr>
+<td>On the Importance of Difficulty Calibration in Membership Inference Attacks.</td>
+<td>ICLR</td>
+<td>2022</td>
+<td><a href="https://openreview.net/forum?id=3eIrli0TwQ">Link</a></td>
+</tr>
+<tr>
+<td>RelaxLoss: Defending Membership Inference Attacks without Losing Utility.</td>
+<td>ICLR</td>
+<td>2022</td>
+<td><a href="https://openreview.net/forum?id=FEDfGWVZYIn">Link</a></td>
+</tr>
+<tr>
 <td>Self-Supervised Inference in State-Space Models.</td>
 <td>ICLR</td>
 <td>2022</td>
@@ -3004,6 +3151,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>A Panda? No, It&apos;s a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference.</td>
+<td>ICLR</td>
+<td>2021</td>
+<td><a href="https://openreview.net/forum?id=9xC2tWEwBD">Link</a></td>
+</tr>
+<tr>
 <td>Mind the Gap when Conditioning Amortised Inference in Sequential Latent-Variable Models.</td>
 <td>ICLR</td>
 <td>2021</td>
@@ -3032,6 +3185,12 @@ permalink: /model-inference-attack/
 <td>ICLR</td>
 <td>2020</td>
 <td><a href="https://openreview.net/forum?id=Skl4mRNYDr">Link</a></td>
+</tr>
+<tr>
+<td>Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks.</td>
+<td>ICLR</td>
+<td>2020</td>
+<td><a href="https://openreview.net/forum?id=ByxtC2VtPB">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -3149,6 +3308,144 @@ permalink: /model-inference-attack/
 <td>2025</td>
 <td><a href="https://www.ndss-symposium.org/ndss-paper/black-box-membership-inference-attacks-against-fine-tuned-diffusion-models/">Link</a></td>
 </tr>
+<tr>
+<td>Defending Against Membership Inference Attacks on Iteratively Pruned Deep Neural Networks.</td>
+<td>NDSS</td>
+<td>2025</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/defending-against-membership-inference-attacks-on-iteratively-pruned-deep-neural-networks/">Link</a></td>
+</tr>
+<tr>
+<td>Passive Inference Attacks on Split Learning via Adversarial Regularization.</td>
+<td>NDSS</td>
+<td>2025</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/passive-inference-attacks-on-split-learning-via-adversarial-regularization/">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ndss-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Eavesdropping on Controller Acoustic Emanation for Keystroke Inference Attack in Virtual Reality.</td>
+<td>NDSS</td>
+<td>2024</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/eavesdropping-on-controller-acoustic-emanation-for-keystroke-inference-attack-in-virtual-reality/">Link</a></td>
+</tr>
+<tr>
+<td>Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction.</td>
+<td>NDSS</td>
+<td>2024</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/overconfidence-is-a-dangerous-thing-mitigating-membership-inference-attacks-by-enforcing-less-confident-prediction/">Link</a></td>
+</tr>
+<tr>
+<td>SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems.</td>
+<td>NDSS</td>
+<td>2024</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/slmia-sr-speaker-level-membership-inference-attacks-against-speaker-recognition-systems/">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ndss-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Property Inference Attacks Against GANs.</td>
+<td>NDSS</td>
+<td>2022</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/auto-draft-240/">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ndss-2021"></a>
+<h3 class="year-heading">2021</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Practical Blind Membership Inference Attack via Differential Comparisons.</td>
+<td>NDSS</td>
+<td>2021</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/practical-blind-membership-inference-attack-via-differential-comparisons/">Link</a></td>
+</tr>
+<tr>
+<td>Preventing and Detecting State Inference Attacks on Android.</td>
+<td>NDSS</td>
+<td>2021</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/preventing-and-detecting-state-inference-attacks-on-android/">Link</a></td>
+</tr>
+<tr>
+<td>Zoom on the Keystrokes: Exploiting Video Calls for Keystroke Inference Attacks.</td>
+<td>NDSS</td>
+<td>2021</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/zoom-on-the-keystrokes-exploiting-video-calls-for-keystroke-inference-attacks/">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ndss-2020"></a>
+<h3 class="year-heading">2020</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States through XS-Leaks.</td>
+<td>NDSS</td>
+<td>2020</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/cross-origin-state-inference-cosi-attacks-leaking-web-site-states-through-xs-leaks/">Link</a></td>
+</tr>
+<tr>
+<td>Genotype Extraction and False Relative Attacks: Security Risks to Third-Party Genetic Genealogy Services Beyond Identity Inference.</td>
+<td>NDSS</td>
+<td>2020</td>
+<td><a href="https://www.ndss-symposium.org/ndss-paper/genotype-extraction-and-false-relative-attacks-security-risks-to-third-party-genetic-genealogy-services-beyond-identity-inference/">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="ndss-2019"></a>
@@ -3224,6 +3521,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>FedMIA: An Effective Membership Inference Attack Exploiting &quot;All for One&quot; Principle in Federated Learning.</td>
+<td>CVPR</td>
+<td>2025</td>
+<td><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_FedMIA_An_Effective_Membership_Inference_Attack_Exploiting_All_for_One_CVPR_2025_paper.html">Link</a></td>
+</tr>
+<tr>
 <td>Scaling Inference Time Compute for Diffusion Models.</td>
 <td>CVPR</td>
 <td>2025</td>
@@ -3271,6 +3574,12 @@ permalink: /model-inference-attack/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Deep-TROJ: An Inference Stage Trojan Insertion Algorithm Through Efficient Weight Replacement Attack.</td>
+<td>CVPR</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/CVPR52733.2024.02343">Link</a></td>
+</tr>
 <tr>
 <td>DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models.</td>
 <td>CVPR</td>
@@ -3354,6 +3663,12 @@ permalink: /model-inference-attack/
 <td>CVPR</td>
 <td>2021</td>
 <td><a href="https://openaccess.thecvf.com/content/CVPR2021/html/An_Learning_Deep_Latent_Variable_Models_by_Short-Run_MCMC_Inference_With_CVPR_2021_paper.html">Link</a></td>
+</tr>
+<tr>
+<td>On the Difficulty of Membership Inference Attacks.</td>
+<td>CVPR</td>
+<td>2021</td>
+<td><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Rezaei_On_the_Difficulty_of_Membership_Inference_Attacks_CVPR_2021_paper.html">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -3598,6 +3913,12 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1109/ICCV48922.2021.01248">Link</a></td>
 </tr>
 <tr>
+<td>Membership Inference Attacks are Easier on Difficult Problems.</td>
+<td>ICCV</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1109/ICCV48922.2021.01455">Link</a></td>
+</tr>
+<tr>
 <td>PixelPyramids: Exact Inference Models from Lossless Image Pyramids.</td>
 <td>ICCV</td>
 <td>2021</td>
@@ -3785,6 +4106,36 @@ permalink: /model-inference-attack/
 <td>2024</td>
 <td><a href="https://doi.org/10.1007/978-3-031-72643-9_4">Link</a></td>
 </tr>
+<tr>
+<td>SIMBA: Split Inference - Mechanisms, Benchmarks and Attacks.</td>
+<td>ECCV</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1007/978-3-031-73116-7_13">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="eccv-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning.</td>
+<td>ECCV</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1007/978-3-031-19821-2_21">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="eccv-2020"></a>
@@ -3814,6 +4165,12 @@ permalink: /model-inference-attack/
 <td>ECCV</td>
 <td>2020</td>
 <td><a href="https://doi.org/10.1007/978-3-030-58536-5_11">Link</a></td>
+</tr>
+<tr>
+<td>Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic Image Segmentation.</td>
+<td>ECCV</td>
+<td>2020</td>
+<td><a href="https://doi.org/10.1007/978-3-030-58592-1_31">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -3999,6 +4356,12 @@ permalink: /model-inference-attack/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Center-Based Relaxed Learning Against Membership Inference Attacks.</td>
+<td>UAI</td>
+<td>2024</td>
+<td><a href="https://proceedings.mlr.press/v244/fang24a.html">Link</a></td>
+</tr>
 <tr>
 <td>Optimizing Language Models for Human Preferences is a Causal Inference Problem.</td>
 <td>UAI</td>
@@ -4620,6 +4983,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks.</td>
+<td>IJCAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.24963/ijcai.2025/375">Link</a></td>
+</tr>
+<tr>
 <td>Efficient Inter-Operator Scheduling for Concurrent Recommendation Model Inference on GPU.</td>
 <td>IJCAI</td>
 <td>2025</td>
@@ -4636,6 +5005,12 @@ permalink: /model-inference-attack/
 <td>IJCAI</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.24963/ijcai.2025/43">Link</a></td>
+</tr>
+<tr>
+<td>Where Does This Data Come From? Enhanced Source Inference Attacks in Federated Learning.</td>
+<td>IJCAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.24963/ijcai.2025/536">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -4661,6 +5036,18 @@ permalink: /model-inference-attack/
 <td>2024</td>
 <td><a href="https://www.ijcai.org/proceedings/2024/634">Link</a></td>
 </tr>
+<tr>
+<td>Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought.</td>
+<td>IJCAI</td>
+<td>2024</td>
+<td><a href="https://www.ijcai.org/proceedings/2024/639">Link</a></td>
+</tr>
+<tr>
+<td>When Fairness Meets Privacy: Exploring Privacy Threats in Fair Binary Classifiers via Membership Inference Attacks.</td>
+<td>IJCAI</td>
+<td>2024</td>
+<td><a href="https://www.ijcai.org/proceedings/2024/57">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="ijcai-2022"></a>
@@ -4685,6 +5072,12 @@ permalink: /model-inference-attack/
 <td>2022</td>
 <td><a href="https://doi.org/10.24963/ijcai.2022/796">Link</a></td>
 </tr>
+<tr>
+<td>To Trust or Not To Trust Prediction Scores for Membership Inference Attacks.</td>
+<td>IJCAI</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.24963/ijcai.2022/422">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="ijcai-2021"></a>
@@ -4703,6 +5096,12 @@ permalink: /model-inference-attack/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Against Membership Inference Attack: Pruning is All You Need.</td>
+<td>IJCAI</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.24963/ijcai.2021/432">Link</a></td>
+</tr>
 <tr>
 <td>Fine-Grained Air Quality Inference via Multi-Channel Attention Model.</td>
 <td>IJCAI</td>
@@ -5138,6 +5537,12 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1609/aaai.v39i21.34371">Link</a></td>
 </tr>
 <tr>
+<td>Attribute Inference Attacks for Federated Regression Tasks.</td>
+<td>AAAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1609/aaai.v39i15.33787">Link</a></td>
+</tr>
+<tr>
 <td>BigMac: A Communication-Efficient Mixture-of-Experts Model Structure for Fast Training and Inference.</td>
 <td>AAAI</td>
 <td>2025</td>
@@ -5198,10 +5603,22 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1609/aaai.v39i20.35404">Link</a></td>
 </tr>
 <tr>
+<td>Personalized Label Inference Attack in Federated Transfer Learning via Contrastive Meta Learning.</td>
+<td>AAAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1609/aaai.v39i21.34438">Link</a></td>
+</tr>
+<tr>
 <td>Privacy-Preserving Low-Rank Adaptation Against Membership Inference Attacks for Latent Diffusion Models.</td>
 <td>AAAI</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1609/aaai.v39i6.32628">Link</a></td>
+</tr>
+<tr>
+<td>Prompt-based Unifying Inference Attack on Graph Neural Networks.</td>
+<td>AAAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1609/aaai.v39i12.33400">Link</a></td>
 </tr>
 <tr>
 <td>Scalable and Efficient Probabilistic Inference for Bayesian Deep Learning and Generative Modeling.</td>
@@ -5269,6 +5686,12 @@ permalink: /model-inference-attack/
 <td>2024</td>
 <td><a href="https://doi.org/10.1609/aaai.v38i19.30136">Link</a></td>
 </tr>
+<tr>
+<td>Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning against Attribute Inference Attacks.</td>
+<td>AAAI</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1609/aaai.v38i10.28965">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="aaai-2023"></a>
@@ -5294,16 +5717,40 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1609/aaai.v37i6.25869">Link</a></td>
 </tr>
 <tr>
+<td>GAN-Based Domain Inference Attack.</td>
+<td>AAAI</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1609/aaai.v37i12.26663">Link</a></td>
+</tr>
+<tr>
 <td>Improving Training and Inference of Face Recognition Models via Random Temperature Scaling.</td>
 <td>AAAI</td>
 <td>2023</td>
 <td><a href="https://doi.org/10.1609/aaai.v37i12.26760">Link</a></td>
 </tr>
 <tr>
+<td>Purifier: Defending Data Inference Attacks via Transforming Confidence Scores.</td>
+<td>AAAI</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1609/aaai.v37i9.26289">Link</a></td>
+</tr>
+<tr>
+<td>Redactor: A Data-Centric and Individualized Defense against Inference Attacks.</td>
+<td>AAAI</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1609/aaai.v37i12.26737">Link</a></td>
+</tr>
+<tr>
 <td>Seq2Seq Surrogates of Epidemic Models to Facilitate Bayesian Inference.</td>
 <td>AAAI</td>
 <td>2023</td>
 <td><a href="https://doi.org/10.1609/aaai.v37i12.26658">Link</a></td>
+</tr>
+<tr>
+<td>Similarity Distribution Based Membership Inference Attack on Person Re-identification.</td>
+<td>AAAI</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1609/aaai.v37i12.26731">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -5848,6 +6295,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Exposing Privacy Gaps: Membership Inference Attack on Preference Data for LLM Alignment.</td>
+<td>AISTATS</td>
+<td>2025</td>
+<td><a href="https://proceedings.mlr.press/v258/feng25a.html">Link</a></td>
+</tr>
+<tr>
 <td>Posterior Mean Matching: Generative Modeling through Online Bayesian Inference.</td>
 <td>AISTATS</td>
 <td>2025</td>
@@ -5914,10 +6367,28 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Active Membership Inference Attack under Local Differential Privacy in Federated Learning.</td>
+<td>AISTATS</td>
+<td>2023</td>
+<td><a href="https://proceedings.mlr.press/v206/nguyen23e.html">Link</a></td>
+</tr>
+<tr>
 <td>Compositional Probabilistic and Causal Inference using Tractable Circuit Models.</td>
 <td>AISTATS</td>
 <td>2023</td>
 <td><a href="https://proceedings.mlr.press/v206/wang23o.html">Link</a></td>
+</tr>
+<tr>
+<td>Does Label Differential Privacy Prevent Label Inference Attacks?</td>
+<td>AISTATS</td>
+<td>2023</td>
+<td><a href="https://proceedings.mlr.press/v206/wu23a.html">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks against Synthetic Data through Overfitting Detection.</td>
+<td>AISTATS</td>
+<td>2023</td>
+<td><a href="https://proceedings.mlr.press/v206/breugel23a.html">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -6474,6 +6945,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Adaptive Domain Inference Attack with Concept Hierarchy.</td>
+<td>KDD</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3690624.3709332">Link</a></td>
+</tr>
+<tr>
 <td>Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences.</td>
 <td>KDD</td>
 <td>2025</td>
@@ -6553,6 +7030,30 @@ permalink: /model-inference-attack/
 </tr>
 </tbody></table>
 
+<a id="kdd-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Debiasing Learning for Membership Inference Attacks Against Recommender Systems.</td>
+<td>KDD</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3534678.3539392">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="kdd-2021"></a>
 <h3 class="year-heading">2021</h3>
 <table class="paper-table">
@@ -6570,10 +7071,22 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Defending Privacy Against More Knowledgeable Membership Inference Attackers.</td>
+<td>KDD</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1145/3447548.3467444">Link</a></td>
+</tr>
+<tr>
 <td>JIZHI: A Fast and Cost-Effective Model-As-A-Service System for Web-Scale Online Inference at Baidu.</td>
 <td>KDD</td>
 <td>2021</td>
 <td><a href="https://doi.org/10.1145/3447548.3467146">Link</a></td>
+</tr>
+<tr>
+<td>PAR-GAN: Improving the Generalization of Generative Adversarial Networks Against Membership Inference Attacks.</td>
+<td>KDD</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1145/3447548.3467445">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -6709,6 +7222,12 @@ permalink: /model-inference-attack/
 <td>2024</td>
 <td><a href="https://doi.org/10.1145/3616855.3636507">Link</a></td>
 </tr>
+<tr>
+<td>User Consented Federated Recommender System Against Personalized Attribute Inference Attack.</td>
+<td>WSDM</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3616855.3635830">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="wsdm-2012"></a>
@@ -6760,6 +7279,24 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>BFId: Identity Inference Attacks Utilizing Beamforming Feedback Information.</td>
+<td>CCS</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3719027.3765062">Link</a></td>
+</tr>
+<tr>
+<td>DCMI:  A Differential Calibration Membership Inference Attack Against Retrieval-Augmented Generation.</td>
+<td>CCS</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3719027.3765103">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks as Privacy Tools: Reliability, Disparity and Ensemble.</td>
+<td>CCS</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3719027.3744818">Link</a></td>
+</tr>
+<tr>
 <td>Prompt Inference Attack on Distributed Large Language Model Inference Frameworks.</td>
 <td>CCS</td>
 <td>2025</td>
@@ -6770,6 +7307,72 @@ permalink: /model-inference-attack/
 <td>CCS</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1145/3719027.3765228">Link</a></td>
+</tr>
+<tr>
+<td>Safeguarding Graph Neural Networks against Topology Inference Attacks.</td>
+<td>CCS</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3719027.3765173">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ccs-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>GAZEploit: Remote Keystroke Inference Attack by Gaze Estimation from Avatar Views in VR/MR Devices.</td>
+<td>CCS</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3658644.3690285">Link</a></td>
+</tr>
+<tr>
+<td>Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks.</td>
+<td>CCS</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3658644.3690316">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Against In-Context Learning.</td>
+<td>CCS</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3658644.3690306">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks against Vision Transformers: Mosaic MixUp Training to the Defense.</td>
+<td>CCS</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3658644.3690268">Link</a></td>
+</tr>
+<tr>
+<td>Poster: Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling.</td>
+<td>CCS</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3658644.3691411">Link</a></td>
+</tr>
+<tr>
+<td>QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems.</td>
+<td>CCS</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3658644.3690272">Link</a></td>
+</tr>
+<tr>
+<td>SeqMIA: Sequential-Metric Based Membership Inference Attack.</td>
+<td>CCS</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3658644.3690335">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -6795,6 +7398,12 @@ permalink: /model-inference-attack/
 <td>2023</td>
 <td><a href="https://doi.org/10.1145/3576915.3616592">Link</a></td>
 </tr>
+<tr>
+<td>Poster: Membership Inference Attacks via Contrastive Learning.</td>
+<td>CCS</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1145/3576915.3624384">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="ccs-2022"></a>
@@ -6814,10 +7423,94 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>A Run a Day Won&apos;t Keep the Hacker Away: Inference Attacks on Endpoint Privacy Zones in Fitness Tracking Social Networks.</td>
+<td>CCS</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3548606.3560616">Link</a></td>
+</tr>
+<tr>
+<td>Are Attribute Inference Attacks Just Imputation?</td>
+<td>CCS</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3548606.3560663">Link</a></td>
+</tr>
+<tr>
 <td>Enhanced Membership Inference Attacks against Machine Learning Models.</td>
 <td>CCS</td>
 <td>2022</td>
 <td><a href="https://doi.org/10.1145/3548606.3560675">Link</a></td>
+</tr>
+<tr>
+<td>Feature Inference Attack on Shapley Values.</td>
+<td>CCS</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3548606.3560573">Link</a></td>
+</tr>
+<tr>
+<td>Group Property Inference Attacks Against Graph Neural Networks.</td>
+<td>CCS</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3548606.3560662">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks and Generalization: A Causal Perspective.</td>
+<td>CCS</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3548606.3560694">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks by Exploiting Loss Trajectory.</td>
+<td>CCS</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3548606.3560684">Link</a></td>
+</tr>
+<tr>
+<td>QuerySnout: Automating the Discovery of Attribute Inference Attacks against Query-Based Systems.</td>
+<td>CCS</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3548606.3560581">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ccs-2021"></a>
+<h3 class="year-heading">2021</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Membership Inference Attacks Against Recommender Systems.</td>
+<td>CCS</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1145/3460120.3484770">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks against GANs by Leveraging Over-representation Regions.</td>
+<td>CCS</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1145/3460120.3485338">Link</a></td>
+</tr>
+<tr>
+<td>Periscope: A Keystroke Inference Attack Using Human Coupled Electromagnetic Emanations.</td>
+<td>CCS</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1145/3460120.3484549">Link</a></td>
+</tr>
+<tr>
+<td>Unleashing the Tiger: Inference Attacks on Split Learning.</td>
+<td>CCS</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1145/3460120.3485259">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -6845,6 +7538,150 @@ permalink: /model-inference-attack/
 </tr>
 </tbody></table>
 
+<a id="ccs-2019"></a>
+<h3 class="year-heading">2019</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples.</td>
+<td>CCS</td>
+<td>2019</td>
+<td><a href="https://doi.org/10.1145/3319535.3363201">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ccs-2018"></a>
+<h3 class="year-heading">2018</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations.</td>
+<td>CCS</td>
+<td>2018</td>
+<td><a href="https://doi.org/10.1145/3243734.3243834">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ccs-2016"></a>
+<h3 class="year-heading">2016</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>The Shadow Nemesis: Inference Attacks on Efficiently Deployable, Efficiently Searchable Encryption.</td>
+<td>CCS</td>
+<td>2016</td>
+<td><a href="https://doi.org/10.1145/2976749.2978401">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ccs-2015"></a>
+<h3 class="year-heading">2015</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Inference Attacks on Property-Preserving Encrypted Databases.</td>
+<td>CCS</td>
+<td>2015</td>
+<td><a href="https://doi.org/10.1145/2810103.2813651">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ccs-2012"></a>
+<h3 class="year-heading">2012</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Collaborative TCP sequence number inference attack: how to crack sequence number under a second.</td>
+<td>CCS</td>
+<td>2012</td>
+<td><a href="https://doi.org/10.1145/2382196.2382258">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ccs-2011"></a>
+<h3 class="year-heading">2011</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Poster: inference attacks against searchable encryption protocols.</td>
+<td>CCS</td>
+<td>2011</td>
+<td><a href="https://dl.acm.org/citation.cfm?id=2093508">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ccs-2010"></a>
 <h3 class="year-heading">2010</h3>
 <table class="paper-table">
@@ -6866,6 +7703,12 @@ permalink: /model-inference-attack/
 <td>CCS</td>
 <td>2010</td>
 <td><a href="https://doi.org/10.1145/1866307.1866355">Link</a></td>
+</tr>
+<tr>
+<td>Protecting location privacy against inference attacks.</td>
+<td>CCS</td>
+<td>2010</td>
+<td><a href="https://doi.org/10.1145/1866307.1866406">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -7012,6 +7855,12 @@ permalink: /model-inference-attack/
 <td>ACL</td>
 <td>2025</td>
 <td><a href="https://aclanthology.org/2025.acl-long.685/">Link</a></td>
+</tr>
+<tr>
+<td>Sampling-based Pseudo-Likelihood for Membership Inference Attacks.</td>
+<td>ACL</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-acl.465/">Link</a></td>
 </tr>
 <tr>
 <td>Scaling Laws and Efficient Inference for Ternary Language Models.</td>
@@ -7828,6 +8677,12 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.18653/v1/2023.emnlp-main.825">Link</a></td>
 </tr>
 <tr>
+<td>LogicAttack: Adversarial Attacks for Evaluating Logical Consistency of Natural Language Inference.</td>
+<td>EMNLP</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.18653/v1/2023.findings-emnlp.889">Link</a></td>
+</tr>
+<tr>
 <td>SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision.</td>
 <td>EMNLP</td>
 <td>2023</td>
@@ -8288,6 +9143,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Defending against Attribute Inference Attacks in Post-Training of Recommendation Systems via Unlearning.</td>
+<td>ICDE</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/ICDE65448.2025.00200">Link</a></td>
+</tr>
+<tr>
 <td>SeSeMI: Secure Serverless Model Inference on Sensitive Data.</td>
 <td>ICDE</td>
 <td>2025</td>
@@ -8416,6 +9277,18 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications.</td>
+<td>ICDM</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1109/ICDM51629.2021.00182">Link</a></td>
+</tr>
+<tr>
+<td>Source Inference Attacks in Federated Learning.</td>
+<td>ICDM</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1109/ICDM51629.2021.00129">Link</a></td>
+</tr>
+<tr>
 <td>Spatially and Robustly Hybrid Mixture Regression Model for Inference of Spatial Dependence.</td>
 <td>ICDM</td>
 <td>2021</td>
@@ -8506,6 +9379,12 @@ permalink: /model-inference-attack/
 <td>WACV</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1109/WACV57701.2024.00477">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack Using Self Influence Functions.</td>
+<td>WACV</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/WACV57701.2024.00482">Link</a></td>
 </tr>
 <tr>
 <td>PATROL: Privacy-Oriented Pruning for Collaborative Inference Against Model Inversion Attacks.</td>
@@ -8926,10 +9805,22 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1145/3701716.3735082">Link</a></td>
 </tr>
 <tr>
+<td>Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems against Attribute Inference Attacks.</td>
+<td>WWW</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3696410.3714823">Link</a></td>
+</tr>
+<tr>
 <td>BATON: Enhancing Batch-wise Inference Efficiency for Large Language Models via Dynamic Re-batching.</td>
 <td>WWW</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1145/3696410.3714950">Link</a></td>
+</tr>
+<tr>
+<td>Mask-based Membership Inference Attacks for Retrieval-Augmented Generation.</td>
+<td>WWW</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3696410.3714771">Link</a></td>
 </tr>
 <tr>
 <td>Self-Comparison for Dataset-Level Membership Inference in Large (Vision-)Language Model.</td>
@@ -8961,6 +9852,18 @@ permalink: /model-inference-attack/
 <td>2024</td>
 <td><a href="https://doi.org/10.1145/3589334.3645505">Link</a></td>
 </tr>
+<tr>
+<td>Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation.</td>
+<td>WWW</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3589334.3645410">Link</a></td>
+</tr>
+<tr>
+<td>Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks.</td>
+<td>WWW</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3589335.3651555">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="www-2023"></a>
@@ -8985,6 +9888,18 @@ permalink: /model-inference-attack/
 <td>2023</td>
 <td><a href="https://doi.org/10.1145/3543507.3583306">Link</a></td>
 </tr>
+<tr>
+<td>Interaction-level Membership Inference Attack Against Federated Recommender Systems.</td>
+<td>WWW</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1145/3543507.3583359">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Against Sequential Recommender Systems.</td>
+<td>WWW</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1145/3543507.3583447">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="www-2022"></a>
@@ -9008,6 +9923,30 @@ permalink: /model-inference-attack/
 <td>WWW</td>
 <td>2022</td>
 <td><a href="https://doi.org/10.1145/3485447.3512144">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="www-2021"></a>
+<h3 class="year-heading">2021</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Graph Embedding for Recommendation against Attribute Inference Attacks.</td>
+<td>WWW</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1145/3442381.3449813">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -9106,6 +10045,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>I know the shortened URLs you clicked on Twitter: inference attack using public click analytics and Twitter metadata.</td>
+<td>WWW</td>
+<td>2013</td>
+<td><a href="https://doi.org/10.1145/2488388.2488492">Link</a></td>
+</tr>
+<tr>
 <td>MATRI: a multi-aspect and transitive trust inference model.</td>
 <td>WWW</td>
 <td>2013</td>
@@ -9134,6 +10079,30 @@ permalink: /model-inference-attack/
 <td>WWW</td>
 <td>2012</td>
 <td><a href="https://doi.org/10.1145/2187836.2187955">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="www-2011"></a>
+<h3 class="year-heading">2011</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Automatic sanitization of social network data to prevent inference attacks.</td>
+<td>WWW</td>
+<td>2011</td>
+<td><a href="https://doi.org/10.1145/1963192.1963221">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -9646,6 +10615,12 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1109/SP61157.2025.00182">Link</a></td>
 </tr>
 <tr>
+<td>Inference Attacks for X-Vector Speaker Anonymization.</td>
+<td>SP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/SPW67851.2025.00020">Link</a></td>
+</tr>
+<tr>
 <td>Membership Inference Attacks on Sequence Models.</td>
 <td>SP</td>
 <td>2025</td>
@@ -9656,6 +10631,36 @@ permalink: /model-inference-attack/
 <td>SP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/SP61157.2025.00160">Link</a></td>
+</tr>
+<tr>
+<td>Rigging the Foundation: Manipulating Pre-training for Advanced Membership Inference Attacks.</td>
+<td>SP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/SP61157.2025.00177">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="sp-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack.</td>
+<td>SP</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/SP54263.2024.00120">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -9686,6 +10691,30 @@ permalink: /model-inference-attack/
 <td>SP</td>
 <td>2023</td>
 <td><a href="https://doi.org/10.1109/SP46215.2023.10179382">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="sp-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Membership Inference Attacks From First Principles.</td>
+<td>SP</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1109/SP46214.2022.9833649">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -9721,6 +10750,54 @@ permalink: /model-inference-attack/
 </tr>
 </tbody></table>
 
+<a id="ieee symposium on security and privacy workshops-2016"></a>
+<h3 class="year-heading">2016</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Sensor-Based Mobile Web Fingerprinting and Cross-Site Input Inference Attacks.</td>
+<td>IEEE Symposium on Security and Privacy Workshops</td>
+<td>2016</td>
+<td><a href="https://doi.org/10.1109/SPW.2016.17">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee symposium on security and privacy workshops-2015"></a>
+<h3 class="year-heading">2015</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Quantifying Genomic Privacy via Inference Attack with High-Order SNV Correlations.</td>
+<td>IEEE Symposium on Security and Privacy Workshops</td>
+<td>2015</td>
+<td><a href="https://doi.org/10.1109/SPW.2015.21">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee symposium on security and privacy workshops-2013"></a>
 <h3 class="year-heading">2013</h3>
 <table class="paper-table">
@@ -9753,6 +10830,30 @@ permalink: /model-inference-attack/
 
 <summary>Expand IEEE Symposium on Security and Privacy</summary>
 
+<a id="ieee symposium on security and privacy-2019"></a>
+<h3 class="year-heading">2019</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning.</td>
+<td>IEEE Symposium on Security and Privacy</td>
+<td>2019</td>
+<td><a href="https://doi.org/10.1109/SP.2019.00065">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee symposium on security and privacy-2017"></a>
 <h3 class="year-heading">2017</h3>
 <table class="paper-table">
@@ -9774,6 +10875,60 @@ permalink: /model-inference-attack/
 <td>IEEE Symposium on Security and Privacy</td>
 <td>2017</td>
 <td><a href="https://doi.org/10.1109/SP.2017.41">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee symposium on security and privacy-2016"></a>
+<h3 class="year-heading">2016</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>No Pardon for the Interruption: New Inference Attacks on Android Through Interrupt Timing Analysis.</td>
+<td>IEEE Symposium on Security and Privacy</td>
+<td>2016</td>
+<td><a href="https://doi.org/10.1109/SP.2016.32">Link</a></td>
+</tr>
+<tr>
+<td>Return to the Zombie Gadgets: Undermining Destructive Code Reads via Code Inference Attacks.</td>
+<td>IEEE Symposium on Security and Privacy</td>
+<td>2016</td>
+<td><a href="https://doi.org/10.1109/SP.2016.61">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee symposium on security and privacy-2012"></a>
+<h3 class="year-heading">2012</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Off-path TCP Sequence Number Inference Attack - How Firewall Middleboxes Reduce Security.</td>
+<td>IEEE Symposium on Security and Privacy</td>
+<td>2012</td>
+<td><a href="https://doi.org/10.1109/SP.2012.29">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -9834,6 +10989,18 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Disparate Privacy Vulnerability: Targeted Attribute Inference Attacks and Defenses.</td>
+<td>USENIX Security Symposium</td>
+<td>2025</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/kabir">Link</a></td>
+</tr>
+<tr>
+<td>Enhanced Label-Only Membership Inference Attacks with Fewer Queries.</td>
+<td>USENIX Security Symposium</td>
+<td>2025</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/li-hao">Link</a></td>
+</tr>
+<tr>
 <td>I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference.</td>
 <td>USENIX Security Symposium</td>
 <td>2025</td>
@@ -9844,6 +11011,24 @@ permalink: /model-inference-attack/
 <td>USENIX Security Symposium</td>
 <td>2025</td>
 <td><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/hu-yuke">Link</a></td>
+</tr>
+<tr>
+<td>Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective.</td>
+<td>USENIX Security Symposium</td>
+<td>2025</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/naderloui">Link</a></td>
+</tr>
+<tr>
+<td>Revisiting Training-Inference Trigger Intensity in Backdoor Attacks.</td>
+<td>USENIX Security Symposium</td>
+<td>2025</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/lin-chenhao">Link</a></td>
+</tr>
+<tr>
+<td>SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks.</td>
+<td>USENIX Security Symposium</td>
+<td>2025</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-kaiyuan">Link</a></td>
 </tr>
 <tr>
 <td>Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models.</td>
@@ -9870,10 +11055,34 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data.</td>
+<td>USENIX Security Symposium</td>
+<td>2024</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity24/presentation/annamalai-linear">Link</a></td>
+</tr>
+<tr>
+<td>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</td>
+<td>USENIX Security Symposium</td>
+<td>2024</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity24/presentation/yang-zhuolin">Link</a></td>
+</tr>
+<tr>
 <td>Did the Neurons Read your Book? Document-level Membership Inference for Large Language Models.</td>
 <td>USENIX Security Symposium</td>
 <td>2024</td>
 <td><a href="https://www.usenix.org/conference/usenixsecurity24/presentation/meeus">Link</a></td>
+</tr>
+<tr>
+<td>Inf2Guard: An Information-Theoretic Framework for Learning Privacy-Preserving Representations against Inference Attacks.</td>
+<td>USENIX Security Symposium</td>
+<td>2024</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity24/presentation/noorbakhsh">Link</a></td>
+</tr>
+<tr>
+<td>MIST: Defending Against Membership Inference Attacks Through Membership-Invariant Subspace Training.</td>
+<td>USENIX Security Symposium</td>
+<td>2024</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity24/presentation/li-jiacheng">Link</a></td>
 </tr>
 <tr>
 <td>Property Existence Inference against Generative Models.</td>
@@ -9886,6 +11095,30 @@ permalink: /model-inference-attack/
 <td>USENIX Security Symposium</td>
 <td>2024</td>
 <td><a href="https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="usenix security symposium-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Towards a General Video-based Keystroke Inference Attack.</td>
+<td>USENIX Security Symposium</td>
+<td>2023</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity23/presentation/yang-zhuolin">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -9912,10 +11145,40 @@ permalink: /model-inference-attack/
 <td><a href="https://www.usenix.org/conference/usenixsecurity22/presentation/mehnaz">Link</a></td>
 </tr>
 <tr>
+<td>Inference Attacks Against Graph Neural Networks.</td>
+<td>USENIX Security Symposium</td>
+<td>2022</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-zhikun">Link</a></td>
+</tr>
+<tr>
+<td>Label Inference Attacks Against Vertical Federated Learning.</td>
+<td>USENIX Security Symposium</td>
+<td>2022</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong">Link</a></td>
+</tr>
+<tr>
 <td>ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models.</td>
 <td>USENIX Security Symposium</td>
 <td>2022</td>
 <td><a href="https://www.usenix.org/conference/usenixsecurity22/presentation/liu-yugeng">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks and Defenses in Neural Network Pruning.</td>
+<td>USENIX Security Symposium</td>
+<td>2022</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity22/presentation/yuan-xiaoyong">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Membership Inference Attacks by Self-Distillation Through a Novel Ensemble Architecture.</td>
+<td>USENIX Security Symposium</td>
+<td>2022</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity22/presentation/tang">Link</a></td>
+</tr>
+<tr>
+<td>Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple&apos;s Count Mean Sketch in Practice.</td>
+<td>USENIX Security Symposium</td>
+<td>2022</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity22/presentation/gadotti">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -9935,6 +11198,12 @@ permalink: /model-inference-attack/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Acoustics to the Rescue: Physical Key Inference Attack Revisited.</td>
+<td>USENIX Security Symposium</td>
+<td>2021</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity21/presentation/ramesh">Link</a></td>
+</tr>
 <tr>
 <td>Hermes Attack: Steal DNN Models with Lossless Inference Accuracy.</td>
 <td>USENIX Security Symposium</td>
@@ -9964,6 +11233,84 @@ permalink: /model-inference-attack/
 <td>USENIX Security Symposium</td>
 <td>2020</td>
 <td><a href="https://www.usenix.org/conference/usenixsecurity20/presentation/leino">Link</a></td>
+</tr>
+<tr>
+<td>Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning.</td>
+<td>USENIX Security Symposium</td>
+<td>2020</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity20/presentation/salem">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="usenix security symposium-2018"></a>
+<h3 class="year-heading">2018</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning.</td>
+<td>USENIX Security Symposium</td>
+<td>2018</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity18/presentation/jia-jinyuan">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="usenix security symposium-2016"></a>
+<h3 class="year-heading">2016</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>You Are Who You Know and How You Behave: Attribute Inference Attacks via Users&apos; Social Friends and Behaviors.</td>
+<td>USENIX Security Symposium</td>
+<td>2016</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/gong">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="usenix security symposium-2014"></a>
+<h3 class="year-heading">2014</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Peeking into Your App without Actually Seeing It: UI State Inference and Novel Android Attacks.</td>
+<td>USENIX Security Symposium</td>
+<td>2014</td>
+<td><a href="https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/chen">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -10557,6 +11904,12 @@ permalink: /model-inference-attack/
 <td>2024</td>
 <td><a href="https://doi.org/10.1145/3627673.3679806">Link</a></td>
 </tr>
+<tr>
+<td>Interaction-level Membership Inference Attack against Recommender Systems with Long-tailed Distribution.</td>
+<td>CIKM</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1145/3627673.3679804">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="cikm-2023"></a>
@@ -10948,6 +12301,30 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand Mach. Learn.</summary>
+
+<a id="mach. learn.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>HFIA: a parasitic feature inference attack and gradient-based defense strategy in SplitNN-based vertical federated learning.</td>
+<td>Mach. Learn.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1007/s10994-025-06804-2">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="mach. learn.-2024"></a>
 <h3 class="year-heading">2024</h3>
@@ -11470,6 +12847,12 @@ permalink: /model-inference-attack/
 <td>J. Mach. Learn. Res.</td>
 <td>2017</td>
 <td><a href="https://jmlr.org/papers/v18/15-468.html">Link</a></td>
+</tr>
+<tr>
+<td>Minimax Filter: Learning to Preserve Privacy from Inference Attacks.</td>
+<td>J. Mach. Learn. Res.</td>
+<td>2017</td>
+<td><a href="https://jmlr.org/papers/v18/16-501.html">Link</a></td>
 </tr>
 <tr>
 <td>Online but Accurate Inference for Latent Variable Models with Local Gibbs Sampling.</td>
@@ -12527,6 +13910,12 @@ permalink: /model-inference-attack/
 <td>2014</td>
 <td><a href="https://doi.org/10.1109/TSP.2014.2319775">Link</a></td>
 </tr>
+<tr>
+<td>Distributed Inference With M-Ary Quantized Data in the Presence of Byzantine Attacks.</td>
+<td>IEEE Trans. Signal Process.</td>
+<td>2014</td>
+<td><a href="https://doi.org/10.1109/TSP.2014.2314072">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="ieee trans. signal process.-2012"></a>
@@ -12912,10 +14301,28 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>A Membership Inference and Adversarial Attack Defense Framework for Network Traffic Classifiers.</td>
+<td>IEEE Trans. Artif. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TAI.2024.3357791">Link</a></td>
+</tr>
+<tr>
 <td>Deep Reinforcement Learning Data Collection for Bayesian Inference of Hidden Markov Models.</td>
 <td>IEEE Trans. Artif. Intell.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TAI.2024.3515939">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Inference Attack and Defense in Centralized and Federated Learning: A Comprehensive Survey.</td>
+<td>IEEE Trans. Artif. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TAI.2024.3363670">Link</a></td>
+</tr>
+<tr>
+<td>meMIA: Multilevel Ensemble Membership Inference Attack.</td>
+<td>IEEE Trans. Artif. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TAI.2024.3445326">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -12940,6 +14347,12 @@ permalink: /model-inference-attack/
 <td>IEEE Trans. Artif. Intell.</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1109/TAI.2024.3358261">Link</a></td>
+</tr>
+<tr>
+<td>Securing User Privacy in Cloud-Based Whiteboard Services Against Health Attribute Inference Attacks.</td>
+<td>IEEE Trans. Artif. Intell.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TAI.2024.3352529">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -12992,10 +14405,40 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Camouflaged Variational Graph AutoEncoder Against Attribute Inference Attacks for Cross-Domain Recommendation.</td>
+<td>IEEE Trans. Knowl. Data Eng.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TKDE.2025.3565793">Link</a></td>
+</tr>
+<tr>
 <td>Large Language Models Meet Causal Inference: Semantic-Rich Dual Propensity Score for Sequential Recommendation.</td>
 <td>IEEE Trans. Knowl. Data Eng.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TKDE.2025.3606149">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. knowl. data eng.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Comprehensive Privacy Analysis on Federated Recommender System Against Attribute Inference Attacks.</td>
+<td>IEEE Trans. Knowl. Data Eng.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TKDE.2023.3295601">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -13071,6 +14514,30 @@ permalink: /model-inference-attack/
 </tr>
 </tbody></table>
 
+<a id="ieee trans. knowl. data eng.-2013"></a>
+<h3 class="year-heading">2013</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Preventing Private Information Inference Attacks on Social Networks.</td>
+<td>IEEE Trans. Knowl. Data Eng.</td>
+<td>2013</td>
+<td><a href="https://doi.org/10.1109/TKDE.2012.120">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. knowl. data eng.-2008"></a>
 <h3 class="year-heading">2008</h3>
 <table class="paper-table">
@@ -13126,6 +14593,60 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand IEEE Trans. Big Data</summary>
+
+<a id="ieee trans. big data-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MemDefense: Defending Against Membership Inference Attacks in IoT-Based Federated Learning via Pruning Perturbations.</td>
+<td>IEEE Trans. Big Data</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TBDATA.2024.3403388">Link</a></td>
+</tr>
+<tr>
+<td>Topology-Based Node-Level Membership Inference Attacks on Graph Neural Networks.</td>
+<td>IEEE Trans. Big Data</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TBDATA.2025.3558855">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. big data-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Defending Batch-Level Label Inference and Replacement Attacks in Vertical Federated Learning.</td>
+<td>IEEE Trans. Big Data</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TBDATA.2022.3192121">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="ieee trans. big data-2019"></a>
 <h3 class="year-heading">2019</h3>
@@ -13667,6 +15188,12 @@ permalink: /model-inference-attack/
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TETCI.2024.3502472">Link</a></td>
 </tr>
+<tr>
+<td>Privacy-Enhanced Federated GNN Inference Against Adversarial Example Attack.</td>
+<td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TETCI.2024.3502434">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="ieee trans. emerg. top. comput. intell.-2024"></a>
@@ -13808,6 +15335,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>Differentially Private Tripartite Intelligent Matching Against Inference Attacks in Ride-Sharing Services.</td>
+<td>IEEE Trans. Intell. Transp. Syst.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1109/TITS.2021.3136386">Link</a></td>
+</tr>
+<tr>
 <td>Modeling Driver Responses to Automation Failures With Active Inference.</td>
 <td>IEEE Trans. Intell. Transp. Syst.</td>
 <td>2022</td>
@@ -13864,6 +15397,48 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>A Security Mechanism Against Inference Attacks on Networked Systems.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3616608">Link</a></td>
+</tr>
+<tr>
+<td>Attackers Are Not the Same! Unveiling the Impact of Feature Distribution on Label Inference Attacks.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3498464">Link</a></td>
+</tr>
+<tr>
+<td>Comparing Different Membership Inference Attacks With a Comprehensive Benchmark.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3550070">Link</a></td>
+</tr>
+<tr>
+<td>GLiRA: Closed-Box Membership Inference Attack via Knowledge Distillation.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3550068">Link</a></td>
+</tr>
+<tr>
+<td>Learning-Based Privacy-Preserving Graph Publishing Against Sensitive Link Inference Attacks.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3592828">Link</a></td>
+</tr>
+<tr>
+<td>On the Impact of Uncertainty and Calibration on Likelihood-Ratio Membership Inference Attacks.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3578931">Link</a></td>
+</tr>
+<tr>
+<td>ProVFL: Property Inference Attacks Against Vertical Federated Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3581743">Link</a></td>
+</tr>
+<tr>
 <td>Unlocking Generative Priors: A New Membership Inference Framework for Diffusion Models.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
@@ -13894,10 +15469,40 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1109/TIFS.2024.3428412">Link</a></td>
 </tr>
 <tr>
+<td>Defending Against Membership Inference Attack for Counterfactual Federated Recommendation With Differentially Private Representation Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3453031">Link</a></td>
+</tr>
+<tr>
 <td>Gradient-Leaks: Enabling Black-Box Membership Inference Attacks Against Machine Learning Models.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1109/TIFS.2023.3324772">Link</a></td>
+</tr>
+<tr>
+<td>Preserving Privacy in GANs Against Membership Inference Attack.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2023.3342654">Link</a></td>
+</tr>
+<tr>
+<td>RFTrack: Stealthy Location Inference and Tracking Attack on Wi-Fi Devices.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3404810">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking Membership Inference Attacks Against Transfer Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3413592">Link</a></td>
+</tr>
+<tr>
+<td>Similarity-Based Label Inference Attack Against Training and Inference of Split Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TIFS.2024.3356821">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -13928,6 +15533,66 @@ permalink: /model-inference-attack/
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2023</td>
 <td><a href="https://doi.org/10.1109/TIFS.2023.3318950">Link</a></td>
+</tr>
+<tr>
+<td>TEAR: Exploring Temporal Evolution of Adversarial Robustness for Membership Inference Attacks Against Federated Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TIFS.2023.3303718">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. inf. forensics secur.-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Randomized Filtering Strategy Against Inference Attacks on Active Steering Control Systems.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1109/TIFS.2021.3130439">Link</a></td>
+</tr>
+<tr>
+<td>One Parameter Defense - Defending Against Data Inference Attacks via Differential Privacy.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1109/TIFS.2022.3163591">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="ieee trans. inf. forensics secur.-2019"></a>
+<h3 class="year-heading">2019</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Sensor-Based Mobile Web Cross-Site Input Inference Attacks and Defenses.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2019</td>
+<td><a href="https://doi.org/10.1109/TIFS.2018.2843353">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -13998,6 +15663,30 @@ permalink: /model-inference-attack/
 <td>ACM Trans. Intell. Syst. Technol.</td>
 <td>2023</td>
 <td><a href="https://doi.org/10.1145/3570509">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="acm trans. intell. syst. technol.-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Efficient Federated Matrix Factorization Against Inference Attacks.</td>
+<td>ACM Trans. Intell. Syst. Technol.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1145/3501812">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -14078,6 +15767,12 @@ permalink: /model-inference-attack/
 <td>IEEE J. Biomed. Health Informatics</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/JBHI.2025.3593443">Link</a></td>
+</tr>
+<tr>
+<td>mDARTS: Searching ML-Based ECG Classifiers Against Membership Inference Attacks.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/JBHI.2024.3481505">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -14263,6 +15958,12 @@ permalink: /model-inference-attack/
 <td>2025</td>
 <td><a href="https://doi.org/10.1145/3737880">Link</a></td>
 </tr>
+<tr>
+<td>Exploiting Defenses against GAN-Based Feature Inference Attacks in Federated Learning.</td>
+<td>ACM Trans. Knowl. Discov. Data</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3719350">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="acm trans. knowl. discov. data-2021"></a>
@@ -14320,6 +16021,30 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand Int. J. Comput. Vis.</summary>
+
+<a id="int. j. comput. vis.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Re-ID-leak: Membership Inference Attacks Against Person Re-identification.</td>
+<td>Int. J. Comput. Vis.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1007/s11263-024-02115-6">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="int. j. comput. vis.-2022"></a>
 <h3 class="year-heading">2022</h3>
@@ -15123,6 +16848,12 @@ permalink: /model-inference-attack/
 <td>2025</td>
 <td><a href="https://doi.org/10.1016/j.patrec.2025.03.017">Link</a></td>
 </tr>
+<tr>
+<td>Synthetic image learning: Preserving performance and preventing Membership Inference Attacks.</td>
+<td>Pattern Recognit. Lett.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.patrec.2025.02.003">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="pattern recognit. lett.-2024"></a>
@@ -15431,6 +17162,60 @@ permalink: /model-inference-attack/
 <td>2025</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.113339">Link</a></td>
 </tr>
+<tr>
+<td>Synthetic data for enhanced privacy: A VAE-GAN approach against membership inference attacks.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2024.112899">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="knowl. based syst.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Topology modification against membership inference attack in Graph Neural Networks.</td>
+<td>Knowl. Based Syst.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2024.112642">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="knowl. based syst.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Understanding and defending against White-box membership inference attack in deep learning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2022.110014">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="knowl. based syst.-2022"></a>
@@ -15496,6 +17281,12 @@ permalink: /model-inference-attack/
 <td>Knowl. Based Syst.</td>
 <td>2021</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2020.106678">Link</a></td>
+</tr>
+<tr>
+<td>Towards link inference attack against network structure perturbation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2020.106674">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -15734,6 +17525,12 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1016/j.ins.2023.119837">Link</a></td>
 </tr>
 <tr>
+<td>Defending against membership inference attacks: RM Learning is all you need.</td>
+<td>Inf. Sci.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1016/j.ins.2024.120636">Link</a></td>
+</tr>
+<tr>
 <td>Distributed inference for the quantile regression model based on the random weighted bootstrap.</td>
 <td>Inf. Sci.</td>
 <td>2024</td>
@@ -15744,6 +17541,12 @@ permalink: /model-inference-attack/
 <td>Inf. Sci.</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1016/j.ins.2024.120984">Link</a></td>
+</tr>
+<tr>
+<td>GradDiff: Gradient-based membership inference attacks against federated distillation with differential comparison.</td>
+<td>Inf. Sci.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1016/j.ins.2023.120068">Link</a></td>
 </tr>
 <tr>
 <td>Modeling brain information flow dynamics with multidimensional fuzzy inference systems.</td>
@@ -15786,6 +17589,36 @@ permalink: /model-inference-attack/
 <td>Inf. Sci.</td>
 <td>2023</td>
 <td><a href="https://doi.org/10.1016/j.ins.2023.118966">Link</a></td>
+</tr>
+<tr>
+<td>Total variation distance privacy: Accurately measuring inference attacks and improving utility.</td>
+<td>Inf. Sci.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1016/j.ins.2023.01.037">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="inf. sci.-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Secret inference and attacktability analysis of discrete event systems.</td>
+<td>Inf. Sci.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1016/j.ins.2022.07.028">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -16555,6 +18388,30 @@ permalink: /model-inference-attack/
 </tr>
 </tbody></table>
 
+<a id="neural networks-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>SIA: A sustainable inference attack framework in split learning.</td>
+<td>Neural Networks</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2023.12.033">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="neural networks-2023"></a>
 <h3 class="year-heading">2023</h3>
 <table class="paper-table">
@@ -16802,6 +18659,12 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>A defense mechanism against label inference attacks in Vertical Federated Learning.</td>
+<td>Neurocomputing</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2025.129476">Link</a></td>
+</tr>
+<tr>
 <td>A distributed inference algorithm for Dirichlet process mixture models with exponential family components.</td>
 <td>Neurocomputing</td>
 <td>2025</td>
@@ -16818,6 +18681,12 @@ permalink: /model-inference-attack/
 <td>Neurocomputing</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.130327">Link</a></td>
+</tr>
+<tr>
+<td>FeaUn: Feature unlearning in vertical federated learning for IIoT against feature inference attacks.</td>
+<td>Neurocomputing</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2025.131110">Link</a></td>
 </tr>
 <tr>
 <td>Masked graph autoencoder-based multi-agent dynamic relational inference model for trajectory prediction.</td>
@@ -16908,6 +18777,12 @@ permalink: /model-inference-attack/
 <td>Neurocomputing</td>
 <td>2021</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2020.12.042">Link</a></td>
+</tr>
+<tr>
+<td>Resisting membership inference attacks through knowledge distillation.</td>
+<td>Neurocomputing</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2021.04.082">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -17193,6 +19068,12 @@ permalink: /model-inference-attack/
 <td>2023</td>
 <td><a href="https://doi.org/10.1007/s00521-023-08221-9">Link</a></td>
 </tr>
+<tr>
+<td>Multi-level membership inference attacks in federated Learning based on active GAN.</td>
+<td>Neural Comput. Appl.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1007/s00521-023-08593-y">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="neural comput. appl.-2022"></a>
@@ -17246,6 +19127,12 @@ permalink: /model-inference-attack/
 <td>Neural Comput. Appl.</td>
 <td>2021</td>
 <td><a href="https://doi.org/10.1007/s00521-020-05661-5">Link</a></td>
+</tr>
+<tr>
+<td>Privacy protection of online social network users, against attribute inference attacks, through the use of a set of exhaustive rules.</td>
+<td>Neural Comput. Appl.</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1007/s00521-021-05860-8">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -17440,6 +19327,150 @@ permalink: /model-inference-attack/
 <td>J. Artif. Intell. Res.</td>
 <td>2008</td>
 <td><a href="https://doi.org/10.1613/jair.2530">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## WOOT @ USENIX Security Symposium <a id="venue-woot @ usenix security symposium"></a>
+
+<details>
+
+<summary>Expand WOOT @ USENIX Security Symposium</summary>
+
+<a id="woot @ usenix security symposium-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Amplifying Threats: The Role of Multi-Sender Coordination in SMS-Timing-Based Location Inference Attacks.</td>
+<td>WOOT @ USENIX Security Symposium</td>
+<td>2024</td>
+<td><a href="https://www.usenix.org/conference/woot24/presentation/bitsikas">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Emerg. Top. Comput. <a id="venue-ieee trans. emerg. top. comput."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Emerg. Top. Comput.</summary>
+
+<a id="ieee trans. emerg. top. comput.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Use the Spear as a Shield: An Adversarial Example Based Privacy-Preserving Technique Against Membership Inference Attacks.</td>
+<td>IEEE Trans. Emerg. Top. Comput.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1109/TETC.2022.3184408">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## ACM Trans. Priv. Secur. <a id="venue-acm trans. priv. secur."></a>
+
+<details>
+
+<summary>Expand ACM Trans. Priv. Secur.</summary>
+
+<a id="acm trans. priv. secur.-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Defending Against Membership Inference Attacks on Beacon Services.</td>
+<td>ACM Trans. Priv. Secur.</td>
+<td>2023</td>
+<td><a href="https://doi.org/10.1145/3603627">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="acm trans. priv. secur.-2018"></a>
+<h3 class="year-heading">2018</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Attribute Inference Attacks in Online Social Networks.</td>
+<td>ACM Trans. Priv. Secur.</td>
+<td>2018</td>
+<td><a href="https://doi.org/10.1145/3154793">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="acm trans. priv. secur.-2017"></a>
+<h3 class="year-heading">2017</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Efficient Attack Graph Analysis through Approximate Inference.</td>
+<td>ACM Trans. Priv. Secur.</td>
+<td>2017</td>
+<td><a href="https://doi.org/10.1145/3105760">Link</a></td>
 </tr>
 </tbody></table>
 
