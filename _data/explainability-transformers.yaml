@@ -1,0 +1,394 @@
+section:
+- title: ICLR
+- title: CVPR
+- title: ICCV
+- title: AAAI
+- title: ACL
+- title: IEEE Trans. Image Process.
+- title: IEEE J. Biomed. Health Informatics
+- title: Int. J. Comput. Vis.
+- title: Pattern Recognit.
+- title: Comput. Medical Imaging Graph.
+- title: Knowl. Based Syst.
+- title: Expert Syst. Appl.
+- title: Neural Comput. Appl.
+ICLR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'XAIguiFormer: explainable artificial intelligence guided transformer
+        for brain disorder identification.'
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=AD5yx2xq8R
+CVPR:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'X-Pruner: eXplainable Pruning for Vision Transformers.'
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.02333
+ICCV:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Generic Attention-model Explainability for Interpreting Bi-Modal and
+        Encoder-Decoder Transformers.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.00045
+AAAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Self-Explainable Graph Transformer for Link Sign Prediction.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i11.33316
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Leverage the Explainability of Transformer Models to Improve the DNA
+        5-Methylcytosine Identification (Student Abstract).
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i21.30533
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Multi-Aspect Explainable Inductive Relation Prediction by Sentence Transformer.
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i5.25803
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Explainable Survival Analysis with Convolution-Involved Vision Transformer.
+      venue: AAAI
+      year: 2022
+      link: https://doi.org/10.1609/aaai.v36i2.20118
+ACL:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Ecco: An Open Source Library for the Explainability of Transformer Language
+        Models.'
+      venue: ACL
+      year: 2021
+      link: https://doi.org/10.18653/v1/2021.acl-demo.30
+IEEE Trans. Image Process.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Explainability Enhanced Object Detection Transformer With Feature Disentanglement.
+      venue: IEEE Trans. Image Process.
+      year: 2024
+      link: https://doi.org/10.1109/TIP.2024.3492733
+IEEE J. Biomed. Health Informatics:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: SEEG Emotion Recognition Based on Transformer Network With Channel Selection
+        and Explainability.
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/JBHI.2025.3585528
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Knowledge-Enhanced Graph Topic Transformer for Explainable Biomedical
+        Text Summarization.
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2024
+      link: https://doi.org/10.1109/JBHI.2023.3308064
+    - title: Vision Transformers, Ensemble Model, and Transfer Learning Leveraging
+        Explainable AI for Brain Tumor Detection and Classification.
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2024
+      link: https://doi.org/10.1109/JBHI.2023.3266614
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An Explainable Transformer-Based Deep Learning Model for the Prediction
+        of Incident Heart Failure.
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2022
+      link: https://doi.org/10.1109/JBHI.2022.3148820
+    - title: Explainable Identification of Dementia From Transcripts Using Transformer
+        Networks.
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2022
+      link: https://doi.org/10.1109/JBHI.2022.3172479
+Int. J. Comput. Vis.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ICEv2: Interpretability, Comprehensiveness, and Explainability in Vision
+        Transformer.'
+      venue: Int. J. Comput. Vis.
+      year: 2025
+      link: https://doi.org/10.1007/s11263-024-02290-6
+Pattern Recognit.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'eX-ViT: A Novel explainable vision transformer for weakly supervised
+        semantic segmentation.'
+      venue: Pattern Recognit.
+      year: 2023
+      link: https://doi.org/10.1016/j.patcog.2023.109666
+Comput. Medical Imaging Graph.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Explainable survival analysis with uncertainty using convolution-involved
+        vision transformer.
+      venue: Comput. Medical Imaging Graph.
+      year: 2023
+      link: https://doi.org/10.1016/j.compmedimag.2023.102302
+Knowl. Based Syst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Explainable TabNet Transformer-based on Google Vizier Optimizer for Anomaly
+        Intrusion Detection System.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.113351
+    - title: Signal-relationship-aware explainable intrusion detection in controller
+        area networks using graph transformers.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114237
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'KGTN: Knowledge Graph Transformer Network for explainable multi-category
+        item recommendation.'
+      venue: Knowl. Based Syst.
+      year: 2023
+      link: https://doi.org/10.1016/j.knosys.2023.110854
+Expert Syst. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MADViT: A vision transformer-based multilayer distillation framework
+        for explainable anomaly detection in aerial imagery.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.129166
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Explainable hybrid tabular Variational Autoencoder and feature Tokenizer
+        Transformer for depression prediction.
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2024.126084
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Towards explainable automatic punctuation restoration for Portuguese
+        using transformers.
+      venue: Expert Syst. Appl.
+      year: 2024
+      link: https://doi.org/10.1016/j.eswa.2024.125097
+Neural Comput. Appl.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Multiplex network-based representation of vision transformers for visual
+        explainability.
+      venue: Neural Comput. Appl.
+      year: 2025
+      link: https://doi.org/10.1007/s00521-025-11591-x

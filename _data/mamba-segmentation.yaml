@@ -1,0 +1,454 @@
+section:
+- title: NeurIPS
+- title: CVPR
+- title: ECCV
+- title: AAAI
+- title: WACV
+- title: ACM Multimedia
+- title: IEEE Trans. Medical Imaging
+- title: IEEE J. Biomed. Health Informatics
+- title: Comput. Vis. Image Underst.
+- title: Pattern Recognit.
+- title: Medical Image Anal.
+- title: Comput. Medical Imaging Graph.
+- title: Knowl. Based Syst.
+- title: Expert Syst. Appl.
+- title: Neurocomputing
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Hybrid Mamba for Few-Shot Segmentation.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/86fe62e3b315d2578721562d9fd1a433-Abstract-Conference.html
+CVPR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Cross-Modal Interactive Perception Network with Mamba for Lung Tumor
+        Segmentation in PET-CT Images.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Mei_Cross-Modal_Interactive_Perception_Network_with_Mamba_for_Lung_Tumor_Segmentation_CVPR_2025_paper.html
+    - title: 'Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language
+        Models for Domain-Generalized Semantic Segmentation.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Mamba_as_a_Bridge_Where_Vision_Foundation_Models_Meet_Vision_CVPR_2025_paper.html
+    - title: 'SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation
+        in Structures.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Liu_SCSegamba_Lightweight_Structure-Aware_Vision_Mamba_for_Crack_Segmentation_in_Structures_CVPR_2025_paper.html
+ECCV:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ReMamber: Referring Image Segmentation with Mamba Twister.'
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72684-2_7
+AAAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Category Prompt Mamba Network for Nuclei Segmentation and Classification.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i10.33116
+    - title: 'FEAST-Mamba: FEAture and SpaTial Aware Mamba Network with Bidirectional
+        Orthogonal Fusion for Cross-Modal Point Cloud Segmentation.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i5.32489
+    - title: "S\xB3-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation."
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i7.32824
+WACV:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CAMS: Convolution and Attention-Free Mamba-Based Cardiac Image Segmentation.'
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00191
+    - title: 'SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp
+        Segmentation.'
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00457
+    - title: 'Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation.'
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00176
+ACM Multimedia:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware
+        State Space Model.'
+      venue: ACM Multimedia
+      year: 2024
+      link: https://doi.org/10.1145/3664647.3680578
+IEEE Trans. Medical Imaging:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Mamba-Sea: A Mamba-Based Framework With Global-to-Local Sequence Augmentation
+        for Generalizable Medical Image Segmentation.'
+      venue: IEEE Trans. Medical Imaging
+      year: 2025
+      link: https://doi.org/10.1109/TMI.2025.3564765
+    - title: "Swin-UMamba\u2020: Adapting Mamba-Based Vision Foundation Models for\
+        \ Medical Image Segmentation."
+      venue: IEEE Trans. Medical Imaging
+      year: 2025
+      link: https://doi.org/10.1109/TMI.2024.3508698
+IEEE J. Biomed. Health Informatics:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MambaSAM: A Visual Mamba-Adapted SAM Framework for Medical Image Segmentation.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/JBHI.2025.3544548
+    - title: 'MambaVesselNet: A Novel Approach to Blood Vessel Segmentation Based
+        on State-Space Models.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/JBHI.2024.3517642
+Comput. Vis. Image Underst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'UM-Mamba: An efficient U-network with medical visual state space for
+        medical image segmentation.'
+      venue: Comput. Vis. Image Underst.
+      year: 2025
+      link: https://doi.org/10.1016/j.cviu.2025.104436
+Pattern Recognit.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GraphMamba: Graph-driven spatial order-aware Mamba for medical image
+        segmentation.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112231
+    - title: 'HMSNet: Hilbert curve enhanced Mamba for real-time semantic segmentation.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112457
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Crack segmentation network via difference convolution-based encoder and
+        hybrid CNN-Mamba multi-scale attention.
+      venue: Pattern Recognit.
+      year: 2025
+      link: https://doi.org/10.1016/j.patcog.2025.111723
+Medical Image Anal.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Switch-UMamba: Dynamic scanning vision Mamba UNet for medical image
+        segmentation.'
+      venue: Medical Image Anal.
+      year: 2026
+      link: https://doi.org/10.1016/j.media.2025.103792
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MambaMIM: Pre-training Mamba with state space token interpolation and
+        its application to medical image segmentation.'
+      venue: Medical Image Anal.
+      year: 2025
+      link: https://doi.org/10.1016/j.media.2025.103606
+Comput. Medical Imaging Graph.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SpineMamba: Enhancing 3D spinal segmentation in clinical imaging through
+        residual visual Mamba layers and shape priors.'
+      venue: Comput. Medical Imaging Graph.
+      year: 2025
+      link: https://doi.org/10.1016/j.compmedimag.2025.102531
+Knowl. Based Syst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Mamba-advanced unsupervised cross-modality medical image segmentation
+        via domain adaptation and task decomposition.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114130
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Semi-Mamba-UNet: Pixel-level contrastive and cross-supervised visual
+        Mamba-based UNet for semi-supervised medical image segmentation.'
+      venue: Knowl. Based Syst.
+      year: 2024
+      link: https://doi.org/10.1016/j.knosys.2024.112203
+Expert Syst. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ABE-Mamba: Few-shot medical image segmentation via adversarial bidirectional
+        enhanced Mamba.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.129897
+    - title: Leveraging mamba for reference audio-visual segmentation with vote and
+        cache mechanism.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.129371
+    - title: Visual Mamba-CNN for scribble-based segmentation in weakly supervised
+        learning for photoacoustic tomography.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.129749
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An ultra-lightweight network combining Mamba and frequency-domain feature
+        extraction for pavement tiny-crack segmentation.
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2024.125941
+    - title: 'DFU-MambaLiteUNet: A lightweight and efficient model for diabetic foot
+        ulcer segmentation.'
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2025.128689
+    - title: Dual-domain guided vision Mamba network for medical image segmentation.
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2025.128512
+    - title: Evaluation of aggregate distribution uniformity using Vision Mamba-based
+        dual networks for concrete aggregate segmentation.
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2024.126076
+    - title: 'MSM-UNet: A medical image segmentation method based on wavelet transform
+        and multi-scale Mamba-UNet.'
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2025.128241
+    - title: Selective and multi-scale fusion Mamba for medical image segmentation.
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2024.125518
+Neurocomputing:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Li-MFNet: A lightweight multi-scale input Mamba fusion network for medical
+        image segmentation.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.131916
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Gl-MambaNet: A global-local hybrid Mamba network for medical image segmentation.'
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.129580
+    - title: 'H-vmunet: High-order Vision Mamba UNet for medical image segmentation.'
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.129447
+    - title: Mamba-driven hierarchical temporal multimodal alignment for referring
+        video object segmentation.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2024.129308
+    - title: Spatio-temporal memory-driven CT organ segmentation with hybrid CNN-Mamba
+        encoding and frequency-domain decoding.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.131137

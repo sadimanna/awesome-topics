@@ -93,6 +93,9 @@ section:
 - title: Neurocomputing
 - title: Neural Comput. Appl.
 - title: J. Artif. Intell. Res.
+- title: WOOT @ USENIX Security Symposium
+- title: IEEE Trans. Emerg. Top. Comput.
+- title: ACM Trans. Priv. Secur.
 NeurIPS:
   '2024':
     header:
@@ -121,6 +124,10 @@ NeurIPS:
       venue: NeurIPS
       year: 2024
       link: http://papers.nips.cc/paper_files/paper/2024/hash/8b21a7ea42cbcd1c29a7a88c444cce45-Abstract-Conference.html
+    - title: Auditing Privacy Mechanisms via Label Inference Attacks.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/97005e2b425c93015a91c312ba5c5298-Abstract-Conference.html
     - title: 'Block Transformer: Global-to-Local Language Modeling for Fast Inference.'
       venue: NeurIPS
       year: 2024
@@ -139,6 +146,10 @@ NeurIPS:
       venue: NeurIPS
       year: 2024
       link: http://papers.nips.cc/paper_files/paper/2024/hash/e58026e2b2929108e1bd24cbfa1c8e4b-Abstract-Conference.html
+    - title: 'Data Mixture Inference Attack: BPE Tokenizers Reveal Training Data Compositions.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/10e6dfea9a673bef4a7b1cb9234891bc-Abstract-Conference.html
     - title: 'DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for
         Efficient Robot Execution.'
       venue: NeurIPS
@@ -199,6 +210,10 @@ NeurIPS:
       venue: NeurIPS
       year: 2024
       link: http://papers.nips.cc/paper_files/paper/2024/hash/571082ea18d30060177dfcaf662ff0e5-Abstract-Conference.html
+    - title: 'OSLO: One-Shot Label-Only Membership Inference Attacks.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/71f88122d414cfeb455ac0ed932fbe1f-Abstract-Conference.html
     - title: Opponent Modeling based on Subgoal Inference.
       venue: NeurIPS
       year: 2024
@@ -292,6 +307,10 @@ NeurIPS:
       venue: NeurIPS
       year: 2023
       link: http://papers.nips.cc/paper_files/paper/2023/hash/0747af6f877c0cb555fea595f01b0e83-Abstract-Conference.html
+    - title: GAN You See Me? Enhanced Data Reconstruction Attacks against Split Inference.
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/ab003a4f85ecb1b7b1514ff539dc7395-Abstract-Conference.html
     - title: 'H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large
         Language Models.'
       venue: NeurIPS
@@ -312,6 +331,10 @@ NeurIPS:
       venue: NeurIPS
       year: 2023
       link: http://papers.nips.cc/paper_files/paper/2023/hash/16c5b4102a6b6eb061e502ce6736ad8a-Abstract-Conference.html
+    - title: Scalable Membership Inference Attacks via Quantile Regression.
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/01328d0767830e73a612f9073e9ff15f-Abstract-Conference.html
     - title: 'Statistical Limits of Adaptive Linear Models: Low-Dimensional Estimation
         and Inference.'
       venue: NeurIPS
@@ -621,6 +644,10 @@ ICML:
       venue: ICML
       year: 2025
       link: https://openreview.net/forum?id=dfOqiHuklY
+    - title: 'Hidden No More: Attacking and Defending Private Third-Party LLM Inference.'
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=QfD9P9IIoz
     - title: 'InfAlign: Inference-aware language model alignment.'
       venue: ICML
       year: 2025
@@ -757,6 +784,10 @@ ICML:
       venue: ICML
       year: 2024
       link: https://openreview.net/forum?id=wDDGQabYPQ
+    - title: Low-Cost High-Power Membership Inference Attacks.
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=sT7UJh5CTc
     - title: Membership Inference Attacks on Diffusion Models via Quantile Regression.
       venue: ICML
       year: 2024
@@ -796,6 +827,10 @@ ICML:
       venue: ICML
       year: 2024
       link: https://openreview.net/forum?id=DwwI9L67B5
+    - title: The Pitfalls and Promise of Conformal Inference Under Adversarial Attacks.
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=2xLyc5TkFl
     - title: 'Towards an Understanding of Stepwise Inference in Transformers: A Synthetic
         Graph Navigation Model.'
       venue: ICML
@@ -899,6 +934,14 @@ ICML:
       venue: ICML
       year: 2021
       link: http://proceedings.mlr.press/v139/pan21a.html
+    - title: Label Inference Attacks from Log-loss Scores.
+      venue: ICML
+      year: 2021
+      link: http://proceedings.mlr.press/v139/aggarwal21a.html
+    - title: Label-Only Membership Inference Attacks.
+      venue: ICML
+      year: 2021
+      link: http://proceedings.mlr.press/v139/choquette-choo21a.html
     - title: On Variational Inference in Biclustering Models.
       venue: ICML
       year: 2021
@@ -907,6 +950,10 @@ ICML:
       venue: ICML
       year: 2021
       link: http://proceedings.mlr.press/v139/wang21m.html
+    - title: When Does Data Augmentation Help With Membership Inference Attacks?
+      venue: ICML
+      year: 2021
+      link: http://proceedings.mlr.press/v139/kaya21a.html
   '2020':
     header:
       title: Title
@@ -1416,6 +1463,10 @@ ICLR:
       venue: ICLR
       year: 2024
       link: https://openreview.net/forum?id=VrHiF2hsrm
+    - title: 'You Only Query Once: An Efficient Label-Only Membership Inference Attack.'
+      venue: ICLR
+      year: 2024
+      link: https://openreview.net/forum?id=7WsivwyHrS
   '2023':
     header:
       title: Title
@@ -1474,6 +1525,14 @@ ICLR:
       venue: ICLR
       year: 2022
       link: https://openreview.net/forum?id=HObMhrCeAAF
+    - title: On the Importance of Difficulty Calibration in Membership Inference Attacks.
+      venue: ICLR
+      year: 2022
+      link: https://openreview.net/forum?id=3eIrli0TwQ
+    - title: 'RelaxLoss: Defending Membership Inference Attacks without Losing Utility.'
+      venue: ICLR
+      year: 2022
+      link: https://openreview.net/forum?id=FEDfGWVZYIn
     - title: Self-Supervised Inference in State-Space Models.
       venue: ICLR
       year: 2022
@@ -1495,6 +1554,11 @@ ICLR:
       year: 4
       link: 60
     body:
+    - title: 'A Panda? No, It&apos;s a Sloth: Slowdown Attacks on Adaptive Multi-Exit
+        Neural Network Inference.'
+      venue: ICLR
+      year: 2021
+      link: https://openreview.net/forum?id=9xC2tWEwBD
     - title: Mind the Gap when Conditioning Amortised Inference in Sequential Latent-Variable
         Models.
       venue: ICLR
@@ -1516,6 +1580,10 @@ ICLR:
       venue: ICLR
       year: 2020
       link: https://openreview.net/forum?id=Skl4mRNYDr
+    - title: 'Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks.'
+      venue: ICLR
+      year: 2020
+      link: https://openreview.net/forum?id=ByxtC2VtPB
   '2018':
     header:
       title: Title
@@ -1591,6 +1659,105 @@ NDSS:
       venue: NDSS
       year: 2025
       link: https://www.ndss-symposium.org/ndss-paper/black-box-membership-inference-attacks-against-fine-tuned-diffusion-models/
+    - title: Defending Against Membership Inference Attacks on Iteratively Pruned
+        Deep Neural Networks.
+      venue: NDSS
+      year: 2025
+      link: https://www.ndss-symposium.org/ndss-paper/defending-against-membership-inference-attacks-on-iteratively-pruned-deep-neural-networks/
+    - title: Passive Inference Attacks on Split Learning via Adversarial Regularization.
+      venue: NDSS
+      year: 2025
+      link: https://www.ndss-symposium.org/ndss-paper/passive-inference-attacks-on-split-learning-via-adversarial-regularization/
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Eavesdropping on Controller Acoustic Emanation for Keystroke Inference
+        Attack in Virtual Reality.
+      venue: NDSS
+      year: 2024
+      link: https://www.ndss-symposium.org/ndss-paper/eavesdropping-on-controller-acoustic-emanation-for-keystroke-inference-attack-in-virtual-reality/
+    - title: 'Overconfidence is a Dangerous Thing: Mitigating Membership Inference
+        Attacks by Enforcing Less Confident Prediction.'
+      venue: NDSS
+      year: 2024
+      link: https://www.ndss-symposium.org/ndss-paper/overconfidence-is-a-dangerous-thing-mitigating-membership-inference-attacks-by-enforcing-less-confident-prediction/
+    - title: 'SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker
+        Recognition Systems.'
+      venue: NDSS
+      year: 2024
+      link: https://www.ndss-symposium.org/ndss-paper/slmia-sr-speaker-level-membership-inference-attacks-against-speaker-recognition-systems/
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Property Inference Attacks Against GANs.
+      venue: NDSS
+      year: 2022
+      link: https://www.ndss-symposium.org/ndss-paper/auto-draft-240/
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Practical Blind Membership Inference Attack via Differential Comparisons.
+      venue: NDSS
+      year: 2021
+      link: https://www.ndss-symposium.org/ndss-paper/practical-blind-membership-inference-attack-via-differential-comparisons/
+    - title: Preventing and Detecting State Inference Attacks on Android.
+      venue: NDSS
+      year: 2021
+      link: https://www.ndss-symposium.org/ndss-paper/preventing-and-detecting-state-inference-attacks-on-android/
+    - title: 'Zoom on the Keystrokes: Exploiting Video Calls for Keystroke Inference
+        Attacks.'
+      venue: NDSS
+      year: 2021
+      link: https://www.ndss-symposium.org/ndss-paper/zoom-on-the-keystrokes-exploiting-video-calls-for-keystroke-inference-attacks/
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Cross-Origin State Inference (COSI) Attacks: Leaking Web Site States
+        through XS-Leaks.'
+      venue: NDSS
+      year: 2020
+      link: https://www.ndss-symposium.org/ndss-paper/cross-origin-state-inference-cosi-attacks-leaking-web-site-states-through-xs-leaks/
+    - title: 'Genotype Extraction and False Relative Attacks: Security Risks to Third-Party
+        Genetic Genealogy Services Beyond Identity Inference.'
+      venue: NDSS
+      year: 2020
+      link: https://www.ndss-symposium.org/ndss-paper/genotype-extraction-and-false-relative-attacks-security-risks-to-third-party-genetic-genealogy-services-beyond-identity-inference/
   '2019':
     header:
       title: Title
@@ -1638,6 +1805,11 @@ CVPR:
       year: 4
       link: 60
     body:
+    - title: 'FedMIA: An Effective Membership Inference Attack Exploiting &quot;All
+        for One&quot; Principle in Federated Learning.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Zhu_FedMIA_An_Effective_Membership_Inference_Attack_Exploiting_All_for_One_CVPR_2025_paper.html
     - title: Scaling Inference Time Compute for Diffusion Models.
       venue: CVPR
       year: 2025
@@ -1674,6 +1846,11 @@ CVPR:
       year: 4
       link: 60
     body:
+    - title: 'Deep-TROJ: An Inference Stage Trojan Insertion Algorithm Through Efficient
+        Weight Replacement Attack.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02343
     - title: 'DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion
         Models.'
       venue: CVPR
@@ -1734,6 +1911,10 @@ CVPR:
       venue: CVPR
       year: 2021
       link: https://openaccess.thecvf.com/content/CVPR2021/html/An_Learning_Deep_Latent_Variable_Models_by_Short-Run_MCMC_Inference_With_CVPR_2021_paper.html
+    - title: On the Difficulty of Membership Inference Attacks.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Rezaei_On_the_Difficulty_of_Membership_Inference_Attacks_CVPR_2021_paper.html
   '2020':
     header:
       title: Title
@@ -1899,6 +2080,10 @@ ICCV:
       venue: ICCV
       year: 2021
       link: https://doi.org/10.1109/ICCV48922.2021.01248
+    - title: Membership Inference Attacks are Easier on Difficult Problems.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.01455
     - title: 'PixelPyramids: Exact Inference Models from Lossless Image Pyramids.'
       venue: ICCV
       year: 2021
@@ -2024,6 +2209,26 @@ ECCV:
       venue: ECCV
       year: 2024
       link: https://doi.org/10.1007/978-3-031-72643-9_4
+    - title: 'SIMBA: Split Inference - Mechanisms, Benchmarks and Attacks.'
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-73116-7_13
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning.'
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-19821-2_21
   '2020':
     header:
       title: Title
@@ -2046,6 +2251,11 @@ ECCV:
       venue: ECCV
       year: 2020
       link: https://doi.org/10.1007/978-3-030-58536-5_11
+    - title: 'Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic
+        Image Segmentation.'
+      venue: ECCV
+      year: 2020
+      link: https://doi.org/10.1007/978-3-030-58592-1_31
   '2014':
     header:
       title: Title
@@ -2165,6 +2375,10 @@ UAI:
       year: 4
       link: 60
     body:
+    - title: Center-Based Relaxed Learning Against Membership Inference Attacks.
+      venue: UAI
+      year: 2024
+      link: https://proceedings.mlr.press/v244/fang24a.html
     - title: Optimizing Language Models for Human Preferences is a Causal Inference
         Problem.
       venue: UAI
@@ -2586,6 +2800,11 @@ IJCAI:
       year: 4
       link: 60
     body:
+    - title: An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain
+        Graph Attacks.
+      venue: IJCAI
+      year: 2025
+      link: https://doi.org/10.24963/ijcai.2025/375
     - title: Efficient Inter-Operator Scheduling for Concurrent Recommendation Model
         Inference on GPU.
       venue: IJCAI
@@ -2601,6 +2820,11 @@ IJCAI:
       venue: IJCAI
       year: 2025
       link: https://doi.org/10.24963/ijcai.2025/43
+    - title: Where Does This Data Come From? Enhanced Source Inference Attacks in
+        Federated Learning.
+      venue: IJCAI
+      year: 2025
+      link: https://doi.org/10.24963/ijcai.2025/536
   '2024':
     header:
       title: Title
@@ -2617,6 +2841,16 @@ IJCAI:
       venue: IJCAI
       year: 2024
       link: https://www.ijcai.org/proceedings/2024/634
+    - title: 'Shadow-Free Membership Inference Attacks: Recommender Systems Are More
+        Vulnerable Than You Thought.'
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/639
+    - title: 'When Fairness Meets Privacy: Exploring Privacy Threats in Fair Binary
+        Classifiers via Membership Inference Attacks.'
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/57
   '2022':
     header:
       title: Title
@@ -2635,6 +2869,10 @@ IJCAI:
       venue: IJCAI
       year: 2022
       link: https://doi.org/10.24963/ijcai.2022/796
+    - title: To Trust or Not To Trust Prediction Scores for Membership Inference Attacks.
+      venue: IJCAI
+      year: 2022
+      link: https://doi.org/10.24963/ijcai.2022/422
   '2021':
     header:
       title: Title
@@ -2647,6 +2885,10 @@ IJCAI:
       year: 4
       link: 60
     body:
+    - title: 'Against Membership Inference Attack: Pruning is All You Need.'
+      venue: IJCAI
+      year: 2021
+      link: https://doi.org/10.24963/ijcai.2021/432
     - title: Fine-Grained Air Quality Inference via Multi-Channel Attention Model.
       venue: IJCAI
       year: 2021
@@ -2941,6 +3183,10 @@ AAAI:
       venue: AAAI
       year: 2025
       link: https://doi.org/10.1609/aaai.v39i21.34371
+    - title: Attribute Inference Attacks for Federated Regression Tasks.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i15.33787
     - title: 'BigMac: A Communication-Efficient Mixture-of-Experts Model Structure
         for Fast Training and Inference.'
       venue: AAAI
@@ -2991,11 +3237,20 @@ AAAI:
       venue: AAAI
       year: 2025
       link: https://doi.org/10.1609/aaai.v39i20.35404
+    - title: Personalized Label Inference Attack in Federated Transfer Learning via
+        Contrastive Meta Learning.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i21.34438
     - title: Privacy-Preserving Low-Rank Adaptation Against Membership Inference Attacks
         for Latent Diffusion Models.
       venue: AAAI
       year: 2025
       link: https://doi.org/10.1609/aaai.v39i6.32628
+    - title: Prompt-based Unifying Inference Attack on Graph Neural Networks.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i12.33400
     - title: Scalable and Efficient Probabilistic Inference for Bayesian Deep Learning
         and Generative Modeling.
       venue: AAAI
@@ -3047,6 +3302,11 @@ AAAI:
       venue: AAAI
       year: 2024
       link: https://doi.org/10.1609/aaai.v38i19.30136
+    - title: Task-Agnostic Privacy-Preserving Representation Learning for Federated
+        Learning against Attribute Inference Attacks.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i10.28965
   '2023':
     header:
       title: Title
@@ -3063,15 +3323,33 @@ AAAI:
       venue: AAAI
       year: 2023
       link: https://doi.org/10.1609/aaai.v37i6.25869
+    - title: GAN-Based Domain Inference Attack.
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i12.26663
     - title: Improving Training and Inference of Face Recognition Models via Random
         Temperature Scaling.
       venue: AAAI
       year: 2023
       link: https://doi.org/10.1609/aaai.v37i12.26760
+    - title: 'Purifier: Defending Data Inference Attacks via Transforming Confidence
+        Scores.'
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i9.26289
+    - title: 'Redactor: A Data-Centric and Individualized Defense against Inference
+        Attacks.'
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i12.26737
     - title: Seq2Seq Surrogates of Epidemic Models to Facilitate Bayesian Inference.
       venue: AAAI
       year: 2023
       link: https://doi.org/10.1609/aaai.v37i12.26658
+    - title: Similarity Distribution Based Membership Inference Attack on Person Re-identification.
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i12.26731
   '2022':
     header:
       title: Title
@@ -3448,6 +3726,11 @@ AISTATS:
       year: 4
       link: 60
     body:
+    - title: 'Exposing Privacy Gaps: Membership Inference Attack on Preference Data
+        for LLM Alignment.'
+      venue: AISTATS
+      year: 2025
+      link: https://proceedings.mlr.press/v258/feng25a.html
     - title: 'Posterior Mean Matching: Generative Modeling through Online Bayesian
         Inference.'
       venue: AISTATS
@@ -3495,11 +3778,25 @@ AISTATS:
       year: 4
       link: 60
     body:
+    - title: Active Membership Inference Attack under Local Differential Privacy in
+        Federated Learning.
+      venue: AISTATS
+      year: 2023
+      link: https://proceedings.mlr.press/v206/nguyen23e.html
     - title: Compositional Probabilistic and Causal Inference using Tractable Circuit
         Models.
       venue: AISTATS
       year: 2023
       link: https://proceedings.mlr.press/v206/wang23o.html
+    - title: Does Label Differential Privacy Prevent Label Inference Attacks?
+      venue: AISTATS
+      year: 2023
+      link: https://proceedings.mlr.press/v206/wu23a.html
+    - title: Membership Inference Attacks against Synthetic Data through Overfitting
+        Detection.
+      venue: AISTATS
+      year: 2023
+      link: https://proceedings.mlr.press/v206/breugel23a.html
   '2022':
     header:
       title: Title
@@ -3891,6 +4188,10 @@ KDD:
       year: 4
       link: 60
     body:
+    - title: Adaptive Domain Inference Attack with Concept Hierarchy.
+      venue: KDD
+      year: 2025
+      link: https://doi.org/10.1145/3690624.3709332
     - title: 'Controlling Diversity at Inference: Guiding Diffusion Recommender Models
         with Targeted Category Preferences.'
       venue: KDD
@@ -3949,6 +4250,23 @@ KDD:
       venue: KDD
       year: 2023
       link: https://doi.org/10.1145/3580305.3599459
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Debiasing Learning for Membership Inference Attacks Against Recommender
+        Systems.
+      venue: KDD
+      year: 2022
+      link: https://doi.org/10.1145/3534678.3539392
   '2021':
     header:
       title: Title
@@ -3961,11 +4279,20 @@ KDD:
       year: 4
       link: 60
     body:
+    - title: Defending Privacy Against More Knowledgeable Membership Inference Attackers.
+      venue: KDD
+      year: 2021
+      link: https://doi.org/10.1145/3447548.3467444
     - title: 'JIZHI: A Fast and Cost-Effective Model-As-A-Service System for Web-Scale
         Online Inference at Baidu.'
       venue: KDD
       year: 2021
       link: https://doi.org/10.1145/3447548.3467146
+    - title: 'PAR-GAN: Improving the Generalization of Generative Adversarial Networks
+        Against Membership Inference Attacks.'
+      venue: KDD
+      year: 2021
+      link: https://doi.org/10.1145/3447548.3467445
   '2013':
     header:
       title: Title
@@ -4054,6 +4381,11 @@ WSDM:
       venue: WSDM
       year: 2024
       link: https://doi.org/10.1145/3616855.3636507
+    - title: User Consented Federated Recommender System Against Personalized Attribute
+        Inference Attack.
+      venue: WSDM
+      year: 2024
+      link: https://doi.org/10.1145/3616855.3635830
   '2012':
     header:
       title: Title
@@ -4083,6 +4415,20 @@ CCS:
       year: 4
       link: 60
     body:
+    - title: 'BFId: Identity Inference Attacks Utilizing Beamforming Feedback Information.'
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3765062
+    - title: 'DCMI:  A Differential Calibration Membership Inference Attack Against
+        Retrieval-Augmented Generation.'
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3765103
+    - title: 'Membership Inference Attacks as Privacy Tools: Reliability, Disparity
+        and Ensemble.'
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3744818
     - title: Prompt Inference Attack on Distributed Large Language Model Inference
         Frameworks.
       venue: CCS
@@ -4093,6 +4439,55 @@ CCS:
       venue: CCS
       year: 2025
       link: https://doi.org/10.1145/3719027.3765228
+    - title: Safeguarding Graph Neural Networks against Topology Inference Attacks.
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3765173
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GAZEploit: Remote Keystroke Inference Attack by Gaze Estimation from
+        Avatar Views in VR/MR Devices.'
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3690285
+    - title: Is Difficulty Calibration All We Need? Towards More Practical Membership
+        Inference Attacks.
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3690316
+    - title: Membership Inference Attacks Against In-Context Learning.
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3690306
+    - title: 'Membership Inference Attacks against Vision Transformers: Mosaic MixUp
+        Training to the Defense.'
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3690268
+    - title: 'Poster: Protection against Source Inference Attacks in Federated Learning
+        using Unary Encoding and Shuffling.'
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3691411
+    - title: 'QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks
+        Against Query-Based Systems.'
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3690272
+    - title: 'SeqMIA: Sequential-Metric Based Membership Inference Attack.'
+      venue: CCS
+      year: 2024
+      link: https://doi.org/10.1145/3658644.3690335
   '2023':
     header:
       title: Title
@@ -4110,6 +4505,10 @@ CCS:
       venue: CCS
       year: 2023
       link: https://doi.org/10.1145/3576915.3616592
+    - title: 'Poster: Membership Inference Attacks via Contrastive Learning.'
+      venue: CCS
+      year: 2023
+      link: https://doi.org/10.1145/3576915.3624384
   '2022':
     header:
       title: Title
@@ -4122,10 +4521,70 @@ CCS:
       year: 4
       link: 60
     body:
+    - title: 'A Run a Day Won&apos;t Keep the Hacker Away: Inference Attacks on Endpoint
+        Privacy Zones in Fitness Tracking Social Networks.'
+      venue: CCS
+      year: 2022
+      link: https://doi.org/10.1145/3548606.3560616
+    - title: Are Attribute Inference Attacks Just Imputation?
+      venue: CCS
+      year: 2022
+      link: https://doi.org/10.1145/3548606.3560663
     - title: Enhanced Membership Inference Attacks against Machine Learning Models.
       venue: CCS
       year: 2022
       link: https://doi.org/10.1145/3548606.3560675
+    - title: Feature Inference Attack on Shapley Values.
+      venue: CCS
+      year: 2022
+      link: https://doi.org/10.1145/3548606.3560573
+    - title: Group Property Inference Attacks Against Graph Neural Networks.
+      venue: CCS
+      year: 2022
+      link: https://doi.org/10.1145/3548606.3560662
+    - title: 'Membership Inference Attacks and Generalization: A Causal Perspective.'
+      venue: CCS
+      year: 2022
+      link: https://doi.org/10.1145/3548606.3560694
+    - title: Membership Inference Attacks by Exploiting Loss Trajectory.
+      venue: CCS
+      year: 2022
+      link: https://doi.org/10.1145/3548606.3560684
+    - title: 'QuerySnout: Automating the Discovery of Attribute Inference Attacks
+        against Query-Based Systems.'
+      venue: CCS
+      year: 2022
+      link: https://doi.org/10.1145/3548606.3560581
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Membership Inference Attacks Against Recommender Systems.
+      venue: CCS
+      year: 2021
+      link: https://doi.org/10.1145/3460120.3484770
+    - title: Membership Inference Attacks against GANs by Leveraging Over-representation
+        Regions.
+      venue: CCS
+      year: 2021
+      link: https://doi.org/10.1145/3460120.3485338
+    - title: 'Periscope: A Keystroke Inference Attack Using Human Coupled Electromagnetic
+        Emanations.'
+      venue: CCS
+      year: 2021
+      link: https://doi.org/10.1145/3460120.3484549
+    - title: 'Unleashing the Tiger: Inference Attacks on Split Learning.'
+      venue: CCS
+      year: 2021
+      link: https://doi.org/10.1145/3460120.3485259
   '2020':
     header:
       title: Title
@@ -4143,6 +4602,106 @@ CCS:
       venue: CCS
       year: 2020
       link: https://doi.org/10.1145/3372297.3417238
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MemGuard: Defending against Black-Box Membership Inference Attacks via
+        Adversarial Examples.'
+      venue: CCS
+      year: 2019
+      link: https://doi.org/10.1145/3319535.3363201
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Property Inference Attacks on Fully Connected Neural Networks using Permutation
+        Invariant Representations.
+      venue: CCS
+      year: 2018
+      link: https://doi.org/10.1145/3243734.3243834
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'The Shadow Nemesis: Inference Attacks on Efficiently Deployable, Efficiently
+        Searchable Encryption.'
+      venue: CCS
+      year: 2016
+      link: https://doi.org/10.1145/2976749.2978401
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Inference Attacks on Property-Preserving Encrypted Databases.
+      venue: CCS
+      year: 2015
+      link: https://doi.org/10.1145/2810103.2813651
+  '2012':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Collaborative TCP sequence number inference attack: how to crack sequence
+        number under a second.'
+      venue: CCS
+      year: 2012
+      link: https://doi.org/10.1145/2382196.2382258
+  '2011':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Poster: inference attacks against searchable encryption protocols.'
+      venue: CCS
+      year: 2011
+      link: https://dl.acm.org/citation.cfm?id=2093508
   '2010':
     header:
       title: Title
@@ -4160,6 +4719,10 @@ CCS:
       venue: CCS
       year: 2010
       link: https://doi.org/10.1145/1866307.1866355
+    - title: Protecting location privacy against inference attacks.
+      venue: CCS
+      year: 2010
+      link: https://doi.org/10.1145/1866307.1866406
   '2003':
     header:
       title: Title
@@ -4268,6 +4831,10 @@ ACL:
       venue: ACL
       year: 2025
       link: https://aclanthology.org/2025.acl-long.685/
+    - title: Sampling-based Pseudo-Likelihood for Membership Inference Attacks.
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.465/
     - title: Scaling Laws and Efficient Inference for Ternary Language Models.
       venue: ACL
       year: 2025
@@ -4851,6 +5418,11 @@ EMNLP:
       venue: EMNLP
       year: 2023
       link: https://doi.org/10.18653/v1/2023.emnlp-main.825
+    - title: 'LogicAttack: Adversarial Attacks for Evaluating Logical Consistency
+        of Natural Language Inference.'
+      venue: EMNLP
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.findings-emnlp.889
     - title: 'SAMP: A Model Inference Toolkit of Post-Training Quantization for Text
         Processing via Self-Adaptive Mixed-Precision.'
       venue: EMNLP
@@ -5172,6 +5744,11 @@ ICDE:
       year: 4
       link: 60
     body:
+    - title: Defending against Attribute Inference Attacks in Post-Training of Recommendation
+        Systems via Unlearning.
+      venue: ICDE
+      year: 2025
+      link: https://doi.org/10.1109/ICDE65448.2025.00200
     - title: 'SeSeMI: Secure Serverless Model Inference on Sensitive Data.'
       venue: ICDE
       year: 2025
@@ -5255,6 +5832,15 @@ ICDM:
       year: 4
       link: 60
     body:
+    - title: 'Adapting Membership Inference Attacks to GNN for Graph Classification:
+        Approaches and Implications.'
+      venue: ICDM
+      year: 2021
+      link: https://doi.org/10.1109/ICDM51629.2021.00182
+    - title: Source Inference Attacks in Federated Learning.
+      venue: ICDM
+      year: 2021
+      link: https://doi.org/10.1109/ICDM51629.2021.00129
     - title: Spatially and Robustly Hybrid Mixture Regression Model for Inference
         of Spatial Dependence.
       venue: ICDM
@@ -5316,6 +5902,10 @@ WACV:
       venue: WACV
       year: 2024
       link: https://doi.org/10.1109/WACV57701.2024.00477
+    - title: Membership Inference Attack Using Self Influence Functions.
+      venue: WACV
+      year: 2024
+      link: https://doi.org/10.1109/WACV57701.2024.00482
     - title: 'PATROL: Privacy-Oriented Pruning for Collaborative Inference Against
         Model Inversion Attacks.'
       venue: WACV
@@ -5593,11 +6183,20 @@ WWW:
       venue: WWW
       year: 2025
       link: https://doi.org/10.1145/3701716.3735082
+    - title: 'Aegis: Post-Training Attribute Unlearning in Federated Recommender Systems
+        against Attribute Inference Attacks.'
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3696410.3714823
     - title: 'BATON: Enhancing Batch-wise Inference Efficiency for Large Language
         Models via Dynamic Re-batching.'
       venue: WWW
       year: 2025
       link: https://doi.org/10.1145/3696410.3714950
+    - title: Mask-based Membership Inference Attacks for Retrieval-Augmented Generation.
+      venue: WWW
+      year: 2025
+      link: https://doi.org/10.1145/3696410.3714771
     - title: Self-Comparison for Dataset-Level Membership Inference in Large (Vision-)Language
         Model.
       venue: WWW
@@ -5620,6 +6219,16 @@ WWW:
       venue: WWW
       year: 2024
       link: https://doi.org/10.1145/3589334.3645505
+    - title: Physical Trajectory Inference Attack and Defense in Decentralized POI
+        Recommendation.
+      venue: WWW
+      year: 2024
+      link: https://doi.org/10.1145/3589334.3645410
+    - title: Robust Federated Learning Mitigates Client-side Training Data Distribution
+        Inference Attacks.
+      venue: WWW
+      year: 2024
+      link: https://doi.org/10.1145/3589335.3651555
   '2023':
     header:
       title: Title
@@ -5636,6 +6245,15 @@ WWW:
       venue: WWW
       year: 2023
       link: https://doi.org/10.1145/3543507.3583306
+    - title: Interaction-level Membership Inference Attack Against Federated Recommender
+        Systems.
+      venue: WWW
+      year: 2023
+      link: https://doi.org/10.1145/3543507.3583359
+    - title: Membership Inference Attacks Against Sequential Recommender Systems.
+      venue: WWW
+      year: 2023
+      link: https://doi.org/10.1145/3543507.3583447
   '2022':
     header:
       title: Title
@@ -5653,6 +6271,22 @@ WWW:
       venue: WWW
       year: 2022
       link: https://doi.org/10.1145/3485447.3512144
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Graph Embedding for Recommendation against Attribute Inference Attacks.
+      venue: WWW
+      year: 2021
+      link: https://doi.org/10.1145/3442381.3449813
   '2019':
     header:
       title: Title
@@ -5721,6 +6355,11 @@ WWW:
       year: 4
       link: 60
     body:
+    - title: 'I know the shortened URLs you clicked on Twitter: inference attack using
+        public click analytics and Twitter metadata.'
+      venue: WWW
+      year: 2013
+      link: https://doi.org/10.1145/2488388.2488492
     - title: 'MATRI: a multi-aspect and transitive trust inference model.'
       venue: WWW
       year: 2013
@@ -5742,6 +6381,22 @@ WWW:
       venue: WWW
       year: 2012
       link: https://doi.org/10.1145/2187836.2187955
+  '2011':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Automatic sanitization of social network data to prevent inference attacks.
+      venue: WWW
+      year: 2011
+      link: https://doi.org/10.1145/1963192.1963221
   '2004':
     header:
       title: Title
@@ -6075,6 +6730,10 @@ SP:
       venue: SP
       year: 2025
       link: https://doi.org/10.1109/SP61157.2025.00182
+    - title: Inference Attacks for X-Vector Speaker Anonymization.
+      venue: SP
+      year: 2025
+      link: https://doi.org/10.1109/SPW67851.2025.00020
     - title: Membership Inference Attacks on Sequence Models.
       venue: SP
       year: 2025
@@ -6084,6 +6743,28 @@ SP:
       venue: SP
       year: 2025
       link: https://doi.org/10.1109/SP61157.2025.00160
+    - title: 'Rigging the Foundation: Manipulating Pre-training for Advanced Membership
+        Inference Attacks.'
+      venue: SP
+      year: 2025
+      link: https://doi.org/10.1109/SP61157.2025.00177
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Please Tell Me More: Privacy Impact of Explainability through the Lens
+        of Membership Inference Attack.'
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00120
   '2023':
     header:
       title: Title
@@ -6105,6 +6786,22 @@ SP:
       venue: SP
       year: 2023
       link: https://doi.org/10.1109/SP46215.2023.10179382
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Membership Inference Attacks From First Principles.
+      venue: SP
+      year: 2022
+      link: https://doi.org/10.1109/SP46214.2022.9833649
 IEEE Symposium on Security and Privacy Workshops:
   '2019':
     header:
@@ -6123,6 +6820,40 @@ IEEE Symposium on Security and Privacy Workshops:
       venue: IEEE Symposium on Security and Privacy Workshops
       year: 2019
       link: https://doi.org/10.1109/SPW.2019.00021
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Sensor-Based Mobile Web Fingerprinting and Cross-Site Input Inference
+        Attacks.
+      venue: IEEE Symposium on Security and Privacy Workshops
+      year: 2016
+      link: https://doi.org/10.1109/SPW.2016.17
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Quantifying Genomic Privacy via Inference Attack with High-Order SNV
+        Correlations.
+      venue: IEEE Symposium on Security and Privacy Workshops
+      year: 2015
+      link: https://doi.org/10.1109/SPW.2015.21
   '2013':
     header:
       title: Title
@@ -6140,6 +6871,23 @@ IEEE Symposium on Security and Privacy Workshops:
       year: 2013
       link: https://doi.org/10.1109/SPW.2013.25
 IEEE Symposium on Security and Privacy:
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Comprehensive Privacy Analysis of Deep Learning: Passive and Active
+        White-box Inference Attacks against Centralized and Federated Learning.'
+      venue: IEEE Symposium on Security and Privacy
+      year: 2019
+      link: https://doi.org/10.1109/SP.2019.00065
   '2017':
     header:
       title: Title
@@ -6156,6 +6904,45 @@ IEEE Symposium on Security and Privacy:
       venue: IEEE Symposium on Security and Privacy
       year: 2017
       link: https://doi.org/10.1109/SP.2017.41
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'No Pardon for the Interruption: New Inference Attacks on Android Through
+        Interrupt Timing Analysis.'
+      venue: IEEE Symposium on Security and Privacy
+      year: 2016
+      link: https://doi.org/10.1109/SP.2016.32
+    - title: 'Return to the Zombie Gadgets: Undermining Destructive Code Reads via
+        Code Inference Attacks.'
+      venue: IEEE Symposium on Security and Privacy
+      year: 2016
+      link: https://doi.org/10.1109/SP.2016.61
+  '2012':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Off-path TCP Sequence Number Inference Attack - How Firewall Middleboxes
+        Reduce Security.
+      venue: IEEE Symposium on Security and Privacy
+      year: 2012
+      link: https://doi.org/10.1109/SP.2012.29
 S&amp;P:
   '1985':
     header:
@@ -6186,6 +6973,15 @@ USENIX Security Symposium:
       year: 4
       link: 60
     body:
+    - title: 'Disparate Privacy Vulnerability: Targeted Attribute Inference Attacks
+        and Defenses.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/kabir
+    - title: Enhanced Label-Only Membership Inference Attacks with Fewer Queries.
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/li-hao
     - title: 'I Know What You Said: Unveiling Hardware Cache Side-Channels in Local
         Large Language Model Inference.'
       venue: USENIX Security Symposium
@@ -6195,6 +6991,20 @@ USENIX Security Symposium:
       venue: USENIX Security Symposium
       year: 2025
       link: https://www.usenix.org/conference/usenixsecurity25/presentation/hu-yuke
+    - title: 'Rectifying Privacy and Efficacy Measurements in Machine Unlearning:
+        A New Inference Attack Perspective.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/naderloui
+    - title: Revisiting Training-Inference Trigger Intensity in Backdoor Attacks.
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/lin-chenhao
+    - title: 'SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against
+        Membership Inference Attacks.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-kaiyuan
     - title: Towards Label-Only Membership Inference Attack against Pre-trained Large
         Language Models.
       venue: USENIX Security Symposium
@@ -6212,11 +7022,30 @@ USENIX Security Symposium:
       year: 4
       link: 60
     body:
+    - title: A Linear Reconstruction Approach for Attribute Inference Attacks against
+        Synthetic Data.
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/annamalai-linear
+    - title: Can Virtual Reality Protect Users from Keystroke Inference Attacks?
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/yang-zhuolin
     - title: Did the Neurons Read your Book? Document-level Membership Inference for
         Large Language Models.
       venue: USENIX Security Symposium
       year: 2024
       link: https://www.usenix.org/conference/usenixsecurity24/presentation/meeus
+    - title: 'Inf2Guard: An Information-Theoretic Framework for Learning Privacy-Preserving
+        Representations against Inference Attacks.'
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/noorbakhsh
+    - title: 'MIST: Defending Against Membership Inference Attacks Through Membership-Invariant
+        Subspace Training.'
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/li-jiacheng
     - title: Property Existence Inference against Generative Models.
       venue: USENIX Security Symposium
       year: 2024
@@ -6226,6 +7055,22 @@ USENIX Security Symposium:
       venue: USENIX Security Symposium
       year: 2024
       link: https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Towards a General Video-based Keystroke Inference Attack.
+      venue: USENIX Security Symposium
+      year: 2023
+      link: https://www.usenix.org/conference/usenixsecurity23/presentation/yang-zhuolin
   '2022':
     header:
       title: Title
@@ -6243,11 +7088,33 @@ USENIX Security Symposium:
       venue: USENIX Security Symposium
       year: 2022
       link: https://www.usenix.org/conference/usenixsecurity22/presentation/mehnaz
+    - title: Inference Attacks Against Graph Neural Networks.
+      venue: USENIX Security Symposium
+      year: 2022
+      link: https://www.usenix.org/conference/usenixsecurity22/presentation/zhang-zhikun
+    - title: Label Inference Attacks Against Vertical Federated Learning.
+      venue: USENIX Security Symposium
+      year: 2022
+      link: https://www.usenix.org/conference/usenixsecurity22/presentation/fu-chong
     - title: 'ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine
         Learning Models.'
       venue: USENIX Security Symposium
       year: 2022
       link: https://www.usenix.org/conference/usenixsecurity22/presentation/liu-yugeng
+    - title: Membership Inference Attacks and Defenses in Neural Network Pruning.
+      venue: USENIX Security Symposium
+      year: 2022
+      link: https://www.usenix.org/conference/usenixsecurity22/presentation/yuan-xiaoyong
+    - title: Mitigating Membership Inference Attacks by Self-Distillation Through
+        a Novel Ensemble Architecture.
+      venue: USENIX Security Symposium
+      year: 2022
+      link: https://www.usenix.org/conference/usenixsecurity22/presentation/tang
+    - title: 'Pool Inference Attacks on Local Differential Privacy: Quantifying the
+        Privacy Guarantees of Apple&apos;s Count Mean Sketch in Practice.'
+      venue: USENIX Security Symposium
+      year: 2022
+      link: https://www.usenix.org/conference/usenixsecurity22/presentation/gadotti
   '2021':
     header:
       title: Title
@@ -6260,6 +7127,10 @@ USENIX Security Symposium:
       year: 4
       link: 60
     body:
+    - title: 'Acoustics to the Rescue: Physical Key Inference Attack Revisited.'
+      venue: USENIX Security Symposium
+      year: 2021
+      link: https://www.usenix.org/conference/usenixsecurity21/presentation/ramesh
     - title: 'Hermes Attack: Steal DNN Models with Lossless Inference Accuracy.'
       venue: USENIX Security Symposium
       year: 2021
@@ -6281,6 +7152,62 @@ USENIX Security Symposium:
       venue: USENIX Security Symposium
       year: 2020
       link: https://www.usenix.org/conference/usenixsecurity20/presentation/leino
+    - title: 'Updates-Leak: Data Set Inference and Reconstruction Attacks in Online
+        Learning.'
+      venue: USENIX Security Symposium
+      year: 2020
+      link: https://www.usenix.org/conference/usenixsecurity20/presentation/salem
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AttriGuard: A Practical Defense Against Attribute Inference Attacks
+        via Adversarial Machine Learning.'
+      venue: USENIX Security Symposium
+      year: 2018
+      link: https://www.usenix.org/conference/usenixsecurity18/presentation/jia-jinyuan
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'You Are Who You Know and How You Behave: Attribute Inference Attacks
+        via Users&apos; Social Friends and Behaviors.'
+      venue: USENIX Security Symposium
+      year: 2016
+      link: https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/gong
+  '2014':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Peeking into Your App without Actually Seeing It: UI State Inference
+        and Novel Android Attacks.'
+      venue: USENIX Security Symposium
+      year: 2014
+      link: https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/chen
   '2011':
     header:
       title: Title
@@ -6653,6 +7580,11 @@ CIKM:
       venue: CIKM
       year: 2024
       link: https://doi.org/10.1145/3627673.3679806
+    - title: Interaction-level Membership Inference Attack against Recommender Systems
+        with Long-tailed Distribution.
+      venue: CIKM
+      year: 2024
+      link: https://doi.org/10.1145/3627673.3679804
   '2023':
     header:
       title: Title
@@ -6911,6 +7843,23 @@ Artif. Intell.:
       year: 2000
       link: https://doi.org/10.1016/S0004-3702(99)00109-5
 Mach. Learn.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'HFIA: a parasitic feature inference attack and gradient-based defense
+        strategy in SplitNN-based vertical federated learning.'
+      venue: Mach. Learn.
+      year: 2025
+      link: https://doi.org/10.1007/s10994-025-06804-2
   '2024':
     header:
       title: Title
@@ -7278,6 +8227,10 @@ J. Mach. Learn. Res.:
       venue: J. Mach. Learn. Res.
       year: 2017
       link: https://jmlr.org/papers/v18/15-468.html
+    - title: 'Minimax Filter: Learning to Preserve Privacy from Inference Attacks.'
+      venue: J. Mach. Learn. Res.
+      year: 2017
+      link: https://jmlr.org/papers/v18/16-501.html
     - title: Online but Accurate Inference for Latent Variable Models with Local Gibbs
         Sampling.
       venue: J. Mach. Learn. Res.
@@ -8008,6 +8961,11 @@ IEEE Trans. Signal Process.:
       venue: IEEE Trans. Signal Process.
       year: 2014
       link: https://doi.org/10.1109/TSP.2014.2319775
+    - title: Distributed Inference With M-Ary Quantized Data in the Presence of Byzantine
+        Attacks.
+      venue: IEEE Trans. Signal Process.
+      year: 2014
+      link: https://doi.org/10.1109/TSP.2014.2314072
   '2012':
     header:
       title: Title
@@ -8265,11 +9223,25 @@ IEEE Trans. Artif. Intell.:
       year: 4
       link: 60
     body:
+    - title: A Membership Inference and Adversarial Attack Defense Framework for Network
+        Traffic Classifiers.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3357791
     - title: Deep Reinforcement Learning Data Collection for Bayesian Inference of
         Hidden Markov Models.
       venue: IEEE Trans. Artif. Intell.
       year: 2025
       link: https://doi.org/10.1109/TAI.2024.3515939
+    - title: 'Privacy Inference Attack and Defense in Centralized and Federated Learning:
+        A Comprehensive Survey.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3363670
+    - title: 'meMIA: Multilevel Ensemble Membership Inference Attack.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3445326
   '2024':
     header:
       title: Title
@@ -8286,6 +9258,11 @@ IEEE Trans. Artif. Intell.:
       venue: IEEE Trans. Artif. Intell.
       year: 2024
       link: https://doi.org/10.1109/TAI.2024.3358261
+    - title: Securing User Privacy in Cloud-Based Whiteboard Services Against Health
+        Attribute Inference Attacks.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3352529
   '2023':
     header:
       title: Title
@@ -8316,11 +9293,33 @@ IEEE Trans. Knowl. Data Eng.:
       year: 4
       link: 60
     body:
+    - title: Camouflaged Variational Graph AutoEncoder Against Attribute Inference
+        Attacks for Cross-Domain Recommendation.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2025
+      link: https://doi.org/10.1109/TKDE.2025.3565793
     - title: 'Large Language Models Meet Causal Inference: Semantic-Rich Dual Propensity
         Score for Sequential Recommendation.'
       venue: IEEE Trans. Knowl. Data Eng.
       year: 2025
       link: https://doi.org/10.1109/TKDE.2025.3606149
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Comprehensive Privacy Analysis on Federated Recommender System Against
+        Attribute Inference Attacks.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2024
+      link: https://doi.org/10.1109/TKDE.2023.3295601
   '2022':
     header:
       title: Title
@@ -8369,6 +9368,22 @@ IEEE Trans. Knowl. Data Eng.:
       venue: IEEE Trans. Knowl. Data Eng.
       year: 2014
       link: https://doi.org/10.1109/TKDE.2013.147
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Preventing Private Information Inference Attacks on Social Networks.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2013
+      link: https://doi.org/10.1109/TKDE.2012.120
   '2008':
     header:
       title: Title
@@ -8403,6 +9418,45 @@ IEEE Trans. Knowl. Data Eng.:
       year: 1993
       link: https://doi.org/10.1109/69.224194
 IEEE Trans. Big Data:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MemDefense: Defending Against Membership Inference Attacks in IoT-Based
+        Federated Learning via Pruning Perturbations.'
+      venue: IEEE Trans. Big Data
+      year: 2025
+      link: https://doi.org/10.1109/TBDATA.2024.3403388
+    - title: Topology-Based Node-Level Membership Inference Attacks on Graph Neural
+        Networks.
+      venue: IEEE Trans. Big Data
+      year: 2025
+      link: https://doi.org/10.1109/TBDATA.2025.3558855
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Defending Batch-Level Label Inference and Replacement Attacks in Vertical
+        Federated Learning.
+      venue: IEEE Trans. Big Data
+      year: 2024
+      link: https://doi.org/10.1109/TBDATA.2022.3192121
   '2019':
     header:
       title: Title
@@ -8748,6 +9802,11 @@ IEEE Trans. Emerg. Top. Comput. Intell.:
       venue: IEEE Trans. Emerg. Top. Comput. Intell.
       year: 2025
       link: https://doi.org/10.1109/TETCI.2024.3502472
+    - title: Privacy-Enhanced Federated GNN Inference Against Adversarial Example
+        Attack.
+      venue: IEEE Trans. Emerg. Top. Comput. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TETCI.2024.3502434
   '2024':
     header:
       title: Title
@@ -8844,6 +9903,11 @@ IEEE Trans. Intell. Transp. Syst.:
       year: 4
       link: 60
     body:
+    - title: Differentially Private Tripartite Intelligent Matching Against Inference
+        Attacks in Ride-Sharing Services.
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2022
+      link: https://doi.org/10.1109/TITS.2021.3136386
     - title: Modeling Driver Responses to Automation Failures With Active Inference.
       venue: IEEE Trans. Intell. Transp. Syst.
       year: 2022
@@ -8878,6 +9942,38 @@ IEEE Trans. Inf. Forensics Secur.:
       year: 4
       link: 60
     body:
+    - title: A Security Mechanism Against Inference Attacks on Networked Systems.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3616608
+    - title: Attackers Are Not the Same! Unveiling the Impact of Feature Distribution
+        on Label Inference Attacks.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2024.3498464
+    - title: Comparing Different Membership Inference Attacks With a Comprehensive
+        Benchmark.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3550070
+    - title: 'GLiRA: Closed-Box Membership Inference Attack via Knowledge Distillation.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3550068
+    - title: Learning-Based Privacy-Preserving Graph Publishing Against Sensitive
+        Link Inference Attacks.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3592828
+    - title: On the Impact of Uncertainty and Calibration on Likelihood-Ratio Membership
+        Inference Attacks.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3578931
+    - title: 'ProVFL: Property Inference Attacks Against Vertical Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3581743
     - title: 'Unlocking Generative Priors: A New Membership Inference Framework for
         Diffusion Models.'
       venue: IEEE Trans. Inf. Forensics Secur.
@@ -8900,11 +9996,33 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2024
       link: https://doi.org/10.1109/TIFS.2024.3428412
+    - title: Defending Against Membership Inference Attack for Counterfactual Federated
+        Recommendation With Differentially Private Representation Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3453031
     - title: 'Gradient-Leaks: Enabling Black-Box Membership Inference Attacks Against
         Machine Learning Models.'
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2024
       link: https://doi.org/10.1109/TIFS.2023.3324772
+    - title: Preserving Privacy in GANs Against Membership Inference Attack.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2023.3342654
+    - title: 'RFTrack: Stealthy Location Inference and Tracking Attack on Wi-Fi Devices.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3404810
+    - title: Rethinking Membership Inference Attacks Against Transfer Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3413592
+    - title: Similarity-Based Label Inference Attack Against Training and Inference
+        of Split Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3356821
   '2023':
     header:
       title: Title
@@ -8927,6 +10045,49 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2023
       link: https://doi.org/10.1109/TIFS.2023.3318950
+    - title: 'TEAR: Exploring Temporal Evolution of Adversarial Robustness for Membership
+        Inference Attacks Against Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2023.3303718
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Randomized Filtering Strategy Against Inference Attacks on Active Steering
+        Control Systems.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2022
+      link: https://doi.org/10.1109/TIFS.2021.3130439
+    - title: One Parameter Defense - Defending Against Data Inference Attacks via
+        Differential Privacy.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2022
+      link: https://doi.org/10.1109/TIFS.2022.3163591
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Sensor-Based Mobile Web Cross-Site Input Inference Attacks and Defenses.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2019
+      link: https://doi.org/10.1109/TIFS.2018.2843353
 ACM Trans. Inf. Syst. Secur.:
   '2005':
     header:
@@ -8966,6 +10127,22 @@ ACM Trans. Intell. Syst. Technol.:
       venue: ACM Trans. Intell. Syst. Technol.
       year: 2023
       link: https://doi.org/10.1145/3570509
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Efficient Federated Matrix Factorization Against Inference Attacks.
+      venue: ACM Trans. Intell. Syst. Technol.
+      year: 2022
+      link: https://doi.org/10.1145/3501812
   '2020':
     header:
       title: Title
@@ -9017,6 +10194,11 @@ IEEE J. Biomed. Health Informatics:
       venue: IEEE J. Biomed. Health Informatics
       year: 2025
       link: https://doi.org/10.1109/JBHI.2025.3593443
+    - title: 'mDARTS: Searching ML-Based ECG Classifiers Against Membership Inference
+        Attacks.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/JBHI.2024.3481505
   '2023':
     header:
       title: Title
@@ -9136,6 +10318,11 @@ ACM Trans. Knowl. Discov. Data:
       venue: ACM Trans. Knowl. Discov. Data
       year: 2025
       link: https://doi.org/10.1145/3737880
+    - title: Exploiting Defenses against GAN-Based Feature Inference Attacks in Federated
+        Learning.
+      venue: ACM Trans. Knowl. Discov. Data
+      year: 2025
+      link: https://doi.org/10.1145/3719350
   '2021':
     header:
       title: Title
@@ -9171,6 +10358,22 @@ ACM Trans. Knowl. Discov. Data:
       year: 2010
       link: https://doi.org/10.1145/1857947.1857951
 Int. J. Comput. Vis.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Re-ID-leak: Membership Inference Attacks Against Person Re-identification.'
+      venue: Int. J. Comput. Vis.
+      year: 2024
+      link: https://doi.org/10.1007/s11263-024-02115-6
   '2022':
     header:
       title: Title
@@ -9696,6 +10899,11 @@ Pattern Recognit. Lett.:
       venue: Pattern Recognit. Lett.
       year: 2025
       link: https://doi.org/10.1016/j.patrec.2025.03.017
+    - title: 'Synthetic image learning: Preserving performance and preventing Membership
+        Inference Attacks.'
+      venue: Pattern Recognit. Lett.
+      year: 2025
+      link: https://doi.org/10.1016/j.patrec.2025.02.003
   '2024':
     header:
       title: Title
@@ -9895,6 +11103,45 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2025
       link: https://doi.org/10.1016/j.knosys.2025.113339
+    - title: 'Synthetic data for enhanced privacy: A VAE-GAN approach against membership
+        inference attacks.'
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2024.112899
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Topology modification against membership inference attack in Graph Neural
+        Networks.
+      venue: Knowl. Based Syst.
+      year: 2024
+      link: https://doi.org/10.1016/j.knosys.2024.112642
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Understanding and defending against White-box membership inference attack
+        in deep learning.
+      venue: Knowl. Based Syst.
+      year: 2023
+      link: https://doi.org/10.1016/j.knosys.2022.110014
   '2022':
     header:
       title: Title
@@ -9944,6 +11191,10 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2021
       link: https://doi.org/10.1016/j.knosys.2020.106678
+    - title: Towards link inference attack against network structure perturbation.
+      venue: Knowl. Based Syst.
+      year: 2021
+      link: https://doi.org/10.1016/j.knosys.2020.106674
   '2020':
     header:
       title: Title
@@ -10106,6 +11357,11 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2024
       link: https://doi.org/10.1016/j.ins.2023.119837
+    - title: 'Defending against membership inference attacks: RM Learning is all you
+        need.'
+      venue: Inf. Sci.
+      year: 2024
+      link: https://doi.org/10.1016/j.ins.2024.120636
     - title: Distributed inference for the quantile regression model based on the
         random weighted bootstrap.
       venue: Inf. Sci.
@@ -10116,6 +11372,11 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2024
       link: https://doi.org/10.1016/j.ins.2024.120984
+    - title: 'GradDiff: Gradient-based membership inference attacks against federated
+        distillation with differential comparison.'
+      venue: Inf. Sci.
+      year: 2024
+      link: https://doi.org/10.1016/j.ins.2023.120068
     - title: Modeling brain information flow dynamics with multidimensional fuzzy
         inference systems.
       venue: Inf. Sci.
@@ -10146,6 +11407,27 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2023
       link: https://doi.org/10.1016/j.ins.2023.118966
+    - title: 'Total variation distance privacy: Accurately measuring inference attacks
+        and improving utility.'
+      venue: Inf. Sci.
+      year: 2023
+      link: https://doi.org/10.1016/j.ins.2023.01.037
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Secret inference and attacktability analysis of discrete event systems.
+      venue: Inf. Sci.
+      year: 2022
+      link: https://doi.org/10.1016/j.ins.2022.07.028
   '2021':
     header:
       title: Title
@@ -10676,6 +11958,22 @@ Neural Networks:
       venue: Neural Networks
       year: 2025
       link: https://doi.org/10.1016/j.neunet.2025.107173
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SIA: A sustainable inference attack framework in split learning.'
+      venue: Neural Networks
+      year: 2024
+      link: https://doi.org/10.1016/j.neunet.2023.12.033
   '2023':
     header:
       title: Title
@@ -10844,6 +12142,11 @@ Neurocomputing:
       year: 4
       link: 60
     body:
+    - title: A defense mechanism against label inference attacks in Vertical Federated
+        Learning.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.129476
     - title: A distributed inference algorithm for Dirichlet process mixture models
         with exponential family components.
       venue: Neurocomputing
@@ -10860,6 +12163,11 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2025
       link: https://doi.org/10.1016/j.neucom.2025.130327
+    - title: 'FeaUn: Feature unlearning in vertical federated learning for IIoT against
+        feature inference attacks.'
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.131110
     - title: Masked graph autoencoder-based multi-agent dynamic relational inference
         model for trajectory prediction.
       venue: Neurocomputing
@@ -10925,6 +12233,10 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2021
       link: https://doi.org/10.1016/j.neucom.2020.12.042
+    - title: Resisting membership inference attacks through knowledge distillation.
+      venue: Neurocomputing
+      year: 2021
+      link: https://doi.org/10.1016/j.neucom.2021.04.082
   '2020':
     header:
       title: Title
@@ -11120,6 +12432,11 @@ Neural Comput. Appl.:
       venue: Neural Comput. Appl.
       year: 2023
       link: https://doi.org/10.1007/s00521-023-08221-9
+    - title: Multi-level membership inference attacks in federated Learning based
+        on active GAN.
+      venue: Neural Comput. Appl.
+      year: 2023
+      link: https://doi.org/10.1007/s00521-023-08593-y
   '2022':
     header:
       title: Title
@@ -11159,6 +12476,11 @@ Neural Comput. Appl.:
       venue: Neural Comput. Appl.
       year: 2021
       link: https://doi.org/10.1007/s00521-020-05661-5
+    - title: Privacy protection of online social network users, against attribute
+        inference attacks, through the use of a set of exhaustive rules.
+      venue: Neural Comput. Appl.
+      year: 2021
+      link: https://doi.org/10.1007/s00521-021-05860-8
   '2018':
     header:
       title: Title
@@ -11293,3 +12615,88 @@ J. Artif. Intell. Res.:
       venue: J. Artif. Intell. Res.
       year: 2008
       link: https://doi.org/10.1613/jair.2530
+WOOT @ USENIX Security Symposium:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Amplifying Threats: The Role of Multi-Sender Coordination in SMS-Timing-Based
+        Location Inference Attacks.'
+      venue: WOOT @ USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/woot24/presentation/bitsikas
+IEEE Trans. Emerg. Top. Comput.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Use the Spear as a Shield: An Adversarial Example Based Privacy-Preserving
+        Technique Against Membership Inference Attacks.'
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2023
+      link: https://doi.org/10.1109/TETC.2022.3184408
+ACM Trans. Priv. Secur.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Defending Against Membership Inference Attacks on Beacon Services.
+      venue: ACM Trans. Priv. Secur.
+      year: 2023
+      link: https://doi.org/10.1145/3603627
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Attribute Inference Attacks in Online Social Networks.
+      venue: ACM Trans. Priv. Secur.
+      year: 2018
+      link: https://doi.org/10.1145/3154793
+  '2017':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Efficient Attack Graph Analysis through Approximate Inference.
+      venue: ACM Trans. Priv. Secur.
+      year: 2017
+      link: https://doi.org/10.1145/3105760
