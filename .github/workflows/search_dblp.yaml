@@ -99,7 +99,7 @@ jobs:
         if: steps.diff.outputs.data_changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "auto update @ ${{ steps.date.outputs.date }} ${{ env.TZ }}"
+          commit_message: "new papers added @ ${{ steps.date.outputs.date }} ${{ env.TZ }}"
 
       - name: Cleanup
         run: |

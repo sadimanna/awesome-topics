@@ -16,11 +16,8 @@ jobs:
   update:
     if: >
       github.event_name == 'workflow_dispatch' ||
-      (
-        github.event.workflow_run.conclusion == 'success' &&
-        github.event.workflow_run.outputs &&
-        github.event.workflow_run.outputs.data_changed == 'true'
-      )
+      ( github.event.workflow_run.conclusion == 'success' &&
+      contains(github.event.workflow_run.head_commit.message, 'new papers added') )
     runs-on: ubuntu-latest
     timeout-minutes: 3600
     env:
@@ -46,33 +43,6 @@ jobs:
           python3 -m pip install --upgrade pip
           if [ -f requirements.txt ]; then python3 -m pip install -r requirements.txt; fi
 
-      # ============================================
-      # Run DBLP Watcher to get latest papers
-      # ============================================
-    #   - name: Run dblp watcher
-    #     run: |
-    #       cd src
-    #       python3 main.py run --env=${{ env.RUN_ENV }}
-
-    #   - name: Setup var
-    #     id: vars
-    #     run: |
-    #       raw="${MSG:-}"
-    #       {
-    #         echo "raw<<EOF"
-    #         echo "$raw"
-    #         echo "EOF"
-    #       } >> "$GITHUB_OUTPUT"
-
-    #   - name: Create an issue for new papers
-    #     if: ${{ steps.vars.outputs.raw != '' }}
-    #     uses: JasonEtco/create-an-issue@v2
-    #     env:
-    #       MSG: ${{ steps.vars.outputs.raw }}
-    #       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    #     with:
-    #       filename: .github/issue-template.md
-
       - name: Update readme
         run: |
           cd scripts && python3 main.py merge_md_yaml
@@ -81,11 +51,6 @@ jobs:
         run: |
           mkdir -p docs
           cp README.md docs/index.md
-
-      # FOR PROPER RENDERING OF TABLES IN GITHUB PAGES
-      # - name: Fix Jekyll <details> blocks
-      #   run: |
-      #     sed -i -E 's/<details([^>]*)>/<details\1 markdown="1">/g' docs/index.md
 
       - name: Count papers per topic
         run: |
@@ -107,10 +72,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "auto update @ ${{ steps.date.outputs.date }} ${{ env.TZ }}"
-
-    #   - name: Cleanup
-    #     run: |
-    #       rm -rf $GITHUB_WORKSPACE/*
-
-      
 
