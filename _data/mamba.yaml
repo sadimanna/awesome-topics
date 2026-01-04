@@ -1146,6 +1146,15 @@ IEEE Trans. Image Process.:
       venue: IEEE Trans. Image Process.
       year: 2025
       link: https://doi.org/10.1109/TIP.2025.3592551
+    - title: 'MambaMatch: Establishing Reliable Correspondences via Multi-Scale State
+        Space Model.'
+      venue: IEEE Trans. Image Process.
+      year: 2025
+      link: https://doi.org/10.1109/TIP.2025.3631445
+    - title: Spatial-Frequency Enhanced Mamba for Multi-Modal Image Fusion.
+      venue: IEEE Trans. Image Process.
+      year: 2025
+      link: https://doi.org/10.1109/TIP.2025.3632221
     - title: 'Text-Controlled Motion Mamba: Text-Instructed Temporal Grounding of
         Human Motion.'
       venue: IEEE Trans. Image Process.
@@ -1174,6 +1183,11 @@ IEEE Trans. Medical Imaging:
       venue: IEEE Trans. Medical Imaging
       year: 2025
       link: https://doi.org/10.1109/TMI.2025.3550731
+    - title: 'Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation With
+        Selective State-Space Model.'
+      venue: IEEE Trans. Medical Imaging
+      year: 2025
+      link: https://doi.org/10.1109/TMI.2025.3584468
     - title: "Swin-UMamba\u2020: Adapting Mamba-Based Vision Foundation Models for\
         \ Medical Image Segmentation."
       venue: IEEE Trans. Medical Imaging
@@ -1304,6 +1318,20 @@ Pattern Recognit.:
       year: 4
       link: 60
     body:
+    - title: A comprehensive analysis of Mamba for 3D volumetric medical image segmentation.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112701
+    - title: 'DAF-Mamba: Dynamic selective and adaptive fused mamba for cardiac image
+        segmentation.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112664
+    - title: Dual-domain homogeneous fusion with cross-modal mamba and progressive
+        decoder for 3D object detection.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112725
     - title: 'GraphMamba: Graph-driven spatial order-aware Mamba for medical image
         segmentation.'
       venue: Pattern Recognit.
@@ -1326,6 +1354,11 @@ Pattern Recognit.:
       venue: Pattern Recognit.
       year: 2026
       link: https://doi.org/10.1016/j.patcog.2025.112031
+    - title: 'Mambafusion: State-space model-driven object-scene fusion for multi-modal
+        3D object detection.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112820
     - title: Multi-modal mamba framework for RGB-T crowd counting with linear complexity.
       venue: Pattern Recognit.
       year: 2026
@@ -1352,6 +1385,23 @@ Pattern Recognit.:
       year: 2025
       link: https://doi.org/10.1016/j.patcog.2025.111723
 Pattern Recognit. Lett.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Multi-Modal masked autoencoder and parallel Mamba for 3D brain tumor
+        segmentation.
+      venue: Pattern Recognit. Lett.
+      year: 2026
+      link: https://doi.org/10.1016/j.patrec.2025.10.020
   '2025':
     header:
       title: Title
@@ -1493,6 +1543,28 @@ Data Min. Knowl. Discov.:
       year: 2025
       link: https://doi.org/10.1007/s10618-025-01149-9
 Knowl. Based Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'IA-MUNet: A knowledge-guided instance-aware mamba-UNet for efficient
+        multiclass dental image segmentation.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.114949
+    - title: 'Mamba2Diff: An enhanced diffusion framework for goal-conditioned imitation
+        learning in robotic long-horizon action modeling.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.114990
   '2025':
     header:
       title: Title
@@ -1572,6 +1644,10 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2025
       link: https://doi.org/10.1016/j.knosys.2025.114573
+    - title: 'RecMamba: Reconstruction-augmented dual-path Mamba for time series forecasting.'
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114801
     - title: Sliced Wasserstein weighted multimodal mambavision for emotion recognition.
       venue: Knowl. Based Syst.
       year: 2025
@@ -1648,11 +1724,35 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129897
+    - title: 'Costal cartilage segmentation with topology guided deformable mamba:
+        Method and benchmark.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130085
+    - title: 'DSA mamba: A model for advanced medical image classification.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130064
+    - title: 'HMambaOcc: Hierarchical Mamba for occupancy flow field prediction in
+        autonomous driving under mixed traffic environments.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130056
     - title: Leveraging mamba for reference audio-visual segmentation with vote and
         cache mechanism.
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129371
+    - title: 'MFS-Fusion: Mamba-integrated deep multi-modal image fusion framework
+        with multi-scale fourier enhancement and spatial calibration.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130054
+    - title: 'MRED-Net: A pure tokens-to-token visual mamba-based residual encoder-decoder
+        network for low-dose CT denoising.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130305
     - title: 'MambaBIR: A residual pyramid network for brain image registration with
         state-space model.'
       venue: Expert Syst. Appl.
@@ -1668,6 +1768,10 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129843
+    - title: 'PVMNet: A navel orange defect detection algorithm based on Mamba structure.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130412
     - title: 'SAMForecast: A hybrid model of self-attention and Mamba with adaptive
         wavelet transform for time series forecasting.'
       venue: Expert Syst. Appl.

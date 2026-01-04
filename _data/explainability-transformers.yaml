@@ -295,6 +295,11 @@ Knowl. Based Syst.:
       year: 4
       link: 60
     body:
+    - title: 'Arrhythmia detection in multi-channel ECG images: vision transformer
+        and explainable approaches.'
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114889
     - title: Explainable TabNet Transformer-based on Google Vizier Optimizer for Anomaly
         Intrusion Detection System.
       venue: Knowl. Based Syst.

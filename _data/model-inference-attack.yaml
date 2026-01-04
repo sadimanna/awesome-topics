@@ -11098,6 +11098,16 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2025
       link: https://doi.org/10.1016/j.knosys.2025.113630
+    - title: 'PmiaNLL: Defending against poisoning membership inference attacks with
+        noisy label learning.'
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114706
+    - title: 'Semantic knowledge abstraction: Consistent reasoning in large language
+        models for natural language inference.'
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114825
     - title: 'Stand-in Model Protection: Synthetic defense for membership inference
         and model inversion attacks.'
       venue: Knowl. Based Syst.

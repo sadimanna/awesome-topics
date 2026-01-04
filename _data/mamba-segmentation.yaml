@@ -14,6 +14,7 @@ section:
 - title: Knowl. Based Syst.
 - title: Expert Syst. Appl.
 - title: Neurocomputing
+- title: Pattern Recognit. Lett.
 NeurIPS:
   '2024':
     header:
@@ -164,6 +165,11 @@ IEEE Trans. Medical Imaging:
       venue: IEEE Trans. Medical Imaging
       year: 2025
       link: https://doi.org/10.1109/TMI.2025.3564765
+    - title: 'Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation With
+        Selective State-Space Model.'
+      venue: IEEE Trans. Medical Imaging
+      year: 2025
+      link: https://doi.org/10.1109/TMI.2025.3584468
     - title: "Swin-UMamba\u2020: Adapting Mamba-Based Vision Foundation Models for\
         \ Medical Image Segmentation."
       venue: IEEE Trans. Medical Imaging
@@ -222,6 +228,15 @@ Pattern Recognit.:
       year: 4
       link: 60
     body:
+    - title: A comprehensive analysis of Mamba for 3D volumetric medical image segmentation.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112701
+    - title: 'DAF-Mamba: Dynamic selective and adaptive fused mamba for cardiac image
+        segmentation.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112664
     - title: 'GraphMamba: Graph-driven spatial order-aware Mamba for medical image
         segmentation.'
       venue: Pattern Recognit.
@@ -302,6 +317,23 @@ Comput. Medical Imaging Graph.:
       year: 2025
       link: https://doi.org/10.1016/j.compmedimag.2025.102531
 Knowl. Based Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'IA-MUNet: A knowledge-guided instance-aware mamba-UNet for efficient
+        multiclass dental image segmentation.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.114949
   '2025':
     header:
       title: Title
@@ -354,6 +386,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129897
+    - title: 'Costal cartilage segmentation with topology guided deformable mamba:
+        Method and benchmark.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130085
     - title: Leveraging mamba for reference audio-visual segmentation with vote and
         cache mechanism.
       venue: Expert Syst. Appl.
@@ -452,3 +489,21 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2025
       link: https://doi.org/10.1016/j.neucom.2025.131137
+Pattern Recognit. Lett.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Multi-Modal masked autoencoder and parallel Mamba for 3D brain tumor
+        segmentation.
+      venue: Pattern Recognit. Lett.
+      year: 2026
+      link: https://doi.org/10.1016/j.patrec.2025.10.020
