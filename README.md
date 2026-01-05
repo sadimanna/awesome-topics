@@ -1166,6 +1166,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#knowl-based-syst">Knowl. Based Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#knowl. based syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#knowl. based syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#knowl. based syst.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#knowl. based syst.-2023)
@@ -2492,6 +2493,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#knowl-based-syst">Knowl. Based Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#knowl. based syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#knowl. based syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/mamba-segmentation#knowl. based syst.-2024)
   </details>
@@ -2512,6 +2514,14 @@
 
   - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#neurocomputing-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#neurocomputing-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#pattern-recognit-lett">Pattern Recognit. Lett.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#pattern recognit. lett.-2026)
   </details>
 
 </details>
@@ -2749,6 +2759,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#pattern-recognit-lett">Pattern Recognit. Lett.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#pattern recognit. lett.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#pattern recognit. lett.-2025)
   </details>
 
@@ -2782,6 +2793,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#knowl-based-syst">Knowl. Based Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#knowl. based syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#knowl. based syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/mamba#knowl. based syst.-2024)
   </details>

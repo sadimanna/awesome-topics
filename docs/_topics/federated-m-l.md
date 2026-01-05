@@ -928,6 +928,7 @@ permalink: /federated-m-l/
 <details markdown="1">
 <summary>Knowl. Based Syst.</summary>
 
+  - [2026](#knowl-based-syst-2026)
   - [2025](#knowl-based-syst-2025)
   - [2024](#knowl-based-syst-2024)
   - [2023](#knowl-based-syst-2023)
@@ -19210,6 +19211,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TSP.2025.3589658">Link</a></td>
 </tr>
 <tr>
+<td>PAUSE: Low-Latency and Privacy-Aware Active User Selection for Federated Learning.</td>
+<td>IEEE Trans. Signal Process.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TSP.2025.3627252">Link</a></td>
+</tr>
+<tr>
 <td>Probabilistic Byzantine Attack on Federated Learning.</td>
 <td>IEEE Trans. Signal Process.</td>
 <td>2025</td>
@@ -21571,6 +21578,12 @@ permalink: /federated-m-l/
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TCYB.2025.3571953">Link</a></td>
 </tr>
+<tr>
+<td>FedCoSR: Personalized Federated Learning With Contrastive Shareable Representations for Label Heterogeneity in Non-IID Data.</td>
+<td>IEEE Trans. Cybern.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TCYB.2025.3599370">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="ieee trans. cybern.-2024"></a>
@@ -21686,6 +21699,12 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Medical Imaging</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TMI.2025.3532474">Link</a></td>
+</tr>
+<tr>
+<td>FedDAG: Federated Domain Adversarial Generation Toward Generalizable Medical Image Analysis.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TMI.2025.3584967">Link</a></td>
 </tr>
 <tr>
 <td>FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-Supervised Medical Image Segmentation.</td>
@@ -22082,16 +22101,40 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TETCI.2024.3402166">Link</a></td>
 </tr>
 <tr>
+<td>Enhancing Federated Learning Through Differential Privacy: Introducing FedHybrid for Multicenter Diverse Heart Disease Datasets.</td>
+<td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TETCI.2025.3575420">Link</a></td>
+</tr>
+<tr>
 <td>Exploitation Maximization of Unlabeled Data for Federated Semi-Supervised Learning.</td>
 <td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TETCI.2024.3361866">Link</a></td>
 </tr>
 <tr>
+<td>FLAME: Federated Learning With Masked Autoencoders and Mean-Prototypes Embedding for Sparsely Labeled Medical Images.</td>
+<td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TETCI.2025.3569759">Link</a></td>
+</tr>
+<tr>
+<td>FedCGP: Cluster-Based Gradual Personalization for Federated Medical Image Segmentation.</td>
+<td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TETCI.2025.3572126">Link</a></td>
+</tr>
+<tr>
 <td>FedLaw: Value-Aware Federated Learning With Individual Fairness and Coalition Stability.</td>
 <td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TETCI.2024.3446458">Link</a></td>
+</tr>
+<tr>
+<td>FedSlate: A Federated Deep Reinforcement Learning Recommender System.</td>
+<td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TETCI.2025.3573250">Link</a></td>
 </tr>
 <tr>
 <td>Heterogeneity-Aware Clustering and Intra-Cluster Uniform Data Sampling for Federated Learning.</td>
@@ -23358,6 +23401,12 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TIFS.2025.3570132">Link</a></td>
+</tr>
+<tr>
+<td>FinBack: Infiltrating Backdoors into Gradient Compressors on Federated Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3633157">Link</a></td>
 </tr>
 <tr>
 <td>Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer From It?</td>
@@ -27502,6 +27551,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.patcog.2025.112514">Link</a></td>
 </tr>
 <tr>
+<td>FL-WOSP: Federated learning with walrus optimization for sepsis prediction using MIMIC-III physiological and clinical data.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2025.112813">Link</a></td>
+</tr>
+<tr>
 <td>FedFAT: Frequency adpative interpolation for federated domain generalization on heterogeneous medical images.</td>
 <td>Pattern Recognit.</td>
 <td>2026</td>
@@ -28305,6 +28360,36 @@ permalink: /federated-m-l/
 
 <summary>Expand Knowl. Based Syst.</summary>
 
+<a id="knowl. based syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>FedDHE: A dual entropy-driven framework for robust federated learning in heterogeneous environments.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114972">Link</a></td>
+</tr>
+<tr>
+<td>Prodigal: Backdoor defense for federated learning beyond robust aggregation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114903">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="knowl. based syst.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -28358,6 +28443,18 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.knosys.2025.112962">Link</a></td>
 </tr>
 <tr>
+<td>AFBS: buffer gradient selection in semi-asynchronous federated learning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114632">Link</a></td>
+</tr>
+<tr>
+<td>Accountable federated learning against local poisoning attacks.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114828">Link</a></td>
+</tr>
+<tr>
 <td>AdapFedRec: A framework for enhanced federated recommendations with adaptive client aggregation and sampling.</td>
 <td>Knowl. Based Syst.</td>
 <td>2025</td>
@@ -28380,6 +28477,12 @@ permalink: /federated-m-l/
 <td>Knowl. Based Syst.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.113008">Link</a></td>
+</tr>
+<tr>
+<td>Byzantine robustness and performance improvement in federated cross-modal generation of tactile data.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114725">Link</a></td>
 </tr>
 <tr>
 <td>CUOM: A causal unbiased optimization method for federated domain generalization.</td>
@@ -28490,10 +28593,22 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.knosys.2025.114355">Link</a></td>
 </tr>
 <tr>
+<td>FedAWM: Adaptive watermark allocation in non-IID federated learning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114938">Link</a></td>
+</tr>
+<tr>
 <td>FedCleanse: Cleanse the backdoor attacks in federated learning system.</td>
 <td>Knowl. Based Syst.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.114494">Link</a></td>
+</tr>
+<tr>
+<td>FedDFS: Data filtering for stable federated learning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114934">Link</a></td>
 </tr>
 <tr>
 <td>FedECP: Enhancing global collaboration and local personalization for personalized federated learning.</td>
@@ -28574,6 +28689,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.knosys.2025.114588">Link</a></td>
 </tr>
 <tr>
+<td>Grouping competition-based privacy allocation mechanism for federated learning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114906">Link</a></td>
+</tr>
+<tr>
 <td>HBOFFS: Hybrid breeding optimization algorithm inspired federated feature selection for intrusion detection in IIoT.</td>
 <td>Knowl. Based Syst.</td>
 <td>2025</td>
@@ -28586,10 +28707,40 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.knosys.2025.113007">Link</a></td>
 </tr>
 <tr>
+<td>ID-HFL: Incentive-driven heterogeneous federated learning based on game theory and differential privacy.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114670">Link</a></td>
+</tr>
+<tr>
 <td>Improving (α,f)-Byzantine resilience in federated learning via layerwise aggregation and cosine distance.</td>
 <td>Knowl. Based Syst.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.114004">Link</a></td>
+</tr>
+<tr>
+<td>KG-FedCGNN: federated cross-user graph neural networks for reliable recommendations via knowledge graph enhancement.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114694">Link</a></td>
+</tr>
+<tr>
+<td>Lightweight model-contrastive federated learning with multi-center clustering for IoT intrusion detection.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114804">Link</a></td>
+</tr>
+<tr>
+<td>MSFGAN: A multi-source federated generative learning paradigm for robust traffic data imputation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114721">Link</a></td>
+</tr>
+<tr>
+<td>MTSec: AIGC-enhanced security model training for multimodal federated learning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114748">Link</a></td>
 </tr>
 <tr>
 <td>Margin-guided parameter decoupling-consensus framework for federated domain generalization in machinery fault diagnosis.</td>
@@ -30096,6 +30247,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.128919">Link</a></td>
 </tr>
 <tr>
+<td>A prototype-based framework for open-set heterogeneous federated face recognition.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130020">Link</a></td>
+</tr>
+<tr>
 <td>A two-phase federated learning framework for machinery fault diagnosis with cloud-edge collaborative computing.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
@@ -30156,6 +30313,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129294">Link</a></td>
 </tr>
 <tr>
+<td>FedPA: Property-aware federated learning for cellular traffic prediction.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130147">Link</a></td>
+</tr>
+<tr>
 <td>Federated class-incremental learning with prompting.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
@@ -30166,6 +30329,12 @@ permalink: /federated-m-l/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129278">Link</a></td>
+</tr>
+<tr>
+<td>Federated learning based on two-stage knowledge distillation for intrusion detection in industrial IoT.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130144">Link</a></td>
 </tr>
 <tr>
 <td>Federated learning-based spectrum and energy efficiency enhancement in HAP-assisted LEO satellite communication.</td>
@@ -30192,16 +30361,46 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130022">Link</a></td>
 </tr>
 <tr>
+<td>HyperShield: A personalized hypernetwork-based defense against poisoning attacks in federated learning for healthcare.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130237">Link</a></td>
+</tr>
+<tr>
 <td>Intrusion detection system for shipping communication networks based on federated distillation learning.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129966">Link</a></td>
 </tr>
 <tr>
+<td>MedFedProto: A semi-Supervised classification framework for medical images based on federated prototypical learning.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130332">Link</a></td>
+</tr>
+<tr>
+<td>One-class classification via generative adversarial and federated distillation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130165">Link</a></td>
+</tr>
+<tr>
 <td>PFL-TEnet: Personalized federated learning for wind power forecasting via time-series embedding and hypernetwork modeling.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129881">Link</a></td>
+</tr>
+<tr>
+<td>PassREfinder-FL: Privacy-preserving credential stuffing risk prediction via graph-based federated learning for representing password reuse between websites.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130111">Link</a></td>
+</tr>
+<tr>
+<td>Personalized federated learning with mixture of experts and conformal prediction for household energy forecasting.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130417">Link</a></td>
 </tr>
 <tr>
 <td>PriSecFedFR: Privacy-secure face recognition model training via federated learning and random projection.</td>
@@ -30226,6 +30425,12 @@ permalink: /federated-m-l/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129146">Link</a></td>
+</tr>
+<tr>
+<td>TGFed: Transferability-guided federated learning for unseen client adaptation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.129949">Link</a></td>
 </tr>
 </tbody></table>
 

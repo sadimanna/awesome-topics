@@ -588,6 +588,12 @@ permalink: /explainability-transformers/
 </tr></thead>
 <tbody>
 <tr>
+<td>Arrhythmia detection in multi-channel ECG images: vision transformer and explainable approaches.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114889">Link</a></td>
+</tr>
+<tr>
 <td>Explainable TabNet Transformer-based on Google Vizier Optimizer for Anomaly Intrusion Detection System.</td>
 <td>Knowl. Based Syst.</td>
 <td>2025</td>

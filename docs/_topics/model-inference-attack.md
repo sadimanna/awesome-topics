@@ -17157,6 +17157,18 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1016/j.knosys.2025.113630">Link</a></td>
 </tr>
 <tr>
+<td>PmiaNLL: Defending against poisoning membership inference attacks with noisy label learning.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114706">Link</a></td>
+</tr>
+<tr>
+<td>Semantic knowledge abstraction: Consistent reasoning in large language models for natural language inference.</td>
+<td>Knowl. Based Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114825">Link</a></td>
+</tr>
+<tr>
 <td>Stand-in Model Protection: Synthetic defense for membership inference and model inversion attacks.</td>
 <td>Knowl. Based Syst.</td>
 <td>2025</td>

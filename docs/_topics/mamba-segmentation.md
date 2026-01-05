@@ -98,6 +98,7 @@ permalink: /mamba-segmentation/
 <details markdown="1">
 <summary>Knowl. Based Syst.</summary>
 
+  - [2026](#knowl-based-syst-2026)
   - [2025](#knowl-based-syst-2025)
   - [2024](#knowl-based-syst-2024)
 
@@ -116,6 +117,13 @@ permalink: /mamba-segmentation/
 
   - [2026](#neurocomputing-2026)
   - [2025](#neurocomputing-2025)
+
+</details>
+
+<details markdown="1">
+<summary>Pattern Recognit. Lett.</summary>
+
+  - [2026](#pattern-recognit-lett-2026)
 
 </details>
 
@@ -381,6 +389,12 @@ permalink: /mamba-segmentation/
 <td><a href="https://doi.org/10.1109/TMI.2025.3564765">Link</a></td>
 </tr>
 <tr>
+<td>Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation With Selective State-Space Model.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TMI.2025.3584468">Link</a></td>
+</tr>
+<tr>
 <td>Swin-UMamba†: Adapting Mamba-Based Vision Foundation Models for Medical Image Segmentation.</td>
 <td>IEEE Trans. Medical Imaging</td>
 <td>2025</td>
@@ -482,6 +496,18 @@ permalink: /mamba-segmentation/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>A comprehensive analysis of Mamba for 3D volumetric medical image segmentation.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2025.112701">Link</a></td>
+</tr>
+<tr>
+<td>DAF-Mamba: Dynamic selective and adaptive fused mamba for cardiac image segmentation.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2025.112664">Link</a></td>
+</tr>
 <tr>
 <td>GraphMamba: Graph-driven spatial order-aware Mamba for medical image segmentation.</td>
 <td>Pattern Recognit.</td>
@@ -616,6 +642,30 @@ permalink: /mamba-segmentation/
 
 <summary>Expand Knowl. Based Syst.</summary>
 
+<a id="knowl. based syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>IA-MUNet: A knowledge-guided instance-aware mamba-UNet for efficient multiclass dental image segmentation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.114949">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="knowl. based syst.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -693,6 +743,12 @@ permalink: /mamba-segmentation/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129897">Link</a></td>
+</tr>
+<tr>
+<td>Costal cartilage segmentation with topology guided deformable mamba: Method and benchmark.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130085">Link</a></td>
 </tr>
 <tr>
 <td>Leveraging mamba for reference audio-visual segmentation with vote and cache mechanism.</td>
@@ -833,6 +889,38 @@ permalink: /mamba-segmentation/
 <td>Neurocomputing</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.131137">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Pattern Recognit. Lett. <a id="venue-pattern recognit. lett."></a>
+
+<details>
+
+<summary>Expand Pattern Recognit. Lett.</summary>
+
+<a id="pattern recognit. lett.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Multi-Modal masked autoencoder and parallel Mamba for 3D brain tumor segmentation.</td>
+<td>Pattern Recognit. Lett.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patrec.2025.10.020">Link</a></td>
 </tr>
 </tbody></table>
 
