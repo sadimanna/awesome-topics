@@ -14,10 +14,7 @@ permissions:
 
 jobs:
   update:
-    if: >
-      github.event_name == 'workflow_dispatch' ||
-      ( github.event.workflow_run.conclusion == 'success' &&
-      contains(github.event.workflow_run.head_commit.message, 'new papers added') )
+    if: ${{ github.event_name == 'workflow_dispatch' || ( github.event.workflow_run.conclusion == 'success' && contains(github.event.workflow_run.head_commit.message, 'new papers added') ) }}
     runs-on: ubuntu-latest
     timeout-minutes: 3600
     env:
@@ -27,6 +24,11 @@ jobs:
       PYTHONDONTWRITEBYTECODE: 1
 
     steps:
+      - name: Debug workflow_run context
+        run: |
+          echo "Event Name: ${{ github.event_name }}"
+          echo "Workflow Run Conclusion: ${{ github.event.workflow_run.conclusion }}"
+          echo "Head Commit Message: ${{ github.event.workflow_run.head_commit.message }}"
       - name: Checkout
         uses: actions/checkout@v2
         with:
