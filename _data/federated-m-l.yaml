@@ -12683,6 +12683,23 @@ Artif. Intell.:
       year: 2023
       link: https://doi.org/10.1016/j.artint.2023.103996
 Mach. Learn.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FedGES: A Federated Learning Approach for Bayesian Network Structure
+        Learning.'
+      venue: Mach. Learn.
+      year: 2026
+      link: https://doi.org/10.1007/s10994-025-06939-2
   '2025':
     header:
       title: Title
@@ -12885,6 +12902,22 @@ J. Mach. Learn. Res.:
       year: 2021
       link: https://jmlr.org/papers/v22/19-1048.html
 IEEE Trans. Pattern Anal. Mach. Intell.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Communication-Efficient Federated Multi-View Clustering.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3601533
   '2025':
     header:
       title: Title
@@ -13506,6 +13539,11 @@ IEEE Trans. Neural Networks Learn. Syst.:
       venue: IEEE Trans. Neural Networks Learn. Syst.
       year: 2025
       link: https://doi.org/10.1109/TNNLS.2025.3587942
+    - title: 'DA-PFL: Dynamic Affinity Aggregation in Personalized Federated Learning
+        Under Class Imbalance.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2025.3598818
     - title: 'DSFedCon: Dynamic Sparse Federated Contrastive Learning for Data-Driven
         Intelligent Systems.'
       venue: IEEE Trans. Neural Networks Learn. Syst.
@@ -15143,6 +15181,23 @@ IEEE Trans. Medical Imaging:
       year: 2022
       link: https://doi.org/10.1109/TMI.2022.3192483
 IEEE Trans. Syst. Man Cybern. Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'PfoPG: A Personalized Federated First-Order Policy Gradient Algorithm
+        and Its Nonasymptotic Analysis.'
+      venue: IEEE Trans. Syst. Man Cybern. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TSMC.2025.3627478
   '2025':
     header:
       title: Title

@@ -1142,10 +1142,19 @@ IEEE Trans. Image Process.:
       year: 4
       link: 60
     body:
+    - title: 'Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution.'
+      venue: IEEE Trans. Image Process.
+      year: 2025
+      link: https://doi.org/10.1109/TIP.2025.3643146
     - title: Hypergraph Mamba Reasoning-Based Social Relation Recognition.
       venue: IEEE Trans. Image Process.
       year: 2025
       link: https://doi.org/10.1109/TIP.2025.3592551
+    - title: 'M2Restore: Mixture-of-Experts-Based Mamba-CNN Fusion Framework for All-in-One
+        Image Restoration.'
+      venue: IEEE Trans. Image Process.
+      year: 2025
+      link: https://doi.org/10.1109/TIP.2025.3638662
     - title: 'MambaMatch: Establishing Reliable Correspondences via Multi-Scale State
         Space Model.'
       venue: IEEE Trans. Image Process.
@@ -1160,6 +1169,11 @@ IEEE Trans. Image Process.:
       venue: IEEE Trans. Image Process.
       year: 2025
       link: https://doi.org/10.1109/TIP.2025.3624601
+    - title: 'WMRNet: Wavelet Mamba With Reversible Structure for Infrared Small Target
+        Detection.'
+      venue: IEEE Trans. Image Process.
+      year: 2025
+      link: https://doi.org/10.1109/TIP.2025.3637729
 IEEE Trans. Medical Imaging:
   '2025':
     header:

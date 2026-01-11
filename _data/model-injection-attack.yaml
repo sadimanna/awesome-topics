@@ -28,6 +28,7 @@ section:
 - title: Neurocomputing
 - title: Neural Comput. Appl.
 - title: J. Artif. Intell. Res.
+- title: IEEE Trans. Syst. Man Cybern. Syst.
 NeurIPS:
   '2024':
     header:
@@ -796,3 +797,21 @@ J. Artif. Intell. Res.:
       venue: J. Artif. Intell. Res.
       year: 2004
       link: https://doi.org/10.1613/jair.1351
+IEEE Trans. Syst. Man Cybern. Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Stochastic Tube-Based Model Predictive Control for Cyber-Physical Systems
+        Under False Data Injection Attacks With Bounded Probability.
+      venue: IEEE Trans. Syst. Man Cybern. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TSMC.2025.3612216
