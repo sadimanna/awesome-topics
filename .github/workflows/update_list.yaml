@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   update:
-    if: ${{ github.event_name == 'workflow_dispatch' || ( github.event.workflow_run.conclusion == 'success' && contains(github.event.workflow_run.head_commit.message, 'new papers added') ) }}
+    # if: ${{ github.event_name == 'workflow_dispatch' || ( github.event.workflow_run.conclusion == 'success' && contains(github.event.workflow_run.head_commit.message, 'new papers added') ) }}
     runs-on: ubuntu-latest
     timeout-minutes: 3600
     env:
@@ -24,6 +24,25 @@ jobs:
       PYTHONDONTWRITEBYTECODE: 1
 
     steps:
+      - name: Decide whether update is needed
+        id: decide
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git fetch origin main --depth=2
+          if git diff --name-only HEAD~1 HEAD | grep -q '^_data/.*\.ya\?ml$'; then
+            echo "proceed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "proceed=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Exit if no data changes
+        if: steps.decide.outputs.proceed != 'true'
+        run: |
+          echo "No _data changes detected. Skipping update."
+          exit 0
+
       - name: Debug workflow_run context
         run: |
           echo "Event Name: ${{ github.event_name }}"
