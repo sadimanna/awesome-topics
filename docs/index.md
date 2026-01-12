@@ -1462,9 +1462,11 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai">IJCAI</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai-2021)
   - [2015](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai-2015)
+  - [1989](https://sadimanna.github.io/awesome-topics/inversion-attacks#ijcai-1989)
   </details>
 
 
@@ -1475,7 +1477,10 @@
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2020)
+  - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2013)
   </details>
 
 
@@ -1484,6 +1489,7 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#aistats">AISTATS</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#aistats-2025)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#aistats-2021)
   </details>
 
 
@@ -1506,7 +1512,10 @@
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#icml-2020)
   </details>
 
 
@@ -1516,6 +1525,11 @@
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2020)
+  - [2018](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2018)
+  - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#iclr-2013)
   </details>
 
 
@@ -1524,6 +1538,7 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#uai">UAI</a></summary>
 
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#uai-2023)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#uai-2021)
   </details>
 
 
@@ -1534,6 +1549,8 @@
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2023)
+  - [2007](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2007)
+  - [1979](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-1979)
   </details>
 
 
@@ -1541,7 +1558,9 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#kdd">KDD</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#kdd-2025)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#kdd-2022)
+  - [2011](https://sadimanna.github.io/awesome-topics/inversion-attacks#kdd-2011)
   </details>
 
 
@@ -1551,6 +1570,7 @@
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#sp-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#sp-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#sp-2022)
   </details>
 
 
@@ -1558,8 +1578,15 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs">CCS</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2024)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2021)
+  - [2019](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2019)
+  - [2018](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2018)
+  - [2016](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2016)
   - [2015](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2015)
+  - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2013)
+  - [2000](https://sadimanna.github.io/awesome-topics/inversion-attacks#ccs-2000)
   </details>
 
 
@@ -1568,7 +1595,10 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix-security-symposium">USENIX Security Symposium</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix security symposium-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix security symposium-2024)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix security symposium-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix security symposium-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#usenix security symposium-2020)
   </details>
 
 
@@ -1578,7 +1608,11 @@
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2022)
+  - [2019](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2019)
+  - [2015](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2015)
+  - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#ndss-2013)
   </details>
 
 
@@ -1592,6 +1626,8 @@
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr-2021)
   - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr-2020)
+  - [2019](https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr-2019)
+  - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#cvpr-2013)
   </details>
 
 
@@ -1601,6 +1637,7 @@
 
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#iccv-2023)
   - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#iccv-2021)
+  - [2007](https://sadimanna.github.io/awesome-topics/inversion-attacks#iccv-2007)
   </details>
 
 
@@ -1609,6 +1646,9 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#eccv">ECCV</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#eccv-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#eccv-2022)
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#eccv-2020)
+  - [2008](https://sadimanna.github.io/awesome-topics/inversion-attacks#eccv-2008)
   </details>
 
 
@@ -1616,7 +1656,9 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#acm-multimedia">ACM Multimedia</a></summary>
 
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia-2023)
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia-2020)
   </details>
 
 
@@ -1635,7 +1677,9 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp">EMNLP</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#emnlp-2021)
   </details>
 
 
@@ -1661,7 +1705,10 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#www">WWW</a></summary>
 
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#www-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#www-2023)
+  - [2019](https://sadimanna.github.io/awesome-topics/inversion-attacks#www-2019)
+  - [2017](https://sadimanna.github.io/awesome-topics/inversion-attacks#www-2017)
   </details>
 
 
@@ -1670,6 +1717,7 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#dac">DAC</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#dac-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#dac-2023)
   - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#dac-2021)
   </details>
 
@@ -1678,6 +1726,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-computers">IEEE Trans. Computers</a></summary>
 
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. computers-2021)
   - [2000](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. computers-2000)
   </details>
 
@@ -1689,6 +1738,8 @@
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv-2024)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv-2022)
+  - [2019](https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv-2019)
+  - [2008](https://sadimanna.github.io/awesome-topics/inversion-attacks#wacv-2008)
   </details>
 
 
@@ -1709,6 +1760,8 @@
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. neural networks learn. syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. neural networks learn. syst.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. neural networks learn. syst.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. neural networks learn. syst.-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. neural networks learn. syst.-2021)
   - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. neural networks learn. syst.-2020)
   - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. neural networks learn. syst.-2013)
   </details>
@@ -1720,6 +1773,8 @@
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. big data-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. big data-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. big data-2023)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. big data-2021)
   </details>
 
 
@@ -1743,6 +1798,8 @@
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2022)
+  - [2019](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2019)
+  - [2017](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2017)
   </details>
 
 
@@ -1750,6 +1807,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#acm-trans-priv-secur">ACM Trans. Priv. Secur.</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm trans. priv. secur.-2025)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm trans. priv. secur.-2023)
   </details>
 
@@ -1777,6 +1835,8 @@
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#knowl. based syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#knowl. based syst.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#knowl. based syst.-2023)
+  - [2017](https://sadimanna.github.io/awesome-topics/inversion-attacks#knowl. based syst.-2017)
   </details>
 
 
@@ -1785,7 +1845,9 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing">Neurocomputing</a></summary>
 
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing-2024)
   - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing-2020)
+  - [2015](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing-2015)
   </details>
 
 
@@ -1793,7 +1855,10 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-knowl-data-eng">IEEE Trans. Knowl. Data Eng.</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. knowl. data eng.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. knowl. data eng.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. knowl. data eng.-2023)
+  - [2011](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. knowl. data eng.-2011)
   </details>
 
 
@@ -1809,6 +1874,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-emerg-top-comput">IEEE Trans. Emerg. Top. Comput.</a></summary>
 
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. emerg. top. comput.-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. emerg. top. comput.-2022)
   </details>
 
@@ -1835,6 +1901,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-image-process">IEEE Trans. Image Process.</a></summary>
 
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. image process.-2021)
   - [2003](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. image process.-2003)
   - [1992](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. image process.-1992)
   </details>
@@ -1860,8 +1927,10 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#expert-syst-appl">Expert Syst. Appl.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/inversion-attacks#expert syst. appl.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#expert syst. appl.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#expert syst. appl.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#expert syst. appl.-2023)
   - [2016](https://sadimanna.github.io/awesome-topics/inversion-attacks#expert syst. appl.-2016)
   - [2014](https://sadimanna.github.io/awesome-topics/inversion-attacks#expert syst. appl.-2014)
   </details>
@@ -1887,7 +1956,205 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#neural-comput-appl">Neural Comput. Appl.</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#neural comput. appl.-2025)
+  - [2016](https://sadimanna.github.io/awesome-topics/inversion-attacks#neural comput. appl.-2016)
   - [2012](https://sadimanna.github.io/awesome-topics/inversion-attacks#neural comput. appl.-2012)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#icde">ICDE</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#icde-2024)
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#icde-2020)
+  - [2009](https://sadimanna.github.io/awesome-topics/inversion-attacks#icde-2009)
+  - [2005](https://sadimanna.github.io/awesome-topics/inversion-attacks#icde-2005)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#mobicom">MobiCom</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#mobicom-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-symposium-on-security-and-privacy">IEEE Symposium on Security and Privacy</a></summary>
+
+  - [2019](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee symposium on security and privacy-2019)
+  - [2018](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee symposium on security and privacy-2018)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#collsec">CollSec</a></summary>
+
+  - [2010](https://sadimanna.github.io/awesome-topics/inversion-attacks#collsec-2010)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#proc-acm-manag-data">Proc. ACM Manag. Data</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#proc. acm manag. data-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#proc. acm manag. data-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#icse-companion">ICSE Companion</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#icse companion-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#cikm">CIKM</a></summary>
+
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#cikm-2022)
+  - [2005](https://sadimanna.github.io/awesome-topics/inversion-attacks#cikm-2005)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#acm-trans-intell-syst-technol">ACM Trans. Intell. Syst. Technol.</a></summary>
+
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm trans. intell. syst. technol.-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#acm-trans-knowl-discov-data">ACM Trans. Knowl. Discov. Data</a></summary>
+
+  - [2012](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm trans. knowl. discov. data-2012)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#proc-vldb-endow">Proc. VLDB Endow.</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#proc. vldb endow.-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#proc. vldb endow.-2022)
+  - [2018](https://sadimanna.github.io/awesome-topics/inversion-attacks#proc. vldb endow.-2018)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-parallel-distributed-syst">IEEE Trans. Parallel Distributed Syst.</a></summary>
+
+  - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. parallel distributed syst.-2013)
+  - [1990](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. parallel distributed syst.-1990)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern-recognit">Pattern Recognit.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit.-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit.-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit.-2021)
+  - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit.-2013)
+  - [2003](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit.-2003)
+  - [1996](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit.-1996)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#inf-sci">Inf. Sci.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#inf. sci.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#inf. sci.-2024)
+  - [2021](https://sadimanna.github.io/awesome-topics/inversion-attacks#inf. sci.-2021)
+  - [2017](https://sadimanna.github.io/awesome-topics/inversion-attacks#inf. sci.-2017)
+  - [2014](https://sadimanna.github.io/awesome-topics/inversion-attacks#inf. sci.-2014)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-signal-process">IEEE Trans. Signal Process.</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. signal process.-2023)
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. signal process.-2020)
+  - [2019](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. signal process.-2019)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-cybern">IEEE Trans. Cybern.</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. cybern.-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern-recognit-lett">Pattern Recognit. Lett.</a></summary>
+
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit. lett.-2020)
+  - [2015](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit. lett.-2015)
+  - [2013](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit. lett.-2013)
+  - [2010](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit. lett.-2010)
+  - [2008](https://sadimanna.github.io/awesome-topics/inversion-attacks#pattern recognit. lett.-2008)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#acm-trans-inf-syst-secur">ACM Trans. Inf. Syst. Secur.</a></summary>
+
+  - [2004](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm trans. inf. syst. secur.-2004)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#infocom">INFOCOM</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#infocom-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#infocom-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/inversion-attacks#infocom-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#mach-learn">Mach. Learn.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#mach. learn.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#int-j-comput-vis">Int. J. Comput. Vis.</a></summary>
+
+  - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#int. j. comput. vis.-2020)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#comput-vis-image-underst">Comput. Vis. Image Underst.</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#comput. vis. image underst.-2023)
   </details>
 
 </details>

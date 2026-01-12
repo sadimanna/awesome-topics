@@ -15415,6 +15415,12 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.1109/TIFS.2025.3550070">Link</a></td>
 </tr>
 <tr>
+<td>Falcon: A Universal Text-Only Membership Inference Attack Framework Against In-Context Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3640876">Link</a></td>
+</tr>
+<tr>
 <td>GLiRA: Closed-Box Membership Inference Attack via Knowledge Distillation.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>

@@ -23280,6 +23280,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TIFS.2025.3583109">Link</a></td>
 </tr>
 <tr>
+<td>Breaking the Illusion: A Critical Study of Backdoor Defense in Federated Learning With Non-IID Data.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3643155">Link</a></td>
+</tr>
+<tr>
 <td>CELEST: Federated Learning for Globally Coordinated Threat Detection.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
@@ -23298,6 +23304,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TIFS.2025.3556346">Link</a></td>
 </tr>
 <tr>
+<td>Certifying the Right to Be Forgotten: Primal-Dual Optimization for Sample and Label Unlearning in Vertical Federated Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3636788">Link</a></td>
+</tr>
+<tr>
 <td>Comments on &quot;VCD-FL: Verifiable, Collusion-Resistant, and Dynamic Federated Learning&quot;.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
@@ -23314,6 +23326,12 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TIFS.2024.3516545">Link</a></td>
+</tr>
+<tr>
+<td>Defense Against Poisoning Attacks on Federated Learning With Neighborhood Coulomb Force.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3637669">Link</a></td>
 </tr>
 <tr>
 <td>Differential Privacy for Multi-Modal Federated Learning With Modality Selection.</td>
@@ -23574,6 +23592,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/TIFS.2025.3588324">Link</a></td>
 </tr>
 <tr>
+<td>PFL-ALP: Personalized Federated Learning Against Backdoor Attacks via Attention-Based Local Purification.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3639936">Link</a></td>
+</tr>
+<tr>
 <td>PIECE: Incentivizing Personalized Privacy-Preserving for Multi-Version Model Marketplace in Federated Learning.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
@@ -23668,6 +23692,12 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TIFS.2025.3594107">Link</a></td>
+</tr>
+<tr>
+<td>RDCBA-FEL: Robust Defense Against Colluded Backdoor Attacks in Federated Edge Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3629550">Link</a></td>
 </tr>
 <tr>
 <td>ROBY: A Byzantine-Robust and Privacy-Preserving Serverless Federated Learning Framework.</td>
@@ -24486,6 +24516,12 @@ permalink: /federated-m-l/
 <td>ACM Trans. Priv. Secur.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1145/3702325">Link</a></td>
+</tr>
+<tr>
+<td>GradCAM-AE: A New Shield Defense against Poisoning Attacks on Federated Learning.</td>
+<td>ACM Trans. Priv. Secur.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3765743">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -29426,6 +29462,18 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.ins.2025.122682">Link</a></td>
 </tr>
 <tr>
+<td>DP-FedPUAC: Federated learning with differential privacy via adaptive gradient clipping and local iteration optimization.</td>
+<td>Inf. Sci.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.ins.2025.122981">Link</a></td>
+</tr>
+<tr>
+<td>FLSDA: A synergistic defense against backdoor attacks in federated learning.</td>
+<td>Inf. Sci.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.ins.2025.122974">Link</a></td>
+</tr>
+<tr>
 <td>FedGraph-Fair: Federated learning with personalization and fairness via dynamic graphs and distributionally robust optimization.</td>
 <td>Inf. Sci.</td>
 <td>2026</td>
@@ -29448,6 +29496,12 @@ permalink: /federated-m-l/
 <td>Inf. Sci.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.ins.2025.122804">Link</a></td>
+</tr>
+<tr>
+<td>Federated hierarchical clustering with automatic selection of optimal cluster numbers.</td>
+<td>Inf. Sci.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.ins.2025.122957">Link</a></td>
 </tr>
 </tbody></table>
 
