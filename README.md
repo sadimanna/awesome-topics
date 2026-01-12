@@ -768,6 +768,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#mach-learn">Mach. Learn.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#mach. learn.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#mach. learn.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#mach. learn.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#mach. learn.-2023)
@@ -789,6 +790,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. pattern anal. mach. intell.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. pattern anal. mach. intell.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. pattern anal. mach. intell.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. pattern anal. mach. intell.-2023)
@@ -892,6 +894,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-syst-man-cybern-syst">IEEE Trans. Syst. Man Cybern. Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. syst. man cybern. syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. syst. man cybern. syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. syst. man cybern. syst.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. syst. man cybern. syst.-2023)
@@ -4323,6 +4326,14 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-injection-attack#j-artif-intell-res">J. Artif. Intell. Res.</a></summary>
 
   - [2004](https://sadimanna.github.io/awesome-topics/model-injection-attack#j. artif. intell. res.-2004)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/model-injection-attack#ieee-trans-syst-man-cybern-syst">IEEE Trans. Syst. Man Cybern. Syst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/model-injection-attack#ieee trans. syst. man cybern. syst.-2026)
   </details>
 
 </details>

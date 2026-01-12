@@ -4,13 +4,13 @@ text { font-family: Times New Roman, sans-serif; }
 </style>
 <text x="10" y="46" font-size="14">Federated M L</text>
 <rect x="180" y="30" width="400" height="24" fill="#4c72b0" rx="4" />
-<text x="588" y="46" font-size="14">3829</text>
+<text x="588" y="46" font-size="14">3833</text>
 <text x="10" y="80" font-size="14">Model Inference Attack</text>
 <rect x="180" y="64" width="132" height="24" fill="#4c72b0" rx="4" />
 <text x="320" y="80" font-size="14">1265</text>
 <text x="10" y="114" font-size="14">Mamba</text>
 <rect x="180" y="98" width="33" height="24" fill="#4c72b0" rx="4" />
-<text x="221" y="114" font-size="14">316</text>
+<text x="221" y="114" font-size="14">319</text>
 <text x="10" y="148" font-size="14">Inversion Attacks</text>
 <rect x="180" y="132" width="19" height="24" fill="#4c72b0" rx="4" />
 <text x="207" y="148" font-size="14">189</text>
@@ -25,7 +25,7 @@ text { font-family: Times New Roman, sans-serif; }
 <text x="196" y="250" font-size="14">79</text>
 <text x="10" y="284" font-size="14">Model Injection Attack</text>
 <rect x="180" y="268" width="5" height="24" fill="#4c72b0" rx="4" />
-<text x="193" y="284" font-size="14">55</text>
+<text x="193" y="284" font-size="14">56</text>
 <text x="10" y="318" font-size="14">Mamba Segmentation</text>
 <rect x="180" y="302" width="4" height="24" fill="#4c72b0" rx="4" />
 <text x="192" y="318" font-size="14">45</text>

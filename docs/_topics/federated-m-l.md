@@ -566,6 +566,7 @@ permalink: /federated-m-l/
 <details markdown="1">
 <summary>Mach. Learn.</summary>
 
+  - [2026](#mach-learn-2026)
   - [2025](#mach-learn-2025)
   - [2024](#mach-learn-2024)
   - [2023](#mach-learn-2023)
@@ -585,6 +586,7 @@ permalink: /federated-m-l/
 <details markdown="1">
 <summary>IEEE Trans. Pattern Anal. Mach. Intell.</summary>
 
+  - [2026](#ieee-trans-pattern-anal-mach-intell-2026)
   - [2025](#ieee-trans-pattern-anal-mach-intell-2025)
   - [2024](#ieee-trans-pattern-anal-mach-intell-2024)
   - [2023](#ieee-trans-pattern-anal-mach-intell-2023)
@@ -679,6 +681,7 @@ permalink: /federated-m-l/
 <details markdown="1">
 <summary>IEEE Trans. Syst. Man Cybern. Syst.</summary>
 
+  - [2026](#ieee-trans-syst-man-cybern-syst-2026)
   - [2025](#ieee-trans-syst-man-cybern-syst-2025)
   - [2024](#ieee-trans-syst-man-cybern-syst-2024)
   - [2023](#ieee-trans-syst-man-cybern-syst-2023)
@@ -18532,6 +18535,30 @@ permalink: /federated-m-l/
 
 <summary>Expand Mach. Learn.</summary>
 
+<a id="mach. learn.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>FedGES: A Federated Learning Approach for Bayesian Network Structure Learning.</td>
+<td>Mach. Learn.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1007/s10994-025-06939-2">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="mach. learn.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -18823,6 +18850,30 @@ permalink: /federated-m-l/
 <details>
 
 <summary>Expand IEEE Trans. Pattern Anal. Mach. Intell.</summary>
+
+<a id="ieee trans. pattern anal. mach. intell.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Communication-Efficient Federated Multi-View Clustering.</td>
+<td>IEEE Trans. Pattern Anal. Mach. Intell.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TPAMI.2025.3601533">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="ieee trans. pattern anal. mach. intell.-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -19691,6 +19742,12 @@ permalink: /federated-m-l/
 <td>IEEE Trans. Neural Networks Learn. Syst.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TNNLS.2025.3587942">Link</a></td>
+</tr>
+<tr>
+<td>DA-PFL: Dynamic Affinity Aggregation in Personalized Federated Learning Under Class Imbalance.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2025.3598818">Link</a></td>
 </tr>
 <tr>
 <td>DSFedCon: Dynamic Sparse Federated Contrastive Learning for Data-Driven Intelligent Systems.</td>
@@ -21943,6 +22000,30 @@ permalink: /federated-m-l/
 <details>
 
 <summary>Expand IEEE Trans. Syst. Man Cybern. Syst.</summary>
+
+<a id="ieee trans. syst. man cybern. syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>PfoPG: A Personalized Federated First-Order Policy Gradient Algorithm and Its Nonasymptotic Analysis.</td>
+<td>IEEE Trans. Syst. Man Cybern. Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TSMC.2025.3627478">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="ieee trans. syst. man cybern. syst.-2025"></a>
 <h3 class="year-heading">2025</h3>

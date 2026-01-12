@@ -223,6 +223,13 @@ permalink: /model-injection-attack/
 
 </details>
 
+<details markdown="1">
+<summary>IEEE Trans. Syst. Man Cybern. Syst.</summary>
+
+  - [2026](#ieee-trans-syst-man-cybern-syst-2026)
+
+</details>
+
 </details>
 
 
@@ -1505,6 +1512,38 @@ permalink: /model-injection-attack/
 <td>J. Artif. Intell. Res.</td>
 <td>2004</td>
 <td><a href="https://doi.org/10.1613/jair.1351">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Syst. Man Cybern. Syst. <a id="venue-ieee trans. syst. man cybern. syst."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Syst. Man Cybern. Syst.</summary>
+
+<a id="ieee trans. syst. man cybern. syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Stochastic Tube-Based Model Predictive Control for Cyber-Physical Systems Under False Data Injection Attacks With Bounded Probability.</td>
+<td>IEEE Trans. Syst. Man Cybern. Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TSMC.2025.3612216">Link</a></td>
 </tr>
 </tbody></table>
 

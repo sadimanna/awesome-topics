@@ -1939,10 +1939,22 @@ permalink: /mamba/
 </tr></thead>
 <tbody>
 <tr>
+<td>Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIP.2025.3643146">Link</a></td>
+</tr>
+<tr>
 <td>Hypergraph Mamba Reasoning-Based Social Relation Recognition.</td>
 <td>IEEE Trans. Image Process.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TIP.2025.3592551">Link</a></td>
+</tr>
+<tr>
+<td>M2Restore: Mixture-of-Experts-Based Mamba-CNN Fusion Framework for All-in-One Image Restoration.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIP.2025.3638662">Link</a></td>
 </tr>
 <tr>
 <td>MambaMatch: Establishing Reliable Correspondences via Multi-Scale State Space Model.</td>
@@ -1961,6 +1973,12 @@ permalink: /mamba/
 <td>IEEE Trans. Image Process.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/TIP.2025.3624601">Link</a></td>
+</tr>
+<tr>
+<td>WMRNet: Wavelet Mamba With Reversible Structure for Infrared Small Target Detection.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TIP.2025.3637729">Link</a></td>
 </tr>
 </tbody></table>
 
