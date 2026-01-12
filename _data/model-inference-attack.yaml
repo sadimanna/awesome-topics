@@ -9956,6 +9956,11 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
       link: https://doi.org/10.1109/TIFS.2025.3550070
+    - title: 'Falcon: A Universal Text-Only Membership Inference Attack Framework
+        Against In-Context Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3640876
     - title: 'GLiRA: Closed-Box Membership Inference Attack via Knowledge Distillation.'
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025

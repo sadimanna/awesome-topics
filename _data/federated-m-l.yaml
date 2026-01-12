@@ -16144,6 +16144,11 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
       link: https://doi.org/10.1109/TIFS.2025.3583109
+    - title: 'Breaking the Illusion: A Critical Study of Backdoor Defense in Federated
+        Learning With Non-IID Data.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3643155
     - title: 'CELEST: Federated Learning for Globally Coordinated Threat Detection.'
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
@@ -16157,6 +16162,11 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
       link: https://doi.org/10.1109/TIFS.2025.3556346
+    - title: 'Certifying the Right to Be Forgotten: Primal-Dual Optimization for Sample
+        and Label Unlearning in Vertical Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3636788
     - title: 'Comments on &quot;VCD-FL: Verifiable, Collusion-Resistant, and Dynamic
         Federated Learning&quot;.'
       venue: IEEE Trans. Inf. Forensics Secur.
@@ -16170,6 +16180,11 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
       link: https://doi.org/10.1109/TIFS.2024.3516545
+    - title: Defense Against Poisoning Attacks on Federated Learning With Neighborhood
+        Coulomb Force.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3637669
     - title: Differential Privacy for Multi-Modal Federated Learning With Modality
         Selection.
       venue: IEEE Trans. Inf. Forensics Secur.
@@ -16374,6 +16389,11 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
       link: https://doi.org/10.1109/TIFS.2025.3588324
+    - title: 'PFL-ALP: Personalized Federated Learning Against Backdoor Attacks via
+        Attention-Based Local Purification.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3639936
     - title: 'PIECE: Incentivizing Personalized Privacy-Preserving for Multi-Version
         Model Marketplace in Federated Learning.'
       venue: IEEE Trans. Inf. Forensics Secur.
@@ -16452,6 +16472,11 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
       link: https://doi.org/10.1109/TIFS.2025.3594107
+    - title: 'RDCBA-FEL: Robust Defense Against Colluded Backdoor Attacks in Federated
+        Edge Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3629550
     - title: 'ROBY: A Byzantine-Robust and Privacy-Preserving Serverless Federated
         Learning Framework.'
       venue: IEEE Trans. Inf. Forensics Secur.
@@ -17086,6 +17111,11 @@ ACM Trans. Priv. Secur.:
       venue: ACM Trans. Priv. Secur.
       year: 2025
       link: https://doi.org/10.1145/3702325
+    - title: 'GradCAM-AE: A New Shield Defense against Poisoning Attacks on Federated
+        Learning.'
+      venue: ACM Trans. Priv. Secur.
+      year: 2025
+      link: https://doi.org/10.1145/3765743
   '2023':
     header:
       title: Title
@@ -20647,6 +20677,15 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2026
       link: https://doi.org/10.1016/j.ins.2025.122682
+    - title: 'DP-FedPUAC: Federated learning with differential privacy via adaptive
+        gradient clipping and local iteration optimization.'
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2025.122981
+    - title: 'FLSDA: A synergistic defense against backdoor attacks in federated learning.'
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2025.122974
     - title: 'FedGraph-Fair: Federated learning with personalization and fairness
         via dynamic graphs and distributionally robust optimization.'
       venue: Inf. Sci.
@@ -20667,6 +20706,11 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2026
       link: https://doi.org/10.1016/j.ins.2025.122804
+    - title: Federated hierarchical clustering with automatic selection of optimal
+        cluster numbers.
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2025.122957
   '2025':
     header:
       title: Title

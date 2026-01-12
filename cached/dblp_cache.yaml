@@ -51116,6 +51116,64 @@ federated%20streamid%3Ajournals%2Ftifs%3A:
   doi: 10.1109/TIFS.2025.3633157
   ee: https://doi.org/10.1109/TIFS.2025.3633157
   url: https://dblp.org/rec/journals/tifs/TangYPSZWKN25
+- author: Yu Jiang 0015, Xindi Tong, Ziyao Liu, Xiaoxi Zhang 0001, Kwok-Yan Lam, Chee-Wei
+    Tan 0001
+  title: 'Certifying the Right to Be Forgotten: Primal-Dual Optimization for Sample
+    and Label Unlearning in Vertical Federated Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/JiangTLZLT25
+  doi: 10.1109/TIFS.2025.3636788
+  ee: https://doi.org/10.1109/TIFS.2025.3636788
+  url: https://dblp.org/rec/journals/tifs/JiangTLZLT25
+- author: Yifeng Jiang, Xiaochen Yuan, Weiwen Zhang, Wei Ke 0001, Chan-Tong Lam, Sio
+    Kei Im
+  title: 'PFL-ALP: Personalized Federated Learning Against Backdoor Attacks via Attention-Based
+    Local Purification.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/JiangYZKLI25
+  doi: 10.1109/TIFS.2025.3639936
+  ee: https://doi.org/10.1109/TIFS.2025.3639936
+  url: https://dblp.org/rec/journals/tifs/JiangYZKLI25
+- author: Bo Wang 0155, Youliang Tian, Yina Guo, Hongtao Li 0002
+  title: Defense Against Poisoning Attacks on Federated Learning With Neighborhood
+    Coulomb Force.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/WangTGL25
+  doi: 10.1109/TIFS.2025.3637669
+  ee: https://doi.org/10.1109/TIFS.2025.3637669
+  url: https://dblp.org/rec/journals/tifs/WangTGL25
+- author: Pei Ye, Yuqing Li, Kun He 0008, Qiao Li, Tianjie Qin, Xiong Wang 0006, Kaige
+    Yang, Chujun Zhang, Jing Chen 0003
+  title: 'Breaking the Illusion: A Critical Study of Backdoor Defense in Federated
+    Learning With Non-IID Data.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/YeLHLQWYZC25
+  doi: 10.1109/TIFS.2025.3643155
+  ee: https://doi.org/10.1109/TIFS.2025.3643155
+  url: https://dblp.org/rec/journals/tifs/YeLHLQWYZC25
+- author: Pan Zhang, Lei Xu 0019, Chungen Xu, Lin Mei, Yiting Liu
+  title: 'RDCBA-FEL: Robust Defense Against Colluded Backdoor Attacks in Federated
+    Edge Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ZhangXXML25
+  doi: 10.1109/TIFS.2025.3629550
+  ee: https://doi.org/10.1109/TIFS.2025.3629550
+  url: https://dblp.org/rec/journals/tifs/ZhangXXML25
 federated%20streamid%3Ajournals%2Ftissec%3A:
 - &id3841
   author: "Georgios Syros, G\xF6kberk Yar, Simona Boboila, Cristina Nita-Rotaru, Alina\
@@ -51170,6 +51228,18 @@ federated%20streamid%3Ajournals%2Ftissec%3A:
 - *id3842
 - *id3843
 - *id3844
+- author: "Jingjing Zheng, Kai Li 0002, Xin Yuan 0004, Wei Ni 0001, Eduardo Tovar,\
+    \ \xD6zg\xFCr B. Akan"
+  title: 'GradCAM-AE: A New Shield Defense against Poisoning Attacks on Federated
+    Learning.'
+  venue: ACM Trans. Priv. Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tissec/ZhengLYNTA25
+  doi: 10.1145/3765743
+  ee: https://doi.org/10.1145/3765743
+  url: https://dblp.org/rec/journals/tissec/ZhengLYNTA25
 federated%20streamid%3Ajournals%2Ftist%3A:
 - &id3845
   author: Thirasara Ariyarathna, Meisam Mohommady, Hye-young Paik, Salil S. Kanhere
@@ -57394,6 +57464,39 @@ federated%20streamid%3Ajournals%2Fisci%3A:
   doi: 10.1016/J.INS.2025.122100
   ee: https://doi.org/10.1016/j.ins.2025.122100
   url: https://dblp.org/rec/journals/isci/ChengHLB25
+- author: Yangtao Chen, Hang Gao 0003, Hao Wang, Tiegang Gao
+  title: 'FLSDA: A synergistic defense against backdoor attacks in federated learning.'
+  venue: Inf. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ChenGWG26
+  doi: 10.1016/J.INS.2025.122974
+  ee: https://doi.org/10.1016/j.ins.2025.122974
+  url: https://dblp.org/rec/journals/isci/ChenGWG26
+- author: Jiangyong Yuan, Yong Chen 0027, Zheyi Wang, Chenxiao Wang, Xiaoyue Hu, Zihao
+    Zeng
+  title: 'DP-FedPUAC: Federated learning with differential privacy via adaptive gradient
+    clipping and local iteration optimization.'
+  venue: Inf. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/YuanCWWHZ26
+  doi: 10.1016/J.INS.2025.122981
+  ee: https://doi.org/10.1016/j.ins.2025.122981
+  url: https://dblp.org/rec/journals/isci/YuanCWWHZ26
+- author: Yue Zhang, Chuanlong Qiu, Xinfa Liao, Yiqun Zhang
+  title: Federated hierarchical clustering with automatic selection of optimal cluster
+    numbers.
+  venue: Inf. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhangQLZ26
+  doi: 10.1016/J.INS.2025.122957
+  ee: https://doi.org/10.1016/j.ins.2025.122957
+  url: https://dblp.org/rec/journals/isci/ZhangQLZ26
 federated%20streamid%3Ajournals%2Feswa%3A:
 - &id4304
   author: Yang Liu, Tao Lin, Xin Ye 0004
@@ -79710,6 +79813,17 @@ inference%20attack%20streamid%3Ajournals%2Ftifs%3A:
   doi: 10.1109/TIFS.2018.2843353
   ee: https://doi.org/10.1109/TIFS.2018.2843353
   url: https://dblp.org/rec/journals/tifs/ZhaoYH19
+- author: Haitao Su, Yue Qin, Zhenhua Li 0001, Xin Miao, Yuan Zhou
+  title: 'Falcon: A Universal Text-Only Membership Inference Attack Framework Against
+    In-Context Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/SuQLMZ25
+  doi: 10.1109/TIFS.2025.3640876
+  ee: https://doi.org/10.1109/TIFS.2025.3640876
+  url: https://dblp.org/rec/journals/tifs/SuQLMZ25
 inference%20attack%20streamid%3Ajournals%2Ftissec%3A:
 - author: Rajagopal Venkatesaramani, Zhiyu Wan, Bradley A. Malin, Yevgeniy Vorobeychik
   title: Defending Against Membership Inference Attacks on Beacon Services.
@@ -84569,3 +84683,2815 @@ model%20injection%20attack%20streamid%3Ajournals%2Ftsmc%3A:
   doi: 10.1109/TSMC.2025.3612216
   ee: https://doi.org/10.1109/TSMC.2025.3612216
   url: https://dblp.org/rec/journals/tsmc/XiaoCDXC26
+data%20leakage%20venue%3ANeurIPS%3A:
+- author: Lin Duan, Jingwei Sun 0002, Jinyuan Jia, Yiran Chen 0001, Maria Gorlatova
+  title: Reimagining Mutual Information for Enhanced Defense against Data Leakage
+    in Collaborative Inference.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/Duan0J0G24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/4eb32e1569085c8f8883163665bf3c0a-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/Duan0J0G24
+- author: Xiao Jin, Pin-Yu Chen, Chia-Yi Hsu, Chia-Mu Yu, Tianyi Chen
+  title: Catastrophic Data Leakage in Vertical Federated Learning.
+  venue: NeurIPS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/JinCHYC21
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html
+  url: https://dblp.org/rec/conf/nips/JinCHYC21
+data%20leakage%20venue%3AICML%3A:
+- author: Hyeong Kyu Choi, Maxim Khanov, Hongxin Wei, Yixuan Li 0001
+  title: How Contaminated Is Your Benchmark? Measuring Dataset Leakage in Large Language
+    Models with Kernel Divergence.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChoiKW025
+  doi: ''
+  ee: https://openreview.net/forum?id=wVDR2qmE28
+  url: https://dblp.org/rec/conf/icml/ChoiKW025
+- author: Mark Vero, Mislav Balunovic, Dimitar Iliev Dimitrov, Martin T. Vechev
+  title: 'TabLeak: Tabular Data Leakage in Federated Learning.'
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/VeroBDV23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/vero23a.html
+  url: https://dblp.org/rec/conf/icml/VeroBDV23
+data%20leakage%20venue%3ANDSS%3A:
+- author: Maryam Rostamipoor, Seyedhamed Ghavamnia, Michalis Polychronakis
+  title: 'LeakLess: Selective Data Protection against Memory Leakage Attacks for Serverless
+    Platforms.'
+  venue: NDSS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/RostamipoorGP25
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/leakless-selective-data-protection-against-memory-leakage-attacks-for-serverless-platforms/
+  url: https://dblp.org/rec/conf/ndss/RostamipoorGP25
+- author: Qingchuan Zhao, Chaoshun Zuo, Giancarlo Pellegrino, Zhiqiang Lin 0001
+  title: 'Geo-locating Drivers: A Study of Sensitive Data Leakage in Ride-Hailing
+    Services.'
+  venue: NDSS
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/ZhaoZPL19
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/geo-locating-drivers-a-study-of-sensitive-data-leakage-in-ride-hailing-services/
+  url: https://dblp.org/rec/conf/ndss/ZhaoZPL19
+- author: Kangjie Lu, Zhichun Li, Vasileios P. Kemerlis, Zhenyu Wu 0003, Long Lu,
+    Cong Zheng, Zhiyun Qian, Wenke Lee, Guofei Jiang
+  title: 'Checking More and Alerting Less: Detecting Privacy Leakages via Enhanced
+    Data-flow Analysis and Peer Voting.'
+  venue: NDSS
+  year: '2015'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/LuLKWLZQLJ15
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss2015/checking-more-and-alerting-less-detecting-privacy-leakages-enhanced-data-flow-analysis-and-peer
+  url: https://dblp.org/rec/conf/ndss/LuLKWLZQLJ15
+data%20leakage%20venue%3ACVPR%3A:
+- author: Adam Lilja, Junsheng Fu, Erik Stenborg, Lars Hammarstrand
+  title: 'Localization is All You Evaluate: Data Leakage in Online Mapping Datasets
+    and How to Fix it.'
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/LiljaFSH24
+  doi: 10.1109/CVPR52733.2024.02091
+  ee: https://doi.org/10.1109/CVPR52733.2024.02091
+  url: https://dblp.org/rec/conf/cvpr/LiljaFSH24
+data%20leakage%20venue%3AUAI%3A:
+- author: Awni Y. Hannun, Chuan Guo 0001, Laurens van der Maaten
+  title: Measuring data leakage in machine-learning models with Fisher information.
+  venue: UAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uai/HannunGM21
+  doi: ''
+  ee: https://proceedings.mlr.press/v161/hannun21a.html
+  url: https://dblp.org/rec/conf/uai/HannunGM21
+data%20leakage%20venue%3AIJCAI%3A:
+- author: Awni Y. Hannun, Chuan Guo 0001, Laurens van der Maaten
+  title: Measuring Data Leakage in Machine-Learning Models with Fisher Information
+    (Extended Abstract).
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/HannunGM22
+  doi: 10.24963/IJCAI.2022/736
+  ee: https://doi.org/10.24963/ijcai.2022/736
+  url: https://dblp.org/rec/conf/ijcai/HannunGM22
+- author: Li-Dong Cai
+  title: A &quot;Small Leakage&quot; Model for Diffusion Smoothing of Image Data.
+  venue: IJCAI
+  year: '1989'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/Cai89
+  doi: ''
+  ee: http://ijcai.org/Proceedings/89-2/Papers/116.pdf
+  url: https://dblp.org/rec/conf/ijcai/Cai89
+data%20leakage%20venue%3AKDD%3A:
+- author: Shachar Kaufman, Saharon Rosset, Claudia Perlich
+  title: 'Leakage in data mining: formulation, detection, and avoidance.'
+  venue: KDD
+  year: '2011'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/KaufmanRP11
+  doi: 10.1145/2020408.2020496
+  ee: https://doi.org/10.1145/2020408.2020496
+  url: https://dblp.org/rec/conf/kdd/KaufmanRP11
+data%20leakage%20venue%3ACCS%3A:
+- author: Sangho Lee 0001, Jules Drean, Yue Tan, Marcus Peinado
+  title: 'IOValve: Leakage-Free I/O Sandbox for Large-Scale Untrusted Data Processing.'
+  venue: CCS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/0001DTP25
+  doi: 10.1145/3719027.3765121
+  ee: https://doi.org/10.1145/3719027.3765121
+  url: https://dblp.org/rec/conf/ccs/0001DTP25
+- author: Jianting Ning, Xinyi Huang 0001, Geong Sen Poh, Jiaming Yuan, Yingjiu Li,
+    Jian Weng 0001, Robert H. Deng
+  title: 'LEAP: Leakage-Abuse Attack on Efficiently Deployable, Efficiently Searchable
+    Encryption with Partially Known Dataset.'
+  venue: CCS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/NingHPYL0D21
+  doi: 10.1145/3460120.3484540
+  ee: https://doi.org/10.1145/3460120.3484540
+  url: https://dblp.org/rec/conf/ccs/NingHPYL0D21
+- author: Sarvar Patel, Giuseppe Persiano, Kevin Yeo, Moti Yung
+  title: 'Mitigating Leakage in Secure Cloud-Hosted Data Structures: Volume-Hiding
+    for Multi-Maps via Hashing.'
+  venue: CCS
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/PatelPYY19
+  doi: 10.1145/3319535.3354213
+  ee: https://doi.org/10.1145/3319535.3354213
+  url: https://dblp.org/rec/conf/ccs/PatelPYY19
+- author: "Paul Grubbs, Marie-Sarah Lacharit\xE9, Brice Minaud, Kenneth G. Paterson"
+  title: 'Pump up the Volume: Practical Database Reconstruction from Volume Leakage
+    on Range Queries.'
+  venue: CCS
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/GrubbsLMP18
+  doi: 10.1145/3243734.3243864
+  ee: https://doi.org/10.1145/3243734.3243864
+  url: https://dblp.org/rec/conf/ccs/GrubbsLMP18
+- author: Young-joo Shin, Hyung Chan Kim, Dokeun Kwon, Ji-Hoon Jeong, Junbeom Hur
+  title: Unveiling Hardware-based Data Prefetcher, a Hidden Source of Information
+    Leakage.
+  venue: CCS
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/ShinKKJH18
+  doi: 10.1145/3243734.3243736
+  ee: https://doi.org/10.1145/3243734.3243736
+  url: https://dblp.org/rec/conf/ccs/ShinKKJH18
+- author: Kangjie Lu, Chengyu Song, Taesoo Kim, Wenke Lee
+  title: 'UniSan: Proactive Kernel Memory Initialization to Eliminate Data Leakages.'
+  venue: CCS
+  year: '2016'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/LuSKL16
+  doi: 10.1145/2976749.2978366
+  ee: https://doi.org/10.1145/2976749.2978366
+  url: https://dblp.org/rec/conf/ccs/LuSKL16
+- author: Zhemin Yang, Min Yang 0002, Yuan Zhang 0009, Guofei Gu, Peng Ning, Xiaoyang
+    Sean Wang
+  title: 'AppIntent: analyzing sensitive data transmission in android for privacy
+    leakage detection.'
+  venue: CCS
+  year: '2013'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/YangYZGNW13
+  doi: 10.1145/2508859.2516676
+  ee: https://doi.org/10.1145/2508859.2516676
+  url: https://dblp.org/rec/conf/ccs/YangYZGNW13
+data%20leakage%20venue%3AACL%3A:
+- author: Byung-Doh Oh, Hongao Zhu, William Schuler
+  title: The Inverse Scaling Effect of Pre-Trained Language Model Surprisal Is Not
+    Due to Data Leakage.
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/OhZS25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.91/
+  url: https://dblp.org/rec/conf/acl/OhZS25
+- author: Xianfeng Zeng, Yijin Liu, Fandong Meng, Jie Zhou 0016
+  title: Towards Multiple References Era - Addressing Data Leakage and Limited Reference
+    Diversity in Machine Translation Evaluation.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ZengLMZ24
+  doi: 10.18653/V1/2024.FINDINGS-ACL.710
+  ee: https://doi.org/10.18653/v1/2024.findings-acl.710
+  url: https://dblp.org/rec/conf/acl/ZengLMZ24
+data%20leakage%20venue%3AEMNLP%3A:
+- author: Yanqi Song, Ruiheng Liu, Shu Chen, Qianhao Ren, Yu Zhang 0030, Yongqi Yu
+  title: 'SecureSQL: Evaluating Data Leakage of Large Language Models as Natural Language
+    Interfaces to Databases.'
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/SongLCR0Y24
+  doi: 10.18653/V1/2024.FINDINGS-EMNLP.346
+  ee: https://doi.org/10.18653/v1/2024.findings-emnlp.346
+  url: https://dblp.org/rec/conf/emnlp/SongLCR0Y24
+- author: Weijun Li 0003, Qiongkai Xu, Mark Dras
+  title: 'Seeing the Forest through the Trees: Data Leakage from Partial Transformer
+    Gradients.'
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiXD24
+  doi: 10.18653/V1/2024.EMNLP-MAIN.275
+  ee: https://doi.org/10.18653/v1/2024.emnlp-main.275
+  url: https://dblp.org/rec/conf/emnlp/LiXD24
+- author: "Alexandre Matton, Tom Sherborne, Dennis Aumiller, Elena Tommasone, Milad\
+    \ Alizadeh, Jingyi He, Raymond Ma, Maxime Voisin, Ellen Gilsenan-McMahon, Matthias\
+    \ Gall\xE9"
+  title: On Leakage of Code Generation Evaluation Datasets.
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/MattonSATAHMVGG24
+  doi: 10.18653/V1/2024.FINDINGS-EMNLP.772
+  ee: https://doi.org/10.18653/v1/2024.findings-emnlp.772
+  url: https://dblp.org/rec/conf/emnlp/MattonSATAHMVGG24
+- author: Ziyao Wang, Thai Le, Dongwon Lee 0001
+  title: 'UPTON: Preventing Authorship Leakage from Public Text Release via Data Poisoning.'
+  venue: EMNLP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/WangL023
+  doi: 10.18653/V1/2023.FINDINGS-EMNLP.800
+  ee: https://doi.org/10.18653/v1/2023.findings-emnlp.800
+  url: https://dblp.org/rec/conf/emnlp/WangL023
+data%20leakage%20venue%3AICDE%3A:
+- author: Daren Fadolalkarim, Elisa Bertino, Asmaa Sallam
+  title: An Anomaly Detection System for the Protection of Relational Database Systems
+    against Data Leakage by Application Programs.
+  venue: ICDE
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/FadolalkarimBS20
+  doi: 10.1109/ICDE48307.2020.00030
+  ee: https://doi.org/10.1109/ICDE48307.2020.00030
+  url: https://dblp.org/rec/conf/icde/FadolalkarimBS20
+- author: Shufan Zhang 0001, Xi He 0001, Ashish Kundu, Sharad Mehrotra, Shantanu Sharma
+    0001
+  title: 'Secure Normal Form: Mediation Among Cross Cryptographic Leakages in Encrypted
+    Databases.'
+  venue: ICDE
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/Zhang0KM024
+  doi: 10.1109/ICDE60146.2024.00444
+  ee: https://doi.org/10.1109/ICDE60146.2024.00444
+  url: https://dblp.org/rec/conf/icde/Zhang0KM024
+- author: Panagiotis Papadimitriou 0002, Hector Garcia-Molina
+  title: A Model for Data Leakage Detection.
+  venue: ICDE
+  year: '2009'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/PapadimitriouG09
+  doi: 10.1109/ICDE.2009.227
+  ee: https://doi.org/10.1109/ICDE.2009.227
+  url: https://dblp.org/rec/conf/icde/PapadimitriouG09
+- author: Xiaochun Yang 0001, Chen Li 0001, Ge Yu 0001, Lei Shi
+  title: 'XGuard: A System for Publishing XML Documents without Information Leakage
+    in the Presence of Data Inference.'
+  venue: ICDE
+  year: '2005'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/YangLYX05
+  doi: 10.1109/ICDE.2005.156
+  ee: https://doi.org/10.1109/ICDE.2005.156
+  url: https://dblp.org/rec/conf/icde/YangLYX05
+data%20leakage%20venue%3AMobiCom%3A:
+- author: Shafizur Rahman Seeam, Zhengxiong Li, Yidan Hu
+  title: A Black-Box Approach for Quantifying Leakage of Trace-Based Correlated Data.
+  venue: MobiCom
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mobicom/SeeamLH24
+  doi: 10.1145/3636534.3694722
+  ee: https://doi.org/10.1145/3636534.3694722
+  url: https://dblp.org/rec/conf/mobicom/SeeamLH24
+data%20leakage%20venue%3AWWW%3A:
+- author: Shubham Jain 0006, Eden Bensaid, Yves-Alexandre de Montjoye
+  title: 'UNVEIL: Capture and Visualise WiFi Data Leakages.'
+  venue: WWW
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/JainBM19
+  doi: 10.1145/3308558.3314143
+  ee: https://doi.org/10.1145/3308558.3314143
+  url: https://dblp.org/rec/conf/www/JainBM19
+- author: Yan Shvartzshnaider, Zvonimir Pavlinovic, Ananth Balashankar, Thomas Wies,
+    Lakshminarayanan Subramanian, Helen Nissenbaum, Prateek Mittal
+  title: 'VACCINE: Using Contextual Integrity For Data Leakage Detection.'
+  venue: WWW
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/Shvartzshnaider19
+  doi: 10.1145/3308558.3313655
+  ee: https://doi.org/10.1145/3308558.3313655
+  url: https://dblp.org/rec/conf/www/Shvartzshnaider19
+data%20leakage%20venue%3ADAC%3A:
+- author: Behnam Omidi, Ihsen Alouani, Khaled N. Khasawneh
+  title: 'Data Oblivious CPU: Microarchitectural Side-channel Leakage-Resilient Processor.'
+  venue: DAC
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dac/OmidiAK25
+  doi: 10.1109/DAC63849.2025.11133149
+  ee: https://doi.org/10.1109/DAC63849.2025.11133149
+  url: https://dblp.org/rec/conf/dac/OmidiAK25
+data%20leakage%20streamid%3Aconf%2Fsp%3A:
+- author: Evgenios M. Kornaropoulos, Charalampos Papamanthou, Roberto Tamassia
+  title: Data Recovery on Encrypted Databases with k-Nearest Neighbor Query Leakage.
+  venue: IEEE Symposium on Security and Privacy
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/KornaropoulosPT19
+  doi: 10.1109/SP.2019.00015
+  ee: https://doi.org/10.1109/SP.2019.00015
+  url: https://dblp.org/rec/conf/sp/KornaropoulosPT19
+- author: Chaoshun Zuo, Zhiqiang Lin 0001, Yinqian Zhang
+  title: Why Does Your Data Leak? Uncovering the Data Leakage in Cloud from Mobile
+    Apps.
+  venue: IEEE Symposium on Security and Privacy
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/ZuoLZ19
+  doi: 10.1109/SP.2019.00009
+  ee: https://doi.org/10.1109/SP.2019.00009
+  url: https://dblp.org/rec/conf/sp/ZuoLZ19
+- author: Guopeng Lin, Xiaoning Du 0001, Lushan Song, Weili Han, Jin Tan, Junming
+    Ma, Wenjing Fang, Lei Wang
+  title: Is MPC Secure? Leveraging Neural Network Classifiers to Detect Data Leakage
+    Vulnerabilities in MPC Implementations.
+  venue: SP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/LinDSHTMFW25
+  doi: 10.1109/SP61157.2025.00181
+  ee: https://doi.org/10.1109/SP61157.2025.00181
+  url: https://dblp.org/rec/conf/sp/LinDSHTMFW25
+- author: Hans Winderix, Marton Bognar, Job Noorman, Lesly-Ann Daniel, Frank Piessens
+  title: 'Architectural Mimicry: Innovative Instructions to Efficiently Address Control-Flow
+    Leakage in Data-Oblivious Programs.'
+  venue: SP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/WinderixBNDP24
+  doi: 10.1109/SP54263.2024.00047
+  ee: https://doi.org/10.1109/SP54263.2024.00047
+  url: https://dblp.org/rec/conf/sp/WinderixBNDP24
+- author: Alyssa Milburn, Erik van der Kouwe, Cristiano Giuffrida
+  title: Mitigating Information Leakage Vulnerabilities with Type-based Data Isolation.
+  venue: SP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/MilburnKG22
+  doi: 10.1109/SP46214.2022.9833675
+  ee: https://doi.org/10.1109/SP46214.2022.9833675
+  url: https://dblp.org/rec/conf/sp/MilburnKG22
+- author: "Marie-Sarah Lacharit\xE9, Brice Minaud, Kenneth G. Paterson"
+  title: Improved Reconstruction Attacks on Encrypted Data Using Range Query Leakage.
+  venue: IEEE Symposium on Security and Privacy
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/LachariteMP18
+  doi: 10.1109/SP.2018.00002
+  ee: https://doi.org/10.1109/SP.2018.00002
+  url: https://dblp.org/rec/conf/sp/LachariteMP18
+data%20leakage%20streamid%3Aconf%2Fuss%3A:
+- author: Mingyuan Fan 0003, Cen Chen 0001, Chengyu Wang 0001, Xiaodan Li, Wenmeng
+    Zhou
+  title: 'Refiner: Data Refining against Gradient Leakage Attacks in Federated Learning.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/000300LZ25
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/fan-refiner
+  url: https://dblp.org/rec/conf/uss/000300LZ25
+- author: Mingyuan Fan 0003, Fuyi Wang, Cen Chen 0001, Jianying Zhou 0001
+  title: 'Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/0003W0025
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/fan-boosting
+  url: https://dblp.org/rec/conf/uss/0003W0025
+- author: Grace Jia, Rachit Agarwal 0001, Anurag Khandelwal
+  title: Length Leakage in Oblivious Data Access Mechanisms.
+  venue: USENIX Security Symposium
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/Jia0K24
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity24/presentation/jia-grace
+  url: https://dblp.org/rec/conf/uss/Jia0K24
+- author: Dongli Liu, Wei Wang 0088, Peng Xu 0003, Laurence T. Yang, Bo Luo, Kaitai
+    Liang
+  title: 'd-DSE: Distinct Dynamic Searchable Encryption Resisting Volume Leakage in
+    Encrypted Databases.'
+  venue: USENIX Security Symposium
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/Liu00YLL24
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity24/presentation/liu-dongli
+  url: https://dblp.org/rec/conf/uss/Liu00YLL24
+- author: Youssef Tobah, Andrew Kwong, Ingab Kang, Daniel Genkin, Kang G. Shin
+  title: 'Go Go Gadget Hammer: Flipping Nested Pointers for Arbitrary Data Leakage.'
+  venue: USENIX Security Symposium
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/TobahKKGS24
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity24/presentation/tobah
+  url: https://dblp.org/rec/conf/uss/TobahKKGS24
+- author: Wanrong Zhang 0001, Shruti Tople, Olga Ohrimenko
+  title: Leakage of Dataset Properties in Multi-Party Machine Learning.
+  venue: USENIX Security Symposium
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/0001TO21
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-wanrong
+  url: https://dblp.org/rec/conf/uss/0001TO21
+- author: Ioannis Demertzis, Dimitrios Papadopoulos 0001, Charalampos Papamanthou,
+    Saurabh Shintre
+  title: 'SEAL: Attack Mitigation for Encrypted Databases via Adjustable Leakage.'
+  venue: USENIX Security Symposium
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/DemertzisPPS20
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity20/presentation/demertzis
+  url: https://dblp.org/rec/conf/uss/DemertzisPPS20
+- author: Daniel Moghimi, Moritz Lipp, Berk Sunar, Michael Schwarz 0001
+  title: 'Medusa: Microarchitectural Data Leakage via Automated Attack Synthesis.'
+  venue: USENIX Security Symposium
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/MoghimiLS020
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity20/presentation/moghimi-medusa
+  url: https://dblp.org/rec/conf/uss/MoghimiLS020
+- author: Polina Zilberman, Asaf Shabtai, Lior Rokach
+  title: Analyzing Group Communication for Preventing Accidental Data Leakage via
+    Email.
+  venue: CollSec
+  year: '2010'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/ZilbermanSR10
+  doi: ''
+  ee: https://www.usenix.org/conference/collsec10/analyzing-group-communication-preventing-accidental-data-leakage-email
+  url: https://dblp.org/rec/conf/uss/ZilbermanSR10
+data%20leakage%20streamid%3Aconf%2Fsigmod%3A:
+- author: Chen Dar, Moshik Hershcovitch, Adam Morrison 0001
+  title: 'RLS Side Channels: Investigating Leakage of Row-Level Security Protected
+    Data Through Query Execution Time.'
+  venue: Proc. ACM Manag. Data
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pacmmod/DarH023
+  doi: 10.1145/3588943
+  ee: https://doi.org/10.1145/3588943
+  url: https://dblp.org/rec/journals/pacmmod/DarH023
+- author: Shuai An, Yang Cao 0012
+  title: Counterfactual Explanation at Will, with Zero Privacy Leakage.
+  venue: Proc. ACM Manag. Data
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pacmmod/An024
+  doi: 10.1145/3654933
+  ee: https://doi.org/10.1145/3654933
+  url: https://dblp.org/rec/journals/pacmmod/An024
+data%20leakage%20streamid%3Aconf%2Ficse%3A:
+- author: Hongzhou Rao, Yanjie Zhao 0001, Wenjie Zhu, Ling Xiao, Meizhen Wang, Haoyu
+    Wang 0001
+  title: 'CODEMORPH: Mitigating Data Leakage in Large Language Model Assessment.'
+  venue: ICSE Companion
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icse/RaoZZXWW25
+  doi: 10.1109/ICSE-COMPANION66252.2025.00081
+  ee: https://doi.org/10.1109/ICSE-Companion66252.2025.00081
+  url: https://dblp.org/rec/conf/icse/RaoZZXWW25
+data%20leakage%20streamid%3Aconf%2Fcikm%3A:
+- author: Hui Xiong 0001, Michael S. Steinbach, Vipin Kumar 0001
+  title: Privacy leakage in multi-relational databases via pattern based semi-supervised
+    learning.
+  venue: CIKM
+  year: '2005'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/XiongSK05
+  doi: 10.1145/1099554.1099664
+  ee: https://doi.org/10.1145/1099554.1099664
+  url: https://dblp.org/rec/conf/cikm/XiongSK05
+data%20leakage%20streamid%3Ajournals%2Ftkde%3A:
+- author: Qiaoer Xu, Jianfeng Wang 0001, Shifeng Sun 0001, Zhipeng Liu 0006, Xiaofeng
+    Chen 0001
+  title: Practical Equi-Join Over Encrypted Database With Reduced Leakage.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/XuWSLC25
+  doi: 10.1109/TKDE.2025.3543168
+  ee: https://doi.org/10.1109/TKDE.2025.3543168
+  url: https://dblp.org/rec/journals/tkde/XuWSLC25
+- author: Yangfan Jiang 0001, Xinjian Luo, Yuncheng Wu, Xiaochen Zhu 0003, Xiaokui
+    Xiao, Beng Chin Ooi
+  title: On Data Distribution Leakage in Cross-Silo Federated Learning.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/JiangLWZXO24
+  doi: 10.1109/TKDE.2023.3349323
+  ee: https://doi.org/10.1109/TKDE.2023.3349323
+  url: https://dblp.org/rec/journals/tkde/JiangLWZXO24
+- author: Panagiotis Papadimitriou 0002, Hector Garcia-Molina
+  title: Data Leakage Detection.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2011'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/PapadimitriouG11
+  doi: 10.1109/TKDE.2010.100
+  ee: https://doi.org/10.1109/TKDE.2010.100
+  url: https://dblp.org/rec/journals/tkde/PapadimitriouG11
+- author: Yilong Yang 0004, Zhuo Ma 0001, Bin Xiao 0002, Yang Liu 0118, Teng Li 0003,
+    Junwei Zhang 0008
+  title: 'Reveal Your Images: Gradient Leakage Attack Against Unbiased Sampling-Based
+    Secure Aggregation.'
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/YangMXLLZ23
+  doi: 10.1109/TKDE.2023.3271432
+  ee: https://doi.org/10.1109/TKDE.2023.3271432
+  url: https://dblp.org/rec/journals/tkde/YangMXLLZ23
+data%20leakage%20streamid%3Ajournals%2Ftbd%3A:
+- author: Chi Zhang 0007, Ekanut Sotthiwat, Liangli Zhen, Zengxiang Li
+  title: Augmented Multi-Party Computation Against Gradient Leakage in Federated Learning.
+  venue: IEEE Trans. Big Data
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/ZhangSZL24
+  doi: 10.1109/TBDATA.2022.3208736
+  ee: https://doi.org/10.1109/TBDATA.2022.3208736
+  url: https://dblp.org/rec/journals/tbd/ZhangSZL24
+- author: Zengpeng Li 0001, Chunguang Ma, Ding Wang 0002
+  title: Leakage Resilient Leveled FHE on Multiple Bits Message.
+  venue: IEEE Trans. Big Data
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/LiMW21
+  doi: 10.1109/TBDATA.2017.2726554
+  ee: https://doi.org/10.1109/TBDATA.2017.2726554
+  url: https://dblp.org/rec/journals/tbd/LiMW21
+data%20leakage%20streamid%3Ajournals%2Ftetc%3A:
+- author: Yanhua Liu, Zhihuang Liu, Ximeng Liu, Wenzhong Guo
+  title: A Web Back-End Database Leakage Incident Reconstruction Framework Over Unlabeled
+    Logs.
+  venue: IEEE Trans. Emerg. Top. Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tetc/LiuLLG23
+  doi: 10.1109/TETC.2022.3198080
+  ee: https://doi.org/10.1109/TETC.2022.3198080
+  url: https://dblp.org/rec/journals/tetc/LiuLLG23
+data%20leakage%20streamid%3Ajournals%2Ftifs%3A:
+- author: Amirreza Zamani, Tobias J. Oechtering, Mikael Skoglund
+  title: Data Disclosure With Non-Zero Leakage and Non-Invertible Leakage Matrix.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ZamaniOS22
+  doi: 10.1109/TIFS.2021.3137755
+  ee: https://doi.org/10.1109/TIFS.2021.3137755
+  url: https://dblp.org/rec/journals/tifs/ZamaniOS22
+- author: Taesik Nam, Dong-Hoon Choi, Euibum Lee, Han-Shin Jo, Jong-Gwan Yook
+  title: Data Generation and Augmentation Method for Deep Learning-Based VDU Leakage
+    Signal Restoration Algorithm.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/NamCLJY24
+  doi: 10.1109/TIFS.2024.3393748
+  ee: https://doi.org/10.1109/TIFS.2024.3393748
+  url: https://dblp.org/rec/journals/tifs/NamCLJY24
+- author: Mingyue Wang, Zizhuo Chen, Yinbin Miao, Hejiao Huang, Cong Wang 0001, Xiaohua
+    Jia
+  title: Cross-User Leakage Mitigation for Authorized Multi-User Encrypted Data Sharing.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/WangCMHWJ24
+  doi: 10.1109/TIFS.2023.3333244
+  ee: https://doi.org/10.1109/TIFS.2023.3333244
+  url: https://dblp.org/rec/journals/tifs/WangCMHWJ24
+- author: Yanan Li 0004, Xuebin Ren, Shusen Yang, Xinyu Yang 0001
+  title: 'Impact of Prior Knowledge and Data Correlation on Privacy Leakage: A Unified
+    Analysis.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/LiRYY19
+  doi: 10.1109/TIFS.2019.2895970
+  ee: https://doi.org/10.1109/TIFS.2019.2895970
+  url: https://dblp.org/rec/journals/tifs/LiRYY19
+- author: Gabriel Emile Hine, Emanuele Maiorana, Patrizio Campisi
+  title: A Zero-Leakage Fuzzy Embedder From the Theoretical Formulation to Real Data.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2017'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/HineMC17
+  doi: 10.1109/TIFS.2017.2686005
+  ee: https://doi.org/10.1109/TIFS.2017.2686005
+  url: https://dblp.org/rec/journals/tifs/HineMC17
+- author: Taras Stanko, Fitria Nur Andini, Boris Skoric
+  title: Optimized Quantization in Zero Leakage Helper Data Systems.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2017'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/StankoAS17
+  doi: 10.1109/TIFS.2017.2697840
+  ee: https://doi.org/10.1109/TIFS.2017.2697840
+  url: https://dblp.org/rec/journals/tifs/StankoAS17
+data%20leakage%20streamid%3Ajournals%2Ftist%3A:
+- author: Hanchi Ren, Jingjing Deng 0001, Xianghua Xie
+  title: 'GRNN: Generative Regression Neural Network - A Data Leakage Attack for Federated
+    Learning.'
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/RenDX22
+  doi: 10.1145/3510032
+  ee: https://doi.org/10.1145/3510032
+  url: https://dblp.org/rec/journals/tist/RenDX22
+data%20leakage%20streamid%3Ajournals%2Ftkdd%3A:
+- author: Shachar Kaufman, Saharon Rosset, Claudia Perlich, Ori Stitelman
+  title: 'Leakage in data mining: Formulation, detection, and avoidance.'
+  venue: ACM Trans. Knowl. Discov. Data
+  year: '2012'
+  type: Journal Articles
+  access: closed
+  key: journals/tkdd/KaufmanRPS12
+  doi: 10.1145/2382577.2382579
+  ee: https://doi.org/10.1145/2382577.2382579
+  url: https://dblp.org/rec/journals/tkdd/KaufmanRPS12
+data%20leakage%20streamid%3Ajournals%2Fpvldb%3A:
+- author: Primal Pappachan, Shufan Zhang 0001, Xi He 0001, Sharad Mehrotra
+  title: 'Don&apos;t Be a Tattle-Tale: Preventing Leakages through Data Dependencies
+    on Access Control Protected Data.'
+  venue: Proc. VLDB Endow.
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/pvldb/PappachanZHM22
+  doi: 10.14778/3551793.3551805
+  ee: https://www.vldb.org/pvldb/vol15/p2437-pappachan.pdf
+  url: https://dblp.org/rec/journals/pvldb/PappachanZHM22
+- author: Leqian Zheng, Lei Xu 0019, Cong Wang 0001, Sheng Wang 0011, Yuke Hu, Zhan
+    Qin, Feifei Li 0001, Kui Ren 0001
+  title: 'SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted
+    Data Stores.'
+  venue: Proc. VLDB Endow.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/pvldb/ZhengXWWHQLR24
+  doi: 10.14778/3675034.3675038
+  ee: https://www.vldb.org/pvldb/vol17/p2445-zheng.pdf
+  url: https://dblp.org/rec/journals/pvldb/ZhengXWWHQLR24
+- author: Yang Cao 0011, Li Xiong 0001, Masatoshi Yoshikawa, Yonghui Xiao, Si Zhang
+  title: 'ConTPL: Controlling Temporal Privacy Leakage in Differentially Private Continuous
+    Data Release.'
+  venue: Proc. VLDB Endow.
+  year: '2018'
+  type: Journal Articles
+  access: open
+  key: journals/pvldb/CaoXYXZ18
+  doi: 10.14778/3229863.3236267
+  ee: http://www.vldb.org/pvldb/vol11/p2090-cao.pdf
+  url: https://dblp.org/rec/journals/pvldb/CaoXYXZ18
+data%20leakage%20streamid%3Ajournals%2Ftpds%3A:
+- author: Xuyun Zhang, Chang Liu 0001, Surya Nepal, Suraj Pandey, Jinjun Chen
+  title: A Privacy Leakage Upper Bound Constraint-Based Approach for Cost-Effective
+    Privacy Preserving of Intermediate Data Sets in Cloud.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2013'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/ZhangLNPC13
+  doi: 10.1109/TPDS.2012.238
+  ee: https://doi.org/10.1109/TPDS.2012.238
+  url: https://dblp.org/rec/journals/tpds/ZhangLNPC13
+data%20leakage%20streamid%3Ajournals%2Ftc%3A:
+- author: Jianghua Liu, Jingyu Hou 0001, Wenjie Yang 0001, Yang Xiang 0001, Wanlei
+    Zhou 0001, Wei Wu 0001, Xinyi Huang 0001
+  title: Leakage-Free Dissemination of Authenticated Tree-Structured Data With Multi-Party
+    Control.
+  venue: IEEE Trans. Computers
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tc/LiuHYXZWH21
+  doi: 10.1109/TC.2020.3006835
+  ee: https://doi.org/10.1109/TC.2020.3006835
+  url: https://dblp.org/rec/journals/tc/LiuHYXZWH21
+data%20leakage%20streamid%3Ajournals%2Fpr%3A:
+- author: Jiawang Bai, Bin Chen 0011, Kuofeng Gao, Xuan Wang 0002, Shu-Tao Xia
+  title: Practical protection against video data leakage via universal adversarial
+    head.
+  venue: Pattern Recognit.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/BaiCGWX22
+  doi: 10.1016/J.PATCOG.2022.108834
+  ee: https://doi.org/10.1016/j.patcog.2022.108834
+  url: https://dblp.org/rec/journals/pr/BaiCGWX22
+data%20leakage%20streamid%3Ajournals%2Fkbs%3A:
+- author: Zhenzhu Chen, Jie Wu, Anmin Fu, Mang Su, Robert H. Deng
+  title: 'MP-CLF: An effective Model-Preserving Collaborative deep Learning Framework
+    for mitigating data leakage under the GAN.'
+  venue: Knowl. Based Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChenWFSD23
+  doi: 10.1016/J.KNOSYS.2023.110527
+  ee: https://doi.org/10.1016/j.knosys.2023.110527
+  url: https://dblp.org/rec/journals/kbs/ChenWFSD23
+- author: "C\xE9sar Guevara, Matilde Santos 0001, Victoria L\xF3pez"
+  title: Data leakage detection algorithm based on task sequences and probabilities.
+  venue: Knowl. Based Syst.
+  year: '2017'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/GuevaraSL17
+  doi: 10.1016/J.KNOSYS.2017.01.009
+  ee: https://doi.org/10.1016/j.knosys.2017.01.009
+  url: https://dblp.org/rec/journals/kbs/GuevaraSL17
+data%20leakage%20streamid%3Ajournals%2Fisci%3A:
+- author: Gilad Katz, Yuval Elovici, Bracha Shapira
+  title: 'CoBAn: A context based model for data leakage prevention.'
+  venue: Inf. Sci.
+  year: '2014'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/KatzES14
+  doi: 10.1016/J.INS.2013.10.005
+  ee: https://doi.org/10.1016/j.ins.2013.10.005
+  url: https://dblp.org/rec/journals/isci/KatzES14
+data%20leakage%20streamid%3Ajournals%2Feswa%3A:
+- author: "Isabel Herrera Montano, Juan Ramos-D\xEDaz, Jos\xE9 Javier Garc\xEDa-Aranda,\
+    \ Sergio Molina-Card\xEDn, Juan Jos\xE9 Guerrero L\xF3pez, Isabel de la Torre\
+    \ D\xEDez"
+  title: 'Securecipher: An instantaneous synchronization stream encryption system
+    for insider threat data leakage protection.'
+  venue: Expert Syst. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: open
+  key: journals/eswa/MontanoRAMLD24
+  doi: 10.1016/J.ESWA.2024.124470
+  ee: https://doi.org/10.1016/j.eswa.2024.124470
+  url: https://dblp.org/rec/journals/eswa/MontanoRAMLD24
+- author: Mohamed Aly Bouke, Azizol Abdullah
+  title: An empirical study of pattern leakage impact during data preprocessing on
+    machine learning-based intrusion detection models reliability.
+  venue: Expert Syst. Appl.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/BoukeA23
+  doi: 10.1016/J.ESWA.2023.120715
+  ee: https://doi.org/10.1016/j.eswa.2023.120715
+  url: https://dblp.org/rec/journals/eswa/BoukeA23
+- author: Hyeongmin Kim, Jin Uk Ko, Kyumin Na, Hyeonchan Lee, Hee-soo Kim, Jong-Duk
+    Son, Heonjun Yoon, Byeng D. Youn
+  title: 'Opt-TCAE: Optimal temporal convolutional auto-encoder for boiler tube leakage
+    detection in a thermal power plant using multi-sensor data.'
+  venue: Expert Syst. Appl.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/KimKNLKSYY23
+  doi: 10.1016/J.ESWA.2022.119377
+  ee: https://doi.org/10.1016/j.eswa.2022.119377
+  url: https://dblp.org/rec/journals/eswa/KimKNLKSYY23
+data%20leakage%20streamid%3Ajournals%2Fijon%3A:
+- author: Li Li 0046, Yongqing Yang
+  title: On sampled-data control for stabilization of genetic regulatory networks
+    with leakage delays.
+  venue: Neurocomputing
+  year: '2015'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiY15
+  doi: 10.1016/J.NEUCOM.2014.09.005
+  ee: https://doi.org/10.1016/j.neucom.2014.09.005
+  url: https://dblp.org/rec/journals/ijon/LiY15
+data%20leakage%20streamid%3Ajournals%2Fnca%3A:
+- author: Li Li 0046, Yongqing Yang, Guang Lin 0001
+  title: The stabilization of BAM neural networks with time-varying delays in the
+    leakage terms via sampled-data control.
+  venue: Neural Comput. Appl.
+  year: '2016'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/LiYL16
+  doi: 10.1007/S00521-015-1865-4
+  ee: https://doi.org/10.1007/s00521-015-1865-4
+  url: https://dblp.org/rec/journals/nca/LiYL16
+data%20leakage%20gradients%20venue%3AEMNLP%3A:
+- author: Weijun Li 0003, Qiongkai Xu, Mark Dras
+  title: 'Seeing the Forest through the Trees: Data Leakage from Partial Transformer
+    Gradients.'
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiXD24
+  doi: 10.18653/V1/2024.EMNLP-MAIN.275
+  ee: https://doi.org/10.18653/v1/2024.emnlp-main.275
+  url: https://dblp.org/rec/conf/emnlp/LiXD24
+extract%20gradient%20venue%3ANeurIPS%3A:
+- author: Mislav Balunovic, Dimitar I. Dimitrov, Nikola Jovanovic 0001, Martin T.
+    Vechev
+  title: 'LAMP: Extracting Text from Gradients with Language Model Priors.'
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/BalunovicD0V22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/32375260090404f907ceae19f3564a7e-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/BalunovicD0V22
+extract%20gradient%20venue%3AICLR%3A:
+- author: Derek C. Rose, Itamar Arel
+  title: Gradient Driven Learning for Pooling in Visual Pipeline Feature Extraction
+    Models
+  venue: ICLR
+  year: '2013'
+  type: Conference and Workshop Papers
+  access: open
+  key: journals/corr/abs-1301-3755
+  doi: ''
+  ee: http://arxiv.org/abs/1301.3755
+  url: https://dblp.org/rec/journals/corr/abs-1301-3755
+extract%20gradient%20venue%3ACVPR%3A:
+- author: Takumi Kobayashi 0001
+  title: 'BFO Meets HOG: Feature Extraction Based on Histograms of Oriented p.d.f.
+    Gradients for Image Classification.'
+  venue: CVPR
+  year: '2013'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/Kobayashi13
+  doi: 10.1109/CVPR.2013.102
+  ee: https://doi.org/10.1109/CVPR.2013.102
+  url: https://dblp.org/rec/conf/cvpr/Kobayashi13
+- author: Shulin Yang, Jue Wang 0001, Linda G. Shapiro
+  title: Supervised Semantic Gradient Extraction Using Linear-Time Optimization.
+  venue: CVPR
+  year: '2013'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/YangWS13
+  doi: 10.1109/CVPR.2013.364
+  ee: https://doi.org/10.1109/CVPR.2013.364
+  url: https://dblp.org/rec/conf/cvpr/YangWS13
+extract%20gradient%20venue%3AICCV%3A:
+- author: M. Sabry Hassouna, Aly A. Farag
+  title: On the Extraction of Curve Skeletons using Gradient Vector Flow.
+  venue: ICCV
+  year: '2007'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/HassounaF07
+  doi: 10.1109/ICCV.2007.4409112
+  ee: https://doi.org/10.1109/ICCV.2007.4409112
+  url: https://dblp.org/rec/conf/iccv/HassounaF07
+extract%20gradient%20venue%3AECCV%3A:
+- author: Takumi Kobayashi 0001, Nobuyuki Otsu
+  title: Image Feature Extraction Using Gradient Local Auto-Correlations.
+  venue: ECCV
+  year: '2008'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/eccv/KobayashiO08
+  doi: 10.1007/978-3-540-88682-2_27
+  ee: https://doi.org/10.1007/978-3-540-88682-2_27
+  url: https://dblp.org/rec/conf/eccv/KobayashiO08
+extract%20gradient%20venue%3AAAAI%3A:
+- author: Edward Hsiao, Martial Hebert
+  title: 'Gradient Networks: Explicit Shape Matching Without Extracting Edges.'
+  venue: AAAI
+  year: '2013'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/HsiaoH13
+  doi: 10.1609/AAAI.V27I1.8559
+  ee: https://doi.org/10.1609/aaai.v27i1.8559
+  url: https://dblp.org/rec/conf/aaai/HsiaoH13
+extract%20gradient%20venue%3AACL%3A:
+- author: Jianpeng Hu, Chengxiang Tan, Jiacheng Xu, Xiangyun Kong
+  title: Continual Few-shot Relation Extraction via Adaptive Gradient Correction and
+    Knowledge Decomposition.
+  venue: ACL
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/HuTXK24
+  doi: 10.18653/V1/2024.FINDINGS-ACL.702
+  ee: https://doi.org/10.18653/v1/2024.findings-acl.702
+  url: https://dblp.org/rec/conf/acl/HuTXK24
+extract%20gradient%20venue%3AEMNLP%3A:
+- author: Xuming Hu, Chenwei Zhang, Yawen Yang, Xiaohe Li, Li Lin 0011, Lijie Wen
+    0001, Philip S. Yu
+  title: Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction.
+  venue: EMNLP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/HuZYLLWY21
+  doi: 10.18653/V1/2021.EMNLP-MAIN.216
+  ee: https://doi.org/10.18653/v1/2021.emnlp-main.216
+  url: https://dblp.org/rec/conf/emnlp/HuZYLLWY21
+extract%20gradient%20venue%3AWACV%3A:
+- author: Guodong Guo, Michael J. Jones 0001
+  title: Iris Extraction Based on Intensity Gradient and Texture Difference.
+  venue: WACV
+  year: '2008'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/GuoJ08
+  doi: 10.1109/WACV.2008.4544018
+  ee: https://doi.org/10.1109/WACV.2008.4544018
+  url: https://dblp.org/rec/conf/wacv/GuoJ08
+extract%20gradient%20streamid%3Aconf%2Fmm%3A:
+- author: Wenxiao Zhang, Ziqi Wang, Li Xu, Xun Yang 0001, Jun Liu 0036
+  title: Informative Point cloud Dataset Extraction for Classification via Gradient-based
+    Points Moving.
+  venue: ACM Multimedia
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ZhangWXY024
+  doi: 10.1145/3664647.3680767
+  ee: https://doi.org/10.1145/3664647.3680767
+  url: https://dblp.org/rec/conf/mm/ZhangWXY024
+extract%20gradient%20streamid%3Ajournals%2Fpami%3A:
+- author: Cheng-Lin Liu
+  title: Normalization-Cooperated Gradient Feature Extraction for Handwritten Character
+    Recognition.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2007'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/Liu07a
+  doi: 10.1109/TPAMI.2007.1090
+  ee: https://doi.org/10.1109/TPAMI.2007.1090
+  url: https://dblp.org/rec/journals/pami/Liu07a
+- author: John R. Birk, Robert B. Kelley, N. Chen, L. Wilson
+  title: Image Feature Extraction Using Diameter-Limited Gradient Direction Histograms.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '1979'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/BirkKCW79
+  doi: 10.1109/TPAMI.1979.4766910
+  ee: https://doi.org/10.1109/TPAMI.1979.4766910
+  url: https://dblp.org/rec/journals/pami/BirkKCW79
+extract%20gradient%20streamid%3Ajournals%2Ftip%3A:
+- author: Wei Zhou 0037, Ling Zhang 0010, Shengyu Gao, Xin Lou 0002
+  title: Gradient-Based Feature Extraction From Raw Bayer Pattern Images.
+  venue: IEEE Trans. Image Process.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/ZhouZGL21
+  doi: 10.1109/TIP.2021.3067166
+  ee: https://doi.org/10.1109/TIP.2021.3067166
+  url: https://dblp.org/rec/journals/tip/ZhouZGL21
+extract%20gradient%20streamid%3Ajournals%2Ftsp%3A:
+- author: "Zbynek Koldovsk\xFD, Petr Tichavsk\xFD"
+  title: Gradient Algorithms for Complex Non-Gaussian Independent Component/Vector
+    Extraction, Question of Convergence.
+  venue: IEEE Trans. Signal Process.
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/tsp/KoldovskyT19
+  doi: 10.1109/TSP.2018.2887185
+  ee: https://doi.org/10.1109/TSP.2018.2887185
+  url: https://dblp.org/rec/journals/tsp/KoldovskyT19
+extract%20gradient%20streamid%3Ajournals%2Ftcyb%3A:
+- author: Tong Liu 0014, Zeyue Tian, Sheng Chen 0001, Kai Wang 0003, Chris J. Harris
+  title: Deep Cascade Gradient RBF Networks With Output-Relevant Feature Extraction
+    and Adaptation for Nonlinear and Nonstationary Processes.
+  venue: IEEE Trans. Cybern.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tcyb/0014T00H23
+  doi: 10.1109/TCYB.2022.3152107
+  ee: https://doi.org/10.1109/TCYB.2022.3152107
+  url: https://dblp.org/rec/journals/tcyb/0014T00H23
+extract%20gradient%20streamid%3Ajournals%2Ftcad%3A:
+- author: William M. Coughran Jr., Wolfgang Fichtner, Eric H. Grosse
+  title: Extracting transistor changes from device simulations by gradient fitting.
+  venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+  year: '1989'
+  type: Journal Articles
+  access: closed
+  key: journals/tcad/CoughranFG89
+  doi: 10.1109/43.29592
+  ee: https://doi.org/10.1109/43.29592
+  url: https://dblp.org/rec/journals/tcad/CoughranFG89
+extract%20gradient%20streamid%3Ajournals%2Fpr%3A:
+- author: Zhe Yu, Jun Wang 0078, Shuyi Qu, Qunxi Zhang, Yirong Ma, Shenglin Peng,
+    Jinye Peng 0001
+  title: 'SemiSketch: An ancient mural sketch extraction network based on reference
+    prior and gradient frequency compensation.'
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/YuWQZMPP26
+  doi: 10.1016/J.PATCOG.2025.112146
+  ee: https://doi.org/10.1016/j.patcog.2025.112146
+  url: https://dblp.org/rec/journals/pr/YuWQZMPP26
+- author: Yongjun Zhang 0002, Dong Wei, Yansheng Li 0001
+  title: 'AG3line: Active grouping and geometry-gradient combined validation for fast
+    line segment extraction.'
+  venue: Pattern Recognit.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ZhangWL21
+  doi: 10.1016/J.PATCOG.2021.107834
+  ee: https://doi.org/10.1016/j.patcog.2021.107834
+  url: https://dblp.org/rec/journals/pr/ZhangWL21
+- author: Rahul Das Gupta, Jatindra Kumar Dash, Sudipta Mukhopadhyay
+  title: Rotation invariant textural feature extraction for image retrieval using
+    eigen value analysis of intensity gradients and multi-resolution analysis.
+  venue: Pattern Recognit.
+  year: '2013'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/GuptaDM13
+  doi: 10.1016/J.PATCOG.2013.05.026
+  ee: https://doi.org/10.1016/j.patcog.2013.05.026
+  url: https://dblp.org/rec/journals/pr/GuptaDM13
+- author: Lin-Lin Huang 0001, Akinobu Shimizu, Yoshihiro Hagihara, Hidefumi Kobatake
+  title: Gradient feature extraction for classification-based face detection.
+  venue: Pattern Recognit.
+  year: '2003'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/HuangSHK03
+  doi: 10.1016/S0031-3203(03)00130-4
+  ee: https://doi.org/10.1016/S0031-3203(03)00130-4
+  url: https://dblp.org/rec/journals/pr/HuangSHK03
+- author: Cheng-Chung Lin, Wei-Chung Lin
+  title: Extracting facial features by an inhibitory mechanism based on gradient distributions.
+  venue: Pattern Recognit.
+  year: '1996'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LinL96a
+  doi: 10.1016/S0031-3203(96)00034-9
+  ee: https://doi.org/10.1016/S0031-3203(96)00034-9
+  url: https://dblp.org/rec/journals/pr/LinL96a
+extract%20gradient%20streamid%3Ajournals%2Fprl%3A:
+- author: Kenji Hara, Kohei Inoue, Kiichi Urahama
+  title: Gradient operators for feature extraction from omnidirectional panoramic
+    images.
+  venue: Pattern Recognit. Lett.
+  year: '2015'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/HaraIU15
+  doi: 10.1016/J.PATREC.2014.12.010
+  ee: https://doi.org/10.1016/j.patrec.2014.12.010
+  url: https://dblp.org/rec/journals/prl/HaraIU15
+- author: Ghulam Gilanie, Muhammad Attique, Hafeez Ullah, Shahid Naweed, Ejaz Ahmed,
+    Masroor Ikram
+  title: Object extraction from T2 weighted brain MR image using histogram based gradient
+    calculation.
+  venue: Pattern Recognit. Lett.
+  year: '2013'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/GilanieAHNAI13
+  doi: 10.1016/J.PATREC.2013.04.010
+  ee: https://doi.org/10.1016/j.patrec.2013.04.010
+  url: https://dblp.org/rec/journals/prl/GilanieAHNAI13
+- author: Sonya A. Coleman, Shanmugalingam Suganthan, Bryan W. Scotney
+  title: Gradient operators for feature extraction and characterisation in range images.
+  venue: Pattern Recognit. Lett.
+  year: '2010'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/ColemanSS10
+  doi: 10.1016/J.PATREC.2009.12.022
+  ee: https://doi.org/10.1016/j.patrec.2009.12.022
+  url: https://dblp.org/rec/journals/prl/ColemanSS10
+- author: Ryan Lagerstrom, Changming Sun, Pascal Vallotton
+  title: Boundary extraction of linear features using dual paths through gradient
+    profiles.
+  venue: Pattern Recognit. Lett.
+  year: '2008'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/LagerstromSV08
+  doi: 10.1016/J.PATREC.2008.05.009
+  ee: https://doi.org/10.1016/j.patrec.2008.05.009
+  url: https://dblp.org/rec/journals/prl/LagerstromSV08
+- author: Jihyo Lee, Hanseok Ko
+  title: Gradient-based local affine invariant feature extraction for mobile robot
+    localization in indoor environments.
+  venue: Pattern Recognit. Lett.
+  year: '2008'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/LeeK08b
+  doi: 10.1016/J.PATREC.2008.06.006
+  ee: https://doi.org/10.1016/j.patrec.2008.06.006
+  url: https://dblp.org/rec/journals/prl/LeeK08b
+extract%20gradient%20streamid%3Ajournals%2Fisci%3A:
+- author: Wujie Zhou, Lu Yu 0003, Weiwei Qiu, Yang Zhou 0011, Ming-Wei Wu 0001
+  title: 'Local gradient patterns (LGP): An effective local-statistical-feature extraction
+    scheme for no-reference image quality assessment.'
+  venue: Inf. Sci.
+  year: '2017'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhouYQZW17
+  doi: 10.1016/J.INS.2017.02.049
+  ee: https://doi.org/10.1016/j.ins.2017.02.049
+  url: https://dblp.org/rec/journals/isci/ZhouYQZW17
+extract%20gradient%20streamid%3Ajournals%2Feswa%3A:
+- author: Panle Li, Xiaohui He 0001, Tao Zhou, Mengjia Qiao, Xijie Cheng, Haofei Li,
+    Mingkai Yue, Lei Zhang, Jiandong Shang
+  title: 'ExSGD: Exploiting previous gradient for distributed large-batch training
+    of building extraction network.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/LiHZQCLYZS26
+  doi: 10.1016/J.ESWA.2025.129347
+  ee: https://doi.org/10.1016/j.eswa.2025.129347
+  url: https://dblp.org/rec/journals/eswa/LiHZQCLYZS26
+- author: Jiajie Wang, Shuai Zhang 0002, Yueling Xu, Zijian Zhang, Xuan Yang, Yuanzhe
+    Cheng
+  title: 'ILAMP: Improved text extraction from gradients in federated learning using
+    language model priors and sequence beam search.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/WangZXZYC25
+  doi: 10.1016/J.ESWA.2025.126592
+  ee: https://doi.org/10.1016/j.eswa.2025.126592
+  url: https://dblp.org/rec/journals/eswa/WangZXZYC25
+- author: Zhe Yu, Shenglin Peng, Shuyi Qu, Qunxi Zhang, Jun Wang 0078, Jinye Peng
+    0001
+  title: 'AGD-GAN: Adaptive Gradient-Guided and Depth-supervised generative adversarial
+    networks for ancient mural sketch extraction.'
+  venue: Expert Syst. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/YuPQZWP24
+  doi: 10.1016/J.ESWA.2024.124639
+  ee: https://doi.org/10.1016/j.eswa.2024.124639
+  url: https://dblp.org/rec/journals/eswa/YuPQZWP24
+extract%20gradient%20streamid%3Ajournals%2Fnn%3A:
+- author: Yunyun Sun, Peng Li 0011, He Xu, Ruchuan Wang 0001
+  title: Structural prior-driven feature extraction with gradient-momentum combined
+    optimization for convolutional neural network image classification.
+  venue: Neural Networks
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/SunLXW24
+  doi: 10.1016/J.NEUNET.2024.106511
+  ee: https://doi.org/10.1016/j.neunet.2024.106511
+  url: https://dblp.org/rec/journals/nn/SunLXW24
+recover%20priva%20venue%3ANeurIPS%3A:
+- author: Samyak Gupta, Yangsibo Huang, Zexuan Zhong, Tianyu Gao 0001, Kai Li 0001,
+    Danqi Chen 0001
+  title: Recovering Private Text in Federated Learning of Language Models.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/GuptaHZGLC22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/GuptaHZGLC22
+recover%20priva%20venue%3AICML%3A:
+- author: Dung Nguyen 0002, Anil Kumar S. Vullikanti
+  title: Differentially private exact recovery for stochastic block models.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0002V24
+  doi: ''
+  ee: https://openreview.net/forum?id=MIRQ3L8vtn
+  url: https://dblp.org/rec/conf/icml/0002V24
+recover%20priva%20venue%3ANDSS%3A:
+- author: Cong Wang 0001, Zhen Xu, Kui Ren 0001, Janet Meiling Wang
+  title: 'OIRS: Outsourced Image Recovery Service From Comprehensive Sensing With
+    Privacy Assurance.'
+  venue: NDSS
+  year: '2013'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/X13
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss2013/ndss-2013-programme/oirs-outsourced-image-recovery-service-compressive-sensing-privacy-assurance
+  url: https://dblp.org/rec/conf/ndss/X13
+recover%20priva%20venue%3ACVPR%3A:
+- author: Kunal Chelani, Torsten Sattler, Fredrik Kahl, Zuzana Kukelova
+  title: 'Privacy-Preserving Representations are not Enough: Recovering Scene Content
+    from Camera Poses.'
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/ChelaniSKK23
+  doi: 10.1109/CVPR52729.2023.01262
+  ee: https://doi.org/10.1109/CVPR52729.2023.01262
+  url: https://dblp.org/rec/conf/cvpr/ChelaniSKK23
+- author: Kunal Chelani, Fredrik Kahl, Torsten Sattler
+  title: How Privacy-Preserving Are Line Clouds? Recovering Scene Details From 3D
+    Lines.
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/ChelaniKS21
+  doi: 10.1109/CVPR46437.2021.01541
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Chelani_How_Privacy-Preserving_Are_Line_Clouds_Recovering_Scene_Details_From_3D_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ChelaniKS21
+recover%20priva%20venue%3AECCV%3A:
+- author: Zhuowen Yuan, Fan Wu 0011, Yunhui Long, Chaowei Xiao, Bo Li 0026
+  title: 'SecretGen: Privacy Recovery on Pre-trained Models via Distribution Discrimination.'
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/YuanWLXL22
+  doi: 10.1007/978-3-031-20065-6_9
+  ee: https://doi.org/10.1007/978-3-031-20065-6_9
+  url: https://dblp.org/rec/conf/eccv/YuanWLXL22
+recover%20priva%20venue%3AAISTATS%3A:
+- author: Siddharth Vishwanath, Jonathan Hehir
+  title: Signal Recovery from Random Dot-Product Graphs under Local Differential Privacy.
+  venue: AISTATS
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aistats/VishwanathH25
+  doi: ''
+  ee: https://proceedings.mlr.press/v258/vishwanath25a.html
+  url: https://dblp.org/rec/conf/aistats/VishwanathH25
+recover%20priva%20venue%3ACCS%3A:
+- author: Joachim Biskup, Ulrich Flegel
+  title: Threshold-based identity recovery for privacy enhanced applications.
+  venue: CCS
+  year: '2000'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/BiskupF00
+  doi: 10.1145/352600.352611
+  ee: https://doi.org/10.1145/352600.352611
+  url: https://dblp.org/rec/conf/ccs/BiskupF00
+recover%20priva%20venue%3AICDE%3A:
+- author: Xinyue Sun, Qingqing Ye 0001, Haibo Hu 0001, Jiawei Duan, Tianyu Wo, Jie
+    Xu 0007, Renyu Yang
+  title: 'LDPRecover: Recovering Frequencies from Poisoning Attacks Against Local
+    Differential Privacy.'
+  venue: ICDE
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/Sun0HDW0Y24
+  doi: 10.1109/ICDE60146.2024.00132
+  ee: https://doi.org/10.1109/ICDE60146.2024.00132
+  url: https://dblp.org/rec/conf/icde/Sun0HDW0Y24
+recover%20priva%20venue%3AWACV%3A:
+- author: Wenjun Huang 0001, Yang Ni 0001, Arghavan Rezvani, Sungheon Jeong 0001,
+    Hanning Chen, Yezi Liu, Fei Wen, Mohsen Imani
+  title: 'Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach.'
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/Huang0RJCLWI25
+  doi: 10.1109/WACV61041.2025.00512
+  ee: https://doi.org/10.1109/WACV61041.2025.00512
+  url: https://dblp.org/rec/conf/wacv/Huang0RJCLWI25
+recover%20priva%20venue%3AWWW%3A:
+- author: Fengli Xu, Zhen Tu, Yong Li 0008, Pengyu Zhang, Xiaoming Fu 0001, Depeng
+    Jin
+  title: 'Trajectory Recovery From Ash: User Privacy Is NOT Preserved in Aggregated
+    Mobility Data.'
+  venue: WWW
+  year: '2017'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/XuTLZFJ17
+  doi: 10.1145/3038912.3052620
+  ee: https://doi.org/10.1145/3038912.3052620
+  url: https://dblp.org/rec/conf/www/XuTLZFJ17
+recover%20priva%20streamid%3Aconf%2Fsp%3A:
+- author: Fan Wu 0011, Yunhui Long, Ce Zhang 0001, Bo Li 0026
+  title: 'LINKTELLER: Recovering Private Edges from Graph Neural Networks via Influence
+    Analysis.'
+  venue: SP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/0011L0022
+  doi: 10.1109/SP46214.2022.9833806
+  ee: https://doi.org/10.1109/SP46214.2022.9833806
+  url: https://dblp.org/rec/conf/sp/0011L0022
+- author: Evgenios M. Kornaropoulos, Charalampos Papamanthou, Roberto Tamassia
+  title: Data Recovery on Encrypted Databases with k-Nearest Neighbor Query Leakage.
+  venue: IEEE Symposium on Security and Privacy
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/sp/KornaropoulosPT19
+  doi: 10.1109/SP.2019.00015
+  ee: https://doi.org/10.1109/SP.2019.00015
+  url: https://dblp.org/rec/conf/sp/KornaropoulosPT19
+recover%20priva%20streamid%3Aconf%2Fuss%3A:
+- author: Jingmiao Zhang, Suyuan Liu, Jiahui Hou, Zhiqiang Wang, Haikuo Yu, Xiang-Yang
+    Li 0001
+  title: 'SpeechGuard: Recoverable and Customizable Speech Privacy Protection.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/ZhangLHWY025
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-jingmiao
+  url: https://dblp.org/rec/conf/uss/ZhangLHWY025
+- author: Ryan Little, Lucy Qin, Mayank Varia
+  title: Secure Account Recovery for a Privacy-Preserving Web Service.
+  venue: USENIX Security Symposium
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/LittleQV24
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity24/presentation/little
+  url: https://dblp.org/rec/conf/uss/LittleQV24
+recover%20priva%20streamid%3Ajournals%2Ftifs%3A:
+- author: Stanislav Kruglik, Han Mao Kiah, Son Hoang Dau, Eitan Yaakobi
+  title: Recovering Reed-Solomon Codes Privately.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/KruglikKDY25
+  doi: 10.1109/TIFS.2025.3543123
+  ee: https://doi.org/10.1109/TIFS.2025.3543123
+  url: https://dblp.org/rec/journals/tifs/KruglikKDY25
+recover%20priva%20streamid%3Ajournals%2Ftissec%3A:
+- author: Adam Stubblefield, John Ioannidis, Aviel D. Rubin
+  title: A key recovery attack on the 802.11b wired equivalent privacy protocol (WEP).
+  venue: ACM Trans. Inf. Syst. Secur.
+  year: '2004'
+  type: Journal Articles
+  access: closed
+  key: journals/tissec/StubblefieldIR04
+  doi: 10.1145/996943.996948
+  ee: https://doi.org/10.1145/996943.996948
+  url: https://dblp.org/rec/journals/tissec/StubblefieldIR04
+recover%20priva%20streamid%3Ajournals%2Ftpds%3A:
+- author: Kun-Lung Wu, W. Kent Fuchs, Janak H. Patel
+  title: Error Recovery in Shared Memory Multiprocessors Using Private Caches.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '1990'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/WuFP90
+  doi: 10.1109/71.80134
+  ee: https://doi.org/10.1109/71.80134
+  url: https://dblp.org/rec/journals/tpds/WuFP90
+gradient%20attack%20venue%3ANeurIPS%3A:
+- author: Xiaomeng Hu, Pin-Yu Chen, Tsung-Yi Ho
+  title: 'Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring
+    Refusal Loss Landscapes.'
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/HuCH24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/e46984e056185b21ddb1e7973c365f14-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/HuCH24
+- author: Zihan Liu, Yun Luo, Lirong Wu, Zicheng Liu 0006, Stan Z. Li
+  title: Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks
+    via Gradient Debias.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiuLW0L22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/b31aec087b4c9be97d7148dfdf6e062d-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiuLW0L22
+- author: Yangsibo Huang, Samyak Gupta, Zhao Song 0002, Kai Li 0001, Sanjeev Arora
+  title: Evaluating Gradient Inversion Attacks and Defenses in Federated Learning.
+  venue: NeurIPS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/HuangGSLA21
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2021/hash/3b3fff6463464959dcd1b68d0320f781-Abstract.html
+  url: https://dblp.org/rec/conf/nips/HuangGSLA21
+- author: "Ginevra Carbone, Matthew Wicker, Luca Laurenti, Andrea Patan\xE9, Luca\
+    \ Bortolussi, Guido Sanguinetti"
+  title: Robustness of Bayesian Neural Networks to Gradient-Based Attacks.
+  venue: NeurIPS
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/CarboneWLPBS20
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2020/hash/b3f61131b6eceeb2b14835fa648a48ff-Abstract.html
+  url: https://dblp.org/rec/conf/nips/CarboneWLPBS20
+gradient%20attack%20venue%3AICML%3A:
+- author: Chanho Park, Namyoon Lee
+  title: 'SignSGD with Federated Defense: Harnessing Adversarial Attacks through Gradient
+    Sign Decoding.'
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ParkL24
+  doi: ''
+  ee: https://openreview.net/forum?id=zEqeNEuiJr
+  url: https://dblp.org/rec/conf/icml/ParkL24
+- author: "Sadegh Farhadkhani, Rachid Guerraoui, L\xEA Nguy\xEAn Hoang, Oscar Villemaud"
+  title: An Equivalence Between Data Poisoning and Byzantine Gradient Attacks.
+  venue: ICML
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/FarhadkhaniGHV22
+  doi: ''
+  ee: https://proceedings.mlr.press/v162/farhadkhani22b.html
+  url: https://dblp.org/rec/conf/icml/FarhadkhaniGHV22
+- author: Weiran Lin, Keane Lucas, Lujo Bauer, Michael K. Reiter, Mahmood Sharif
+  title: 'Constrained Gradient Descent: A Powerful and Principled Evasion Attack Against
+    Neural Networks.'
+  venue: ICML
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LinLBRS22
+  doi: ''
+  ee: https://proceedings.mlr.press/v162/lin22e.html
+  url: https://dblp.org/rec/conf/icml/LinLBRS22
+- author: Keiichiro Yamamura, Haruki Sato, Nariaki Tateiwa, Nozomi Hata, Toru Mitsutake,
+    Issa Oe, Hiroki Ishikura, Katsuki Fujisawa
+  title: Diversified Adversarial Attacks based on Conjugate Gradient Method.
+  venue: ICML
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YamamuraSTHMOIF22
+  doi: ''
+  ee: https://proceedings.mlr.press/v162/yamamura22a.html
+  url: https://dblp.org/rec/conf/icml/YamamuraSTHMOIF22
+- author: Jiawei Zhang 0013, Linyi Li 0001, Huichen Li, Xiaolu Zhang, Shuang Yang,
+    Bo Li 0026
+  title: Progressive-Scale Boundary Blackbox Attack via Projective Gradient Estimation.
+  venue: ICML
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhangLLZYL21
+  doi: ''
+  ee: http://proceedings.mlr.press/v139/zhang21l.html
+  url: https://dblp.org/rec/conf/icml/ZhangLLZYL21
+- author: Sijia Liu 0001, Songtao Lu, Xiangyi Chen, Yao Feng 0002, Kaidi Xu, Abdullah
+    Al-Dujaili, Mingyi Hong 0001, Una-May O&apos;Reilly
+  title: 'Min-Max Optimization without Gradients: Convergence and Applications to
+    Black-Box Evasion and Poisoning Attacks.'
+  venue: ICML
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0001LCFXAHO20
+  doi: ''
+  ee: http://proceedings.mlr.press/v119/liu20j.html
+  url: https://dblp.org/rec/conf/icml/0001LCFXAHO20
+gradient%20attack%20venue%3AICLR%3A:
+- author: Danni Yuan, Mingda Zhang, Shaokui Wei, Li Liu 0036, Baoyuan Wu
+  title: Activation Gradient based Poisoned Sample Detection Against Backdoor Attacks.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/YuanZWLW25
+  doi: ''
+  ee: https://openreview.net/forum?id=VNMJfBBUd5
+  url: https://dblp.org/rec/conf/iclr/YuanZWLW25
+- author: Yanbo Wang 0004, Jian Liang 0001, Ran He 0001
+  title: Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks.
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/WangL024
+  doi: ''
+  ee: https://openreview.net/forum?id=s8cMuxI5gu
+  url: https://dblp.org/rec/conf/iclr/WangL024
+- author: Zhiyu Zhu, Xinyi Wang 0005, Zhibo Jin, Jiayu Zhang 0001, Huaming Chen
+  title: Enhancing Transferable Adversarial Attacks on Vision Transformers through
+    Gradient Normalization Scaling and High-Frequency Adaptation.
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/Zhu0JZC24
+  doi: ''
+  ee: https://openreview.net/forum?id=1BuWv9poWz
+  url: https://dblp.org/rec/conf/iclr/Zhu0JZC24
+- author: Yi Huang 0013, Adams Wai-Kin Kong
+  title: Transferable Adversarial Attack based on Integrated Gradients.
+  venue: ICLR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/HuangK22
+  doi: ''
+  ee: https://openreview.net/forum?id=DesNW4-5ai9
+  url: https://dblp.org/rec/conf/iclr/HuangK22
+- author: Junyi Zhu 0002, Matthew B. Blaschko
+  title: 'R-GAP: Recursive Gradient Attack on Privacy.'
+  venue: ICLR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/ZhuB21
+  doi: ''
+  ee: https://openreview.net/forum?id=RSU17UoKfJF
+  url: https://dblp.org/rec/conf/iclr/ZhuB21
+- author: Jiadong Lin, Chuanbiao Song, Kun He 0001, Liwei Wang 0001, John E. Hopcroft
+  title: Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks.
+  venue: ICLR
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/LinS00H20
+  doi: ''
+  ee: https://openreview.net/forum?id=SJlHwkBYDH
+  url: https://dblp.org/rec/conf/iclr/LinS00H20
+- author: Arjun Nitin Bhagoji, Warren He, Bo Li 0026, Dawn Song
+  title: Black-box Attacks on Deep Neural Networks via Gradient Estimation.
+  venue: ICLR
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/BhagojiH0S18
+  doi: ''
+  ee: https://openreview.net/forum?id=SJ9nVSkvG
+  url: https://dblp.org/rec/conf/iclr/BhagojiH0S18
+gradient%20attack%20venue%3ANDSS%3A:
+- author: Rui Zhu, Di Tang 0001, Siyuan Tang, Zihao Wang, Guanhong Tao 0001, Shiqing
+    Ma, XiaoFeng Wang 0001, Haixu Tang
+  title: 'Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering.'
+  venue: NDSS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/Zhu0TW0M0T24
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/gradient-shaping-enhancing-backdoor-attack-against-reverse-engineering/
+  url: https://dblp.org/rec/conf/ndss/Zhu0TW0M0T24
+- author: Jiayun Fu, Xiaojing Ma 0002, Bin B. Zhu, Pingyi Hu, Ruixin Zhao, Yaru Jia,
+    Peng Xu 0003, Hai Jin 0001, Dongmei Zhang 0001
+  title: 'Focusing on Pinocchio&apos;s Nose: A Gradients Scrutinizer to Thwart Split-Learning
+    Hijacking Attacks Using Intrinsic Attributes.'
+  venue: NDSS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ndss/Fu0ZHZJ00023
+  doi: ''
+  ee: https://www.ndss-symposium.org/ndss-paper/focusing-on-pinocchios-nose-a-gradients-scrutinizer-to-thwart-split-learning-hijacking-attacks-using-intrinsic-attributes/
+  url: https://dblp.org/rec/conf/ndss/Fu0ZHZJ00023
+gradient%20attack%20venue%3ACVPR%3A:
+- author: Li Lun, Kunyu Feng, Qinglong Ni, Ling Liang, Yuan Wang 0001, Ying Li 0056,
+    Dunshan Yu, Xiaoxin Cui
+  title: Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks
+    via Breaking Invisible Surrogate Gradients.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/LunFNL0LYC25
+  doi: 10.1109/CVPR52734.2025.00335
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Lun_Towards_Effective_and_Sparse_Adversarial_Attack_on_Spiking_Neural_Networks_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/LunFNL0LYC25
+- author: Hasin Us Sami, Swapneel Sen, Amit K. Roy-Chowdhury, Srikanth V. Krishnamurthy,
+    Basak Guler
+  title: Gradient Inversion Attacks on Parameter-Efficient Fine-Tuning.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/SamiSRKG25
+  doi: 10.1109/CVPR52734.2025.00956
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Sami_Gradient_Inversion_Attacks_on_Parameter-Efficient_Fine-Tuning_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/SamiSRKG25
+- author: Yujia Liu 0005, Chenxi Yang 0004, Dingquan Li, Jianhao Ding, Tingting Jiang
+    0001
+  title: Defense Against Adversarial Attacks on No-Reference Image Quality Models
+    with Gradient Norm Regularization.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/LiuYLD024
+  doi: 10.1109/CVPR52733.2024.02414
+  ee: https://doi.org/10.1109/CVPR52733.2024.02414
+  url: https://dblp.org/rec/conf/cvpr/LiuYLD024
+- author: Tong Bu, Jianhao Ding, Zecheng Hao, Zhaofei Yu
+  title: Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks.
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/BuDHY23
+  doi: 10.1109/CVPR52729.2023.00763
+  ee: https://doi.org/10.1109/CVPR52729.2023.00763
+  url: https://dblp.org/rec/conf/cvpr/BuDHY23
+- author: Yunrui Yu, Cheng-Zhong Xu 0001
+  title: Efficient Loss Function by Minimizing the Detrimental Effect of Floating-Point
+    Errors on Gradient-Based Attacks.
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/Yu023
+  doi: 10.1109/CVPR52729.2023.00395
+  ee: https://doi.org/10.1109/CVPR52729.2023.00395
+  url: https://dblp.org/rec/conf/cvpr/Yu023
+- author: Jianping Zhang 0002, Yizhan Huang, Weibin Wu 0002, Michael R. Lyu
+  title: Transferable Adversarial Attacks on Vision Transformers with Token Gradient
+    Regularization.
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/ZhangHWL23
+  doi: 10.1109/CVPR52729.2023.01575
+  ee: https://doi.org/10.1109/CVPR52729.2023.01575
+  url: https://dblp.org/rec/conf/cvpr/ZhangHWL23
+- author: Kaidong Li, Ziming Zhang, Cuncong Zhong, Guanghui Wang 0001
+  title: 'Robust Structured Declarative Classifiers for 3D Point Clouds: Defending
+    Adversarial Attacks with Implicit Gradients.'
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/LiZZ022
+  doi: 10.1109/CVPR52688.2022.01486
+  ee: https://doi.org/10.1109/CVPR52688.2022.01486
+  url: https://dblp.org/rec/conf/cvpr/LiZZ022
+- author: Sanjay Kariyappa, Atul Prakash 0001, Moinuddin K. Qureshi
+  title: 'MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation.'
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/Kariyappa0Q21
+  doi: 10.1109/CVPR46437.2021.01360
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Kariyappa_MAZE_Data-Free_Model_Stealing_Attack_Using_Zeroth-Order_Gradient_Estimation_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/Kariyappa0Q21
+- author: "J\xE9r\xF4me Rony, Luiz G. Hafemann, Luiz S. Oliveira, Ismail Ben Ayed,\
+    \ Robert Sabourin, Eric Granger"
+  title: Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial
+    Attacks and Defenses.
+  venue: CVPR
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/RonyHOASG19
+  doi: 10.1109/CVPR.2019.00445
+  ee: http://openaccess.thecvf.com/content_CVPR_2019/html/Rony_Decoupling_Direction_and_Norm_for_Efficient_Gradient-Based_L2_Adversarial_Attacks_CVPR_2019_paper.html
+  url: https://dblp.org/rec/conf/cvpr/RonyHOASG19
+gradient%20attack%20venue%3AICCV%3A:
+- author: Zhengzhi Lu, He Wang 0002, Ziyi Chang, Guoan Yang, Hubert P. H. Shum
+  title: Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition
+    with Skeleton-Motion-Informed Gradient.
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/Lu0CYS23
+  doi: 10.1109/ICCV51070.2023.00424
+  ee: https://doi.org/10.1109/ICCV51070.2023.00424
+  url: https://dblp.org/rec/conf/iccv/Lu0CYS23
+- author: Wenshuo Ma, Yidong Li, Xiaofeng Jia, Wei Xu 0005
+  title: Transferable Adversarial Attack for Both Vision Transformers and Convolutional
+    Networks via Momentum Integrated Gradients.
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/MaLJX23
+  doi: 10.1109/ICCV51070.2023.00427
+  ee: https://doi.org/10.1109/ICCV51070.2023.00427
+  url: https://dblp.org/rec/conf/iccv/MaLJX23
+- author: Hegui Zhu, Yuchen Ren 0002, Xiaoyan Sui, Lianping Yang, Wuming Jiang
+  title: Boosting Adversarial Transferability via Gradient Relevance Attack.
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/ZhuRSYJ23
+  doi: 10.1109/ICCV51070.2023.00437
+  ee: https://doi.org/10.1109/ICCV51070.2023.00437
+  url: https://dblp.org/rec/conf/iccv/ZhuRSYJ23
+- author: Zheng Yuan 0005, Jie Zhang 0071, Yunpei Jia, Chuanqi Tan, Tao Xue, Shiguang
+    Shan
+  title: Meta Gradient Adversarial Attack.
+  venue: ICCV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/00050JTXS21
+  doi: 10.1109/ICCV48922.2021.00765
+  ee: https://doi.org/10.1109/ICCV48922.2021.00765
+  url: https://dblp.org/rec/conf/iccv/00050JTXS21
+gradient%20attack%20venue%3AECCV%3A:
+- author: Yueru Li, Shuyu Cheng, Hang Su 0006, Jun Zhu 0001
+  title: Defense Against Adversarial Attacks via Controlling Gradient Leaking on Embedded
+    Manifolds.
+  venue: ECCV
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/LiCSZ20
+  doi: 10.1007/978-3-030-58604-1_45
+  ee: https://doi.org/10.1007/978-3-030-58604-1_45
+  url: https://dblp.org/rec/conf/eccv/LiCSZ20
+gradient%20attack%20venue%3AUAI%3A:
+- author: Ruihan Wu, Xiangyu Chen 0007, Chuan Guo 0001, Kilian Q. Weinberger
+  title: 'Learning To Invert: Simple Adaptive Attacks for Gradient Inversion in Federated
+    Learning.'
+  venue: UAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uai/WuCGW23
+  doi: ''
+  ee: https://proceedings.mlr.press/v216/wu23a.html
+  url: https://dblp.org/rec/conf/uai/WuCGW23
+gradient%20attack%20venue%3AIJCAI%3A:
+- author: Lele Zheng, Yang Cao 0011, Leo Yu Zhang, Wei Wang 0077, Yulong Shen 0001,
+    Xiaochun Cao
+  title: 'MMGIA: Gradient Inversion Attack Against Multimodal Federated Learning via
+    Intermodal Correlation.'
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ZhengCZW0C25
+  doi: 10.24963/IJCAI.2025/886
+  ee: https://doi.org/10.24963/ijcai.2025/886
+  url: https://dblp.org/rec/conf/ijcai/ZhengCZW0C25
+- author: Han Liu 0008, Xingshuo Huang, Xiaotong Zhang 0003, Qimai Li, Fenglong Ma,
+    Wei Wang 0077, Hongyang Chen 0001, Hong Yu 0005, Xianchao Zhang 0001
+  title: Boosting Decision-Based Black-Box Adversarial Attack with Gradient Priors.
+  venue: IJCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/0008H0LMWC0Z23
+  doi: 10.24963/IJCAI.2023/133
+  ee: https://doi.org/10.24963/ijcai.2023/133
+  url: https://dblp.org/rec/conf/ijcai/0008H0LMWC0Z23
+- author: Rui Zhang 0080, Song Guo 0001, Junxiao Wang, Xin Xie 0001, Dacheng Tao
+  title: 'A Survey on Gradient Inversion: Attacks, Defenses and Future Directions.'
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ZhangGWXT22
+  doi: 10.24963/IJCAI.2022/791
+  ee: https://doi.org/10.24963/ijcai.2022/791
+  url: https://dblp.org/rec/conf/ijcai/ZhangGWXT22
+gradient%20attack%20venue%3AAAAI%3A:
+- author: "Antonio Emanuele Cin\xE0, J\xE9r\xF4me Rony, Maura Pintor, Luca Demetrio,\
+    \ Ambra Demontis, Battista Biggio, Ismail Ben Ayed, Fabio Roli"
+  title: 'AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/CinaRPDDBAR25
+  doi: 10.1609/AAAI.V39I3.32263
+  ee: https://doi.org/10.1609/aaai.v39i3.32263
+  url: https://dblp.org/rec/conf/aaai/CinaRPDDBAR25
+- author: Lulu Xue, Shengshan Hu, Ruizhi Zhao, Leo Yu Zhang, Shengqing Hu, Lichao
+    Sun 0001, Dezhong Yao 0002
+  title: 'Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient
+    Attacks.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/XueHZZH0024
+  doi: 10.1609/AAAI.V38I6.28460
+  ee: https://doi.org/10.1609/aaai.v38i6.28460
+  url: https://dblp.org/rec/conf/aaai/XueHZZH0024
+- author: Pengxin Guo, Shuang Zeng, Wenhao Chen, Xiaodan Zhang 0003, Weihong Ren,
+    Yuyin Zhou, Liangqiong Qu
+  title: A New Federated Learning Framework Against Gradient Inversion Attacks.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/GuoZC0RZQ25
+  doi: 10.1609/AAAI.V39I16.33865
+  ee: https://doi.org/10.1609/aaai.v39i16.33865
+  url: https://dblp.org/rec/conf/aaai/GuoZC0RZQ25
+- author: Mingxuan Ju, Yujie Fan, Chuxu Zhang, Yanfang Ye 0001
+  title: 'Let Graph Be the Go Board: Gradient-Free Node Injection Attack for Graph
+    Neural Networks via Reinforcement Learning.'
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/JuFZ023
+  doi: 10.1609/AAAI.V37I4.25558
+  ee: https://doi.org/10.1609/aaai.v37i4.25558
+  url: https://dblp.org/rec/conf/aaai/JuFZ023
+- author: Xuan Liu 0001, Siqi Cai 0001, Lin Li 0001, Rui Zhang 0080, Song Guo 0001
+  title: 'MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning
+    (Student Abstract).'
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuCLZ023
+  doi: 10.1609/AAAI.V37I13.26995
+  ee: https://doi.org/10.1609/aaai.v37i13.26995
+  url: https://dblp.org/rec/conf/aaai/LiuCLZ023
+- author: Kartik Gupta, Thalaiyasingam Ajanthan
+  title: Improved Gradient-Based Adversarial Attacks for Quantized Networks.
+  venue: AAAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/GuptaA22
+  doi: 10.1609/AAAI.V36I6.20637
+  ee: https://doi.org/10.1609/aaai.v36i6.20637
+  url: https://dblp.org/rec/conf/aaai/GuptaA22
+- author: Xiaosen Wang, Yichen Yang 0009, Yihe Deng, Kun He 0001
+  title: Adversarial Training with Fast Gradient Projection Method against Synonym
+    Substitution Based Text Attacks.
+  venue: AAAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Wang0D021
+  doi: 10.1609/AAAI.V35I16.17648
+  ee: https://doi.org/10.1609/aaai.v35i16.17648
+  url: https://dblp.org/rec/conf/aaai/Wang0D021
+- author: Yuhang Wu 0002, Sunpreet S. Arora, Yanhong Wu, Hao Yang 0007
+  title: 'Beating Attackers At Their Own Games: Adversarial Example Detection Using
+    Adversarial Gradient Directions.'
+  venue: AAAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WuAWY21
+  doi: 10.1609/AAAI.V35I4.16404
+  ee: https://doi.org/10.1609/aaai.v35i4.16404
+  url: https://dblp.org/rec/conf/aaai/WuAWY21
+- author: Zhaohui Che, Ali Borji, Guangtao Zhai, Suiyi Ling, Jing Li 0026, Patrick
+    Le Callet
+  title: A New Ensemble Adversarial Attack Powered by Long-Term Gradient Memories.
+  venue: AAAI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/CheBZL0C20
+  doi: 10.1609/AAAI.V34I04.5743
+  ee: https://doi.org/10.1609/aaai.v34i04.5743
+  url: https://dblp.org/rec/conf/aaai/CheBZL0C20
+gradient%20attack%20venue%3AAISTATS%3A:
+- author: Huichen Li, Linyi Li 0001, Xiaojun Xu, Xiaolu Zhang, Shuang Yang, Bo Li
+    0026
+  title: Nonlinear Projection Based Gradient Estimation for Query Efficient Blackbox
+    Attacks.
+  venue: AISTATS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aistats/LiLXZYL21
+  doi: ''
+  ee: http://proceedings.mlr.press/v130/li21f.html
+  url: https://dblp.org/rec/conf/aistats/LiLXZYL21
+gradient%20attack%20venue%3AKDD%3A:
+- author: Ju Jia, Jingxuan Yu, Di Wu 0050, Cong Wu 0003, Hengjie Zhu, Lina Wang 0001
+  title: 'Prompt as a Double-Edged Sword: A Dynamic Equilibrium Gradient-Assigned
+    Attack against Graph Prompt Learning.'
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/JiaY00Z025
+  doi: 10.1145/3711896.3737091
+  ee: https://doi.org/10.1145/3711896.3737091
+  url: https://dblp.org/rec/conf/kdd/JiaY00Z025
+- author: Muchao Ye, Jinghui Chen, Chenglin Miao, Ting Wang 0006, Fenglong Ma
+  title: 'LeapAttack: Hard-Label Adversarial Attack on Text via Gradient-Based Optimization.'
+  venue: KDD
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/YeCMWM22
+  doi: 10.1145/3534678.3539357
+  ee: https://doi.org/10.1145/3534678.3539357
+  url: https://dblp.org/rec/conf/kdd/YeCMWM22
+gradient%20attack%20venue%3ACCS%3A:
+- author: Raphael Labaca Castro, Battista Biggio, Gabi Dreo Rodosek
+  title: 'Poster: Attacking Malware Classifiers by Crafting Gradient-Attacks that
+    Preserve Functionality.'
+  venue: CCS
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/CastroBR19
+  doi: 10.1145/3319535.3363257
+  ee: https://doi.org/10.1145/3319535.3363257
+  url: https://dblp.org/rec/conf/ccs/CastroBR19
+gradient%20attack%20venue%3AACL%3A:
+- author: Yidan Wang, Yanan Cao 0001, Yubing Ren, Fang Fang 0009, Zheng Lin 0001,
+    Binxing Fang
+  title: 'PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context
+    Optimization.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/Wang0R00F25
+  doi: ''
+  ee: https://aclanthology.org/2025.acl-long.475/
+  url: https://dblp.org/rec/conf/acl/Wang0R00F25
+- author: Naibin Gu, Peng Fu 0008, Xiyu Liu 0003, Zhengxiao Liu, Zheng Lin 0001, Weiping
+    Wang 0005
+  title: A Gradient Control Method for Backdoor Attacks on Parameter-Efficient Tuning.
+  venue: ACL
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/Gu0LL0W23
+  doi: 10.18653/V1/2023.ACL-LONG.194
+  ee: https://doi.org/10.18653/v1/2023.acl-long.194
+  url: https://dblp.org/rec/conf/acl/Gu0LL0W23
+- author: Lifan Yuan, Yichi Zhang, Yangyi Chen, Wei Wei 0002
+  title: Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial Attack
+    Framework.
+  venue: ACL
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/YuanZC023
+  doi: 10.18653/V1/2023.FINDINGS-ACL.446
+  ee: https://doi.org/10.18653/v1/2023.findings-acl.446
+  url: https://dblp.org/rec/conf/acl/YuanZC023
+gradient%20attack%20venue%3AEMNLP%3A:
+- author: KiYoon Yoo, Nojun Kwak
+  title: Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient Ensembling.
+  venue: EMNLP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/YooK22
+  doi: 10.18653/V1/2022.EMNLP-MAIN.6
+  ee: https://doi.org/10.18653/v1/2022.emnlp-main.6
+  url: https://dblp.org/rec/conf/emnlp/YooK22
+- author: Jieren Deng, Yijue Wang, Ji Li 0006, Chenghong Wang, Chao Shang, Hang Liu
+    0001, Sanguthevar Rajasekaran, Caiwen Ding
+  title: 'TAG: Gradient Attack on Transformer-based Language Models.'
+  venue: EMNLP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/DengWLWSLRD21
+  doi: 10.18653/V1/2021.FINDINGS-EMNLP.305
+  ee: https://doi.org/10.18653/v1/2021.findings-emnlp.305
+  url: https://dblp.org/rec/conf/emnlp/DengWLWSLRD21
+- author: "Chuan Guo 0001, Alexandre Sablayrolles, Herv\xE9 J\xE9gou, Douwe Kiela"
+  title: Gradient-based Adversarial Attacks against Text Transformers.
+  venue: EMNLP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/GuoSJK21
+  doi: 10.18653/V1/2021.EMNLP-MAIN.464
+  ee: https://doi.org/10.18653/v1/2021.emnlp-main.464
+  url: https://dblp.org/rec/conf/emnlp/GuoSJK21
+gradient%20attack%20venue%3ACOLING%3A:
+- author: Ying Gao 0006, Yuxin Xie 0002, Huanghao Deng, Zukun Zhu
+  title: 'Gradient Inversion Attack in Federated Learning: Exposing Text Data through
+    Discrete Optimization.'
+  venue: COLING
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/coling/0006XDZ25
+  doi: ''
+  ee: https://aclanthology.org/2025.coling-main.176/
+  url: https://dblp.org/rec/conf/coling/0006XDZ25
+gradient%20attack%20venue%3AWACV%3A:
+- author: Muzammal Naseer, Salman H. Khan 0001, Fatih Porikli
+  title: 'Local Gradients Smoothing: Defense Against Localized Adversarial Attacks.'
+  venue: WACV
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/NaseerKP19
+  doi: 10.1109/WACV.2019.00143
+  ee: https://doi.org/10.1109/WACV.2019.00143
+  url: https://dblp.org/rec/conf/wacv/NaseerKP19
+gradient%20attack%20venue%3AINFOCOM%3A:
+- author: Dongyun Xue, Haomiao Yang, Mengyu Ge, Jingwei Li 0001, Guowen Xu, Hongwei
+    Li 0001
+  title: Fast Generation-Based Gradient Leakage Attacks against Highly Compressed
+    Gradients.
+  venue: INFOCOM
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/XueYGLXL23
+  doi: 10.1109/INFOCOM53939.2023.10229091
+  ee: https://doi.org/10.1109/INFOCOM53939.2023.10229091
+  url: https://dblp.org/rec/conf/infocom/XueYGLXL23
+- author: Hongjia Li 0002, Leshui Lv, Ding Tang, Yan Zhang 0014, Weiping Wang 0005,
+    Xinghua Yang
+  title: 'VaniKG: Vanishing Key Gradient Attack and Defense for Robust Federated Aggregation.'
+  venue: INFOCOM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/LiLT0WY25
+  doi: 10.1109/INFOCOM55648.2025.11044620
+  ee: https://doi.org/10.1109/INFOCOM55648.2025.11044620
+  url: https://dblp.org/rec/conf/infocom/LiLT0WY25
+- author: Junxiao Wang, Song Guo 0001, Xin Xie 0001, Heng Qi
+  title: Protect Privacy from Gradient Leakage Attack in Federated Learning.
+  venue: INFOCOM
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/WangGXQ22
+  doi: 10.1109/INFOCOM48880.2022.9796841
+  ee: https://doi.org/10.1109/INFOCOM48880.2022.9796841
+  url: https://dblp.org/rec/conf/infocom/WangGXQ22
+gradient%20attack%20venue%3AWWW%3A:
+- author: Jingjing Zheng, Kai Li 0002, Xin Yuan 0004, Wei Ni 0001, Eduardo Tovar
+  title: Detecting Poisoning Attacks on Federated Learning Using Gradient-Weighted
+    Class Activation Mapping.
+  venue: WWW
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/Zheng0Y0T24
+  doi: 10.1145/3589335.3651490
+  ee: https://doi.org/10.1145/3589335.3651490
+  url: https://dblp.org/rec/conf/www/Zheng0Y0T24
+gradient%20attack%20venue%3ADAC%3A:
+- author: Antian Wang, Bingyin Zhao, Weihang Tan, Yingjie Lao
+  title: 'NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based Test
+    Vector Generation.'
+  venue: DAC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dac/WangZTL23
+  doi: 10.1109/DAC56929.2023.10247885
+  ee: https://doi.org/10.1109/DAC56929.2023.10247885
+  url: https://dblp.org/rec/conf/dac/WangZTL23
+gradient%20attack%20streamid%3Aconf%2Fuss%3A:
+- author: Mingyuan Fan 0003, Cen Chen 0001, Chengyu Wang 0001, Xiaodan Li, Wenmeng
+    Zhou
+  title: 'Refiner: Data Refining against Gradient Leakage Attacks in Federated Learning.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/000300LZ25
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/fan-refiner
+  url: https://dblp.org/rec/conf/uss/000300LZ25
+- author: Mingyuan Fan 0003, Fuyi Wang, Cen Chen 0001, Jianying Zhou 0001
+  title: 'Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/0003W0025
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/fan-boosting
+  url: https://dblp.org/rec/conf/uss/0003W0025
+- author: Vincenzo Carletti, Pasquale Foggia, Carlo Mazzocca, Giuseppe Parrella, Mario
+    Vento
+  title: 'SoK: Gradient Inversion Attacks in Federated Learning.'
+  venue: USENIX Security Symposium
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/CarlettiFMPV25
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity25/presentation/carletti
+  url: https://dblp.org/rec/conf/uss/CarlettiFMPV25
+- author: Shuaifan Jin, He Wang 0005, Zhibo Wang 0001, Feng Xiao, Jiahui Hu, Yuan
+    He, Wenwen Zhang, Zhongjie Ba, Weijie Fang, Shuhong Yuan, Kui Ren 0001
+  title: 'FaceObfuscator: Defending Deep Learning-based Privacy Attacks with Gradient
+    Descent-resistant Features in Face Recognition.'
+  venue: USENIX Security Symposium
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uss/Jin00XHHZBFY024
+  doi: ''
+  ee: https://www.usenix.org/conference/usenixsecurity24/presentation/jin-shuaifan
+  url: https://dblp.org/rec/conf/uss/Jin00XHHZBFY024
+gradient%20attack%20streamid%3Aconf%2Fmm%3A:
+- author: Chengcheng Ma, Weiliang Meng, Baoyuan Wu, Shibiao Xu, Xiaopeng Zhang 0001
+  title: Efficient Joint Gradient Based Attack Against SOR Defense for 3D Point Cloud
+    Classification.
+  venue: ACM Multimedia
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/MaMWX020
+  doi: 10.1145/3394171.3413875
+  ee: https://doi.org/10.1145/3394171.3413875
+  url: https://dblp.org/rec/conf/mm/MaMWX020
+gradient%20attack%20streamid%3Aconf%2Fcikm%3A:
+- author: Zihan Liu, Yun Luo, Lirong Wu, Siyuan Li 0002, Zicheng Liu 0006, Stan Z.
+    Li
+  title: Are Gradients on Graph Structure Reliable in Gray-box Attacks?
+  venue: CIKM
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/LiuLWL0L22
+  doi: 10.1145/3511808.3557238
+  ee: https://doi.org/10.1145/3511808.3557238
+  url: https://dblp.org/rec/conf/cikm/LiuLWL0L22
+gradient%20attack%20streamid%3Ajournals%2Fml%3A:
+- author: Qixuan Dong, Boyang Zhou, ZhiQiang Ru, Ying He, Jingyu Hua, Sheng Zhong
+    0002
+  title: 'HFIA: a parasitic feature inference attack and gradient-based defense strategy
+    in SplitNN-based vertical federated learning.'
+  venue: Mach. Learn.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ml/DongZRHHZ25
+  doi: 10.1007/S10994-025-06804-2
+  ee: https://doi.org/10.1007/s10994-025-06804-2
+  url: https://dblp.org/rec/journals/ml/DongZRHHZ25
+gradient%20attack%20streamid%3Ajournals%2Fpami%3A:
+- author: Zipeng Ye, Wenjian Luo, Qi Zhou, Zhenqian Zhu, Yuhui Shi 0001, Yan Jia
+  title: 'Gradient Inversion Attacks: Impact Factors Analyses and Privacy Enhancement.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/YeLZZSJ24
+  doi: 10.1109/TPAMI.2024.3430533
+  ee: https://doi.org/10.1109/TPAMI.2024.3430533
+  url: https://dblp.org/rec/journals/pami/YeLZZSJ24
+gradient%20attack%20streamid%3Ajournals%2Ftsp%3A:
+- author: Shuhua Yu, Soummya Kar
+  title: Secure Distributed Optimization Under Gradient Attacks.
+  venue: IEEE Trans. Signal Process.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tsp/YuK23
+  doi: 10.1109/TSP.2023.3277211
+  ee: https://doi.org/10.1109/TSP.2023.3277211
+  url: https://dblp.org/rec/journals/tsp/YuK23
+- author: Zhaoxian Wu, Qing Ling 0001, Tianyi Chen, Georgios B. Giannakis
+  title: Federated Variance-Reduced Stochastic Gradient Descent With Robustness to
+    Byzantine Attacks.
+  venue: IEEE Trans. Signal Process.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/tsp/WuLCG20
+  doi: 10.1109/TSP.2020.3012952
+  ee: https://doi.org/10.1109/TSP.2020.3012952
+  url: https://dblp.org/rec/journals/tsp/WuLCG20
+- author: Xinyang Cao, Lifeng Lai
+  title: Distributed Gradient Descent Algorithm Robust to an Arbitrary Number of Byzantine
+    Attackers.
+  venue: IEEE Trans. Signal Process.
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/tsp/CaoL19
+  doi: 10.1109/TSP.2019.2946020
+  ee: https://doi.org/10.1109/TSP.2019.2946020
+  url: https://dblp.org/rec/journals/tsp/CaoL19
+gradient%20attack%20streamid%3Ajournals%2Ftnn%3A:
+- author: Hongying Liu 0001, Zhijin Ge, Zhenyu Zhou, Fanhua Shang, Yuanyuan Liu 0001,
+    Licheng Jiao
+  title: Gradient Correction for White-Box Adversarial Attacks.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/LiuGZSLJ24
+  doi: 10.1109/TNNLS.2023.3315414
+  ee: https://doi.org/10.1109/TNNLS.2023.3315414
+  url: https://dblp.org/rec/journals/tnn/LiuGZSLJ24
+- author: Ling Liang, Xing Hu 0001, Lei Deng 0003, Yujie Wu 0002, Guoqi Li 0002, Yufei
+    Ding 0001, Peng Li 0001, Yuan Xie 0001
+  title: Exploring Adversarial Attack in Spiking Neural Networks With Spike-Compatible
+    Gradient.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/LiangHDWLDLX23
+  doi: 10.1109/TNNLS.2021.3106961
+  ee: https://doi.org/10.1109/TNNLS.2021.3106961
+  url: https://dblp.org/rec/journals/tnn/LiangHDWLDLX23
+- author: Zhaohui Che, Ali Borji, Guangtao Zhai, Suiyi Ling, Jing Li 0026, Xiongkuo
+    Min, Guodong Guo, Patrick Le Callet
+  title: 'SMGEA: A New Ensemble Adversarial Attack Powered by Long-Term Gradient Memories.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/CheBZLLMGC22
+  doi: 10.1109/TNNLS.2020.3039295
+  ee: https://doi.org/10.1109/TNNLS.2020.3039295
+  url: https://dblp.org/rec/journals/tnn/CheBZLLMGC22
+- author: Ziv Katzir, Yuval Elovici
+  title: 'Gradients Cannot Be Tamed: Behind the Impossible Paradox of Blocking Targeted
+    Adversarial Attacks.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/KatzirE21
+  doi: 10.1109/TNNLS.2020.2977142
+  ee: https://doi.org/10.1109/TNNLS.2020.2977142
+  url: https://dblp.org/rec/journals/tnn/KatzirE21
+gradient%20attack%20streamid%3Ajournals%2Ftkde%3A:
+- author: Jinyin Chen, Jian Zhang 0023, Zhi Chen 0028, Min Du 0003, Qi Xuan 0001
+  title: Time-Aware Gradient Attack on Dynamic Network Link Prediction.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/ChenZCDX23
+  doi: 10.1109/TKDE.2021.3110580
+  ee: https://doi.org/10.1109/TKDE.2021.3110580
+  url: https://dblp.org/rec/journals/tkde/ChenZCDX23
+- author: Yilong Yang 0004, Zhuo Ma 0001, Bin Xiao 0002, Yang Liu 0118, Teng Li 0003,
+    Junwei Zhang 0008
+  title: 'Reveal Your Images: Gradient Leakage Attack Against Unbiased Sampling-Based
+    Secure Aggregation.'
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/YangMXLLZ23
+  doi: 10.1109/TKDE.2023.3271432
+  ee: https://doi.org/10.1109/TKDE.2023.3271432
+  url: https://dblp.org/rec/journals/tkde/YangMXLLZ23
+gradient%20attack%20streamid%3Ajournals%2Ftbd%3A:
+- author: Shu Zhao 0005, Wenyu Wang, Ziwei Du, Jie Chen 0025, Zhen Duan
+  title: A Black-Box Adversarial Attack Method via Nesterov Accelerated Gradient and
+    Rewiring Towards Attacking Graph Neural Networks.
+  venue: IEEE Trans. Big Data
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/ZhaoWDCD23
+  doi: 10.1109/TBDATA.2023.3296936
+  ee: https://doi.org/10.1109/TBDATA.2023.3296936
+  url: https://dblp.org/rec/journals/tbd/ZhaoWDCD23
+- author: Jiahui Geng, Yongli Mou, Qing Li 0038, Feifei Li, Oya Beyan, Stefan Decker,
+    Chunming Rong
+  title: Improved Gradient Inversion Attacks and Defenses in Federated Learning.
+  venue: IEEE Trans. Big Data
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/GengMLLBDR24
+  doi: 10.1109/TBDATA.2023.3239116
+  ee: https://doi.org/10.1109/TBDATA.2023.3239116
+  url: https://dblp.org/rec/journals/tbd/GengMLLBDR24
+gradient%20attack%20streamid%3Ajournals%2Ftmi%3A:
+- author: Ali Hatamizadeh, Hongxu Yin, Pavlo Molchanov 0001, Andriy Myronenko, Wenqi
+    Li 0001, Prerna Dogra, Andrew Feng, Mona G. Flores, Jan Kautz, Daguang Xu, Holger
+    R. Roth
+  title: Do Gradient Inversion Attacks Make Federated Learning Unsafe?
+  venue: IEEE Trans. Medical Imaging
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/HatamizadehY0M023
+  doi: 10.1109/TMI.2023.3239391
+  ee: https://doi.org/10.1109/TMI.2023.3239391
+  url: https://dblp.org/rec/journals/tmi/HatamizadehY0M023
+gradient%20attack%20streamid%3Ajournals%2Ftsmc%3A:
+- author: Xiangyin Kong, Zhiqiang Ge
+  title: Adversarial Attacks on Regression Systems via Gradient Optimization.
+  venue: IEEE Trans. Syst. Man Cybern. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tsmc/KongG23
+  doi: 10.1109/TSMC.2023.3302838
+  ee: https://doi.org/10.1109/TSMC.2023.3302838
+  url: https://dblp.org/rec/journals/tsmc/KongG23
+gradient%20attack%20streamid%3Ajournals%2Ftifs%3A:
+- author: Kunlan Xiang, Haomiao Yang, Meng Hao 0001, Shaofeng Li 0001, Haoxin Wang
+    0004, Zikang Ding, Wenbo Jiang 0001, Tianwei Zhang 0004
+  title: 'The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks
+    Through Model Poisoning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/XiangYHLWDJZ25
+  doi: 10.1109/TIFS.2025.3607271
+  ee: https://doi.org/10.1109/TIFS.2025.3607271
+  url: https://dblp.org/rec/journals/tifs/XiangYHLWDJZ25
+- author: Cong Hu, Zhichao He, Yuanbo Li, Xiaojun Wu 0001
+  title: Robust Token Gradient and Frequency-Aware Transferable Adversarial Attacks
+    on Vision Transformers.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/HuHLW25
+  doi: 10.1109/TIFS.2025.3620638
+  ee: https://doi.org/10.1109/TIFS.2025.3620638
+  url: https://dblp.org/rec/journals/tifs/HuHLW25
+- author: Wenbo Yu, Hao Fang 0011, Bin Chen 0011, Xiaohang Sui, Chuan Chen 0001, Hao
+    Wu, Shu-Tao Xia, Ke Xu 0002
+  title: 'GI-NAS: Boosting Gradient Inversion Attacks Through Adaptive Neural Architecture
+    Search.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/YuFCSCWXX25
+  doi: 10.1109/TIFS.2025.3589127
+  ee: https://doi.org/10.1109/TIFS.2025.3589127
+  url: https://dblp.org/rec/journals/tifs/YuFCSCWXX25
+- author: Jianan Zhao 0005, Wenjuan Tang, Kuan Zhang 0001, Hongbo Jiang 0001
+  title: Enabling Gradient Inversion Attack Against SplitFed Learning via L2 Norm
+    Amplification.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ZhaoTZJ25
+  doi: 10.1109/TIFS.2025.3616594
+  ee: https://doi.org/10.1109/TIFS.2025.3616594
+  url: https://dblp.org/rec/journals/tifs/ZhaoTZJ25
+- author: Gaoyang Liu, Tianlong Xu, Rui Zhang 0066, Zixiong Wang, Chen Wang 0011,
+    Ling Liu 0001
+  title: 'Gradient-Leaks: Enabling Black-Box Membership Inference Attacks Against
+    Machine Learning Models.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/LiuXZWWL24
+  doi: 10.1109/TIFS.2023.3324772
+  ee: https://doi.org/10.1109/TIFS.2023.3324772
+  url: https://dblp.org/rec/journals/tifs/LiuXZWWL24
+- author: Haotian Liang, Youqi Li, Chuan Zhang 0003, Ximeng Liu, Liehuang Zhu
+  title: 'EGIA: An External Gradient Inversion Attack in Federated Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/LiangLZLZ23
+  doi: 10.1109/TIFS.2023.3302161
+  ee: https://doi.org/10.1109/TIFS.2023.3302161
+  url: https://dblp.org/rec/journals/tifs/LiangLZLZ23
+- author: Hongfu Liu 0003, Bin Li 0002, Changlong Gao, Pei Xie, Chenglin Zhao
+  title: Privacy-Encoded Federated Learning Against Gradient-Based Data Reconstruction
+    Attacks.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/LiuLGXZ23
+  doi: 10.1109/TIFS.2023.3309095
+  ee: https://doi.org/10.1109/TIFS.2023.3309095
+  url: https://dblp.org/rec/journals/tifs/LiuLGXZ23
+- author: Haomiao Yang, Mengyu Ge, Kunlan Xiang, Jingwei Li 0001
+  title: Using Highly Compressed Gradients in Federated Learning for Data Reconstruction
+    Attacks.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/YangGXL23
+  doi: 10.1109/TIFS.2022.3227761
+  ee: https://doi.org/10.1109/TIFS.2022.3227761
+  url: https://dblp.org/rec/journals/tifs/YangGXL23
+- author: Wenqi Wei 0001, Ling Liu 0001
+  title: Gradient Leakage Attack Resilient Deep Learning.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/WeiL22
+  doi: 10.1109/TIFS.2021.3139777
+  ee: https://doi.org/10.1109/TIFS.2021.3139777
+  url: https://dblp.org/rec/journals/tifs/WeiL22
+gradient%20attack%20streamid%3Ajournals%2Ftissec%3A:
+- author: Naveen Karunanayake, Bhanuka Silva, Yasod Ginige, Suranga Seneviratne, Sanjay
+    Chawla
+  title: 'Quantifying and Exploiting Adversarial Vulnerability: Gradient-Based Input
+    Pre-Filtering for Enhanced Performance in Black-Box Attacks.'
+  venue: ACM Trans. Priv. Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tissec/KarunanayakeSGSC25
+  doi: 10.1145/3716384
+  ee: https://doi.org/10.1145/3716384
+  url: https://dblp.org/rec/journals/tissec/KarunanayakeSGSC25
+- author: Dmitrii Usynin, Daniel Rueckert, Georgios Kaissis
+  title: 'Beyond Gradients: Exploiting Adversarial Priors in Model Inversion Attacks.'
+  venue: ACM Trans. Priv. Secur.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tissec/UsyninRK23
+  doi: 10.1145/3592800
+  ee: https://doi.org/10.1145/3592800
+  url: https://dblp.org/rec/journals/tissec/UsyninRK23
+gradient%20attack%20streamid%3Ajournals%2Fijcv%3A:
+- author: Francesco Croce, Jonas Rauber, Matthias Hein 0001
+  title: Scaling up the Randomized Gradient-Free Adversarial Attack Reveals Overestimation
+    of Robustness Using Established Attacks.
+  venue: Int. J. Comput. Vis.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/CroceRH20
+  doi: 10.1007/S11263-019-01213-0
+  ee: https://doi.org/10.1007/s11263-019-01213-0
+  url: https://dblp.org/rec/journals/ijcv/CroceRH20
+gradient%20attack%20streamid%3Ajournals%2Fcviu%3A:
+- author: Wenzhao Xiang 0001, Hang Su 0006, Chang Liu 0077, Yandong Guo, Shibao Zheng
+  title: Improving the robustness of adversarial attacks using an affine-invariant
+    gradient estimator.
+  venue: Comput. Vis. Image Underst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/XiangSLGZ23
+  doi: 10.1016/J.CVIU.2023.103647
+  ee: https://doi.org/10.1016/j.cviu.2023.103647
+  url: https://dblp.org/rec/journals/cviu/XiangSLGZ23
+gradient%20attack%20streamid%3Ajournals%2Fpr%3A:
+- author: Zeze Tao, Hui Li, Jinjia Peng, Huibing Wang
+  title: Global aggregated gradient-guided adversarial attacks for person re-identification.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/TaoLPW26
+  doi: 10.1016/J.PATCOG.2025.112760
+  ee: https://doi.org/10.1016/j.patcog.2025.112760
+  url: https://dblp.org/rec/journals/pr/TaoLPW26
+- author: Pengpeng Zeng, Shengming Yuan, Qilong Zhang, Huimin Deng, Hui Xu, Lianli
+    Gao
+  title: 'Staircase Sign Method: Boosting adversarial attacks by mitigating gradient
+    distortion.'
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ZengYZDXG26
+  doi: 10.1016/J.PATCOG.2025.111983
+  ee: https://doi.org/10.1016/j.patcog.2025.111983
+  url: https://dblp.org/rec/journals/pr/ZengYZDXG26
+- author: Junqi Wu 0002, Wen Yao, Shuai Jia, Tingsong Jiang, Weien Zhou, Chao Ma 0004,
+    Xiaoqian Chen
+  title: Gradient-based sparse voxel attacks on point cloud object detection.
+  venue: Pattern Recognit.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/WuYJJZMC25
+  doi: 10.1016/J.PATCOG.2024.111156
+  ee: https://doi.org/10.1016/j.patcog.2024.111156
+  url: https://dblp.org/rec/journals/pr/WuYJJZMC25
+- author: Caixun Wang, Bingyao Yu, Jie Zhou 0001
+  title: A Learnable Gradient operator for face presentation attack detection.
+  venue: Pattern Recognit.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/WangYZ23
+  doi: 10.1016/J.PATCOG.2022.109146
+  ee: https://doi.org/10.1016/j.patcog.2022.109146
+  url: https://dblp.org/rec/journals/pr/WangYZ23
+gradient%20attack%20streamid%3Ajournals%2Fprl%3A:
+- author: Utku Ozbulak, Manvel Gasparyan, Wesley De Neve, Arnout Van Messem
+  title: Perturbation analysis of gradient-based adversarial attacks.
+  venue: Pattern Recognit. Lett.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/OzbulakGNM20
+  doi: 10.1016/J.PATREC.2020.04.034
+  ee: https://doi.org/10.1016/j.patrec.2020.04.034
+  url: https://dblp.org/rec/journals/prl/OzbulakGNM20
+gradient%20attack%20streamid%3Ajournals%2Fmia%3A:
+- author: Christopher Nielsen, Matthias Wilms, Nils D. Forkert
+  title: A novel gradient inversion attack framework to investigate privacy vulnerabilities
+    during retinal image-based federated learning.
+  venue: Medical Image Anal.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/mia/NielsenWF26
+  doi: 10.1016/J.MEDIA.2025.103807
+  ee: https://doi.org/10.1016/j.media.2025.103807
+  url: https://dblp.org/rec/journals/mia/NielsenWF26
+- author: Le Jiang, Liyan Ma, Guang Yang 0006
+  title: Shadow defense against gradient inversion attack in federated learning.
+  venue: Medical Image Anal.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/JiangMY25
+  doi: 10.1016/J.MEDIA.2025.103673
+  ee: https://doi.org/10.1016/j.media.2025.103673
+  url: https://dblp.org/rec/journals/mia/JiangMY25
+gradient%20attack%20streamid%3Ajournals%2Fkbs%3A:
+- author: Zeze Tao, Zhengjie Lu, Jinjia Peng, Huibing Wang
+  title: 'AGS: Transferable adversarial attack for person re-identification by adaptive
+    gradient similarity attack.'
+  venue: Knowl. Based Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/TaoLPW24
+  doi: 10.1016/J.KNOSYS.2024.112506
+  ee: https://doi.org/10.1016/j.knosys.2024.112506
+  url: https://dblp.org/rec/journals/kbs/TaoLPW24
+- author: Han Cao 0004, Qindong Sun, Rong Geng 0001, Xiaoxiong Wang
+  title: Subspectrum mixup-based adversarial attack and evading defenses by structure-enhanced
+    gradient purification.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/CaoSGW25
+  doi: 10.1016/J.KNOSYS.2025.113357
+  ee: https://doi.org/10.1016/j.knosys.2025.113357
+  url: https://dblp.org/rec/journals/kbs/CaoSGW25
+- author: Kun Gao 0006, Tianqing Zhu, Dayong Ye, Wanlei Zhou 0001
+  title: Defending against gradient inversion attacks in federated learning via statistical
+    machine unlearning.
+  venue: Knowl. Based Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/GaoZYZ24
+  doi: 10.1016/J.KNOSYS.2024.111983
+  ee: https://doi.org/10.1016/j.knosys.2024.111983
+  url: https://dblp.org/rec/journals/kbs/GaoZYZ24
+- author: Jingfa Pang, Chengsheng Yuan 0002, Zhihua Xia, Xinting Li, Zhangjie Fu
+  title: Spatial-frequency gradient fusion based model augmentation for high transferability
+    adversarial attack.
+  venue: Knowl. Based Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/PangYXLF24
+  doi: 10.1016/J.KNOSYS.2024.112241
+  ee: https://doi.org/10.1016/j.knosys.2024.112241
+  url: https://dblp.org/rec/journals/kbs/PangYXLF24
+gradient%20attack%20streamid%3Ajournals%2Fisci%3A:
+- author: Yifei Sun 0004, Jiale Ju, Shi Cheng 0002, Jie Yang, Yifei Cao, Ao Zhang,
+    Wenya Shi
+  title: Graph neural networks adversarial attacks based on node gradient and importance
+    score.
+  venue: Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/SunJCYCZS25
+  doi: 10.1016/J.INS.2025.122168
+  ee: https://doi.org/10.1016/j.ins.2025.122168
+  url: https://dblp.org/rec/journals/isci/SunJCYCZS25
+- author: Xiaodong Wang, Longfei Wu, Zhitao Guan
+  title: 'GradDiff: Gradient-based membership inference attacks against federated
+    distillation with differential comparison.'
+  venue: Inf. Sci.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/WangWG24
+  doi: 10.1016/J.INS.2023.120068
+  ee: https://doi.org/10.1016/j.ins.2023.120068
+  url: https://dblp.org/rec/journals/isci/WangWG24
+- author: Mingwen Shao, Gaozhi Zhang, Wangmeng Zuo, Deyu Meng
+  title: Target attack on biomedical image segmentation model based on multi-scale
+    gradients.
+  venue: Inf. Sci.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ShaoZZM21
+  doi: 10.1016/J.INS.2020.12.013
+  ee: https://doi.org/10.1016/j.ins.2020.12.013
+  url: https://dblp.org/rec/journals/isci/ShaoZZM21
+- author: Yatie Xiao, Chi-Man Pun
+  title: Improving adversarial attacks on deep neural networks via constricted gradient-based
+    perturbations.
+  venue: Inf. Sci.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/XiaoP21
+  doi: 10.1016/J.INS.2021.04.033
+  ee: https://doi.org/10.1016/j.ins.2021.04.033
+  url: https://dblp.org/rec/journals/isci/XiaoP21
+gradient%20attack%20streamid%3Ajournals%2Feswa%3A:
+- author: Yifan Liu 0015, Min Chen 0003, Chuanbo Zhu 0002, Han Liang, Jincai Chen
+  title: 'You cannot handle the weather: Progressive amplified adverse-weather-gradient
+    projection adversarial attack.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/LiuCZLC25
+  doi: 10.1016/J.ESWA.2024.126143
+  ee: https://doi.org/10.1016/j.eswa.2024.126143
+  url: https://dblp.org/rec/journals/eswa/LiuCZLC25
+gradient%20attack%20streamid%3Ajournals%2Fijon%3A:
+- author: Xuyang Ding, Zhengqi Liu, Xintong You, Xiong Li 0002, Athanasios V. Vasilakos
+  title: Improved gradient leakage attack against compressed gradients in federated
+    learning.
+  venue: Neurocomputing
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/DingLYLV24
+  doi: 10.1016/J.NEUCOM.2024.128349
+  ee: https://doi.org/10.1016/j.neucom.2024.128349
+  url: https://dblp.org/rec/journals/ijon/DingLYLV24
+- author: Yang Chen, Stjepan Picek, Zhonglin Ye, Zhaoyang Wang, Haixing Zhao
+  title: Momentum gradient-based untargeted poisoning attack on hypergraph neural
+    networks.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ChenPYWZ25
+  doi: 10.1016/J.NEUCOM.2025.129835
+  ee: https://doi.org/10.1016/j.neucom.2025.129835
+  url: https://dblp.org/rec/journals/ijon/ChenPYWZ25
+- author: Yupeng Qi, Xinghao Yang, Baodi Liu, Kai Zhang 0029, Weifeng Liu 0001
+  title: Adaptive Gradient-based Word Saliency for adversarial text attacks.
+  venue: Neurocomputing
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/QiYLZL24
+  doi: 10.1016/J.NEUCOM.2024.127667
+  ee: https://doi.org/10.1016/j.neucom.2024.127667
+  url: https://dblp.org/rec/journals/ijon/QiYLZL24
+gradient%20attack%20streamid%3Ajournals%2Fnca%3A:
+- author: Murtadha H. M. Ahmed, Bo Wen, Luo Ao, Yunfeng Liu
+  title: Integrated gradients-based defense against adversarial word substitution
+    attacks.
+  venue: Neural Comput. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/AhmedWAL25
+  doi: 10.1007/S00521-025-11135-3
+  ee: https://doi.org/10.1007/s00521-025-11135-3
+  url: https://dblp.org/rec/journals/nca/AhmedWAL25

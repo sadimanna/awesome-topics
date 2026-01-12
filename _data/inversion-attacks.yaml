@@ -46,6 +46,27 @@ section:
 - title: IEEE ACM Trans. Audio Speech Lang. Process.
 - title: IEEE Trans. Speech Audio Process.
 - title: Neural Comput. Appl.
+- title: ICDE
+- title: MobiCom
+- title: IEEE Symposium on Security and Privacy
+- title: CollSec
+- title: Proc. ACM Manag. Data
+- title: ICSE Companion
+- title: CIKM
+- title: ACM Trans. Intell. Syst. Technol.
+- title: ACM Trans. Knowl. Discov. Data
+- title: Proc. VLDB Endow.
+- title: IEEE Trans. Parallel Distributed Syst.
+- title: Pattern Recognit.
+- title: Inf. Sci.
+- title: IEEE Trans. Signal Process.
+- title: IEEE Trans. Cybern.
+- title: Pattern Recognit. Lett.
+- title: ACM Trans. Inf. Syst. Secur.
+- title: INFOCOM
+- title: Mach. Learn.
+- title: Int. J. Comput. Vis.
+- title: Comput. Vis. Image Underst.
 IJCAI:
   '2025':
     header:
@@ -64,6 +85,22 @@ IJCAI:
       venue: IJCAI
       year: 2025
       link: https://doi.org/10.24963/ijcai.2025/886
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Boosting Decision-Based Black-Box Adversarial Attack with Gradient Priors.
+      venue: IJCAI
+      year: 2023
+      link: https://doi.org/10.24963/ijcai.2023/133
   '2022':
     header:
       title: Title
@@ -80,6 +117,11 @@ IJCAI:
       venue: IJCAI
       year: 2022
       link: https://doi.org/10.24963/ijcai.2022/791
+    - title: Measuring Data Leakage in Machine-Learning Models with Fisher Information
+        (Extended Abstract).
+      venue: IJCAI
+      year: 2022
+      link: https://doi.org/10.24963/ijcai.2022/736
   '2021':
     header:
       title: Title
@@ -113,6 +155,22 @@ IJCAI:
       venue: IJCAI
       year: 2015
       link: http://ijcai.org/Abstract/15/146
+  '1989':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A &quot;Small Leakage&quot; Model for Diffusion Smoothing of Image Data.
+      venue: IJCAI
+      year: 1989
+      link: http://ijcai.org/Proceedings/89-2/Papers/116.pdf
 AAAI:
   '2025':
     header:
@@ -140,6 +198,10 @@ AAAI:
       venue: AAAI
       year: 2025
       link: https://doi.org/10.1609/aaai.v39i22.34533
+    - title: 'AttackBench: Evaluating Gradient-based Attacks for Adversarial Examples.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i3.32263
   '2024':
     header:
       title: Title
@@ -178,6 +240,11 @@ AAAI:
       venue: AAAI
       year: 2024
       link: https://doi.org/10.1609/aaai.v38i1.27810
+    - title: 'Revisiting Gradient Pruning: A Dual Realization for Defending against
+        Gradient Attacks.'
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i6.28460
   '2023':
     header:
       title: Title
@@ -190,6 +257,11 @@ AAAI:
       year: 4
       link: 60
     body:
+    - title: 'Let Graph Be the Go Board: Gradient-Free Node Injection Attack for Graph
+        Neural Networks via Reinforcement Learning.'
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i4.25558
     - title: 'MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning
         (Student Abstract).'
       venue: AAAI
@@ -200,6 +272,22 @@ AAAI:
       venue: AAAI
       year: 2023
       link: https://doi.org/10.1609/aaai.v37i3.25442
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Improved Gradient-Based Adversarial Attacks for Quantized Networks.
+      venue: AAAI
+      year: 2022
+      link: https://doi.org/10.1609/aaai.v36i6.20637
   '2021':
     header:
       title: Title
@@ -212,11 +300,53 @@ AAAI:
       year: 4
       link: 60
     body:
+    - title: Adversarial Training with Fast Gradient Projection Method against Synonym
+        Substitution Based Text Attacks.
+      venue: AAAI
+      year: 2021
+      link: https://doi.org/10.1609/aaai.v35i16.17648
+    - title: 'Beating Attackers At Their Own Games: Adversarial Example Detection
+        Using Adversarial Gradient Directions.'
+      venue: AAAI
+      year: 2021
+      link: https://doi.org/10.1609/aaai.v35i4.16404
     - title: Improving Robustness to Model Inversion Attacks via Mutual Information
         Regularization.
       venue: AAAI
       year: 2021
       link: https://doi.org/10.1609/aaai.v35i13.17387
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A New Ensemble Adversarial Attack Powered by Long-Term Gradient Memories.
+      venue: AAAI
+      year: 2020
+      link: https://doi.org/10.1609/aaai.v34i04.5743
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Gradient Networks: Explicit Shape Matching Without Extracting Edges.'
+      venue: AAAI
+      year: 2013
+      link: https://doi.org/10.1609/aaai.v27i1.8559
 AISTATS:
   '2025':
     header:
@@ -234,6 +364,28 @@ AISTATS:
       venue: AISTATS
       year: 2025
       link: https://proceedings.mlr.press/v258/azhar25a.html
+    - title: Signal Recovery from Random Dot-Product Graphs under Local Differential
+        Privacy.
+      venue: AISTATS
+      year: 2025
+      link: https://proceedings.mlr.press/v258/vishwanath25a.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Nonlinear Projection Based Gradient Estimation for Query Efficient Blackbox
+        Attacks.
+      venue: AISTATS
+      year: 2021
+      link: http://proceedings.mlr.press/v130/li21f.html
 NeurIPS:
   '2024':
     header:
@@ -256,6 +408,11 @@ NeurIPS:
       venue: NeurIPS
       year: 2024
       link: http://papers.nips.cc/paper_files/paper/2024/hash/9ff1577a1f8308df1ccea6b4f64a103f-Abstract-Conference.html
+    - title: 'Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models
+        by Exploring Refusal Loss Landscapes.'
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/e46984e056185b21ddb1e7973c365f14-Abstract-Conference.html
     - title: Gradient-free Decoder Inversion in Latent Diffusion Models.
       venue: NeurIPS
       year: 2024
@@ -269,6 +426,11 @@ NeurIPS:
       venue: NeurIPS
       year: 2024
       link: http://papers.nips.cc/paper_files/paper/2024/hash/2cdf71a65e95bf1874212f6e604c64db-Abstract-Conference.html
+    - title: Reimagining Mutual Information for Enhanced Defense against Data Leakage
+        in Collaborative Inference.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/4eb32e1569085c8f8883163665bf3c0a-Abstract-Conference.html
     - title: 'SPEAR: Exact Gradient Inversion of Batches in Federated Learning.'
       venue: NeurIPS
       year: 2024
@@ -309,10 +471,23 @@ NeurIPS:
       year: 4
       link: 60
     body:
+    - title: 'LAMP: Extracting Text from Gradients with Language Model Priors.'
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/32375260090404f907ceae19f3564a7e-Abstract-Conference.html
     - title: Learning to Generate Inversion-Resistant Model Explanations.
       venue: NeurIPS
       year: 2022
       link: http://papers.nips.cc/paper_files/paper/2022/hash/70d638f3177d2f0bbdd9f400b43f0683-Abstract-Conference.html
+    - title: Recovering Private Text in Federated Learning of Language Models.
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/35b5c175e139bff5f22a5361270fce87-Abstract-Conference.html
+    - title: Towards Reasonable Budget Allocation in Untargeted Graph Structure Attacks
+        via Gradient Debias.
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/b31aec087b4c9be97d7148dfdf6e062d-Abstract-Conference.html
   '2021':
     header:
       title: Title
@@ -325,6 +500,10 @@ NeurIPS:
       year: 4
       link: 60
     body:
+    - title: Catastrophic Data Leakage in Vertical Federated Learning.
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/08040837089cdf46631a10aca5258e16-Abstract.html
     - title: Designing Counterfactual Generators using Deep Model Inversion.
       venue: NeurIPS
       year: 2021
@@ -357,6 +536,10 @@ NeurIPS:
       venue: NeurIPS
       year: 2020
       link: https://proceedings.neurips.cc/paper/2020/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html
+    - title: Robustness of Bayesian Neural Networks to Gradient-Based Attacks.
+      venue: NeurIPS
+      year: 2020
+      link: https://proceedings.neurips.cc/paper/2020/hash/b3f61131b6eceeb2b14835fa648a48ff-Abstract.html
   '2018':
     header:
       title: Title
@@ -390,6 +573,11 @@ ICML:
       venue: ICML
       year: 2025
       link: https://openreview.net/forum?id=j4IELrBhoG
+    - title: How Contaminated Is Your Benchmark? Measuring Dataset Leakage in Large
+        Language Models with Kernel Divergence.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=wVDR2qmE28
     - title: Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion
         Models with Varied Human Preferences.
       venue: ICML
@@ -407,11 +595,20 @@ ICML:
       year: 4
       link: 60
     body:
+    - title: Differentially private exact recovery for stochastic block models.
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=MIRQ3L8vtn
     - title: 'Referee Can Play: An Alternative Approach to Conditional Generation
         via Model Inversion.'
       venue: ICML
       year: 2024
       link: https://openreview.net/forum?id=hZ0fWhgVch
+    - title: 'SignSGD with Federated Defense: Harnessing Adversarial Attacks through
+        Gradient Sign Decoding.'
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=zEqeNEuiJr
     - title: Single-Model Attribution of Generative Models Through Final-Layer Inversion.
       venue: ICML
       year: 2024
@@ -421,6 +618,22 @@ ICML:
       venue: ICML
       year: 2024
       link: https://openreview.net/forum?id=T0lFfO8HaK
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'TabLeak: Tabular Data Leakage in Federated Learning.'
+      venue: ICML
+      year: 2023
+      link: https://proceedings.mlr.press/v202/vero23a.html
   '2022':
     header:
       title: Title
@@ -433,6 +646,19 @@ ICML:
       year: 4
       link: 60
     body:
+    - title: An Equivalence Between Data Poisoning and Byzantine Gradient Attacks.
+      venue: ICML
+      year: 2022
+      link: https://proceedings.mlr.press/v162/farhadkhani22b.html
+    - title: 'Constrained Gradient Descent: A Powerful and Principled Evasion Attack
+        Against Neural Networks.'
+      venue: ICML
+      year: 2022
+      link: https://proceedings.mlr.press/v162/lin22e.html
+    - title: Diversified Adversarial Attacks based on Conjugate Gradient Method.
+      venue: ICML
+      year: 2022
+      link: https://proceedings.mlr.press/v162/yamamura22a.html
     - title: 'Plug &amp; Play Attacks: Towards Robust and Flexible Model Inversion
         Attacks.'
       venue: ICML
@@ -442,6 +668,39 @@ ICML:
       venue: ICML
       year: 2022
       link: https://proceedings.mlr.press/v162/ghiasi22a.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Progressive-Scale Boundary Blackbox Attack via Projective Gradient Estimation.
+      venue: ICML
+      year: 2021
+      link: http://proceedings.mlr.press/v139/zhang21l.html
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Min-Max Optimization without Gradients: Convergence and Applications
+        to Black-Box Evasion and Poisoning Attacks.'
+      venue: ICML
+      year: 2020
+      link: http://proceedings.mlr.press/v119/liu20j.html
 ICLR:
   '2025':
     header:
@@ -455,6 +714,11 @@ ICLR:
       year: 4
       link: 60
     body:
+    - title: Activation Gradient based Poisoned Sample Detection Against Backdoor
+        Attacks.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=VNMJfBBUd5
     - title: 'ConcreTizer: Model Inversion Attack via Occupancy Classification and
         Dispersion Control for 3D Point Cloud Restoration.'
       venue: ICLR
@@ -496,6 +760,11 @@ ICLR:
       venue: ICLR
       year: 2024
       link: https://openreview.net/forum?id=1SbkubNdbW
+    - title: Enhancing Transferable Adversarial Attacks on Vision Transformers through
+        Gradient Normalization Scaling and High-Frequency Adaptation.
+      venue: ICLR
+      year: 2024
+      link: https://openreview.net/forum?id=1BuWv9poWz
     - title: Language Model Inversion.
       venue: ICLR
       year: 2024
@@ -504,6 +773,87 @@ ICLR:
       venue: ICLR
       year: 2024
       link: https://openreview.net/forum?id=s8cMuxI5gu
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Transferable Adversarial Attack based on Integrated Gradients.
+      venue: ICLR
+      year: 2022
+      link: https://openreview.net/forum?id=DesNW4-5ai9
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'R-GAP: Recursive Gradient Attack on Privacy.'
+      venue: ICLR
+      year: 2021
+      link: https://openreview.net/forum?id=RSU17UoKfJF
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks.
+      venue: ICLR
+      year: 2020
+      link: https://openreview.net/forum?id=SJlHwkBYDH
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Black-box Attacks on Deep Neural Networks via Gradient Estimation.
+      venue: ICLR
+      year: 2018
+      link: https://openreview.net/forum?id=SJ9nVSkvG
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient Driven Learning for Pooling in Visual Pipeline Feature Extraction
+        Models
+      venue: ICLR
+      year: 2013
+      link: http://arxiv.org/abs/1301.3755
 UAI:
   '2023':
     header:
@@ -522,6 +872,22 @@ UAI:
       venue: UAI
       year: 2023
       link: https://proceedings.mlr.press/v216/wu23a.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Measuring data leakage in machine-learning models with Fisher information.
+      venue: UAI
+      year: 2021
+      link: https://proceedings.mlr.press/v161/hannun21a.html
 IEEE Trans. Pattern Anal. Mach. Intell.:
   '2025':
     header:
@@ -573,7 +939,57 @@ IEEE Trans. Pattern Anal. Mach. Intell.:
       venue: IEEE Trans. Pattern Anal. Mach. Intell.
       year: 2023
       link: https://doi.org/10.1109/TPAMI.2023.3312123
+  '2007':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Normalization-Cooperated Gradient Feature Extraction for Handwritten
+        Character Recognition.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2007
+      link: https://doi.org/10.1109/TPAMI.2007.1090
+  '1979':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Image Feature Extraction Using Diameter-Limited Gradient Direction Histograms.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 1979
+      link: https://doi.org/10.1109/TPAMI.1979.4766910
 KDD:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Prompt as a Double-Edged Sword: A Dynamic Equilibrium Gradient-Assigned
+        Attack against Graph Prompt Learning.'
+      venue: KDD
+      year: 2025
+      link: https://doi.org/10.1145/3711896.3737091
   '2022':
     header:
       title: Title
@@ -591,6 +1007,27 @@ KDD:
       venue: KDD
       year: 2022
       link: https://doi.org/10.1145/3534678.3539376
+    - title: 'LeapAttack: Hard-Label Adversarial Attack on Text via Gradient-Based
+        Optimization.'
+      venue: KDD
+      year: 2022
+      link: https://doi.org/10.1145/3534678.3539357
+  '2011':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Leakage in data mining: formulation, detection, and avoidance.'
+      venue: KDD
+      year: 2011
+      link: https://doi.org/10.1145/2020408.2020496
 SP:
   '2025':
     header:
@@ -604,6 +1041,11 @@ SP:
       year: 4
       link: 60
     body:
+    - title: Is MPC Secure? Leveraging Neural Network Classifiers to Detect Data Leakage
+        Vulnerabilities in MPC Implementations.
+      venue: SP
+      year: 2025
+      link: https://doi.org/10.1109/SP61157.2025.00181
     - title: Prompt Inversion Attack Against Collaborative Inference of Large Language
         Models.
       venue: SP
@@ -621,12 +1063,54 @@ SP:
       year: 4
       link: 60
     body:
+    - title: 'Architectural Mimicry: Innovative Instructions to Efficiently Address
+        Control-Flow Leakage in Data-Oblivious Programs.'
+      venue: SP
+      year: 2024
+      link: https://doi.org/10.1109/SP54263.2024.00047
     - title: 'Learn What You Want to Unlearn: Unlearning Inversion Attacks against
         Machine Unlearning.'
       venue: SP
       year: 2024
       link: https://doi.org/10.1109/SP54263.2024.00248
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'LINKTELLER: Recovering Private Edges from Graph Neural Networks via
+        Influence Analysis.'
+      venue: SP
+      year: 2022
+      link: https://doi.org/10.1109/SP46214.2022.9833806
+    - title: Mitigating Information Leakage Vulnerabilities with Type-based Data Isolation.
+      venue: SP
+      year: 2022
+      link: https://doi.org/10.1109/SP46214.2022.9833675
 CCS:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'IOValve: Leakage-Free I/O Sandbox for Large-Scale Untrusted Data Processing.'
+      venue: CCS
+      year: 2025
+      link: https://doi.org/10.1145/3719027.3765121
   '2024':
     header:
       title: Title
@@ -643,6 +1127,83 @@ CCS:
       venue: CCS
       year: 2024
       link: https://doi.org/10.1145/3658644.3690292
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'LEAP: Leakage-Abuse Attack on Efficiently Deployable, Efficiently Searchable
+        Encryption with Partially Known Dataset.'
+      venue: CCS
+      year: 2021
+      link: https://doi.org/10.1145/3460120.3484540
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Mitigating Leakage in Secure Cloud-Hosted Data Structures: Volume-Hiding
+        for Multi-Maps via Hashing.'
+      venue: CCS
+      year: 2019
+      link: https://doi.org/10.1145/3319535.3354213
+    - title: 'Poster: Attacking Malware Classifiers by Crafting Gradient-Attacks that
+        Preserve Functionality.'
+      venue: CCS
+      year: 2019
+      link: https://doi.org/10.1145/3319535.3363257
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Pump up the Volume: Practical Database Reconstruction from Volume Leakage
+        on Range Queries.'
+      venue: CCS
+      year: 2018
+      link: https://doi.org/10.1145/3243734.3243864
+    - title: Unveiling Hardware-based Data Prefetcher, a Hidden Source of Information
+        Leakage.
+      venue: CCS
+      year: 2018
+      link: https://doi.org/10.1145/3243734.3243736
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'UniSan: Proactive Kernel Memory Initialization to Eliminate Data Leakages.'
+      venue: CCS
+      year: 2016
+      link: https://doi.org/10.1145/2976749.2978366
   '2015':
     header:
       title: Title
@@ -660,6 +1221,39 @@ CCS:
       venue: CCS
       year: 2015
       link: https://doi.org/10.1145/2810103.2813677
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AppIntent: analyzing sensitive data transmission in android for privacy
+        leakage detection.'
+      venue: CCS
+      year: 2013
+      link: https://doi.org/10.1145/2508859.2516676
+  '2000':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Threshold-based identity recovery for privacy enhanced applications.
+      venue: CCS
+      year: 2000
+      link: https://doi.org/10.1145/352600.352611
 USENIX Security Symposium:
   '2025':
     header:
@@ -673,15 +1267,63 @@ USENIX Security Symposium:
       year: 4
       link: 60
     body:
+    - title: 'Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic
+        FL Settings.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/fan-boosting
     - title: 'Cross-Modal Prompt Inversion: Unifying Threats to Text and Image Generative
         AI Models.'
       venue: USENIX Security Symposium
       year: 2025
       link: https://www.usenix.org/conference/usenixsecurity25/presentation/ye-inversion
+    - title: 'Refiner: Data Refining against Gradient Leakage Attacks in Federated
+        Learning.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/fan-refiner
     - title: 'SoK: Gradient Inversion Attacks in Federated Learning.'
       venue: USENIX Security Symposium
       year: 2025
       link: https://www.usenix.org/conference/usenixsecurity25/presentation/carletti
+    - title: 'SpeechGuard: Recoverable and Customizable Speech Privacy Protection.'
+      venue: USENIX Security Symposium
+      year: 2025
+      link: https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-jingmiao
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FaceObfuscator: Defending Deep Learning-based Privacy Attacks with Gradient
+        Descent-resistant Features in Face Recognition.'
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/jin-shuaifan
+    - title: 'Go Go Gadget Hammer: Flipping Nested Pointers for Arbitrary Data Leakage.'
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/tobah
+    - title: Length Leakage in Oblivious Data Access Mechanisms.
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/jia-grace
+    - title: Secure Account Recovery for a Privacy-Preserving Web Service.
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/little
+    - title: 'd-DSE: Distinct Dynamic Searchable Encryption Resisting Volume Leakage
+        in Encrypted Databases.'
+      venue: USENIX Security Symposium
+      year: 2024
+      link: https://www.usenix.org/conference/usenixsecurity24/presentation/liu-dongli
   '2022':
     header:
       title: Title
@@ -699,6 +1341,42 @@ USENIX Security Symposium:
       venue: USENIX Security Symposium
       year: 2022
       link: https://www.usenix.org/conference/usenixsecurity22/presentation/mehnaz
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Leakage of Dataset Properties in Multi-Party Machine Learning.
+      venue: USENIX Security Symposium
+      year: 2021
+      link: https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-wanrong
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Medusa: Microarchitectural Data Leakage via Automated Attack Synthesis.'
+      venue: USENIX Security Symposium
+      year: 2020
+      link: https://www.usenix.org/conference/usenixsecurity20/presentation/moghimi-medusa
+    - title: 'SEAL: Attack Mitigation for Encrypted Databases via Adjustable Leakage.'
+      venue: USENIX Security Symposium
+      year: 2020
+      link: https://www.usenix.org/conference/usenixsecurity20/presentation/demertzis
 NDSS:
   '2025':
     header:
@@ -717,6 +1395,11 @@ NDSS:
       venue: NDSS
       year: 2025
       link: https://www.ndss-symposium.org/ndss-paper/censor-defense-against-gradient-inversion-via-orthogonal-subspace-bayesian-sampling/
+    - title: 'LeakLess: Selective Data Protection against Memory Leakage Attacks for
+        Serverless Platforms.'
+      venue: NDSS
+      year: 2025
+      link: https://www.ndss-symposium.org/ndss-paper/leakless-selective-data-protection-against-memory-leakage-attacks-for-serverless-platforms/
     - title: 'Scale-MIA: A Scalable Model Inversion Attack against Secure Federated
         Learning via Latent Space Reconstruction.'
       venue: NDSS
@@ -739,6 +1422,27 @@ NDSS:
       venue: NDSS
       year: 2024
       link: https://www.ndss-symposium.org/ndss-paper/crafter-facial-feature-crafting-against-inversion-based-identity-theft-on-deep-models/
+    - title: 'Gradient Shaping: Enhancing Backdoor Attack Against Reverse Engineering.'
+      venue: NDSS
+      year: 2024
+      link: https://www.ndss-symposium.org/ndss-paper/gradient-shaping-enhancing-backdoor-attack-against-reverse-engineering/
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Focusing on Pinocchio&apos;s Nose: A Gradients Scrutinizer to Thwart
+        Split-Learning Hijacking Attacks Using Intrinsic Attributes.'
+      venue: NDSS
+      year: 2023
+      link: https://www.ndss-symposium.org/ndss-paper/focusing-on-pinocchios-nose-a-gradients-scrutinizer-to-thwart-split-learning-hijacking-attacks-using-intrinsic-attributes/
   '2022':
     header:
       title: Title
@@ -755,6 +1459,57 @@ NDSS:
       venue: NDSS
       year: 2022
       link: https://www.ndss-symposium.org/ndss-paper/auto-draft-203/
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Geo-locating Drivers: A Study of Sensitive Data Leakage in Ride-Hailing
+        Services.'
+      venue: NDSS
+      year: 2019
+      link: https://www.ndss-symposium.org/ndss-paper/geo-locating-drivers-a-study-of-sensitive-data-leakage-in-ride-hailing-services/
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Checking More and Alerting Less: Detecting Privacy Leakages via Enhanced
+        Data-flow Analysis and Peer Voting.'
+      venue: NDSS
+      year: 2015
+      link: https://www.ndss-symposium.org/ndss2015/checking-more-and-alerting-less-detecting-privacy-leakages-enhanced-data-flow-analysis-and-peer
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'OIRS: Outsourced Image Recovery Service From Comprehensive Sensing With
+        Privacy Assurance.'
+      venue: NDSS
+      year: 2013
+      link: https://www.ndss-symposium.org/ndss2013/ndss-2013-programme/oirs-outsourced-image-recovery-service-compressive-sensing-privacy-assurance
 CVPR:
   '2025':
     header:
@@ -787,6 +1542,11 @@ CVPR:
       venue: CVPR
       year: 2025
       link: https://openaccess.thecvf.com/content/CVPR2025/html/Xia_Theoretical_Insights_in_Model_Inversion_Robustness_and_Conditional_Entropy_Maximization_CVPR_2025_paper.html
+    - title: Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks
+        via Breaking Invisible Surrogate Gradients.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Lun_Towards_Effective_and_Sparse_Adversarial_Attack_on_Spiking_Neural_Networks_CVPR_2025_paper.html
   '2024':
     header:
       title: Title
@@ -804,6 +1564,11 @@ CVPR:
       venue: CVPR
       year: 2024
       link: https://doi.org/10.1109/CVPR52733.2024.01028
+    - title: Defense Against Adversarial Attacks on No-Reference Image Quality Models
+        with Gradient Norm Regularization.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02414
     - title: Dual-Consistency Model Inversion for Non-Exemplar Class Incremental Learning.
       venue: CVPR
       year: 2024
@@ -812,6 +1577,11 @@ CVPR:
       venue: CVPR
       year: 2024
       link: https://doi.org/10.1109/CVPR52733.2024.00903
+    - title: 'Localization is All You Evaluate: Data Leakage in Online Mapping Datasets
+        and How to Fix it.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02091
     - title: 'Model Inversion Robustness: Can Transfer Learning Help?'
       venue: CVPR
       year: 2024
@@ -837,6 +1607,11 @@ CVPR:
       venue: CVPR
       year: 2023
       link: https://doi.org/10.1109/CVPR52729.2023.01174
+    - title: Efficient Loss Function by Minimizing the Detrimental Effect of Floating-Point
+        Errors on Gradient-Based Attacks.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.00395
     - title: Inversion-based Style Transfer with Diffusion Models.
       venue: CVPR
       year: 2023
@@ -845,6 +1620,15 @@ CVPR:
       venue: CVPR
       year: 2023
       link: https://doi.org/10.1109/CVPR52729.2023.00585
+    - title: 'Privacy-Preserving Representations are not Enough: Recovering Scene
+        Content from Camera Poses.'
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01262
+    - title: Rate Gradient Approximation Attack Threats Deep Spiking Neural Networks.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.00763
     - title: Re-Thinking Model Inversion Attacks Against Deep Neural Networks.
       venue: CVPR
       year: 2023
@@ -853,6 +1637,11 @@ CVPR:
       venue: CVPR
       year: 2023
       link: https://doi.org/10.1109/CVPR52729.2023.01964
+    - title: Transferable Adversarial Attacks on Vision Transformers with Token Gradient
+        Regularization.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01575
   '2022':
     header:
       title: Title
@@ -878,6 +1667,11 @@ CVPR:
       venue: CVPR
       year: 2022
       link: https://doi.org/10.1109/CVPR52688.2022.00995
+    - title: 'Robust Structured Declarative Classifiers for 3D Point Clouds: Defending
+        Adversarial Attacks with Implicit Gradients.'
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.01486
   '2021':
     header:
       title: Title
@@ -890,10 +1684,19 @@ CVPR:
       year: 4
       link: 60
     body:
+    - title: How Privacy-Preserving Are Line Clouds? Recovering Scene Details From
+        3D Lines.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Chelani_How_Privacy-Preserving_Are_Line_Clouds_Recovering_Scene_Details_From_3D_CVPR_2021_paper.html
     - title: 'IMAGINE: Image Synthesis by Image-Guided Model Inversion.'
       venue: CVPR
       year: 2021
       link: https://openaccess.thecvf.com/content/CVPR2021/html/Wang_IMAGINE_Image_Synthesis_by_Image-Guided_Model_Inversion_CVPR_2021_paper.html
+    - title: 'MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation.'
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Kariyappa_MAZE_Data-Free_Model_Stealing_Attack_Using_Zeroth-Order_Gradient_Estimation_CVPR_2021_paper.html
   '2020':
     header:
       title: Title
@@ -911,6 +1714,44 @@ CVPR:
       venue: CVPR
       year: 2020
       link: https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.html
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Decoupling Direction and Norm for Efficient Gradient-Based L2 Adversarial
+        Attacks and Defenses.
+      venue: CVPR
+      year: 2019
+      link: http://openaccess.thecvf.com/content_CVPR_2019/html/Rony_Decoupling_Direction_and_Norm_for_Efficient_Gradient-Based_L2_Adversarial_Attacks_CVPR_2019_paper.html
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'BFO Meets HOG: Feature Extraction Based on Histograms of Oriented p.d.f.
+        Gradients for Image Classification.'
+      venue: CVPR
+      year: 2013
+      link: https://doi.org/10.1109/CVPR.2013.102
+    - title: Supervised Semantic Gradient Extraction Using Linear-Time Optimization.
+      venue: CVPR
+      year: 2013
+      link: https://doi.org/10.1109/CVPR.2013.364
 ICCV:
   '2023':
     header:
@@ -924,6 +1765,10 @@ ICCV:
       year: 4
       link: 60
     body:
+    - title: Boosting Adversarial Transferability via Gradient Relevance Attack.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00437
     - title: Controllable Inversion of Black-Box Face Recognition Models via Diffusion.
       venue: ICCV
       year: 2023
@@ -937,6 +1782,11 @@ ICCV:
       venue: ICCV
       year: 2023
       link: https://doi.org/10.1109/ICCV51070.2023.00473
+    - title: Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition
+        with Skeleton-Motion-Informed Gradient.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00424
     - title: Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion
         Models.
       venue: ICCV
@@ -952,6 +1802,11 @@ ICCV:
       venue: ICCV
       year: 2023
       link: https://doi.org/10.1109/ICCV51070.2023.01801
+    - title: Transferable Adversarial Attack for Both Vision Transformers and Convolutional
+        Networks via Momentum Integrated Gradients.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00427
   '2021':
     header:
       title: Title
@@ -972,6 +1827,26 @@ ICCV:
       venue: ICCV
       year: 2021
       link: https://doi.org/10.1109/ICCV48922.2021.01587
+    - title: Meta Gradient Adversarial Attack.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.00765
+  '2007':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: On the Extraction of Curve Skeletons using Gradient Vector Flow.
+      venue: ICCV
+      year: 2007
+      link: https://doi.org/10.1109/ICCV.2007.4409112
 ECCV:
   '2024':
     header:
@@ -1021,7 +1896,73 @@ ECCV:
       venue: ECCV
       year: 2024
       link: https://doi.org/10.1007/978-3-031-73039-9_24
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SecretGen: Privacy Recovery on Pre-trained Models via Distribution Discrimination.'
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-20065-6_9
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Defense Against Adversarial Attacks via Controlling Gradient Leaking
+        on Embedded Manifolds.
+      venue: ECCV
+      year: 2020
+      link: https://doi.org/10.1007/978-3-030-58604-1_45
+  '2008':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Image Feature Extraction Using Gradient Local Auto-Correlations.
+      venue: ECCV
+      year: 2008
+      link: https://doi.org/10.1007/978-3-540-88682-2_27
 ACM Multimedia:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Informative Point cloud Dataset Extraction for Classification via Gradient-based
+        Points Moving.
+      venue: ACM Multimedia
+      year: 2024
+      link: https://doi.org/10.1145/3664647.3680767
   '2023':
     header:
       title: Title
@@ -1042,6 +1983,23 @@ ACM Multimedia:
       venue: ACM Multimedia
       year: 2023
       link: https://doi.org/10.1145/3581783.3612072
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Efficient Joint Gradient Based Attack Against SOR Defense for 3D Point
+        Cloud Classification.
+      venue: ACM Multimedia
+      year: 2020
+      link: https://doi.org/10.1145/3394171.3413875
 ACL:
   '2025':
     header:
@@ -1070,11 +2028,21 @@ ACL:
       venue: ACL
       year: 2025
       link: https://aclanthology.org/2025.acl-long.58/
+    - title: 'PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context
+        Optimization.'
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.acl-long.475/
     - title: Stealing Training Data from Large Language Models in Decentralized Training
         through Activation Inversion Attack.
       venue: ACL
       year: 2025
       link: https://aclanthology.org/2025.acl-long.707/
+    - title: The Inverse Scaling Effect of Pre-Trained Language Model Surprisal Is
+        Not Due to Data Leakage.
+      venue: ACL
+      year: 2025
+      link: https://aclanthology.org/2025.findings-acl.91/
   '2024':
     header:
       title: Title
@@ -1087,10 +2055,20 @@ ACL:
       year: 4
       link: 60
     body:
+    - title: Continual Few-shot Relation Extraction via Adaptive Gradient Correction
+        and Knowledge Decomposition.
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-acl.702
     - title: Text Embedding Inversion Security for Multilingual Language Models.
       venue: ACL
       year: 2024
       link: https://doi.org/10.18653/v1/2024.acl-long.422
+    - title: Towards Multiple References Era - Addressing Data Leakage and Limited
+        Reference Diversity in Machine Translation Evaluation.
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-acl.710
     - title: 'Transferable Embedding Inversion Attack: Uncovering Privacy Risks in
         Text Embeddings without Model Queries.'
       venue: ACL
@@ -1108,6 +2086,16 @@ ACL:
       year: 4
       link: 60
     body:
+    - title: A Gradient Control Method for Backdoor Attacks on Parameter-Efficient
+        Tuning.
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.acl-long.194
+    - title: Bridge the Gap Between CV and NLP! A Gradient-based Textual Adversarial
+        Attack Framework.
+      venue: ACL
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.findings-acl.446
     - title: 'Sentence Embedding Leaks More Information than You Expect: Generative
         Embedding Inversion Attack to Recover the Whole Sentence.'
       venue: ACL
@@ -1131,11 +2119,42 @@ EMNLP:
       venue: EMNLP
       year: 2024
       link: https://doi.org/10.18653/v1/2024.emnlp-main.126
+    - title: On Leakage of Code Generation Evaluation Datasets.
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-emnlp.772
     - title: 'OpenSep: Leveraging Large Language Models with Textual Inversion for
         Open World Audio Separation.'
       venue: EMNLP
       year: 2024
       link: https://doi.org/10.18653/v1/2024.emnlp-main.735
+    - title: 'SecureSQL: Evaluating Data Leakage of Large Language Models as Natural
+        Language Interfaces to Databases.'
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.findings-emnlp.346
+    - title: 'Seeing the Forest through the Trees: Data Leakage from Partial Transformer
+        Gradients.'
+      venue: EMNLP
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.emnlp-main.275
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'UPTON: Preventing Authorship Leakage from Public Text Release via Data
+        Poisoning.'
+      venue: EMNLP
+      year: 2023
+      link: https://doi.org/10.18653/v1/2023.findings-emnlp.800
   '2022':
     header:
       title: Title
@@ -1148,11 +2167,40 @@ EMNLP:
       year: 4
       link: 60
     body:
+    - title: Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient
+        Ensembling.
+      venue: EMNLP
+      year: 2022
+      link: https://doi.org/10.18653/v1/2022.emnlp-main.6
     - title: 'Invernet: An Inversion Attack Framework to Infer Fine-Tuning Datasets
         through Word Embeddings.'
       venue: EMNLP
       year: 2022
       link: https://doi.org/10.18653/v1/2022.findings-emnlp.368
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction.
+      venue: EMNLP
+      year: 2021
+      link: https://doi.org/10.18653/v1/2021.emnlp-main.216
+    - title: Gradient-based Adversarial Attacks against Text Transformers.
+      venue: EMNLP
+      year: 2021
+      link: https://doi.org/10.18653/v1/2021.emnlp-main.464
+    - title: 'TAG: Gradient Attack on Transformer-based Language Models.'
+      venue: EMNLP
+      year: 2021
+      link: https://doi.org/10.18653/v1/2021.findings-emnlp.305
 COLING:
   '2025':
     header:
@@ -1225,6 +2273,23 @@ SIGIR:
       year: 2025
       link: https://doi.org/10.1145/3726302.3730303
 WWW:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Detecting Poisoning Attacks on Federated Learning Using Gradient-Weighted
+        Class Activation Mapping.
+      venue: WWW
+      year: 2024
+      link: https://doi.org/10.1145/3589335.3651490
   '2023':
     header:
       title: Title
@@ -1246,6 +2311,43 @@ WWW:
       venue: WWW
       year: 2023
       link: https://doi.org/10.1145/3543507.3583224
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'UNVEIL: Capture and Visualise WiFi Data Leakages.'
+      venue: WWW
+      year: 2019
+      link: https://doi.org/10.1145/3308558.3314143
+    - title: 'VACCINE: Using Contextual Integrity For Data Leakage Detection.'
+      venue: WWW
+      year: 2019
+      link: https://doi.org/10.1145/3308558.3313655
+  '2017':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Trajectory Recovery From Ash: User Privacy Is NOT Preserved in Aggregated
+        Mobility Data.'
+      venue: WWW
+      year: 2017
+      link: https://doi.org/10.1145/3038912.3052620
 DAC:
   '2025':
     header:
@@ -1259,11 +2361,33 @@ DAC:
       year: 4
       link: 60
     body:
+    - title: 'Data Oblivious CPU: Microarchitectural Side-channel Leakage-Resilient
+        Processor.'
+      venue: DAC
+      year: 2025
+      link: https://doi.org/10.1109/DAC63849.2025.11133149
     - title: 'Ensembler: Protect Collaborative Inference Privacy from Model Inversion
         Attack via Selective Ensemble.'
       venue: DAC
       year: 2025
       link: https://doi.org/10.1109/DAC63849.2025.11132673
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'NNTesting: Neural Network Fault Attacks Detection Using Gradient-Based
+        Test Vector Generation.'
+      venue: DAC
+      year: 2023
+      link: https://doi.org/10.1109/DAC56929.2023.10247885
   '2021':
     header:
       title: Title
@@ -1281,6 +2405,23 @@ DAC:
       year: 2021
       link: https://doi.org/10.1109/DAC18074.2021.9586217
 IEEE Trans. Computers:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Leakage-Free Dissemination of Authenticated Tree-Structured Data With
+        Multi-Party Control.
+      venue: IEEE Trans. Computers
+      year: 2021
+      link: https://doi.org/10.1109/TC.2020.3006835
   '2000':
     header:
       title: Title
@@ -1315,6 +2456,10 @@ WACV:
       venue: WACV
       year: 2025
       link: https://doi.org/10.1109/WACV61041.2025.00207
+    - title: 'Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach.'
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00512
   '2024':
     header:
       title: Title
@@ -1348,6 +2493,38 @@ WACV:
       venue: WACV
       year: 2022
       link: https://doi.org/10.1109/WACV51458.2022.00392
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Local Gradients Smoothing: Defense Against Localized Adversarial Attacks.'
+      venue: WACV
+      year: 2019
+      link: https://doi.org/10.1109/WACV.2019.00143
+  '2008':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Iris Extraction Based on Intensity Gradient and Texture Difference.
+      venue: WACV
+      year: 2008
+      link: https://doi.org/10.1109/WACV.2008.4544018
 IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
   '2000':
     header:
@@ -1394,6 +2571,10 @@ IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
       year: 4
       link: 60
     body:
+    - title: Extracting transistor changes from device simulations by gradient fitting.
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 1989
+      link: https://doi.org/10.1109/43.29592
     - title: Universality of mobility-gate field characteristics of electrons in the
         inversion charge layer and its application in MOSFET modeling.
       venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
@@ -1442,6 +2623,10 @@ IEEE Trans. Neural Networks Learn. Syst.:
       venue: IEEE Trans. Neural Networks Learn. Syst.
       year: 2024
       link: https://doi.org/10.1109/TNNLS.2022.3175899
+    - title: Gradient Correction for White-Box Adversarial Attacks.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2024
+      link: https://doi.org/10.1109/TNNLS.2023.3315414
   '2023':
     header:
       title: Title
@@ -1459,6 +2644,45 @@ IEEE Trans. Neural Networks Learn. Syst.:
       venue: IEEE Trans. Neural Networks Learn. Syst.
       year: 2023
       link: https://doi.org/10.1109/TNNLS.2022.3171715
+    - title: Exploring Adversarial Attack in Spiking Neural Networks With Spike-Compatible
+        Gradient.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2023
+      link: https://doi.org/10.1109/TNNLS.2021.3106961
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SMGEA: A New Ensemble Adversarial Attack Powered by Long-Term Gradient
+        Memories.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2022
+      link: https://doi.org/10.1109/TNNLS.2020.3039295
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Gradients Cannot Be Tamed: Behind the Impossible Paradox of Blocking
+        Targeted Adversarial Attacks.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2021
+      link: https://doi.org/10.1109/TNNLS.2020.2977142
   '2020':
     header:
       title: Title
@@ -1523,10 +2747,48 @@ IEEE Trans. Big Data:
       year: 4
       link: 60
     body:
+    - title: Augmented Multi-Party Computation Against Gradient Leakage in Federated
+        Learning.
+      venue: IEEE Trans. Big Data
+      year: 2024
+      link: https://doi.org/10.1109/TBDATA.2022.3208736
     - title: Improved Gradient Inversion Attacks and Defenses in Federated Learning.
       venue: IEEE Trans. Big Data
       year: 2024
       link: https://doi.org/10.1109/TBDATA.2023.3239116
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Black-Box Adversarial Attack Method via Nesterov Accelerated Gradient
+        and Rewiring Towards Attacking Graph Neural Networks.
+      venue: IEEE Trans. Big Data
+      year: 2023
+      link: https://doi.org/10.1109/TBDATA.2023.3296936
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Leakage Resilient Leveled FHE on Multiple Bits Message.
+      venue: IEEE Trans. Big Data
+      year: 2021
+      link: https://doi.org/10.1109/TBDATA.2017.2726554
 IEEE Trans. Medical Imaging:
   '2023':
     header:
@@ -1670,11 +2932,25 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
       link: https://doi.org/10.1109/TIFS.2024.3518779
+    - title: Recovering Reed-Solomon Codes Privately.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3543123
+    - title: Robust Token Gradient and Frequency-Aware Transferable Adversarial Attacks
+        on Vision Transformers.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3620638
     - title: 'Semantic and Precise Trigger Inversion: Detecting Backdoored Language
         Models.'
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
       link: https://doi.org/10.1109/TIFS.2025.3594037
+    - title: 'The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks
+        Through Model Poisoning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2025
+      link: https://doi.org/10.1109/TIFS.2025.3607271
     - title: 'TrapNet: Model Inversion Defense via Trapdoor.'
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2025
@@ -1691,6 +2967,21 @@ IEEE Trans. Inf. Forensics Secur.:
       year: 4
       link: 60
     body:
+    - title: Cross-User Leakage Mitigation for Authorized Multi-User Encrypted Data
+        Sharing.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2023.3333244
+    - title: Data Generation and Augmentation Method for Deep Learning-Based VDU Leakage
+        Signal Restoration Algorithm.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2024.3393748
+    - title: 'Gradient-Leaks: Enabling Black-Box Membership Inference Attacks Against
+        Machine Learning Models.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2024
+      link: https://doi.org/10.1109/TIFS.2023.3324772
     - title: 'Inversion-Guided Defense: Detecting Model Stealing Attacks by Output
         Inverting.'
       venue: IEEE Trans. Inf. Forensics Secur.
@@ -1739,6 +3030,16 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2023
       link: https://doi.org/10.1109/TIFS.2022.3233190
+    - title: Privacy-Encoded Federated Learning Against Gradient-Based Data Reconstruction
+        Attacks.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2023.3309095
+    - title: Using Highly Compressed Gradients in Federated Learning for Data Reconstruction
+        Attacks.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2023
+      link: https://doi.org/10.1109/TIFS.2022.3227761
   '2022':
     header:
       title: Title
@@ -1751,12 +3052,75 @@ IEEE Trans. Inf. Forensics Secur.:
       year: 4
       link: 60
     body:
+    - title: Data Disclosure With Non-Zero Leakage and Non-Invertible Leakage Matrix.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2022
+      link: https://doi.org/10.1109/TIFS.2021.3137755
+    - title: Gradient Leakage Attack Resilient Deep Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2022
+      link: https://doi.org/10.1109/TIFS.2021.3139777
     - title: 'Model Inversion Attack by Integration of Deep Generative Models: Privacy-Sensitive
         Face Generation From a Face Recognition System.'
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2022
       link: https://doi.org/10.1109/TIFS.2022.3140687
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Impact of Prior Knowledge and Data Correlation on Privacy Leakage: A
+        Unified Analysis.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2019
+      link: https://doi.org/10.1109/TIFS.2019.2895970
+  '2017':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Zero-Leakage Fuzzy Embedder From the Theoretical Formulation to Real
+        Data.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2017
+      link: https://doi.org/10.1109/TIFS.2017.2686005
+    - title: Optimized Quantization in Zero Leakage Helper Data Systems.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2017
+      link: https://doi.org/10.1109/TIFS.2017.2697840
 ACM Trans. Priv. Secur.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Quantifying and Exploiting Adversarial Vulnerability: Gradient-Based
+        Input Pre-Filtering for Enhanced Performance in Black-Box Attacks.'
+      venue: ACM Trans. Priv. Secur.
+      year: 2025
+      link: https://doi.org/10.1145/3716384
   '2023':
     header:
       title: Title
@@ -1842,6 +3206,11 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2025
       link: https://doi.org/10.1016/j.knosys.2025.113339
+    - title: Subspectrum mixup-based adversarial attack and evading defenses by structure-enhanced
+        gradient purification.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.113357
   '2024':
     header:
       title: Title
@@ -1854,11 +3223,54 @@ Knowl. Based Syst.:
       year: 4
       link: 60
     body:
+    - title: 'AGS: Transferable adversarial attack for person re-identification by
+        adaptive gradient similarity attack.'
+      venue: Knowl. Based Syst.
+      year: 2024
+      link: https://doi.org/10.1016/j.knosys.2024.112506
     - title: Defending against gradient inversion attacks in federated learning via
         statistical machine unlearning.
       venue: Knowl. Based Syst.
       year: 2024
       link: https://doi.org/10.1016/j.knosys.2024.111983
+    - title: Spatial-frequency gradient fusion based model augmentation for high transferability
+        adversarial attack.
+      venue: Knowl. Based Syst.
+      year: 2024
+      link: https://doi.org/10.1016/j.knosys.2024.112241
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MP-CLF: An effective Model-Preserving Collaborative deep Learning Framework
+        for mitigating data leakage under the GAN.'
+      venue: Knowl. Based Syst.
+      year: 2023
+      link: https://doi.org/10.1016/j.knosys.2023.110527
+  '2017':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Data leakage detection algorithm based on task sequences and probabilities.
+      venue: Knowl. Based Syst.
+      year: 2017
+      link: https://doi.org/10.1016/j.knosys.2017.01.009
 Neurocomputing:
   '2025':
     header:
@@ -1882,6 +3294,32 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2025
       link: https://doi.org/10.1016/j.neucom.2025.129902
+    - title: Momentum gradient-based untargeted poisoning attack on hypergraph neural
+        networks.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.129835
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Adaptive Gradient-based Word Saliency for adversarial text attacks.
+      venue: Neurocomputing
+      year: 2024
+      link: https://doi.org/10.1016/j.neucom.2024.127667
+    - title: Improved gradient leakage attack against compressed gradients in federated
+        learning.
+      venue: Neurocomputing
+      year: 2024
+      link: https://doi.org/10.1016/j.neucom.2024.128349
   '2020':
     header:
       title: Title
@@ -1904,7 +3342,56 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2020
       link: https://doi.org/10.1016/j.neucom.2020.02.121
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: On sampled-data control for stabilization of genetic regulatory networks
+        with leakage delays.
+      venue: Neurocomputing
+      year: 2015
+      link: https://doi.org/10.1016/j.neucom.2014.09.005
 IEEE Trans. Knowl. Data Eng.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Practical Equi-Join Over Encrypted Database With Reduced Leakage.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2025
+      link: https://doi.org/10.1109/TKDE.2025.3543168
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: On Data Distribution Leakage in Cross-Silo Federated Learning.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2024
+      link: https://doi.org/10.1109/TKDE.2023.3349323
   '2023':
     header:
       title: Title
@@ -1921,6 +3408,31 @@ IEEE Trans. Knowl. Data Eng.:
       venue: IEEE Trans. Knowl. Data Eng.
       year: 2023
       link: https://doi.org/10.1109/TKDE.2022.3207915
+    - title: 'Reveal Your Images: Gradient Leakage Attack Against Unbiased Sampling-Based
+        Secure Aggregation.'
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2023
+      link: https://doi.org/10.1109/TKDE.2023.3271432
+    - title: Time-Aware Gradient Attack on Dynamic Network Link Prediction.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2023
+      link: https://doi.org/10.1109/TKDE.2021.3110580
+  '2011':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Data Leakage Detection.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2011
+      link: https://doi.org/10.1109/TKDE.2010.100
 IEEE Trans. Syst. Man Cybern. Syst.:
   '2023':
     header:
@@ -1934,12 +3446,33 @@ IEEE Trans. Syst. Man Cybern. Syst.:
       year: 4
       link: 60
     body:
+    - title: Adversarial Attacks on Regression Systems via Gradient Optimization.
+      venue: IEEE Trans. Syst. Man Cybern. Syst.
+      year: 2023
+      link: https://doi.org/10.1109/TSMC.2023.3302838
     - title: Social IoT Approach to Cyber Defense of a Deep-Learning-Based Recognition
         System in Front of Media Clones Generated by Model Inversion Attack.
       venue: IEEE Trans. Syst. Man Cybern. Syst.
       year: 2023
       link: https://doi.org/10.1109/TSMC.2022.3220080
 IEEE Trans. Emerg. Top. Comput.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Web Back-End Database Leakage Incident Reconstruction Framework Over
+        Unlabeled Logs.
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2023
+      link: https://doi.org/10.1109/TETC.2022.3198080
   '2022':
     header:
       title: Title
@@ -1974,6 +3507,11 @@ Neural Networks:
       venue: Neural Networks
       year: 2024
       link: https://doi.org/10.1016/j.neunet.2024.106490
+    - title: Structural prior-driven feature extraction with gradient-momentum combined
+        optimization for convolutional neural network image classification.
+      venue: Neural Networks
+      year: 2024
+      link: https://doi.org/10.1016/j.neunet.2024.106511
   '2019':
     header:
       title: Title
@@ -2027,6 +3565,22 @@ J. Artif. Intell. Res.:
       year: 2025
       link: https://doi.org/10.1613/jair.1.19468
 IEEE Trans. Image Process.:
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient-Based Feature Extraction From Raw Bayer Pattern Images.
+      venue: IEEE Trans. Image Process.
+      year: 2021
+      link: https://doi.org/10.1109/TIP.2021.3067166
   '2003':
     header:
       title: Title
@@ -2096,6 +3650,23 @@ IEEE Trans. Intell. Transp. Syst.:
       year: 2022
       link: https://doi.org/10.1109/TITS.2020.3045917
 Expert Syst. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ExSGD: Exploiting previous gradient for distributed large-batch training
+        of building extraction network.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.129347
   '2025':
     header:
       title: Title
@@ -2108,11 +3679,21 @@ Expert Syst. Appl.:
       year: 4
       link: 60
     body:
+    - title: 'ILAMP: Improved text extraction from gradients in federated learning
+        using language model priors and sequence beam search.'
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2025.126592
     - title: 'Uni-3DAD: Gan-inversion aided universal 3D anomaly detection on model-free
         products.'
       venue: Expert Syst. Appl.
       year: 2025
       link: https://doi.org/10.1016/j.eswa.2025.126665
+    - title: 'You cannot handle the weather: Progressive amplified adverse-weather-gradient
+        projection adversarial attack.'
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2024.126143
   '2024':
     header:
       title: Title
@@ -2125,11 +3706,43 @@ Expert Syst. Appl.:
       year: 4
       link: 60
     body:
+    - title: 'AGD-GAN: Adaptive Gradient-Guided and Depth-supervised generative adversarial
+        networks for ancient mural sketch extraction.'
+      venue: Expert Syst. Appl.
+      year: 2024
+      link: https://doi.org/10.1016/j.eswa.2024.124639
     - title: Fixed-time convergence ZNN model for solving rectangular dynamic full-rank
         matrices inversion.
       venue: Expert Syst. Appl.
       year: 2024
       link: https://doi.org/10.1016/j.eswa.2024.123992
+    - title: 'Securecipher: An instantaneous synchronization stream encryption system
+        for insider threat data leakage protection.'
+      venue: Expert Syst. Appl.
+      year: 2024
+      link: https://doi.org/10.1016/j.eswa.2024.124470
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An empirical study of pattern leakage impact during data preprocessing
+        on machine learning-based intrusion detection models reliability.
+      venue: Expert Syst. Appl.
+      year: 2023
+      link: https://doi.org/10.1016/j.eswa.2023.120715
+    - title: 'Opt-TCAE: Optimal temporal convolutional auto-encoder for boiler tube
+        leakage detection in a thermal power plant using multi-sensor data.'
+      venue: Expert Syst. Appl.
+      year: 2023
+      link: https://doi.org/10.1016/j.eswa.2022.119377
   '2016':
     header:
       title: Title
@@ -2200,6 +3813,40 @@ IEEE Trans. Speech Audio Process.:
       year: 2013
       link: https://doi.org/10.1109/TASL.2013.2253099
 Neural Comput. Appl.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Integrated gradients-based defense against adversarial word substitution
+        attacks.
+      venue: Neural Comput. Appl.
+      year: 2025
+      link: https://doi.org/10.1007/s00521-025-11135-3
+  '2016':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: The stabilization of BAM neural networks with time-varying delays in
+        the leakage terms via sampled-data control.
+      venue: Neural Comput. Appl.
+      year: 2016
+      link: https://doi.org/10.1007/s00521-015-1865-4
   '2012':
     header:
       title: Title
@@ -2216,3 +3863,876 @@ Neural Comput. Appl.:
       venue: Neural Comput. Appl.
       year: 2012
       link: https://doi.org/10.1007/s00521-011-0563-0
+ICDE:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'LDPRecover: Recovering Frequencies from Poisoning Attacks Against Local
+        Differential Privacy.'
+      venue: ICDE
+      year: 2024
+      link: https://doi.org/10.1109/ICDE60146.2024.00132
+    - title: 'Secure Normal Form: Mediation Among Cross Cryptographic Leakages in
+        Encrypted Databases.'
+      venue: ICDE
+      year: 2024
+      link: https://doi.org/10.1109/ICDE60146.2024.00444
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An Anomaly Detection System for the Protection of Relational Database
+        Systems against Data Leakage by Application Programs.
+      venue: ICDE
+      year: 2020
+      link: https://doi.org/10.1109/ICDE48307.2020.00030
+  '2009':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Model for Data Leakage Detection.
+      venue: ICDE
+      year: 2009
+      link: https://doi.org/10.1109/ICDE.2009.227
+  '2005':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'XGuard: A System for Publishing XML Documents without Information Leakage
+        in the Presence of Data Inference.'
+      venue: ICDE
+      year: 2005
+      link: https://doi.org/10.1109/ICDE.2005.156
+MobiCom:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Black-Box Approach for Quantifying Leakage of Trace-Based Correlated
+        Data.
+      venue: MobiCom
+      year: 2024
+      link: https://doi.org/10.1145/3636534.3694722
+IEEE Symposium on Security and Privacy:
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Data Recovery on Encrypted Databases with k-Nearest Neighbor Query Leakage.
+      venue: IEEE Symposium on Security and Privacy
+      year: 2019
+      link: https://doi.org/10.1109/SP.2019.00015
+    - title: Why Does Your Data Leak? Uncovering the Data Leakage in Cloud from Mobile
+        Apps.
+      venue: IEEE Symposium on Security and Privacy
+      year: 2019
+      link: https://doi.org/10.1109/SP.2019.00009
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Improved Reconstruction Attacks on Encrypted Data Using Range Query Leakage.
+      venue: IEEE Symposium on Security and Privacy
+      year: 2018
+      link: https://doi.org/10.1109/SP.2018.00002
+CollSec:
+  '2010':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Analyzing Group Communication for Preventing Accidental Data Leakage
+        via Email.
+      venue: CollSec
+      year: 2010
+      link: https://www.usenix.org/conference/collsec10/analyzing-group-communication-preventing-accidental-data-leakage-email
+Proc. ACM Manag. Data:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Counterfactual Explanation at Will, with Zero Privacy Leakage.
+      venue: Proc. ACM Manag. Data
+      year: 2024
+      link: https://doi.org/10.1145/3654933
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'RLS Side Channels: Investigating Leakage of Row-Level Security Protected
+        Data Through Query Execution Time.'
+      venue: Proc. ACM Manag. Data
+      year: 2023
+      link: https://doi.org/10.1145/3588943
+ICSE Companion:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CODEMORPH: Mitigating Data Leakage in Large Language Model Assessment.'
+      venue: ICSE Companion
+      year: 2025
+      link: https://doi.org/10.1109/ICSE-Companion66252.2025.00081
+CIKM:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Are Gradients on Graph Structure Reliable in Gray-box Attacks?
+      venue: CIKM
+      year: 2022
+      link: https://doi.org/10.1145/3511808.3557238
+  '2005':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Privacy leakage in multi-relational databases via pattern based semi-supervised
+        learning.
+      venue: CIKM
+      year: 2005
+      link: https://doi.org/10.1145/1099554.1099664
+ACM Trans. Intell. Syst. Technol.:
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GRNN: Generative Regression Neural Network - A Data Leakage Attack for
+        Federated Learning.'
+      venue: ACM Trans. Intell. Syst. Technol.
+      year: 2022
+      link: https://doi.org/10.1145/3510032
+ACM Trans. Knowl. Discov. Data:
+  '2012':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Leakage in data mining: Formulation, detection, and avoidance.'
+      venue: ACM Trans. Knowl. Discov. Data
+      year: 2012
+      link: https://doi.org/10.1145/2382577.2382579
+Proc. VLDB Endow.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted
+        Data Stores.'
+      venue: Proc. VLDB Endow.
+      year: 2024
+      link: https://www.vldb.org/pvldb/vol17/p2445-zheng.pdf
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Don&apos;t Be a Tattle-Tale: Preventing Leakages through Data Dependencies
+        on Access Control Protected Data.'
+      venue: Proc. VLDB Endow.
+      year: 2022
+      link: https://www.vldb.org/pvldb/vol15/p2437-pappachan.pdf
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ConTPL: Controlling Temporal Privacy Leakage in Differentially Private
+        Continuous Data Release.'
+      venue: Proc. VLDB Endow.
+      year: 2018
+      link: http://www.vldb.org/pvldb/vol11/p2090-cao.pdf
+IEEE Trans. Parallel Distributed Syst.:
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Privacy Leakage Upper Bound Constraint-Based Approach for Cost-Effective
+        Privacy Preserving of Intermediate Data Sets in Cloud.
+      venue: IEEE Trans. Parallel Distributed Syst.
+      year: 2013
+      link: https://doi.org/10.1109/TPDS.2012.238
+  '1990':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Error Recovery in Shared Memory Multiprocessors Using Private Caches.
+      venue: IEEE Trans. Parallel Distributed Syst.
+      year: 1990
+      link: https://doi.org/10.1109/71.80134
+Pattern Recognit.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Global aggregated gradient-guided adversarial attacks for person re-identification.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112760
+    - title: 'SemiSketch: An ancient mural sketch extraction network based on reference
+        prior and gradient frequency compensation.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112146
+    - title: 'Staircase Sign Method: Boosting adversarial attacks by mitigating gradient
+        distortion.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.111983
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient-based sparse voxel attacks on point cloud object detection.
+      venue: Pattern Recognit.
+      year: 2025
+      link: https://doi.org/10.1016/j.patcog.2024.111156
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Learnable Gradient operator for face presentation attack detection.
+      venue: Pattern Recognit.
+      year: 2023
+      link: https://doi.org/10.1016/j.patcog.2022.109146
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Practical protection against video data leakage via universal adversarial
+        head.
+      venue: Pattern Recognit.
+      year: 2022
+      link: https://doi.org/10.1016/j.patcog.2022.108834
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AG3line: Active grouping and geometry-gradient combined validation for
+        fast line segment extraction.'
+      venue: Pattern Recognit.
+      year: 2021
+      link: https://doi.org/10.1016/j.patcog.2021.107834
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Rotation invariant textural feature extraction for image retrieval using
+        eigen value analysis of intensity gradients and multi-resolution analysis.
+      venue: Pattern Recognit.
+      year: 2013
+      link: https://doi.org/10.1016/j.patcog.2013.05.026
+  '2003':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient feature extraction for classification-based face detection.
+      venue: Pattern Recognit.
+      year: 2003
+      link: https://doi.org/10.1016/S0031-3203(03)00130-4
+  '1996':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Extracting facial features by an inhibitory mechanism based on gradient
+        distributions.
+      venue: Pattern Recognit.
+      year: 1996
+      link: https://doi.org/10.1016/S0031-3203(96)00034-9
+Inf. Sci.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Graph neural networks adversarial attacks based on node gradient and
+        importance score.
+      venue: Inf. Sci.
+      year: 2025
+      link: https://doi.org/10.1016/j.ins.2025.122168
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GradDiff: Gradient-based membership inference attacks against federated
+        distillation with differential comparison.'
+      venue: Inf. Sci.
+      year: 2024
+      link: https://doi.org/10.1016/j.ins.2023.120068
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Improving adversarial attacks on deep neural networks via constricted
+        gradient-based perturbations.
+      venue: Inf. Sci.
+      year: 2021
+      link: https://doi.org/10.1016/j.ins.2021.04.033
+    - title: Target attack on biomedical image segmentation model based on multi-scale
+        gradients.
+      venue: Inf. Sci.
+      year: 2021
+      link: https://doi.org/10.1016/j.ins.2020.12.013
+  '2017':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Local gradient patterns (LGP): An effective local-statistical-feature
+        extraction scheme for no-reference image quality assessment.'
+      venue: Inf. Sci.
+      year: 2017
+      link: https://doi.org/10.1016/j.ins.2017.02.049
+  '2014':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CoBAn: A context based model for data leakage prevention.'
+      venue: Inf. Sci.
+      year: 2014
+      link: https://doi.org/10.1016/j.ins.2013.10.005
+IEEE Trans. Signal Process.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Secure Distributed Optimization Under Gradient Attacks.
+      venue: IEEE Trans. Signal Process.
+      year: 2023
+      link: https://doi.org/10.1109/TSP.2023.3277211
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Federated Variance-Reduced Stochastic Gradient Descent With Robustness
+        to Byzantine Attacks.
+      venue: IEEE Trans. Signal Process.
+      year: 2020
+      link: https://doi.org/10.1109/TSP.2020.3012952
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Distributed Gradient Descent Algorithm Robust to an Arbitrary Number
+        of Byzantine Attackers.
+      venue: IEEE Trans. Signal Process.
+      year: 2019
+      link: https://doi.org/10.1109/TSP.2019.2946020
+    - title: Gradient Algorithms for Complex Non-Gaussian Independent Component/Vector
+        Extraction, Question of Convergence.
+      venue: IEEE Trans. Signal Process.
+      year: 2019
+      link: https://doi.org/10.1109/TSP.2018.2887185
+IEEE Trans. Cybern.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Deep Cascade Gradient RBF Networks With Output-Relevant Feature Extraction
+        and Adaptation for Nonlinear and Nonstationary Processes.
+      venue: IEEE Trans. Cybern.
+      year: 2023
+      link: https://doi.org/10.1109/TCYB.2022.3152107
+Pattern Recognit. Lett.:
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Perturbation analysis of gradient-based adversarial attacks.
+      venue: Pattern Recognit. Lett.
+      year: 2020
+      link: https://doi.org/10.1016/j.patrec.2020.04.034
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient operators for feature extraction from omnidirectional panoramic
+        images.
+      venue: Pattern Recognit. Lett.
+      year: 2015
+      link: https://doi.org/10.1016/j.patrec.2014.12.010
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Object extraction from T2 weighted brain MR image using histogram based
+        gradient calculation.
+      venue: Pattern Recognit. Lett.
+      year: 2013
+      link: https://doi.org/10.1016/j.patrec.2013.04.010
+  '2010':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Gradient operators for feature extraction and characterisation in range
+        images.
+      venue: Pattern Recognit. Lett.
+      year: 2010
+      link: https://doi.org/10.1016/j.patrec.2009.12.022
+  '2008':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Boundary extraction of linear features using dual paths through gradient
+        profiles.
+      venue: Pattern Recognit. Lett.
+      year: 2008
+      link: https://doi.org/10.1016/j.patrec.2008.05.009
+    - title: Gradient-based local affine invariant feature extraction for mobile robot
+        localization in indoor environments.
+      venue: Pattern Recognit. Lett.
+      year: 2008
+      link: https://doi.org/10.1016/j.patrec.2008.06.006
+ACM Trans. Inf. Syst. Secur.:
+  '2004':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A key recovery attack on the 802.11b wired equivalent privacy protocol
+        (WEP).
+      venue: ACM Trans. Inf. Syst. Secur.
+      year: 2004
+      link: https://doi.org/10.1145/996943.996948
+INFOCOM:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'VaniKG: Vanishing Key Gradient Attack and Defense for Robust Federated
+        Aggregation.'
+      venue: INFOCOM
+      year: 2025
+      link: https://doi.org/10.1109/INFOCOM55648.2025.11044620
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Fast Generation-Based Gradient Leakage Attacks against Highly Compressed
+        Gradients.
+      venue: INFOCOM
+      year: 2023
+      link: https://doi.org/10.1109/INFOCOM53939.2023.10229091
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Protect Privacy from Gradient Leakage Attack in Federated Learning.
+      venue: INFOCOM
+      year: 2022
+      link: https://doi.org/10.1109/INFOCOM48880.2022.9796841
+Mach. Learn.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'HFIA: a parasitic feature inference attack and gradient-based defense
+        strategy in SplitNN-based vertical federated learning.'
+      venue: Mach. Learn.
+      year: 2025
+      link: https://doi.org/10.1007/s10994-025-06804-2
+Int. J. Comput. Vis.:
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Scaling up the Randomized Gradient-Free Adversarial Attack Reveals Overestimation
+        of Robustness Using Established Attacks.
+      venue: Int. J. Comput. Vis.
+      year: 2020
+      link: https://doi.org/10.1007/s11263-019-01213-0
+Comput. Vis. Image Underst.:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Improving the robustness of adversarial attacks using an affine-invariant
+        gradient estimator.
+      venue: Comput. Vis. Image Underst.
+      year: 2023
+      link: https://doi.org/10.1016/j.cviu.2023.103647
