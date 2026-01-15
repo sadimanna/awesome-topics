@@ -31934,6 +31934,12 @@ permalink: /federated-m-l/
 </tr></thead>
 <tbody>
 <tr>
+<td>An enhanced method for hierarchical federated learning based on privacy metric and adaptive differential privacy.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2025.132334">Link</a></td>
+</tr>
+<tr>
 <td>Backdoor defense framework with sparse training and detection in federated learning.</td>
 <td>Neurocomputing</td>
 <td>2026</td>
@@ -31944,6 +31950,12 @@ permalink: /federated-m-l/
 <td>Neurocomputing</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.131931">Link</a></td>
+</tr>
+<tr>
+<td>Federated intent-aware cross-domain recommendation via semantic alignment and collaborative enhancement.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2025.132442">Link</a></td>
 </tr>
 <tr>
 <td>Towards one-shot federated learning: Advances, challenges, and future directions.</td>

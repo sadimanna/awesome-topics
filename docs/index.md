@@ -150,6 +150,14 @@
   - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#neural comput. appl.-2025)
   </details>
 
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#neurocomputing">Neurocomputing</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/explainability-transformers#neurocomputing-2026)
+  </details>
+
 </details>
 
 
@@ -1447,6 +1455,323 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-unlearning#knowl-based-syst">Knowl. Based Syst.</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/federated-unlearning#knowl. based syst.-2024)
+  </details>
+
+</details>
+
+
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation">Few Shot Segmentation</a></strong></summary>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurips">NeurIPS</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurips-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurips-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurips-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurips-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#icml">ICML</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#icml-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#icml-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#iclr">ICLR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#iclr-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#iclr-2023)
+  - [2018](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#iclr-2018)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#cvpr">CVPR</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#cvpr-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#cvpr-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#cvpr-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#cvpr-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#cvpr-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#cvpr-2020)
+  - [2019](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#cvpr-2019)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#iccv">ICCV</a></summary>
+
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#iccv-2023)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#iccv-2021)
+  - [2019](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#iccv-2019)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#eccv">ECCV</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#eccv-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#eccv-2022)
+  - [2020](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#eccv-2020)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ijcai">IJCAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ijcai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ijcai-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ijcai-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ijcai-2022)
+  - [2020](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ijcai-2020)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai">AAAI</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2020)
+  - [2019](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2019)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#wacv">WACV</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#wacv-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#wacv-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#wacv-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#wacv-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#wacv-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm-multimedia">ACM Multimedia</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2020)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. pattern anal. mach. intell.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. pattern anal. mach. intell.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. pattern anal. mach. intell.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. pattern anal. mach. intell.-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-image-process">IEEE Trans. Image Process.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. image process.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. image process.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. image process.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. image process.-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. image process.-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-neural-networks-learn-syst">IEEE Trans. Neural Networks Learn. Syst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. neural networks learn. syst.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. neural networks learn. syst.-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. neural networks learn. syst.-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-artif-intell">IEEE Trans. Artif. Intell.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. artif. intell.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. artif. intell.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-medical-imaging">IEEE Trans. Medical Imaging</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. medical imaging-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. medical imaging-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. medical imaging-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. medical imaging-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. medical imaging-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-emerg-top-comput-intell">IEEE Trans. Emerg. Top. Comput. Intell.</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. emerg. top. comput. intell.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-intell-transp-syst">IEEE Trans. Intell. Transp. Syst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. intell. transp. syst.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee j. biomed. health informatics-2025)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee j. biomed. health informatics-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#int-j-comput-vis">Int. J. Comput. Vis.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#int. j. comput. vis.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#int. j. comput. vis.-2024)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#int. j. comput. vis.-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#comput-vis-image-underst">Comput. Vis. Image Underst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#comput. vis. image underst.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#comput. vis. image underst.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#comput. vis. image underst.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#comput. vis. image underst.-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern-recognit">Pattern Recognit.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern recognit.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern recognit.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern recognit.-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern-recognit-lett">Pattern Recognit. Lett.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern recognit. lett.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern recognit. lett.-2024)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern recognit. lett.-2021)
+  - [2019](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern recognit. lett.-2019)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical-image-anal">Medical Image Anal.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical image anal.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical image anal.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical image anal.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical image anal.-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical image anal.-2021)
+  - [2020](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical image anal.-2020)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#comput-medical-imaging-graph">Comput. Medical Imaging Graph.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#comput. medical imaging graph.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#comput. medical imaging graph.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#knowl-based-syst">Knowl. Based Syst.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#knowl. based syst.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#knowl. based syst.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#knowl. based syst.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#knowl. based syst.-2022)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#knowl. based syst.-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#expert-syst-appl">Expert Syst. Appl.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#expert syst. appl.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#expert syst. appl.-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#expert syst. appl.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neural-networks">Neural Networks</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neural networks-2025)
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neural networks-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurocomputing">Neurocomputing</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurocomputing-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurocomputing-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurocomputing-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurocomputing-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurocomputing-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neural-comput-appl">Neural Comput. Appl.</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neural comput. appl.-2024)
+  - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neural comput. appl.-2023)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neural comput. appl.-2022)
   </details>
 
 </details>

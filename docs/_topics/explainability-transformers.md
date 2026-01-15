@@ -108,6 +108,13 @@ permalink: /explainability-transformers/
 
 </details>
 
+<details markdown="1">
+<summary>Neurocomputing</summary>
+
+  - [2026](#neurocomputing-2026)
+
+</details>
+
 </details>
 
 
@@ -740,6 +747,38 @@ permalink: /explainability-transformers/
 <td>Neural Comput. Appl.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1007/s00521-025-11591-x">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Neurocomputing <a id="venue-neurocomputing"></a>
+
+<details>
+
+<summary>Expand Neurocomputing</summary>
+
+<a id="neurocomputing-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>DistilXIDS: Efficient, lightweight and explainable transformer-based language model for real-time network intrusion detection.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2025.132398">Link</a></td>
 </tr>
 </tbody></table>
 
