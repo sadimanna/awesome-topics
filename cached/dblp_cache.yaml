@@ -4857,6 +4857,17 @@ federated%20venue%3AIJCAI%3A:
   doi: ''
   ee: https://www.ijcai.org/proceedings/2024/238
   url: https://dblp.org/rec/conf/ijcai/LinHZX0L0WT24
+- author: Ke Hu, Liyao Xiang, Peng Tang 0002, Weidong Qiu
+  title: 'Feature Norm Regularized Federated Learning: Utilizing Data Disparities
+    for Model Performance Gains.'
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/HuXTQ24
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/457
+  url: https://dblp.org/rec/conf/ijcai/HuXTQ24
 federated%20venue%3AAAAI%3A:
 - &id368
   author: Xueyang Wu 0001, Hengguan Huang, Youlong Ding, Hao Wang 0014, Ye Wang 0007,
@@ -8103,6 +8114,16 @@ federated%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V38I19.30181
   ee: https://doi.org/10.1609/aaai.v38i19.30181
   url: https://dblp.org/rec/conf/aaai/ZhaoYW24
+- author: Jiarong Yang, Yuan Liu 0001
+  title: 'GAS: Generative Activation-Aided Asynchronous Split Federated Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/YangL25
+  doi: 10.1609/AAAI.V39I20.35503
+  ee: https://doi.org/10.1609/aaai.v39i20.35503
+  url: https://dblp.org/rec/conf/aaai/YangL25
 federated%20venue%3AAISTATS%3A:
 - &id618
   author: Safwan Labbi, Daniil Tiapkin, Lorenzo Mancini, Paul Mangold, Eric Moulines
@@ -11923,6 +11944,28 @@ federated%20venue%3ANeurIPS%3A:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2023/hash/1229eaae5bf1db93e1e4c539258eb472-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/WuSHLZH23
+- author: Mohammad Mahdi Kamani, Yuhang Yao 0003, Hanjia Lyu, Zhongwei Cheng, Lin
+    Chen 0021, Liangju Li, Carlee Joe-Wong, Jiebo Luo 0001
+  title: 'Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking.'
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/KamaniYLCCLJL23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/02b9d1e6d1b5295a6f883969ddc1bbbd-Abstract-Datasets_and_Benchmarks.html
+  url: https://dblp.org/rec/conf/nips/KamaniYLCCLJL23
+- author: Yuhang Yao 0003, Weizhao Jin, Srivatsan Ravi, Carlee Joe-Wong
+  title: 'FedGCN: Convergence-Communication Tradeoffs in Federated Training of Graph
+    Convolutional Networks.'
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/YaoJRJ23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/fc07feae9af49dd3f1a1e049b77f4e17-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/YaoJRJ23
 federated%20venue%3AICML%3A:
 - &id913
   author: Guan Huang 0004, Tao Shu
@@ -18100,6 +18143,16 @@ federated%20streamid%3Ajournals%2Fpami%3A:
   doi: 10.1109/TPAMI.2025.3601533
   ee: https://doi.org/10.1109/TPAMI.2025.3601533
   url: https://dblp.org/rec/journals/pami/LiuLWWLLH26
+- author: Yawei Zhao, Qinghe Liu, Pan Liu 0004, Xinwang Liu 0002, Kunlun He
+  title: Medical Federated Model With Mixture of Personalized and Shared Components.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/ZhaoLLLH25
+  doi: 10.1109/TPAMI.2024.3470072
+  ee: https://doi.org/10.1109/TPAMI.2024.3470072
+  url: https://dblp.org/rec/journals/pami/ZhaoLLLH25
 federated%20venue%3AKDD%3A:
 - &id1395
   author: Shanshan Han, Baturalp Buyukates, Zijian Hu 0001, Han Jin, Weizhao Jin,
@@ -19354,6 +19407,20 @@ federated%20venue%3AKDD%3A:
   doi: 10.1145/3534678.3539328
   ee: https://doi.org/10.1145/3534678.3539328
   url: https://dblp.org/rec/conf/kdd/LiPH22
+- author: Shanshan Han, Baturalp Buyukates, Zijian Hu 0001, Han Jin, Weizhao Jin,
+    Lichao Sun 0001, Xiaoyang Wang, Wenxuan Wu, Chulin Xie, Yuhang Yao 0003, Kai Zhang
+    0039, Qifan Zhang 0002, Yuhui Zhang, Carlee Joe-Wong, Salman Avestimehr, Chaoyang
+    He 0001
+  title: 'FedSecurity: A Benchmark for Attacks and Defenses in Federated Learning
+    and Federated LLMs.'
+  venue: KDD
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/HanB0JJ0WWXYZZZ24
+  doi: 10.1145/3637528.3671545
+  ee: https://doi.org/10.1145/3637528.3671545
+  url: https://dblp.org/rec/conf/kdd/HanB0JJ0WWXYZZZ24
 federated%20venue%3AWSDM%3A:
 - &id1490
   author: Yue Ding 0001, Yanbiao Ji, Xun Cai, Xin Xin 0003, Yuxiang Lu, Suizhi Huang,
@@ -37388,6 +37455,18 @@ model%20poisoning%20venue%3AWWW%3A:
   url: https://dblp.org/rec/conf/www/YouSDZPYF23
 - *id2810
 - *id2811
+- author: Hao Wang 0227, Shangwei Guo, Jialing He, Hangcheng Liu, Tianwei Zhang 0004,
+    Tao Xiang 0001
+  title: 'Model Supply Chain Poisoning: Backdooring Pre-trained Models via Embedding
+    Indistinguishability.'
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/WangGHLZX25
+  doi: 10.1145/3696410.3714624
+  ee: https://doi.org/10.1145/3696410.3714624
+  url: https://dblp.org/rec/conf/www/WangGHLZX25
 model%20poisoning%20streamid%3Aconf%2Fsp%3A:
 - &id2812
   author: Junlin Wu 0001, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang
@@ -52053,6 +52132,17 @@ federated%20streamid%3Ajournals%2Ftist%3A:
 - *id3904
 - *id3905
 - *id3906
+- author: Shucun Fu, Fang Dong 0001, Dian Shen, Runze Chen 0001, Jiangshan Hao
+  title: 'DESIGN: Online Device Selection and Edge Association for Federated Synergy
+    Learning-enabled AIoT.'
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/FuDSCH24
+  doi: 10.1145/3673237
+  ee: https://doi.org/10.1145/3673237
+  url: https://dblp.org/rec/journals/tist/FuDSCH24
 federated%20streamid%3Ajournals%2Ftitb%3A:
 - &id3907
   author: Abdulrahman Al-Dailami, Hulin Kuang, Jianxin Wang 0001
@@ -61032,6 +61122,28 @@ federated%20streamid%3Ajournals%2Fijon%3A:
   doi: 10.1016/J.NEUCOM.2025.131831
   ee: https://doi.org/10.1016/j.neucom.2025.131831
   url: https://dblp.org/rec/journals/ijon/LiWYZHL26
+- author: Xiaoshi Wang, Haiyan Kang
+  title: An enhanced method for hierarchical federated learning based on privacy metric
+    and adaptive differential privacy.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangK26
+  doi: 10.1016/J.NEUCOM.2025.132334
+  ee: https://doi.org/10.1016/j.neucom.2025.132334
+  url: https://dblp.org/rec/journals/ijon/WangK26
+- author: Jianli Zhao 0002, Jingwen Liu, Sheng Fang, Qingqian Guan, Liang Li
+  title: Federated intent-aware cross-domain recommendation via semantic alignment
+    and collaborative enhancement.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ZhaoLFGL26
+  doi: 10.1016/J.NEUCOM.2025.132442
+  ee: https://doi.org/10.1016/j.neucom.2025.132442
+  url: https://dblp.org/rec/journals/ijon/ZhaoLFGL26
 federated%20streamid%3Ajournals%2Fnca%3A:
 - &id4566
   author: Zaher Al Aghbari, Ahmed M. Khedr, Naveed Ahmed 0001, Shini Girija, Thar
@@ -69068,6 +69180,18 @@ model%20inference%20venue%3AEMNLP%3A:
 - *id5184
 - *id5185
 - *id5186
+- author: Dimitris Stripelis, Zhaozhuo Xu, Zijian Hu 0001, Alay Dilipbhai Shah, Han
+    Jin, Yuhang Yao 0003, Jipeng Zhang, Tong Zhang 0001, Salman Avestimehr, Chaoyang
+    He 0001
+  title: 'TensorOpera Router: A Multi-Model Router for Efficient LLM Inference.'
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/StripelisX0SJYZ24
+  doi: 10.18653/V1/2024.EMNLP-INDUSTRY.34
+  ee: https://doi.org/10.18653/v1/2024.emnlp-industry.34
+  url: https://dblp.org/rec/conf/emnlp/StripelisX0SJYZ24
 model%20inference%20venue%3ACOLING%3A:
 - &id5187
   author: Xu Sun 0001, Louis-Philippe Morency, Daisuke Okanohara, Yoshimasa Tsuruoka,
@@ -79824,6 +79948,17 @@ inference%20attack%20streamid%3Ajournals%2Ftifs%3A:
   doi: 10.1109/TIFS.2025.3640876
   ee: https://doi.org/10.1109/TIFS.2025.3640876
   url: https://dblp.org/rec/journals/tifs/SuQLMZ25
+- author: Haitao Su, Yue Qin, Zhenhua Li 0001, Xin Miao, Yuan Zhou 0007
+  title: 'Falcon: A Universal Text-Only Membership Inference Attack Framework Against
+    In-Context Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/SuQLMZ25
+  doi: 10.1109/TIFS.2025.3640876
+  ee: https://doi.org/10.1109/TIFS.2025.3640876
+  url: https://dblp.org/rec/journals/tifs/SuQLMZ25
 inference%20attack%20streamid%3Ajournals%2Ftissec%3A:
 - author: Rajagopal Venkatesaramani, Zhiyu Wan, Bradley A. Malin, Yevgeniy Vorobeychik
   title: Defending Against Membership Inference Attacks on Beacon Services.
@@ -87495,3 +87630,3202 @@ gradient%20attack%20streamid%3Ajournals%2Fnca%3A:
   doi: 10.1007/S00521-025-11135-3
   ee: https://doi.org/10.1007/s00521-025-11135-3
   url: https://dblp.org/rec/journals/nca/AhmedWAL25
+explainab%20transformer%20streamid%3Ajournals%2Fijon%3A:
+- author: Amal Ajayan, G. Kirubavathi Venkatesh, Iqbal H. Sarker
+  title: 'DistilXIDS: Efficient, lightweight and explainable transformer-based language
+    model for real-time network intrusion detection.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/AjayanVS26
+  doi: 10.1016/J.NEUCOM.2025.132398
+  ee: https://doi.org/10.1016/j.neucom.2025.132398
+  url: https://dblp.org/rec/journals/ijon/AjayanVS26
+few%20shot%20segmentation%20venue%3ANeurIPS%3A:
+- author: Yanpeng Sun, Qiang Chen 0007, Xiangyu He, Jian Wang 0066, Haocheng Feng,
+    Junyu Han, Errui Ding, Jian Cheng 0001, Zechao Li, Jingdong Wang 0001
+  title: 'Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters
+    Fine-tuning.'
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/SunCH0FHD0L022
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/f3bfbd65743e60c685a3845bd61ce15f-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/SunCH0FHD0L022
+- author: Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, Daiki Kimura, Takayuki Osogami,
+    Tadanobu Inoue
+  title: A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/SakaiQKKOI24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/2f75a57e9c71e8369da0150ea769d5a2-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/SakaiQKKOI24
+- author: Jintao Tong, Yixiong Zou, Yuhua Li 0003, Ruixuan Li 0001
+  title: Lightweight Frequency Masker for Cross-Domain Few-Shot Semantic Segmentation.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/TongZ0024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/af536fa4312b5b2e5c541156cd31e93b-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/TongZ0024
+- author: Lili Wei, Congyan Lang, Ziyi Chen, Tao Wang 0011, Yidong Li, Jun Liu 0036
+  title: Generated and Pseudo Content guided Prototype Refinement for Few-shot Point
+    Cloud Segmentation.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/WeiLCWLL24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/377d0752059d3d4686aa021b664a25dd-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WeiLCWLL24
+- author: Qianxiong Xu, Xuanyi Liu, Lanyun Zhu, Guosheng Lin, Cheng Long 0001, Ziyue
+    Li 0002, Rui Zhao 0001
+  title: Hybrid Mamba for Few-Shot Segmentation.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/XuLZL00024
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/86fe62e3b315d2578721562d9fd1a433-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/XuLZL00024
+- author: Muzhi Zhu, Yang Liu 0357, Zekai Luo, Chenchen Jing, Hao Chen 0041, Guangkai
+    Xu, Xinlong Wang, Chunhua Shen
+  title: Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation.
+  venue: NeurIPS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ZhuLLJCXWS24
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2024/hash/4b2a917e30e1bb1aff055b4d8c6c081c-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/ZhuLLJCXWS24
+- author: Yuan Wang 0064, Naisong Luo, Tianzhu Zhang 0001
+  title: 'Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation.'
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/WangLZ23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/6447714b83edcbed61dbe10371dd7ae5-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WangLZ23
+- author: Bin-Bin Gao, Xiaochen Chen, Zhongyi Huang, Congchong Nie, Jun Liu 0071,
+    Jinxiang Lai, Guannan Jiang, Xi Wang, Chengjie Wang
+  title: Decoupling Classifier for Boosting Few-shot Object Detection and Instance
+    Segmentation.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/GaoCHNLLJWW22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/764ba7236fb63743014fafbd87dd4f0e-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/GaoCHNLLJWW22
+- author: Siyu Jiao, Gengwei Zhang, Shant Navasardyan, Ling Chen 0006, Yao Zhao 0001,
+    Yunchao Wei, Honghui Shi
+  title: Mask Matching Transformer for Few-Shot Segmentation.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/JiaoZNC0WS22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/053a18c03e0844d0c484ba2861f8ae6c-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/JiaoZNC0WS22
+- author: Yuanwei Liu, Nian Liu 0002, Xiwen Yao, Junwei Han 0001
+  title: Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiuLYH22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/f7fef21d1fb3e950b12b50ad7f395e31-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiuLYH22
+- author: Jian-Wei Zhang 0015, Yifan Sun 0003, Yi Yang 0001, Wei Chen 0001
+  title: Feature-Proxy Transformer for Few-Shot Segmentation.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ZhangSYC22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/2ae33575c3374050654ae7802326c81d-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/ZhangSYC22
+- author: Gengwei Zhang, Guoliang Kang, Yi Yang 0001, Yunchao Wei
+  title: Few-Shot Segmentation via Cycle-Consistent Transformer.
+  venue: NeurIPS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ZhangKYW21
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2021/hash/b8b12f949378552c21f28deff8ba8eb6-Abstract.html
+  url: https://dblp.org/rec/conf/nips/ZhangKYW21
+few%20shot%20segmentation%20venue%3AICML%3A:
+- author: Changshuo Wang 0001, Xiang Fang, Prayag Tiwari
+  title: 'DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for
+    Few-shot Point Cloud Semantic Segmentation.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0001FT25
+  doi: ''
+  ee: https://openreview.net/forum?id=BGDSSSJWot
+  url: https://dblp.org/rec/conf/icml/0001FT25
+- author: Jintao Tong, Ran Ma, Yixiong Zou, Guangyao Chen, Yuhua Li 0003, Ruixuan
+    Li 0001
+  title: Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic
+    Segmentation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/TongMZC0025
+  doi: ''
+  ee: https://openreview.net/forum?id=Pokj70ZAxJ
+  url: https://dblp.org/rec/conf/icml/TongMZC0025
+- author: Jintao Tong, Yixiong Zou, Guangyao Chen, Yuhua Li 0003, Ruixuan Li 0001
+  title: Self-Disentanglement and Re-Composition for Cross-Domain Few-Shot Segmentation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/TongZC0025
+  doi: ''
+  ee: https://openreview.net/forum?id=LkgwdSzlb6
+  url: https://dblp.org/rec/conf/icml/TongZC0025
+- author: Qianxiong Xu, Lanyun Zhu, Xuanyi Liu, Guosheng Lin, Cheng Long 0001, Ziyue
+    Li 0002, Rui Zhao 0001
+  title: Unlocking the Power of SAM 2 for Few-Shot Segmentation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/XuZLL00025
+  doi: ''
+  ee: https://openreview.net/forum?id=TQtUTC3eKv
+  url: https://dblp.org/rec/conf/icml/XuZLL00025
+- author: Yuanwei Liu, Junwei Han 0001, Xiwen Yao, Salman Khan 0001, Hisham Cholakkal,
+    Rao Muhammad Anwer, Nian Liu 0002, Fahad Shahbaz Khan
+  title: Bidirectional Reciprocative Information Communication for Few-Shot Semantic
+    Segmentation.
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LiuHY0CALK24
+  doi: ''
+  ee: https://openreview.net/forum?id=uRz9GZN17X
+  url: https://dblp.org/rec/conf/icml/LiuHY0CALK24
+few%20shot%20segmentation%20venue%3AICLR%3A:
+- author: Zhaochong An, Guolei Sun, Yun Liu 0011, Runjia Li, Min Wu 0008, Ming-Ming
+    Cheng, Ender Konukoglu, Serge J. Belongie
+  title: Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation.
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/AnS0L0CKB25
+  doi: ''
+  ee: https://openreview.net/forum?id=jXvwJ51vcK
+  url: https://dblp.org/rec/conf/iclr/AnS0L0CKB25
+- author: Zhengdong Hu, Yifan Sun 0003, Yi Yang 0001
+  title: 'Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot Segmentation.'
+  venue: ICLR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/Hu0023
+  doi: ''
+  ee: https://openreview.net/forum?id=CGuvK3U09LH
+  url: https://dblp.org/rec/conf/iclr/Hu0023
+- author: Kate Rakelly, Evan Shelhamer, Trevor Darrell, Alyosha A. Efros, Sergey Levine
+  title: Conditional Networks for Few-Shot Semantic Segmentation.
+  venue: ICLR
+  year: '2018'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/RakellySDEL18
+  doi: ''
+  ee: https://openreview.net/forum?id=SkMjFKJwG
+  url: https://dblp.org/rec/conf/iclr/RakellySDEL18
+few%20shot%20segmentation%20venue%3ACVPR%3A:
+- author: Zhaochong An, Guolei Sun, Yun Liu 0011, Runjia Li, Junlin Han, Ender Konukoglu,
+    Serge J. Belongie
+  title: Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/AnSLLHKB25
+  doi: 10.1109/CVPR52734.2025.01584
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/An_Generalized_Few-shot_3D_Point_Cloud_Segmentation_with_Vision-Language_Model_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/AnSLLHKB25
+- author: Amin Karimi, Charalambos Poullis
+  title: 'DSV-LFS: Unifying LLM-Driven Semantic Cues with Visual Features for Robust
+    Few-Shot Segmentation.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/KarimiP25
+  doi: 10.1109/CVPR52734.2025.00432
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Karimi_DSV-LFS_Unifying_LLM-Driven_Semantic_Cues_with_Visual_Features_for_Robust_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/KarimiP25
+- author: Zhaoyang Li, Yuan Wang 0064, Wangkai Li, Tianzhu Zhang 0001, Xiang Liu 0020
+  title: Dual-Agent Optimization framework for Cross-Domain Few-Shot Segmentation.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/LiWLZL25
+  doi: 10.1109/CVPR52734.2025.00920
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/LiWLZL25
+- author: Yuhan Liu, Yixiong Zou, Yuhua Li 0003, Ruixuan Li 0001
+  title: The Devil is in Low-Level Features for Cross-Domain Few-Shot Segmentation.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/LiuZ0025
+  doi: 10.1109/CVPR52734.2025.00435
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Liu_The_Devil_is_in_Low-Level_Features_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/LiuZ0025
+- author: Srinivasa Rao Nandam, Sara Atito 0001, Zhenhua Feng 0001, Josef Kittler,
+    Muhammad Awais 0001
+  title: Text Augmented Correlation Transformer For Few-shot Classification &amp;
+    Segmentation.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/Nandam00K025
+  doi: 10.1109/CVPR52734.2025.02361
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Nandam_Text_Augmented_Correlation_Transformer_For_Few-shot_Classification__Segmentation_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/Nandam00K025
+- author: Tanuj Sur, Samrat Mukherjee, Kaizer Rahaman, Subhasis Chaudhuri, Muhammad
+    Haris Khan, Biplab Banerjee
+  title: Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation.
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/SurMRCKB25
+  doi: 10.1109/CVPR52734.2025.01103
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/SurMRCKB25
+- author: Jiahao Nie 0002, Yun Xing 0001, Gongjie Zhang, Pei Yan, Aoran Xiao, Yap-Peng
+    Tan, Alex C. Kot, Shijian Lu
+  title: Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence
+    Mining.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/00020ZYXTKL24
+  doi: 10.1109/CVPR52733.2024.00325
+  ee: https://doi.org/10.1109/CVPR52733.2024.00325
+  url: https://dblp.org/rec/conf/cvpr/00020ZYXTKL24
+- author: Zhaochong An, Guolei Sun, Yun Liu 0011, Fayao Liu, Zongwei Wu, Dan Wang,
+    Luc Van Gool, Serge J. Belongie
+  title: Rethinking Few-shot 3D Point Cloud Semantic Segmentation.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/AnS0LWWGB24
+  doi: 10.1109/CVPR52733.2024.00383
+  ee: https://doi.org/10.1109/CVPR52733.2024.00383
+  url: https://dblp.org/rec/conf/cvpr/AnS0LWWGB24
+- author: Weizhao He, Yang Zhang 0012, Wei Zhuo, Linlin Shen, Jiaqi Yang, Songhe Deng,
+    Liang Sun
+  title: 'APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation.'
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/HeZZSYDS24
+  doi: 10.1109/CVPR52733.2024.02243
+  ee: https://doi.org/10.1109/CVPR52733.2024.02243
+  url: https://dblp.org/rec/conf/cvpr/HeZZSYDS24
+- author: Jonas Herzog
+  title: 'Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation.'
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/Herzog24
+  doi: 10.1109/CVPR52733.2024.02228
+  ee: https://doi.org/10.1109/CVPR52733.2024.02228
+  url: https://dblp.org/rec/conf/cvpr/Herzog24
+- author: Mir Rayat Imtiaz Hossain, Mennatullah Siam, Leonid Sigal, James J. Little
+  title: 'Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach.'
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/HossainSSL24
+  doi: 10.1109/CVPR52733.2024.02215
+  ee: https://doi.org/10.1109/CVPR52733.2024.02215
+  url: https://dblp.org/rec/conf/cvpr/HossainSSL24
+- author: Jiapeng Su, Qi Fan, Wenjie Pei, Guangming Lu 0002, Fanglin Chen 0001
+  title: Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/SuFPL024
+  doi: 10.1109/CVPR52733.2024.02269
+  ee: https://doi.org/10.1109/CVPR52733.2024.02269
+  url: https://dblp.org/rec/conf/cvpr/SuFPL024
+- author: Jin Wang, Bingfeng Zhang, Jian Pang, Honglong Chen, Weifeng Liu 0001
+  title: Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/WangZPC024
+  doi: 10.1109/CVPR52733.2024.00378
+  ee: https://doi.org/10.1109/CVPR52733.2024.00378
+  url: https://dblp.org/rec/conf/cvpr/WangZPC024
+- author: Ziqin Zhou, Hai-Ming Xu, Yangyang Shu, Lingqiao Liu
+  title: Unlocking the Potential of Pre-Trained Vision Transformers for Few-Shot Semantic
+    Segmentation through Relationship Descriptors.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/ZhouXSL24
+  doi: 10.1109/CVPR52733.2024.00366
+  ee: https://doi.org/10.1109/CVPR52733.2024.00366
+  url: https://dblp.org/rec/conf/cvpr/ZhouXSL24
+- author: Lanyun Zhu, Tianrun Chen, Deyi Ji, Jieping Ye, Jun Liu 0036
+  title: 'LLaFS: When Large Language Models Meet Few-Shot Segmentation.'
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/ZhuCJY024
+  doi: 10.1109/CVPR52733.2024.00296
+  ee: https://doi.org/10.1109/CVPR52733.2024.00296
+  url: https://dblp.org/rec/conf/cvpr/ZhuCJY024
+- author: Lanyun Zhu, Tianrun Chen, Jianxiong Yin, Simon See, Jun Liu 0036
+  title: Addressing Background Context Bias in Few-Shot Segmentation Through Iterative
+    Modulation.
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/ZhuCYSL24
+  doi: 10.1109/CVPR52733.2024.00324
+  ee: https://doi.org/10.1109/CVPR52733.2024.00324
+  url: https://dblp.org/rec/conf/cvpr/ZhuCYSL24
+- author: Xiangyang Zhu, Renrui Zhang, Bowei He, Ziyu Guo, Jiaming Liu 0003, Han Xiao
+    0010, Chaoyou Fu, Hao Dong 0003, Peng Gao 0007
+  title: 'No Time to Train: Empowering Non-Parametric Networks for Few-Shot 3D Scene
+    Segmentation.'
+  venue: CVPR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/ZhuZHGLXF0G24
+  doi: 10.1109/CVPR52733.2024.00368
+  ee: https://doi.org/10.1109/CVPR52733.2024.00368
+  url: https://dblp.org/rec/conf/cvpr/ZhuZHGLXF0G24
+- author: Sina Hajimiri, Malik Boudiaf, Ismail Ben Ayed, Jose Dolz
+  title: A Strong Baseline for Generalized Few-Shot Semantic Segmentation.
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/HajimiriBAD23
+  doi: 10.1109/CVPR52729.2023.01084
+  ee: https://doi.org/10.1109/CVPR52729.2023.01084
+  url: https://dblp.org/rec/conf/cvpr/HajimiriBAD23
+- author: Shiqi Huang, Tingfa Xu, Ning Shen, Feng Mu, Jianan Li 0001
+  title: 'Rethinking Few-Shot Medical Segmentation: A Vector Quantization View.'
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/HuangXSML23
+  doi: 10.1109/CVPR52729.2023.00300
+  ee: https://doi.org/10.1109/CVPR52729.2023.00300
+  url: https://dblp.org/rec/conf/cvpr/HuangXSML23
+- author: Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran,
+    Onkar Dabeer
+  title: 'WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation.'
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/JeongZKZRD23
+  doi: 10.1109/CVPR52729.2023.01878
+  ee: https://doi.org/10.1109/CVPR52729.2023.01878
+  url: https://dblp.org/rec/conf/cvpr/JeongZKZRD23
+- author: Dahyun Kang, Piotr Koniusz, Minsu Cho, Naila Murray
+  title: Distilling Self-Supervised Vision Transformers for Weakly-Supervised Few-Shot
+    Classification &amp; Segmentation.
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/KangKCM23
+  doi: 10.1109/CVPR52729.2023.01880
+  ee: https://doi.org/10.1109/CVPR52729.2023.01880
+  url: https://dblp.org/rec/conf/cvpr/KangKCM23
+- author: Sun&apos;ao Liu, Yiheng Zhang, Zhaofan Qiu, Hongtao Xie, Yongdong Zhang
+    0001, Ting Yao 0003
+  title: Learning Orthogonal Prototypes for Generalized Few-Shot Semantic Segmentation.
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/LiuZQX0Y23
+  doi: 10.1109/CVPR52729.2023.01089
+  ee: https://doi.org/10.1109/CVPR52729.2023.01089
+  url: https://dblp.org/rec/conf/cvpr/LiuZQX0Y23
+- author: Bohao Peng, Zhuotao Tian, Xiaoyang Wu 0002, Chengyao Wang, Shu Liu 0005,
+    Jingyong Su, Jiaya Jia
+  title: Hierarchical Dense Correlation Distillation for Few-Shot Segmentation.
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/PengTWWLSJ23
+  doi: 10.1109/CVPR52729.2023.02264
+  ee: https://doi.org/10.1109/CVPR52729.2023.02264
+  url: https://dblp.org/rec/conf/cvpr/PengTWWLSJ23
+- author: Yuan Wang 0064, Rui Sun 0006, Tianzhu Zhang 0001
+  title: 'Rethinking the Correlation in Few-Shot Segmentation: A Buoys View.'
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/WangSZ23
+  doi: 10.1109/CVPR52729.2023.00694
+  ee: https://doi.org/10.1109/CVPR52729.2023.00694
+  url: https://dblp.org/rec/conf/cvpr/WangSZ23
+- author: Yong Yang, Qiong Chen, Yuan Feng, Tianlin Huang
+  title: 'MIANet: Aggregating Unbiased Instance and General Information for Few-Shot
+    Semantic Segmentation.'
+  venue: CVPR
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/YangCFH23
+  doi: 10.1109/CVPR52729.2023.00689
+  ee: https://doi.org/10.1109/CVPR52729.2023.00689
+  url: https://dblp.org/rec/conf/cvpr/YangCFH23
+- author: Dahyun Kang, Minsu Cho
+  title: Integrative Few-Shot Learning for Classification and Segmentation.
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/KangC22
+  doi: 10.1109/CVPR52688.2022.00974
+  ee: https://doi.org/10.1109/CVPR52688.2022.00974
+  url: https://dblp.org/rec/conf/cvpr/KangC22
+- author: Chunbo Lang, Gong Cheng 0003, Binfei Tu, Junwei Han 0001
+  title: 'Learning What Not to Segment: A New Perspective on Few-Shot Segmentation.'
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/Lang0TH22
+  doi: 10.1109/CVPR52688.2022.00789
+  ee: https://doi.org/10.1109/CVPR52688.2022.00789
+  url: https://dblp.org/rec/conf/cvpr/Lang0TH22
+- author: Jie Liu 0043, Yanqi Bao, Guo-Sen Xie, Huan Xiong, Jan-Jakob Sonke, Efstratios
+    Gavves
+  title: Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation.
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/LiuBXXSG22
+  doi: 10.1109/CVPR52688.2022.01126
+  ee: https://doi.org/10.1109/CVPR52688.2022.01126
+  url: https://dblp.org/rec/conf/cvpr/LiuBXXSG22
+- author: Yuanwei Liu, Nian Liu 0002, Qinglong Cao, Xiwen Yao, Junwei Han 0001, Ling
+    Shao 0001
+  title: Learning Non-target Knowledge for Few-shot Semantic Segmentation.
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/LiuLCYH022
+  doi: 10.1109/CVPR52688.2022.01128
+  ee: https://doi.org/10.1109/CVPR52688.2022.01128
+  url: https://dblp.org/rec/conf/cvpr/LiuLCYH022
+- author: Oindrila Saha, Zezhou Cheng, Subhransu Maji
+  title: 'GANORCON: Are Generative Models Useful for Few-shot Segmentation?'
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/SahaCM22
+  doi: 10.1109/CVPR52688.2022.00975
+  ee: https://doi.org/10.1109/CVPR52688.2022.00975
+  url: https://dblp.org/rec/conf/cvpr/SahaCM22
+- author: Zhuotao Tian, Xin Lai, Li Jiang 0009, Shu Liu 0005, Michelle Shu, Hengshuang
+    Zhao, Jiaya Jia
+  title: Generalized Few-shot Semantic Segmentation.
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/TianLJ0SZJ22
+  doi: 10.1109/CVPR52688.2022.01127
+  ee: https://doi.org/10.1109/CVPR52688.2022.01127
+  url: https://dblp.org/rec/conf/cvpr/TianLJ0SZJ22
+- author: Wenjian Wang, Lijuan Duan, Yuxi Wang 0001, Qing En, Junsong Fan, Zhaoxiang
+    Zhang 0001
+  title: 'Remember the Difference: Cross-Domain Few-Shot Semantic Segmentation via
+    Meta-Memory Transfer.'
+  venue: CVPR
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cvpr/WangDWEFZ22
+  doi: 10.1109/CVPR52688.2022.00693
+  ee: https://doi.org/10.1109/CVPR52688.2022.00693
+  url: https://dblp.org/rec/conf/cvpr/WangDWEFZ22
+- author: Malik Boudiaf, Hoel Kervadec, Imtiaz Masud Ziko, Pablo Piantanida, Ismail
+    Ben Ayed, Jose Dolz
+  title: 'Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference
+    Is All You Need?'
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/BoudiafKZPAD21
+  doi: 10.1109/CVPR46437.2021.01376
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Boudiaf_Few-Shot_Segmentation_Without_Meta-Learning_A_Good_Transductive_Inference_Is_All_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/BoudiafKZPAD21
+- author: Haoxin Chen, Hanjie Wu, Nanxuan Zhao, Sucheng Ren, Shengfeng He
+  title: Delving Deep Into Many-to-Many Attention for Few-Shot Video Object Segmentation.
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/ChenWZRH21
+  doi: 10.1109/CVPR46437.2021.01382
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Delving_Deep_Into_Many-to-Many_Attention_for_Few-Shot_Video_Object_Segmentation_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ChenWZRH21
+- author: Dan Andrei Ganea, Bas Boom, Ronald Poppe
+  title: Incremental Few-Shot Instance Segmentation.
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/GaneaBP21
+  doi: 10.1109/CVPR46437.2021.00124
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Ganea_Incremental_Few-Shot_Instance_Segmentation_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/GaneaBP21
+- author: Gen Li 0008, Varun Jampani, Laura Sevilla-Lara, Deqing Sun, Jonghyun Kim,
+    Joongkyu Kim
+  title: Adaptive Prototype Learning and Allocation for Few-Shot Segmentation.
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/LiJSSKK21
+  doi: 10.1109/CVPR46437.2021.00823
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Adaptive_Prototype_Learning_and_Allocation_for_Few-Shot_Segmentation_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/LiJSSKK21
+- author: Binghao Liu, Yao Ding 0006, Jianbin Jiao, Xiangyang Ji, Qixiang Ye
+  title: Anti-Aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation.
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/Liu0JJY21
+  doi: 10.1109/CVPR46437.2021.00962
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Anti-Aliasing_Semantic_Reconstruction_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/Liu0JJY21
+- author: Guo-Sen Xie, Jie Liu 0043, Huan Xiong, Ling Shao 0001
+  title: Scale-Aware Graph Neural Network for Few-Shot Semantic Segmentation.
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/XieLX021
+  doi: 10.1109/CVPR46437.2021.00543
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Xie_Scale-Aware_Graph_Neural_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/XieLX021
+- author: Bingfeng Zhang, Jimin Xiao, Terry Qin
+  title: Self-Guided and Cross-Guided Learning for Few-Shot Segmentation.
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/ZhangXQ21
+  doi: 10.1109/CVPR46437.2021.00821
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Self-Guided_and_Cross-Guided_Learning_for_Few-Shot_Segmentation_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ZhangXQ21
+- author: Na Zhao 0004, Tat-Seng Chua, Gim Hee Lee
+  title: Few-Shot 3D Point Cloud Semantic Segmentation.
+  venue: CVPR
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/ZhaoCL21
+  doi: 10.1109/CVPR46437.2021.00876
+  ee: https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ZhaoCL21
+- author: Zhibo Fan, Jin-Gang Yu, Zhihao Liang, Jiarong Ou, Changxin Gao, Gui-Song
+    Xia, Yuanqing Li 0001
+  title: 'FGN: Fully Guided Network for Few-Shot Instance Segmentation.'
+  venue: CVPR
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/FanYLOGXL20
+  doi: 10.1109/CVPR42600.2020.00919
+  ee: https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_FGN_Fully_Guided_Network_for_Few-Shot_Instance_Segmentation_CVPR_2020_paper.html
+  url: https://dblp.org/rec/conf/cvpr/FanYLOGXL20
+- author: Xiang Li, Tianhan Wei, Yau Pun Chen, Yu-Wing Tai, Chi-Keung Tang
+  title: 'FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation.'
+  venue: CVPR
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/LiWCTT20
+  doi: 10.1109/CVPR42600.2020.00294
+  ee: https://openaccess.thecvf.com/content_CVPR_2020/html/Li_FSS-1000_A_1000-Class_Dataset_for_Few-Shot_Segmentation_CVPR_2020_paper.html
+  url: https://dblp.org/rec/conf/cvpr/LiWCTT20
+- author: Weide Liu, Chi Zhang 0007, Guosheng Lin, Fayao Liu
+  title: 'CRNet: Cross-Reference Networks for Few-Shot Segmentation.'
+  venue: CVPR
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/LiuZLL20
+  doi: 10.1109/CVPR42600.2020.00422
+  ee: https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_CRNet_Cross-Reference_Networks_for_Few-Shot_Segmentation_CVPR_2020_paper.html
+  url: https://dblp.org/rec/conf/cvpr/LiuZLL20
+- author: Lingjing Wang, Xiang Li 0046, Yi Fang 0006
+  title: Few-Shot Learning of Part-Specific Probability Space for 3D Shape Segmentation.
+  venue: CVPR
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/WangLF20
+  doi: 10.1109/CVPR42600.2020.00456
+  ee: https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Few-Shot_Learning_of_Part-Specific_Probability_Space_for_3D_Shape_Segmentation_CVPR_2020_paper.html
+  url: https://dblp.org/rec/conf/cvpr/WangLF20
+- author: Chi Zhang 0007, Guosheng Lin, Fayao Liu, Rui Yao 0006, Chunhua Shen
+  title: 'CANet: Class-Agnostic Segmentation Networks With Iterative Refinement and
+    Attentive Few-Shot Learning.'
+  venue: CVPR
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/ZhangLLYS19
+  doi: 10.1109/CVPR.2019.00536
+  ee: http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_CANet_Class-Agnostic_Segmentation_Networks_With_Iterative_Refinement_and_Attentive_Few-Shot_CVPR_2019_paper.html
+  url: https://dblp.org/rec/conf/cvpr/ZhangLLYS19
+few%20shot%20segmentation%20venue%3AICCV%3A:
+- author: Kai Huang, Feigege Wang, Ye Xi, Yutao Gao
+  title: Prototypical Kernel Learning and Open-set Foreground Perception for Generalized
+    Few-shot Semantic Segmentation.
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/HuangWXG23
+  doi: 10.1109/ICCV51070.2023.01764
+  ee: https://doi.org/10.1109/ICCV51070.2023.01764
+  url: https://dblp.org/rec/conf/iccv/HuangWXG23
+- author: Nian Liu 0002, Kepan Nan, Wangbo Zhao, Yuanwei Liu, Xiwen Yao, Salman Khan
+    0001, Hisham Cholakkal, Rao Muhammad Anwer, Junwei Han 0001, Fahad Shahbaz Khan
+  title: Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation.
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/LiuNZLYKCAHK23
+  doi: 10.1109/ICCV51070.2023.01729
+  ee: https://doi.org/10.1109/ICCV51070.2023.01729
+  url: https://dblp.org/rec/conf/iccv/LiuNZLYKCAHK23
+- author: Seonghyeon Moon, Samuel S. Sohn, Honglu Zhou, Sejong Yoon, Vladimir Pavlovic
+    0001, Muhammad Haris Khan, Mubbasir Kapadia
+  title: 'MSI: Maximize Support-Set Information for Few-Shot Segmentation.'
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/MoonSZY0KK23
+  doi: 10.1109/ICCV51070.2023.01765
+  ee: https://doi.org/10.1109/ICCV51070.2023.01765
+  url: https://dblp.org/rec/conf/iccv/MoonSZY0KK23
+- author: Qianxiong Xu, Wenting Zhao 0001, Guosheng Lin, Cheng Long 0001
+  title: Self-Calibrated Cross Attention Network for Few-Shot Segmentation.
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/Xu0LL23
+  doi: 10.1109/ICCV51070.2023.00067
+  ee: https://doi.org/10.1109/ICCV51070.2023.00067
+  url: https://dblp.org/rec/conf/iccv/Xu0LL23
+- author: Yating Xu, Conghui Hu, Na Zhao 0004, Gim Hee Lee
+  title: Generalized Few-Shot Point Cloud Segmentation Via Geometric Words.
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/XuH0L23
+  doi: 10.1109/ICCV51070.2023.01966
+  ee: https://doi.org/10.1109/ICCV51070.2023.01966
+  url: https://dblp.org/rec/conf/iccv/XuH0L23
+- author: Jie Liu 0043, Yingjun Du, Zehao Xiao, Cees G. M. Snoek, Jan-Jakob Sonke,
+    Efstratios Gavves
+  title: Memory-augmented Variational Adaptation for Online Few-shot Segmentation.
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccvw/LiuDXSSG23
+  doi: 10.1109/ICCVW60793.2023.00357
+  ee: https://doi.org/10.1109/ICCVW60793.2023.00357
+  url: https://dblp.org/rec/conf/iccvw/LiuDXSSG23
+- author: "Laurenz Reichardt, Nikolas Ebert, Oliver Wasenm\xFCller"
+  title: "360\xB0 from a Single Camera: A Few-Shot Approach for LiDAR Segmentation."
+  venue: ICCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccvw/ReichardtEW23
+  doi: 10.1109/ICCVW60793.2023.00115
+  ee: https://doi.org/10.1109/ICCVW60793.2023.00115
+  url: https://dblp.org/rec/conf/iccvw/ReichardtEW23
+- author: Zhihe Lu, Sen He 0001, Xiatian Zhu, Li Zhang 0040, Yi-Zhe Song, Tao Xiang
+    0002
+  title: 'Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight
+    Transformer.'
+  venue: ICCV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/LuHZ0SX21
+  doi: 10.1109/ICCV48922.2021.00862
+  ee: https://doi.org/10.1109/ICCV48922.2021.00862
+  url: https://dblp.org/rec/conf/iccv/LuHZ0SX21
+- author: Hao Tang 0010, Xingwei Liu, Shanlin Sun, Xiangyi Yan, Xiaohui Xie
+  title: Recurrent Mask Refinement for Few-Shot Medical Image Segmentation.
+  venue: ICCV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/TangLSYX21
+  doi: 10.1109/ICCV48922.2021.00389
+  ee: https://doi.org/10.1109/ICCV48922.2021.00389
+  url: https://dblp.org/rec/conf/iccv/TangLSYX21
+- author: Zhonghua Wu, Xiangxi Shi, Guosheng Lin, Jianfei Cai 0001
+  title: Learning Meta-class Memory for Few-Shot Semantic Segmentation.
+  venue: ICCV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/WuSL021
+  doi: 10.1109/ICCV48922.2021.00056
+  ee: https://doi.org/10.1109/ICCV48922.2021.00056
+  url: https://dblp.org/rec/conf/iccv/WuSL021
+- author: Guo-Sen Xie, Huan Xiong, Jie Liu 0043, Yazhou Yao, Ling Shao 0001
+  title: Few-Shot Semantic Segmentation with Cyclic Memory Network.
+  venue: ICCV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/XieXLY021
+  doi: 10.1109/ICCV48922.2021.00720
+  ee: https://doi.org/10.1109/ICCV48922.2021.00720
+  url: https://dblp.org/rec/conf/iccv/XieXLY021
+- author: Lihe Yang, Wei Zhuo, Lei Qi 0001, Yinghuan Shi, Yang Gao 0001
+  title: Mining Latent Classes for Few-shot Segmentation.
+  venue: ICCV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/YangZ0S021
+  doi: 10.1109/ICCV48922.2021.00860
+  ee: https://doi.org/10.1109/ICCV48922.2021.00860
+  url: https://dblp.org/rec/conf/iccv/YangZ0S021
+- author: Khoi Nguyen 0001, Sinisa Todorovic
+  title: Feature Weighting and Boosting for Few-Shot Segmentation.
+  venue: ICCV
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/NguyenT19
+  doi: 10.1109/ICCV.2019.00071
+  ee: https://doi.org/10.1109/ICCV.2019.00071
+  url: https://dblp.org/rec/conf/iccv/NguyenT19
+- author: "Mennatullah Siam, Boris N. Oreshkin, Martin J\xE4gersand"
+  title: 'AMP: Adaptive Masked Proxies for Few-Shot Segmentation.'
+  venue: ICCV
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/SiamOJ19
+  doi: 10.1109/ICCV.2019.00535
+  ee: https://doi.org/10.1109/ICCV.2019.00535
+  url: https://dblp.org/rec/conf/iccv/SiamOJ19
+- author: Kaixin Wang, Jun Hao Liew, Yingtian Zou, Daquan Zhou, Jiashi Feng
+  title: 'PANet: Few-Shot Image Semantic Segmentation With Prototype Alignment.'
+  venue: ICCV
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccv/WangLZZF19
+  doi: 10.1109/ICCV.2019.00929
+  ee: https://doi.org/10.1109/ICCV.2019.00929
+  url: https://dblp.org/rec/conf/iccv/WangLZZF19
+few%20shot%20segmentation%20venue%3AECCV%3A:
+- author: Guan Gui 0003, Bin-Bin Gao, Jun Liu 0071, Chengjie Wang, Yunsheng Wu
+  title: Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation.
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/GuiGLWW24
+  doi: 10.1007/978-3-031-73010-8_13
+  ee: https://doi.org/10.1007/978-3-031-73010-8_13
+  url: https://dblp.org/rec/conf/eccv/GuiGLWW24
+- author: Zhaoyang Li, Yuan Wang 0064, Wangkai Li, Rui Sun 0006, Tianzhu Zhang 0001
+  title: 'Localization and Expansion: A Decoupled Framework for Point Cloud Few-Shot
+    Semantic Segmentation.'
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/LiWLSZ24
+  doi: 10.1007/978-3-031-73464-9_2
+  ee: https://doi.org/10.1007/978-3-031-73464-9_2
+  url: https://dblp.org/rec/conf/eccv/LiWLSZ24
+- author: Ri-Zhao Qiu, Yu-Xiong Wang, Kris Hauser
+  title: 'AlignDiff: Aligning Diffusion Models for General Few-Shot Segmentation.'
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/QiuWH24
+  doi: 10.1007/978-3-031-72940-9_22
+  ee: https://doi.org/10.1007/978-3-031-72940-9_22
+  url: https://dblp.org/rec/conf/eccv/QiuWH24
+- author: Chih-Jung Tsai, Hwann-Tzong Chen, Tyng-Luh Liu
+  title: Pseudo-embedding for Generalized Few-Shot 3D Segmentation.
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/TsaiCL24a
+  doi: 10.1007/978-3-031-72764-1_22
+  ee: https://doi.org/10.1007/978-3-031-72764-1_22
+  url: https://dblp.org/rec/conf/eccv/TsaiCL24a
+- author: Qianxiong Xu, Guosheng Lin, Chen Change Loy, Cheng Long 0001, Ziyue Li 0002,
+    Rui Zhao 0001
+  title: Eliminating Feature Ambiguity for Few-Shot Segmentation.
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/XuLLLLZ24
+  doi: 10.1007/978-3-031-72646-0_24
+  ee: https://doi.org/10.1007/978-3-031-72646-0_24
+  url: https://dblp.org/rec/conf/eccv/XuLLLLZ24
+- author: Qi Fan, Wenjie Pei, Yu-Wing Tai, Chi-Keung Tang
+  title: Self-support Few-Shot Semantic Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/FanPTT22
+  doi: 10.1007/978-3-031-19800-7_41
+  ee: https://doi.org/10.1007/978-3-031-19800-7_41
+  url: https://dblp.org/rec/conf/eccv/FanPTT22
+- author: Sunghwan Hong, Seokju Cho, Jisu Nam, Stephen Lin 0001, Seungryong Kim
+  title: Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/HongCNLK22
+  doi: 10.1007/978-3-031-19818-2_7
+  ee: https://doi.org/10.1007/978-3-031-19818-2_7
+  url: https://dblp.org/rec/conf/eccv/HongCNLK22
+- author: Joakim Johnander, Johan Edstedt, Michael Felsberg, Fahad Shahbaz Khan, Martin
+    Danelljan
+  title: Dense Gaussian Processes for Few-Shot Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/JohnanderEFKD22
+  doi: 10.1007/978-3-031-19818-2_13
+  ee: https://doi.org/10.1007/978-3-031-19818-2_13
+  url: https://dblp.org/rec/conf/eccv/JohnanderEFKD22
+- author: Shuo Lei, Xuchao Zhang, Jianfeng He, Fanglan Chen, Bowen Du 0001, Chang-Tien
+    Lu
+  title: Cross-Domain Few-Shot Semantic Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/LeiZHCDL22
+  doi: 10.1007/978-3-031-20056-4_5
+  ee: https://doi.org/10.1007/978-3-031-20056-4_5
+  url: https://dblp.org/rec/conf/eccv/LeiZHCDL22
+- author: Seonghyeon Moon, Samuel S. Sohn, Honglu Zhou, Sejong Yoon, Vladimir Pavlovic
+    0001, Muhammad Haris Khan, Mubbasir Kapadia
+  title: 'HM: Hybrid Masking for Few-Shot Segmentation.'
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/MoonSZYPKK22
+  doi: 10.1007/978-3-031-20044-1_29
+  ee: https://doi.org/10.1007/978-3-031-20044-1_29
+  url: https://dblp.org/rec/conf/eccv/MoonSZYPKK22
+- author: Atsuro Okazawa
+  title: Interclass Prototype Relation for Few-Shot Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/Okazawa22
+  doi: 10.1007/978-3-031-19818-2_21
+  ee: https://doi.org/10.1007/978-3-031-19818-2_21
+  url: https://dblp.org/rec/conf/eccv/Okazawa22
+- author: Oindrila Saha, Zezhou Cheng, Subhransu Maji
+  title: Improving Few-Shot Part Segmentation Using Coarse Supervision.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/SahaCM22
+  doi: 10.1007/978-3-031-20056-4_17
+  ee: https://doi.org/10.1007/978-3-031-20056-4_17
+  url: https://dblp.org/rec/conf/eccv/SahaCM22
+- author: Xinyu Shi 0003, Dong Wei 0004, Yu Zhang 0185, Donghuan Lu, Munan Ning, Jiashun
+    Chen, Kai Ma 0002, Yefeng Zheng 0001
+  title: Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot
+    Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/ShiWZLNCMZ22
+  doi: 10.1007/978-3-031-20044-1_9
+  ee: https://doi.org/10.1007/978-3-031-20044-1_9
+  url: https://dblp.org/rec/conf/eccv/ShiWZLNCMZ22
+- author: Yuan Wang 0064, Rui Sun 0006, Zhe Zhang, Tianzhu Zhang 0001
+  title: Adaptive Agent Transformer for Few-Shot Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/WangSZZ22
+  doi: 10.1007/978-3-031-19818-2_3
+  ee: https://doi.org/10.1007/978-3-031-19818-2_3
+  url: https://dblp.org/rec/conf/eccv/WangSZZ22
+- author: Huisi Wu, Fangyan Xiao, Chongxin Liang
+  title: Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-Shot
+    Medical Image Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/WuXL22
+  doi: 10.1007/978-3-031-20044-1_24
+  ee: https://doi.org/10.1007/978-3-031-20044-1_24
+  url: https://dblp.org/rec/conf/eccv/WuXL22
+- author: Zhitong Xiong, Haopeng Li 0001, Xiao Xiang Zhu 0001
+  title: Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation.
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/XiongLZ22
+  doi: 10.1007/978-3-031-20044-1_8
+  ee: https://doi.org/10.1007/978-3-031-20044-1_8
+  url: https://dblp.org/rec/conf/eccv/XiongLZ22
+- author: Pengwan Yang, Yuki M. Asano, Pascal Mettes, Cees G. M. Snoek
+  title: 'Less Than Few: Self-shot Video Instance Segmentation.'
+  venue: ECCV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/YangAMS22
+  doi: 10.1007/978-3-031-19830-4_26
+  ee: https://doi.org/10.1007/978-3-031-19830-4_26
+  url: https://dblp.org/rec/conf/eccv/YangAMS22
+- author: Yuting He 0001, Tiantian Li, Guanyu Yang 0001, Youyong Kong, Yang Chen 0008,
+    Huazhong Shu, Jean-Louis Coatrieux, Jean-Louis Dillenseger, Shuo Li 0001
+  title: Deep Complementary Joint Model for Complex Scene Registration and Few-Shot
+    Segmentation on Medical Images.
+  venue: ECCV
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/HeLYKCSCDL20
+  doi: 10.1007/978-3-030-58523-5_45
+  ee: https://doi.org/10.1007/978-3-030-58523-5_45
+  url: https://dblp.org/rec/conf/eccv/HeLYKCSCDL20
+- author: Yongfei Liu, Xiangyi Zhang, Songyang Zhang 0001, Xuming He 0001
+  title: Part-Aware Prototype Network for Few-Shot Semantic Segmentation.
+  venue: ECCV
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/LiuZZH20
+  doi: 10.1007/978-3-030-58545-7_9
+  ee: https://doi.org/10.1007/978-3-030-58545-7_9
+  url: https://dblp.org/rec/conf/eccv/LiuZZH20
+- author: Cheng Ouyang, Carlo Biffi, Chen Chen 0042, Turkay Kart, Huaqi Qiu, Daniel
+    Rueckert
+  title: 'Self-supervision with Superpixels: Training Few-Shot Medical Image Segmentation
+    Without Annotation.'
+  venue: ECCV
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/OuyangBCKQR20
+  doi: 10.1007/978-3-030-58526-6_45
+  ee: https://doi.org/10.1007/978-3-030-58526-6_45
+  url: https://dblp.org/rec/conf/eccv/OuyangBCKQR20
+- author: Haochen Wang, Xudong Zhang, Yutao Hu 0002, Yandan Yang, Xianbin Cao 0001,
+    Xiantong Zhen
+  title: Few-Shot Semantic Segmentation with Democratic Attention Networks.
+  venue: ECCV
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/WangZHYCZ20
+  doi: 10.1007/978-3-030-58601-0_43
+  ee: https://doi.org/10.1007/978-3-030-58601-0_43
+  url: https://dblp.org/rec/conf/eccv/WangZHYCZ20
+- author: Boyu Yang 0002, Chang Liu 0042, Bohao Li, Jianbin Jiao, Qixiang Ye
+  title: Prototype Mixture Models for Few-Shot Semantic Segmentation.
+  venue: ECCV
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/YangLLJY20
+  doi: 10.1007/978-3-030-58598-3_45
+  ee: https://doi.org/10.1007/978-3-030-58598-3_45
+  url: https://dblp.org/rec/conf/eccv/YangLLJY20
+few%20shot%20segmentation%20venue%3AIJCAI%3A:
+- author: Jianchao Jiang, Haofeng Zhang 0001
+  title: 'Concentrate on Weakness: Mining Hard Prototypes for Few-Shot Medical Image
+    Segmentation.'
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/Jiang025
+  doi: 10.24963/IJCAI.2025/139
+  ee: https://doi.org/10.24963/ijcai.2025/139
+  url: https://dblp.org/rec/conf/ijcai/Jiang025
+- author: Sihan Chen, Yadang Chen, Yuhui Zheng, Zhi-Xin Yang 0001, Enhua Wu
+  title: A Transformer-Based Adaptive Prototype Matching Network for Few-Shot Semantic
+    Segmentation.
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenCZ0W24
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/73
+  url: https://dblp.org/rec/conf/ijcai/ChenCZ0W24
+- author: Jiayi Chen, Rong Quan, Jie Qin
+  title: Cross-Domain Few-Shot Semantic Segmentation via Doubly Matching Transformation.
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenQQ24
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/71
+  url: https://dblp.org/rec/conf/ijcai/ChenQQ24
+- author: Guoxin Xiong, Yuan Wang 0064, Zhaoyang Li, Wenfei Yang, Tianzhu Zhang 0001,
+    Xu Zhou, Shifeng Zhang, Yongdong Zhang 0001
+  title: 'Aggregation and Purification: Dual Enhancement Network for Point Cloud Few-shot
+    Segmentation.'
+  venue: IJCAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/XiongWLYZZZ024
+  doi: ''
+  ee: https://www.ijcai.org/proceedings/2024/164
+  url: https://dblp.org/rec/conf/ijcai/XiongWLYZZZ024
+- author: Yuxuan Zhang 0007, Wei Yang 0011, Shaowei Wang 0003
+  title: 'FGNet: Towards Filling the Intra-class and Inter-class Gaps for Few-shot
+    Segmentation.'
+  venue: IJCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/Zhang0023
+  doi: 10.24963/IJCAI.2023/194
+  ee: https://doi.org/10.24963/ijcai.2023/194
+  url: https://dblp.org/rec/conf/ijcai/Zhang0023
+- author: Chunbo Lang, Binfei Tu, Gong Cheng 0003, Junwei Han 0001
+  title: 'Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation.'
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/LangT0H22
+  doi: 10.24963/IJCAI.2022/143
+  ee: https://doi.org/10.24963/ijcai.2022/143
+  url: https://dblp.org/rec/conf/ijcai/LangT0H22
+- author: Haohan Wang, Liang Liu 0007, Wuhao Zhang, Jiangning Zhang, Zhenye Gan, Yabiao
+    Wang, Chengjie Wang, Haoqian Wang
+  title: Iterative Few-shot Semantic Segmentation from Image Label Text.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/WangLZZGWWW22
+  doi: 10.24963/IJCAI.2022/193
+  ee: https://doi.org/10.24963/ijcai.2022/193
+  url: https://dblp.org/rec/conf/ijcai/WangLZZGWWW22
+- author: Shan Zhang, Tianyi Wu, Sitong Wu, Guodong Guo
+  title: 'CATrans: Context and Affinity Transformer for Few-Shot Segmentation.'
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ZhangWWG22
+  doi: 10.24963/IJCAI.2022/231
+  ee: https://doi.org/10.24963/ijcai.2022/231
+  url: https://dblp.org/rec/conf/ijcai/ZhangWWG22
+- author: Siddhartha Gairola, Mayur Hemani, Ayush Chopra, Balaji Krishnamurthy
+  title: 'SimPropNet: Improved Similarity Propagation for Few-shot Image Segmentation.'
+  venue: IJCAI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/GairolaHCK20
+  doi: 10.24963/IJCAI.2020/80
+  ee: https://doi.org/10.24963/ijcai.2020/80
+  url: https://dblp.org/rec/conf/ijcai/GairolaHCK20
+- author: "Mennatullah Siam, Naren Doraiswamy, Boris N. Oreshkin, Hengshuai Yao, Martin\
+    \ J\xE4gersand"
+  title: Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual
+    and Semantic Embeddings.
+  venue: IJCAI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/SiamDOYJ20
+  doi: 10.24963/IJCAI.2020/120
+  ee: https://doi.org/10.24963/ijcai.2020/120
+  url: https://dblp.org/rec/conf/ijcai/SiamDOYJ20
+- author: Kai Zhu 0004, Wei Zhai, Yang Cao 0010
+  title: Self-Supervised Tuning for Few-Shot Segmentation.
+  venue: IJCAI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ZhuZ020
+  doi: 10.24963/IJCAI.2020/142
+  ee: https://doi.org/10.24963/ijcai.2020/142
+  url: https://dblp.org/rec/conf/ijcai/ZhuZ020
+few%20shot%20segmentation%20venue%3AAAAI%3A:
+- author: Yuntian Bo, Yazhou Zhu 0001, Lunbo Li, Haofeng Zhang 0001
+  title: 'FAMNet: Frequency-aware Matching Network for Cross-domain Few-shot Medical
+    Image Segmentation.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/BoZL025
+  doi: 10.1609/AAAI.V39I2.32184
+  ee: https://doi.org/10.1609/aaai.v39i2.32184
+  url: https://dblp.org/rec/conf/aaai/BoZL025
+- author: Xinyue Chen 0009, Miaojing Shi, Zijian Zhou 0002, Lianghua He, Sophia Tsoka
+  title: Enhancing Generalized Few-Shot Semantic Segmentation via Effective Knowledge
+    Transfer.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChenSZHT25
+  doi: 10.1609/AAAI.V39I2.32225
+  ee: https://doi.org/10.1609/aaai.v39i2.32225
+  url: https://dblp.org/rec/conf/aaai/ChenSZHT25
+- author: Naisong Luo, Guoxin Xiong, Tianzhu Zhang 0001
+  title: 'Beyond Pixel and Object: Part Feature as Reference for Few-Shot Video Object
+    Segmentation.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LuoXZ25
+  doi: 10.1609/AAAI.V39I6.32626
+  ee: https://doi.org/10.1609/aaai.v39i6.32626
+  url: https://dblp.org/rec/conf/aaai/LuoXZ25
+- author: Suho Park, SuBeen Lee, Hyun Seok Seong, Jaejoon Yoo, Jae-Pil Heo
+  title: Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot
+    Segmentation.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ParkLSYH25
+  doi: 10.1609/AAAI.V39I6.32688
+  ee: https://doi.org/10.1609/aaai.v39i6.32688
+  url: https://dblp.org/rec/conf/aaai/ParkLSYH25
+- author: Shi-Feng Peng, Guolei Sun, Yong Li, Hongsong Wang 0001, Guo-Sen Xie
+  title: SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/PengSLWX25
+  doi: 10.1609/AAAI.V39I6.32695
+  ee: https://doi.org/10.1609/aaai.v39i6.32695
+  url: https://dblp.org/rec/conf/aaai/PengSLWX25
+- author: Changshuo Wang 0001, Shuting He, Xiang Fang, Meiqing Wu, Siew-Kei Lam, Prayag
+    Tiwari
+  title: Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point
+    Cloud Semantic Segmentation.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangHFWLT25
+  doi: 10.1609/AAAI.V39I7.32810
+  ee: https://doi.org/10.1609/aaai.v39i7.32810
+  url: https://dblp.org/rec/conf/aaai/WangHFWLT25
+- author: Yirui Wu, Yuhang Xia, Hao Li, Lixin Yuan, Junyang Chen 0001, Jun Liu 0036,
+    Tong Lu, Shaohua Wan 0001
+  title: Deconfound Semantic Shift and Incompleteness in Incremental Few-shot Semantic
+    Segmentation.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WuXLYCLLW25
+  doi: 10.1609/AAAI.V39I8.32915
+  ee: https://doi.org/10.1609/aaai.v39i8.32915
+  url: https://dblp.org/rec/conf/aaai/WuXLYCLLW25
+- author: Jingqiao Xiu, Mengze Li 0001, Zongxin Yang, Wei Ji 0008, Yifang Yin, Roger
+    Zimmermann
+  title: Few-Shot Incremental Learning via Foreground Aggregation and Knowledge Transfer
+    for Audio-Visual Semantic Segmentation.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Xiu0Y0YZ25
+  doi: 10.1609/AAAI.V39I8.32950
+  ee: https://doi.org/10.1609/aaai.v39i8.32950
+  url: https://dblp.org/rec/conf/aaai/Xiu0Y0YZ25
+- author: Xiaoyi Bao, Jie Qin, Siyang Sun, Xingang Wang, Yun Zheng
+  title: Relevant Intrinsic Feature Enhancement Network for Few-Shot Semantic Segmentation.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/BaoQSWZ24
+  doi: 10.1609/AAAI.V38I2.27834
+  ee: https://doi.org/10.1609/aaai.v38i2.27834
+  url: https://dblp.org/rec/conf/aaai/BaoQSWZ24
+- author: Soopil Kim, Sion An, Philip Chikontwe, Myeongkyun Kang, Ehsan Adeli 0001,
+    Kilian M. Pohl, Sanghyun Park 0004
+  title: Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly
+    Detection.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/KimACK0PP24
+  doi: 10.1609/AAAI.V38I8.28703
+  ee: https://doi.org/10.1609/aaai.v38i8.28703
+  url: https://dblp.org/rec/conf/aaai/KimACK0PP24
+- author: Minh-Quan Le, Tam V. Nguyen 0002, Trung-Nghia Le, Thanh-Toan Do, Minh N.
+    Do, Minh-Triet Tran
+  title: 'MaskDiff: Modeling Mask Distribution with Diffusion Probabilistic Model
+    for Few-Shot Instance Segmentation.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/Le0LDDT24
+  doi: 10.1609/AAAI.V38I3.28068
+  ee: https://doi.org/10.1609/aaai.v38i3.28068
+  url: https://dblp.org/rec/conf/aaai/Le0LDDT24
+- author: Jianwu Li, Kaiyue Shi, Guo-Sen Xie, Xiaofeng Liu, Jian Zhang 0002, Tianfei
+    Zhou
+  title: Label-Efficient Few-Shot Semantic Segmentation with Unsupervised Meta-Training.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiSXL0Z24
+  doi: 10.1609/AAAI.V38I4.28094
+  ee: https://doi.org/10.1609/aaai.v38i4.28094
+  url: https://dblp.org/rec/conf/aaai/LiSXL0Z24
+- author: Suho Park, Su Been Lee, Sangeek Hyun, Hyun Seok Seong, Jae-Pil Heo
+  title: Task-Disruptive Background Suppression for Few-Shot Segmentation.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ParkLHSH24
+  doi: 10.1609/AAAI.V38I5.28242
+  ee: https://doi.org/10.1609/aaai.v38i5.28242
+  url: https://dblp.org/rec/conf/aaai/ParkLHSH24
+- author: Junao Shen, Kun Kuang, Jiaheng Wang, Xinyu Wang 0036, Tian Feng 0001, Wei
+    Zhang 0243
+  title: 'CGMGM: A Cross-Gaussian Mixture Generative Model for Few-Shot Semantic Segmentation.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ShenKWWFZ24
+  doi: 10.1609/AAAI.V38I5.28280
+  ee: https://doi.org/10.1609/aaai.v38i5.28280
+  url: https://dblp.org/rec/conf/aaai/ShenKWWFZ24
+- author: Jing Wang 0222, Jiangyun Li, Chen Chen 0001, Yisi Zhang, Haoran Shen, Tianxiang
+    Zhang
+  title: 'Adaptive FSS: A Novel Few-Shot Segmentation Framework via Prototype Enhancement.'
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangL0ZSZ24
+  doi: 10.1609/AAAI.V38I6.28355
+  ee: https://doi.org/10.1609/aaai.v38i6.28355
+  url: https://dblp.org/rec/conf/aaai/WangL0ZSZ24
+- author: Canyu Zhang, Zhenyao Wu, Xinyi Wu 0002, Ziyu Zhao, Song Wang 0002
+  title: Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific
+    Attention Based Transformer Network.
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangWWZ023
+  doi: 10.1609/AAAI.V37I3.25449
+  ee: https://doi.org/10.1609/aaai.v37i3.25449
+  url: https://dblp.org/rec/conf/aaai/ZhangWWZ023
+- author: Binjie Mao, Xinbang Zhang, Lingfeng Wang 0002, Qian Zhang 0009, Shiming
+    Xiang, Chunhong Pan
+  title: 'Learning from the Target: Dual Prototype Network for Few Shot Semantic Segmentation.'
+  venue: AAAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/MaoZW0XP22
+  doi: 10.1609/AAAI.V36I2.20090
+  ee: https://doi.org/10.1609/aaai.v36i2.20090
+  url: https://dblp.org/rec/conf/aaai/MaoZW0XP22
+- author: Soopil Kim, Sion An, Philip Chikontwe, Sang Hyun Park 0004
+  title: Bidirectional RNN-based Few Shot Learning for 3D Medical Image Segmentation.
+  venue: AAAI
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/KimACP21
+  doi: 10.1609/AAAI.V35I3.16275
+  ee: https://doi.org/10.1609/aaai.v35i3.16275
+  url: https://dblp.org/rec/conf/aaai/KimACP21
+- author: Pinzhuo Tian, Zhangkai Wu, Lei Qi 0001, Lei Wang 0001, Yinghuan Shi, Yang
+    Gao 0001
+  title: Differentiable Meta-Learning Model for Few-Shot Semantic Segmentation.
+  venue: AAAI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/TianWQWSG20
+  doi: 10.1609/AAAI.V34I07.6887
+  ee: https://doi.org/10.1609/aaai.v34i07.6887
+  url: https://dblp.org/rec/conf/aaai/TianWQWSG20
+- author: Tao Hu, Pengwan Yang, Chiliang Zhang, Gang Yu 0002, Yadong Mu, Cees G. M.
+    Snoek
+  title: Attention-Based Multi-Context Guiding for Few-Shot Semantic Segmentation.
+  venue: AAAI
+  year: '2019'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/HuYZYMS19
+  doi: 10.1609/AAAI.V33I01.33018441
+  ee: https://doi.org/10.1609/aaai.v33i01.33018441
+  url: https://dblp.org/rec/conf/aaai/HuYZYMS19
+few%20shot%20segmentation%20venue%3AWACV%3A:
+- author: Michael Schwingshackl, Fabio Francisco Oberweger, Markus Murschitz
+  title: Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models
+    and Graph Neural Networks.
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/SchwingshacklOM25
+  doi: 10.1109/WACV61041.2025.00200
+  ee: https://doi.org/10.1109/WACV61041.2025.00200
+  url: https://dblp.org/rec/conf/wacv/SchwingshacklOM25
+- author: "Junno Yun, Mehmet Ak\xE7akaya"
+  title: Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation
+    of Infrared Images.
+  venue: WACV
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/YunA25
+  doi: 10.1109/WACV61041.2025.00535
+  ee: https://doi.org/10.1109/WACV61041.2025.00535
+  url: https://dblp.org/rec/conf/wacv/YunA25
+- author: Hao Chen 0107, Yonghan Dong, Zheming Lu 0001, Yunlong Yu, Jungong Han
+  title: Pixel Matching Network for Cross-Domain Few-Shot Segmentation.
+  venue: WACV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/ChenDLYH24
+  doi: 10.1109/WACV57701.2024.00102
+  ee: https://doi.org/10.1109/WACV57701.2024.00102
+  url: https://dblp.org/rec/conf/wacv/ChenDLYH24
+- author: Nicolas Gorlo, Kenneth Blomqvist, Francesco Milano 0001, Roland Siegwart
+  title: 'ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation
+    and Re-Identification.'
+  venue: WACV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/GorloB0S24
+  doi: 10.1109/WACV57701.2024.00433
+  ee: https://doi.org/10.1109/WACV57701.2024.00433
+  url: https://dblp.org/rec/conf/wacv/GorloB0S24
+- author: Tianang Leng, Yiming Zhang, Kun Han, Xiaohui Xie
+  title: 'Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with
+    Meta-Learning.'
+  venue: WACV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/LengZHX24
+  doi: 10.1109/WACV57701.2024.00774
+  ee: https://doi.org/10.1109/WACV57701.2024.00774
+  url: https://dblp.org/rec/conf/wacv/LengZHX24
+- author: Youssef Dawoud, Arij Bouazizi, Katharina Ernst, Gustavo Carneiro 0001, Vasileios
+    Belagiannis
+  title: Knowing What to Label for Few Shot Microscopy Image Cell Segmentation.
+  venue: WACV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/DawoudBECB23
+  doi: 10.1109/WACV56688.2023.00356
+  ee: https://doi.org/10.1109/WACV56688.2023.00356
+  url: https://dblp.org/rec/conf/wacv/DawoudBECB23
+- author: Hao Ding, Changchang Sun, Hao Tang 0005, Dawen Cai, Yan Yan 0002
+  title: Few-shot Medical Image Segmentation with Cycle-resemblance Attention.
+  venue: WACV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/DingSTCY23
+  doi: 10.1109/WACV56688.2023.00252
+  ee: https://doi.org/10.1109/WACV56688.2023.00252
+  url: https://dblp.org/rec/conf/wacv/DingSTCY23
+- author: Byeolyi Han, Tae-Hyun Oh
+  title: Learning Few-shot Segmentation from Bounding Box Annotations.
+  venue: WACV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/HanO23
+  doi: 10.1109/WACV56688.2023.00374
+  ee: https://doi.org/10.1109/WACV56688.2023.00374
+  url: https://dblp.org/rec/conf/wacv/HanO23
+- author: "Alper Kayabasi, G\xFClin T\xFCfekci, Ilkay Ulusoy"
+  title: Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation.
+  venue: WACV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/KayabasiTU23
+  doi: 10.1109/WACV56688.2023.00259
+  ee: https://doi.org/10.1109/WACV56688.2023.00259
+  url: https://dblp.org/rec/conf/wacv/KayabasiTU23
+- author: Matthew R. Keaton, Ram J. Zaveri, Gianfranco Doretto
+  title: 'CellTranspose: Few-shot Domain Adaptation for Cellular Instance Segmentation.'
+  venue: WACV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/KeatonZD23
+  doi: 10.1109/WACV56688.2023.00053
+  ee: https://doi.org/10.1109/WACV56688.2023.00053
+  url: https://dblp.org/rec/conf/wacv/KeatonZD23
+- author: Mustafa Sercan Amac, Ahmet Sencan, Orhun Bugra Baran, Nazli Ikizler-Cinbis,
+    Ramazan Gokberk Cinbis
+  title: 'MaskSplit: Self-supervised Meta-learning for Few-shot Semantic Segmentation.'
+  venue: WACV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/AmacSBIC22
+  doi: 10.1109/WACV51458.2022.00050
+  ee: https://doi.org/10.1109/WACV51458.2022.00050
+  url: https://dblp.org/rec/conf/wacv/AmacSBIC22
+- author: Yuan-Hao Lee, Fu-En Yang, Yu-Chiang Frank Wang
+  title: A Pixel-Level Meta-Learner for Weakly Supervised Few-Shot Semantic Segmentation.
+  venue: WACV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/LeeYW22
+  doi: 10.1109/WACV51458.2022.00167
+  ee: https://doi.org/10.1109/WACV51458.2022.00167
+  url: https://dblp.org/rec/conf/wacv/LeeYW22
+- author: Antonio Tavera, Fabio Cermelli, Carlo Masone, Barbara Caputo
+  title: Pixel-by-Pixel Cross-Domain Alignment for Few-Shot Semantic Segmentation.
+  venue: WACV
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/TaveraCMC22
+  doi: 10.1109/WACV51458.2022.00202
+  ee: https://doi.org/10.1109/WACV51458.2022.00202
+  url: https://dblp.org/rec/conf/wacv/TaveraCMC22
+- author: Reza Azad, Abdur R. Fayjie, Claude Kauffmann, Ismail Ben Ayed, Marco Pedersoli,
+    Jose Dolz
+  title: On the Texture Bias for Few-Shot CNN Segmentation.
+  venue: WACV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/AzadFKAPD21
+  doi: 10.1109/WACV48630.2021.00272
+  ee: https://doi.org/10.1109/WACV48630.2021.00272
+  url: https://dblp.org/rec/conf/wacv/AzadFKAPD21
+- author: Haochen Wang, Yandan Yang, Xianbin Cao 0001, Xiantong Zhen, Cees Snoek,
+    Ling Shao 0001
+  title: Variational Prototype Inference for Few-Shot Semantic Segmentation.
+  venue: WACV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/WangY0ZS021
+  doi: 10.1109/WACV48630.2021.00057
+  ee: https://doi.org/10.1109/WACV48630.2021.00057
+  url: https://dblp.org/rec/conf/wacv/WangY0ZS021
+- author: Xiaowen Ying, Xin Li 0080, Mooi Choo Chuah
+  title: Weakly-supervised Object Representation Learning for Few-shot Semantic Segmentation.
+  venue: WACV
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/Ying0C21
+  doi: 10.1109/WACV48630.2021.00154
+  ee: https://doi.org/10.1109/WACV48630.2021.00154
+  url: https://dblp.org/rec/conf/wacv/Ying0C21
+few%20shot%20segmentation%20streamid%3Aconf%2Fmm%3A:
+- author: Wendong Huang, Jinwu Hu, Xiuli Bi, Bin Xiao 0002
+  title: Anatomical Prior Guided Spatial Contrastive Learning for Few-Shot Medical
+    Image Segmentation.
+  venue: ACM Multimedia
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/HuangHB024
+  doi: 10.1145/3664647.3680558
+  ee: https://doi.org/10.1145/3664647.3680558
+  url: https://dblp.org/rec/conf/mm/HuangHB024
+- author: Qiuyu Kong, Jiangming Chen, Jie Jiang 0017, Zanxi Ruan, Lai Kang
+  title: Dual-Branch Fusion with Style Modulation for Cross-Domain Few-Shot Semantic
+    Segmentation.
+  venue: ACM Multimedia
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/KongC0RK24
+  doi: 10.1145/3664647.3681667
+  ee: https://doi.org/10.1145/3664647.3681667
+  url: https://dblp.org/rec/conf/mm/KongC0RK24
+- author: Guangchen Shi, Wei Zhu, Yirui Wu, Danhuai Zhao, Kang Zheng, Tong Lu 0002
+  title: Few-shot Semantic Segmentation via Perceptual Attention and Spatial Control.
+  venue: ACM Multimedia
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ShiZWZZL24
+  doi: 10.1145/3664647.3681338
+  ee: https://doi.org/10.1145/3664647.3681338
+  url: https://dblp.org/rec/conf/mm/ShiZWZZL24
+- author: Ziyu Zhao, Pingping Cai, Canyu Zhang, Xiaoguang Li, Song Wang 0002
+  title: Crossmodal Few-shot 3D Point Cloud Semantic Segmentation via View Synthesis.
+  venue: ACM Multimedia
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ZhaoCZLW24
+  doi: 10.1145/3664647.3681428
+  ee: https://doi.org/10.1145/3664647.3681428
+  url: https://dblp.org/rec/conf/mm/ZhaoCZLW24
+- author: Zhenhua Ning, Zhuotao Tian, Guangming Lu 0002, Wenjie Pei
+  title: Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement.
+  venue: ACM Multimedia
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/NingTLP23
+  doi: 10.1145/3581783.3612287
+  ee: https://doi.org/10.1145/3581783.3612287
+  url: https://dblp.org/rec/conf/mm/NingTLP23
+- author: Leo Shan, Wenzhang Zhou, Grace Zhao
+  title: Incremental Few Shot Semantic Segmentation via Class-agnostic Mask Proposal
+    and Language-driven Classifier.
+  venue: ACM Multimedia
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ShanZZ23
+  doi: 10.1145/3581783.3611783
+  ee: https://doi.org/10.1145/3581783.3611783
+  url: https://dblp.org/rec/conf/mm/ShanZZ23
+- author: Mengya Han, Heliang Zheng, Chaoyue Wang, Yong Luo 0002, Han Hu 0003, Bo
+    Du 0001
+  title: Leveraging GAN Priors for Few-Shot Part Segmentation.
+  venue: ACM Multimedia
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/HanZW00022
+  doi: 10.1145/3503161.3548398
+  ee: https://doi.org/10.1145/3503161.3548398
+  url: https://dblp.org/rec/conf/mm/HanZW00022
+- author: Guangchen Shi, Yirui Wu, Jun Liu 0036, Shaohua Wan 0001, Wenhai Wang, Tong
+    Lu 0002
+  title: Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update
+    and Hyper-class Representation.
+  venue: ACM Multimedia
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ShiWLWWL22
+  doi: 10.1145/3503161.3548218
+  ee: https://doi.org/10.1145/3503161.3548218
+  url: https://dblp.org/rec/conf/mm/ShiWLWWL22
+- author: Haochen Wang, Jie Liu 0043, Yongtuo Liu, Subhransu Maji, Jan-Jakob Sonke,
+    Efstratios Gavves
+  title: Dynamic Transformer for Few-shot Instance Segmentation.
+  venue: ACM Multimedia
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/WangLLMSG22
+  doi: 10.1145/3503161.3548227
+  ee: https://doi.org/10.1145/3503161.3548227
+  url: https://dblp.org/rec/conf/mm/WangLLMSG22
+- author: Ziyu Zhao, Zhenyao Wu, Xinyi Wu 0002, Canyu Zhang, Song Wang 0002
+  title: Crossmodal Few-shot 3D Point Cloud Semantic Segmentation.
+  venue: ACM Multimedia
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ZhaoWWZW22
+  doi: 10.1145/3503161.3548251
+  ee: https://doi.org/10.1145/3503161.3548251
+  url: https://dblp.org/rec/conf/mm/ZhaoWWZW22
+- author: Kaiqi Dong, Wei Yang 0011, Zhenbo Xu, Liusheng Huang, Zhidong Yu
+  title: 'ABPNet: Adaptive Background Modeling for Generalized Few Shot Segmentation.'
+  venue: ACM Multimedia
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/DongYXHY21
+  doi: 10.1145/3474085.3475389
+  ee: https://doi.org/10.1145/3474085.3475389
+  url: https://dblp.org/rec/conf/mm/DongYXHY21
+- author: Yunzhi Zhuge, Chunhua Shen
+  title: Deep Reasoning Network for Few-shot Semantic Segmentation.
+  venue: ACM Multimedia
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ZhugeS21
+  doi: 10.1145/3474085.3475658
+  ee: https://doi.org/10.1145/3474085.3475658
+  url: https://dblp.org/rec/conf/mm/ZhugeS21
+- author: Lizhao Liu, Junyi Cao, Minqian Liu, Yong Guo, Qi Chen 0014, Mingkui Tan
+  title: Dynamic Extension Nets for Few-shot Semantic Segmentation.
+  venue: ACM Multimedia
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/LiuCLGCT20
+  doi: 10.1145/3394171.3413915
+  ee: https://doi.org/10.1145/3394171.3413915
+  url: https://dblp.org/rec/conf/mm/LiuCLGCT20
+few%20shot%20segmentation%20streamid%3Ajournals%2Fpami%3A:
+- author: Yuanwei Liu, Nian Liu 0002, Tao Jiang 0002, Xiwen Yao, Rao Muhammad Anwer,
+    Hisham Cholakkal, Junwei Han 0001
+  title: 'Bridge the Intra-Class Gap: K-Shot Multi-Scale Intermediate Prototype Mining
+    Transformer for Few-Shot Semantic Segmentation.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/LiuLJYACH25
+  doi: 10.1109/TPAMI.2025.3593816
+  ee: https://doi.org/10.1109/TPAMI.2025.3593816
+  url: https://dblp.org/rec/journals/pami/LiuLJYACH25
+- author: Hanbo Bi, Yingchao Feng, Wenhui Diao, Peijin Wang, Yongqiang Mao, Kun Fu
+    0001, Hongqi Wang, Xian Sun 0001
+  title: 'Prompt-and-Transfer: Dynamic Class-Aware Enhancement for Few-Shot Segmentation.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/BiFDWMFWS25
+  doi: 10.1109/TPAMI.2024.3461779
+  ee: https://doi.org/10.1109/TPAMI.2024.3461779
+  url: https://dblp.org/rec/journals/pami/BiFDWMFWS25
+- author: Lanyun Zhu, Tianrun Chen, Deyi Ji, Peng Xu 0023, Jieping Ye, Jun Liu 0036
+  title: 'LLaFS++: Few-Shot Image Segmentation With Large Language Models.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/ZhuCJXYL25
+  doi: 10.1109/TPAMI.2025.3573609
+  ee: https://doi.org/10.1109/TPAMI.2025.3573609
+  url: https://dblp.org/rec/journals/pami/ZhuCJXYL25
+- author: Yue Han, Jiangning Zhang, Yabiao Wang, Chengjie Wang, Yong Liu 0007, Lu
+    Qi, Ming-Hsuan Yang 0001, Xiangtai Li
+  title: 'Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/HanZWWLQYL24
+  doi: 10.1109/TPAMI.2024.3421340
+  ee: https://doi.org/10.1109/TPAMI.2024.3421340
+  url: https://dblp.org/rec/journals/pami/HanZWWLQYL24
+- author: Xiaoliu Luo, Zhuotao Tian, Taiping Zhang, Bei Yu 0001, Yuan Yan Tang, Jiaya
+    Jia
+  title: 'PFENet++: Boosting Few-Shot Semantic Segmentation With the Noise-Filtered
+    Context-Aware Prior Mask.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/LuoTZYTJ24
+  doi: 10.1109/TPAMI.2023.3329725
+  ee: https://doi.org/10.1109/TPAMI.2023.3329725
+  url: https://dblp.org/rec/journals/pami/LuoTZYTJ24
+- author: Gong Cheng 0003, Chunbo Lang, Junwei Han 0001
+  title: Holistic Prototype Activation for Few-Shot Segmentation.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/ChengLH23
+  doi: 10.1109/TPAMI.2022.3193587
+  ee: https://doi.org/10.1109/TPAMI.2022.3193587
+  url: https://dblp.org/rec/journals/pami/ChengLH23
+- author: Chunbo Lang, Gong Cheng 0003, Binfei Tu, Chao Li 0028, Junwei Han 0001
+  title: 'Base and Meta: A New Perspective on Few-Shot Segmentation.'
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/LangCTLH23
+  doi: 10.1109/TPAMI.2023.3265865
+  ee: https://doi.org/10.1109/TPAMI.2023.3265865
+  url: https://dblp.org/rec/journals/pami/LangCTLH23
+- author: Zhuotao Tian, Hengshuang Zhao, Michelle Shu, Zhicheng Yang, Ruiyu Li, Jiaya
+    Jia
+  title: Prior Guided Feature Enrichment Network for Few-Shot Segmentation.
+  venue: IEEE Trans. Pattern Anal. Mach. Intell.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/pami/TianZSYLJ22
+  doi: 10.1109/TPAMI.2020.3013717
+  ee: https://doi.org/10.1109/TPAMI.2020.3013717
+  url: https://dblp.org/rec/journals/pami/TianZSYLJ22
+few%20shot%20segmentation%20streamid%3Ajournals%2Ftip%3A:
+- author: Yazhou Zhu 0001, Shidong Wang, Tao Zhou 0002, Zechao Li, Haofeng Zhang 0001,
+    Ling Shao 0001
+  title: Cross-Domain Few-Shot Medical Image Segmentation via Dynamic Semantic Matching.
+  venue: IEEE Trans. Image Process.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/ZhuWZLZS25
+  doi: 10.1109/TIP.2025.3618396
+  ee: https://doi.org/10.1109/TIP.2025.3618396
+  url: https://dblp.org/rec/journals/tip/ZhuWZLZS25
+- author: Yadang Chen, Ren Jiang, Yuhui Zheng, Bin Sheng 0001, Zhi-Xin Yang 0001,
+    Enhua Wu
+  title: Dual Branch Multi-Level Semantic Learning for Few-Shot Segmentation.
+  venue: IEEE Trans. Image Process.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/ChenJZSYW24
+  doi: 10.1109/TIP.2024.3364056
+  ee: https://doi.org/10.1109/TIP.2024.3364056
+  url: https://dblp.org/rec/journals/tip/ChenJZSYW24
+- author: Shuting He, Xudong Jiang 0001, Wei Jiang 0009, Henghui Ding
+  title: Prototype Adaption and Projection for Few- and Zero-Shot 3D Point Cloud Semantic
+    Segmentation.
+  venue: IEEE Trans. Image Process.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/HeJJD23
+  doi: 10.1109/TIP.2023.3279660
+  ee: https://doi.org/10.1109/TIP.2023.3279660
+  url: https://dblp.org/rec/journals/tip/HeJJD23
+- author: Chunbo Lang, Gong Cheng 0003, Binfei Tu, Chao Li 0028, Junwei Han 0001
+  title: 'Retain and Recover: Delving Into Information Loss for Few-Shot Segmentation.'
+  venue: IEEE Trans. Image Process.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/LangCTLH23
+  doi: 10.1109/TIP.2023.3315555
+  ee: https://doi.org/10.1109/TIP.2023.3315555
+  url: https://dblp.org/rec/journals/tip/LangCTLH23
+- author: Zhihe Lu, Sen He 0001, Da Li 0001, Yi-Zhe Song, Tao Xiang 0002
+  title: Prediction Calibration for Generalized Few-Shot Semantic Segmentation.
+  venue: IEEE Trans. Image Process.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/LuHLSX23
+  doi: 10.1109/TIP.2023.3282070
+  ee: https://doi.org/10.1109/TIP.2023.3282070
+  url: https://dblp.org/rec/journals/tip/LuHLSX23
+- author: Guangyu Gao, Zhiyuan Fang, Cen Han, Yunchao Wei, Chi Harold Liu, Shuicheng
+    Yan
+  title: 'DRNet: Double Recalibration Network for Few-Shot Semantic Segmentation.'
+  venue: IEEE Trans. Image Process.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/GaoFHWLY22
+  doi: 10.1109/TIP.2022.3215905
+  ee: https://doi.org/10.1109/TIP.2022.3215905
+  url: https://dblp.org/rec/journals/tip/GaoFHWLY22
+- author: Binghao Liu, Jianbin Jiao, Qixiang Ye
+  title: Harmonic Feature Activation for Few-Shot Semantic Segmentation.
+  venue: IEEE Trans. Image Process.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/LiuJY21
+  doi: 10.1109/TIP.2021.3058512
+  ee: https://doi.org/10.1109/TIP.2021.3058512
+  url: https://dblp.org/rec/journals/tip/LiuJY21
+few%20shot%20segmentation%20streamid%3Ajournals%2Ftnn%3A:
+- author: Yuxin Jiang, Yunkang Cao, Weiming Shen 0001
+  title: Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot
+    Anomaly Detection.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/JiangCS25
+  doi: 10.1109/TNNLS.2024.3463495
+  ee: https://doi.org/10.1109/TNNLS.2024.3463495
+  url: https://dblp.org/rec/journals/tnn/JiangCS25
+- author: Xiaoliu Luo, Zhao Duan, Anyong Qin, Zhuotao Tian, Ting Xie 0004, Taiping
+    Zhang, Yuan Yan Tang
+  title: Layer-Wise Mutual Information Meta-Learning Network for Few-Shot Segmentation.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/LuoDQTXZT25
+  doi: 10.1109/TNNLS.2024.3438771
+  ee: https://doi.org/10.1109/TNNLS.2024.3438771
+  url: https://dblp.org/rec/journals/tnn/LuoDQTXZT25
+- author: Jiahui Wang, Haiyue Zhu, Haoren Guo, Abdullah Al Mamun 0002, Cheng Xiang
+    0001, Clarence W. de Silva, Tong Heng Lee
+  title: 'SDSimPoint: Shallow-Deep Similarity Learning for Few-Shot Point Cloud Semantic
+    Segmentation.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/WangZGMXSL25
+  doi: 10.1109/TNNLS.2025.3543620
+  ee: https://doi.org/10.1109/TNNLS.2025.3543620
+  url: https://dblp.org/rec/journals/tnn/WangZGMXSL25
+- author: Lin Zhao 0004, Xiao Chen 0013, Eric Z. Chen, Yikang Liu 0001, Terrence Chen,
+    Shanhui Sun
+  title: Retrieval-Augmented Few-Shot Medical Image Segmentation With Foundation Models.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/ZhaoCCLCS25
+  doi: 10.1109/TNNLS.2025.3568479
+  ee: https://doi.org/10.1109/TNNLS.2025.3568479
+  url: https://dblp.org/rec/journals/tnn/ZhaoCCLCS25
+- author: Honghao Gao, Junsheng Xiao, Yuyu Yin, Tong Liu 0001, Jiangang Shi
+  title: 'A Mutually Supervised Graph Attention Network for Few-Shot Segmentation:
+    The Perspective of Fully Utilizing Limited Samples.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/GaoXYLS24
+  doi: 10.1109/TNNLS.2022.3155486
+  ee: https://doi.org/10.1109/TNNLS.2022.3155486
+  url: https://dblp.org/rec/journals/tnn/GaoXYLS24
+- author: Yuting He 0001, Rongjun Ge, Xiaoming Qi, Yang Chen 0008, Jiasong Wu, Jean-Louis
+    Coatrieux, Guanyu Yang 0001, Shuo Li 0001
+  title: 'Learning Better Registration to Learn Better Few-Shot Medical Image Segmentation:
+    Authenticity, Diversity, and Robustness.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/HeGQCWCYL24
+  doi: 10.1109/TNNLS.2022.3190452
+  ee: https://doi.org/10.1109/TNNLS.2022.3190452
+  url: https://dblp.org/rec/journals/tnn/HeGQCWCYL24
+- author: Boyu Yang 0002, Fang Wan 0001, Chang Liu 0047, Bohao Li, Xiangyang Ji, Qixiang
+    Ye
+  title: Part-Based Semantic Transform for Few-Shot Semantic Segmentation.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/YangWLLJY22
+  doi: 10.1109/TNNLS.2021.3084252
+  ee: https://doi.org/10.1109/TNNLS.2021.3084252
+  url: https://dblp.org/rec/journals/tnn/YangWLLJY22
+few%20shot%20segmentation%20streamid%3Ajournals%2Ftai%3A:
+- author: Jingkai Ma, Shuang Bai, Wenchao Pan
+  title: Boosting Few-Shot Semantic Segmentation With Prior-Driven Edge Feature Enhancement
+    Network.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/MaBP25
+  doi: 10.1109/TAI.2024.3474650
+  ee: https://doi.org/10.1109/TAI.2024.3474650
+  url: https://dblp.org/rec/journals/tai/MaBP25
+- author: Feng Xiao 0005, Ruyu Liu, Yunrui Zhu, Haoyu Zhang, Jianhua Zhang 0002, Shengyong
+    Chen
+  title: A Dense Multicross Self-Attention and Adaptive Gated Perceptual Unit Method
+    for Few-Shot Semantic Segmentation.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/XiaoLZZZC24
+  doi: 10.1109/TAI.2024.3369553
+  ee: https://doi.org/10.1109/TAI.2024.3369553
+  url: https://dblp.org/rec/journals/tai/XiaoLZZZC24
+few%20shot%20segmentation%20streamid%3Ajournals%2Ftmi%3A:
+- author: Ziming Cheng, Shidong Wang, Yang Long 0001, Tao Zhou 0002, Hao-feng Zhang
+    0001, Ling Shao 0001
+  title: Dual Interspersion and Flexible Deployment for Few-Shot Medical Image Segmentation.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/ChengWLZZS25
+  doi: 10.1109/TMI.2025.3546653
+  ee: https://doi.org/10.1109/TMI.2025.3546653
+  url: https://dblp.org/rec/journals/tmi/ChengWLZZS25
+- author: Wendong Huang, Jinwu Hu, Junhao Xiao, Yang Wei 0002, Xiuli Bi, Bin Xiao
+    0002
+  title: Prototype-Guided Graph Reasoning Network for Few-Shot Medical Image Segmentation.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/HuangHXWBX25
+  doi: 10.1109/TMI.2024.3459943
+  ee: https://doi.org/10.1109/TMI.2024.3459943
+  url: https://dblp.org/rec/journals/tmi/HuangHXWBX25
+- author: Yu Ming, Zihao Wu 0004, Jie Yang 0002, Danyi Li, Yuan Gao 0015, Changxin
+    Gao, Gui-Song Xia, Yuanqing Li 0001, Li Liang, Jin-Gang Yu
+  title: Few-Shot Learning for Annotation-Efficient Nucleus Instance Segmentation.
+  venue: IEEE Trans. Medical Imaging
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/MingWYLGGXLLY25
+  doi: 10.1109/TMI.2025.3564458
+  ee: https://doi.org/10.1109/TMI.2025.3564458
+  url: https://dblp.org/rec/journals/tmi/MingWYLGGXLLY25
+- author: Ziming Cheng, Shidong Wang, Tong Xin, Tao Zhou 0002, Haofeng Zhang 0001,
+    Ling Shao 0001
+  title: Few-Shot Medical Image Segmentation via Generating Multiple Representative
+    Descriptors.
+  venue: IEEE Trans. Medical Imaging
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/ChengWXZZS24
+  doi: 10.1109/TMI.2024.3358295
+  ee: https://doi.org/10.1109/TMI.2024.3358295
+  url: https://dblp.org/rec/journals/tmi/ChengWXZZS24
+- author: Yumin Zhang, Hongliu Li, Yajun Gao, Haoran Duan 0001, Yawen Huang, Yefeng
+    Zheng 0001
+  title: Prototype Correlation Matching and Class- Relation Reasoning for Few-Shot
+    Medical Image Segmentation.
+  venue: IEEE Trans. Medical Imaging
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/ZhangLGDHZ24
+  doi: 10.1109/TMI.2024.3412420
+  ee: https://doi.org/10.1109/TMI.2024.3412420
+  url: https://dblp.org/rec/journals/tmi/ZhangLGDHZ24
+- author: Prashant Pandey 0002, Mustafa Chasmai, Tanuj Sur, Brejesh Lall
+  title: Robust Prototypical Few-Shot Organ Segmentation With Regularized Neural-ODEs.
+  venue: IEEE Trans. Medical Imaging
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/PandeyCSL23
+  doi: 10.1109/TMI.2023.3258069
+  ee: https://doi.org/10.1109/TMI.2023.3258069
+  url: https://dblp.org/rec/journals/tmi/PandeyCSL23
+- author: Cheng Ouyang, Carlo Biffi, Chen Chen 0042, Turkay Kart, Huaqi Qiu, Daniel
+    Rueckert
+  title: Self-Supervised Learning for Few-Shot Medical Image Segmentation.
+  venue: IEEE Trans. Medical Imaging
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/OuyangBCKQR22
+  doi: 10.1109/TMI.2022.3150682
+  ee: https://doi.org/10.1109/TMI.2022.3150682
+  url: https://dblp.org/rec/journals/tmi/OuyangBCKQR22
+- author: Dawood Al Chanti, Vanessa Gonzalez Duque, Marion Crouzier, Antoine Nordez,
+    Lilian Lacourpaille, Diana Mateus
+  title: 'IFSS-Net: Interactive Few-Shot Siamese Network for Faster Muscle Segmentation
+    and Propagation in Volumetric Ultrasound.'
+  venue: IEEE Trans. Medical Imaging
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/ChantiDCNLM21
+  doi: 10.1109/TMI.2021.3058303
+  ee: https://doi.org/10.1109/TMI.2021.3058303
+  url: https://dblp.org/rec/journals/tmi/ChantiDCNLM21
+- author: Ruiwei Feng, Xiangshang Zheng, Tianxiang Gao, Jintai Chen, Wenzhe Wang,
+    Danny Z. Chen, Jian Wu 0001
+  title: 'Interactive Few-Shot Learning: Limited Supervision, Better Medical Image
+    Segmentation.'
+  venue: IEEE Trans. Medical Imaging
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/FengZGCWCW21
+  doi: 10.1109/TMI.2021.3060551
+  ee: https://doi.org/10.1109/TMI.2021.3060551
+  url: https://dblp.org/rec/journals/tmi/FengZGCWCW21
+- author: Wenji Wang, Qing Xia 0002, Zhiqiang Hu, Zhennan Yan, Zhuowei Li 0002, Yang
+    Wu, Ning Huang, Yue Gao 0002, Dimitris N. Metaxas, Shaoting Zhang 0001
+  title: Few-Shot Learning by a Cascaded Framework With Shape-Constrained Pseudo Label
+    Assessment for Whole Heart Segmentation.
+  venue: IEEE Trans. Medical Imaging
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/WangXHYLWHGMZ21
+  doi: 10.1109/TMI.2021.3053008
+  ee: https://doi.org/10.1109/TMI.2021.3053008
+  url: https://dblp.org/rec/journals/tmi/WangXHYLWHGMZ21
+few%20shot%20segmentation%20streamid%3Ajournals%2Ftetci%3A:
+- author: Xuejiao Li, Jun Chen 0030, Heye Zhang, Yongwon Cho, Sung Ho Hwang, Zhifan
+    Gao, Guang Yang 0006
+  title: Hierarchical Relational Inference for Few-Shot Learning in 3D Left Atrial
+    Segmentation.
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/LiCZCHGY24
+  doi: 10.1109/TETCI.2024.3377267
+  ee: https://doi.org/10.1109/TETCI.2024.3377267
+  url: https://dblp.org/rec/journals/tetci/LiCZCHGY24
+few%20shot%20segmentation%20streamid%3Ajournals%2Ftits%3A:
+- author: Yi-Sheng Liao, Yen-Wei Lin, Ya-Han Chang, Chun-Rong Huang
+  title: Cross-Scale Guidance Network for Few-Shot Moving Foreground Object Segmentation.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/LiaoLCH25
+  doi: 10.1109/TITS.2025.3559144
+  ee: https://doi.org/10.1109/TITS.2025.3559144
+  url: https://dblp.org/rec/journals/tits/LiaoLCH25
+- author: Xiangyu Zhou, Yong Ma 0001, Jun Huang 0008, Zhanchuan Cai, Yiming Zhu, Fan
+    Fan 0001
+  title: 'HMFENet: Hierarchical Matching Guided Feature Enhancement Network for Few-Shot
+    RGB-Thermal Urban Scene Segmentation.'
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/ZhouMHCZF25
+  doi: 10.1109/TITS.2025.3549516
+  ee: https://doi.org/10.1109/TITS.2025.3549516
+  url: https://dblp.org/rec/journals/tits/ZhouMHCZF25
+few%20shot%20segmentation%20streamid%3Ajournals%2Ftitb%3A:
+- author: Hanbei Li, Yu Zhang 0012, Qiang Zuo
+  title: Multi-Objective Evolutionary Optimization Boosted Deep Neural Networks for
+    Few-Shot Medical Segmentation With Noisy Labels.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/LiZZ25
+  doi: 10.1109/JBHI.2025.3541849
+  ee: https://doi.org/10.1109/JBHI.2025.3541849
+  url: https://dblp.org/rec/journals/titb/LiZZ25
+- author: Hao-Chiang Shao, Chih-Ying Chen, Meng-Hsuan Chang, Chih-Han Yu, Chia-Wen
+    Lin, Ju-Wen Yang
+  title: 'Retina-TransNet: A Gradient-Guided Few-Shot Retinal Vessel Segmentation
+    Net.'
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/ShaoCCYLY23
+  doi: 10.1109/JBHI.2023.3298710
+  ee: https://doi.org/10.1109/JBHI.2023.3298710
+  url: https://dblp.org/rec/journals/titb/ShaoCCYLY23
+few%20shot%20segmentation%20streamid%3Ajournals%2Fijcv%3A:
+- author: Hanbo Bi, Yingchao Feng, Yongqiang Mao, Jianning Pei, Wenhui Diao, Hongqi
+    Wang, Xian Sun 0001
+  title: 'AgMTR: Agent Mining Transformer for Few-Shot Segmentation in Remote Sensing.'
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/BiFMPDWS25
+  doi: 10.1007/S11263-024-02252-Y
+  ee: https://doi.org/10.1007/s11263-024-02252-y
+  url: https://dblp.org/rec/journals/ijcv/BiFMPDWS25
+- author: Mengya Han, Yong Luo 0002, Han Hu 0003, Zengmao Wang, Lefei Zhang, Bo Du
+    0001, Ling-Yu Duan, Dacheng Tao
+  title: 'DM-PCL: Text-Driven Dual-Modal Prototype Consistency Learning for Weakly-Supervised
+    Few-Shot Part Segmentation.'
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/HanLHWZDDT25
+  doi: 10.1007/S11263-025-02545-W
+  ee: https://doi.org/10.1007/s11263-025-02545-w
+  url: https://dblp.org/rec/journals/ijcv/HanLHWZDDT25
+- author: Heng Liu, Guanghui Li, Mingqi Gao 0003, Xiantong Zhen, Feng Zheng 0001,
+    Yang Wang 0023
+  title: Few-Shot Referring Video Single- and Multi-Object Segmentation Via Cross-Modal
+    Affinity with Instance Sequence Matching.
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/LiuLGZZW25
+  doi: 10.1007/S11263-025-02444-0
+  ee: https://doi.org/10.1007/s11263-025-02444-0
+  url: https://dblp.org/rec/journals/ijcv/LiuLGZZW25
+- author: Mennatullah Siam
+  title: Temporal Transductive Inference for Few-Shot Video Object Segmentation.
+  venue: Int. J. Comput. Vis.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/Siam25
+  doi: 10.1007/S11263-025-02390-X
+  ee: https://doi.org/10.1007/s11263-025-02390-x
+  url: https://dblp.org/rec/journals/ijcv/Siam25
+- author: Chunbo Lang, Gong Cheng 0003, Binfei Tu, Junwei Han 0001
+  title: Few-Shot Segmentation via Divide-and-Conquer Proxies.
+  venue: Int. J. Comput. Vis.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/LangCTH24
+  doi: 10.1007/S11263-023-01886-8
+  ee: https://doi.org/10.1007/s11263-023-01886-8
+  url: https://dblp.org/rec/journals/ijcv/LangCTH24
+- author: Weide Liu, Zhonghua Wu, Yang Zhao, Yuming Fang, Chuan-Sheng Foo, Jun Cheng
+    0003, Guosheng Lin
+  title: 'Harmonizing Base and Novel Classes: A Class-Contrastive Approach for Generalized
+    Few-Shot Segmentation.'
+  venue: Int. J. Comput. Vis.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/LiuWZFFCL24
+  doi: 10.1007/S11263-023-01939-Y
+  ee: https://doi.org/10.1007/s11263-023-01939-y
+  url: https://dblp.org/rec/journals/ijcv/LiuWZFFCL24
+- author: Weide Liu, Chi Zhang 0007, Guosheng Lin, Fayao Liu
+  title: 'CRCNet: Few-Shot Segmentation with Cross-Reference and Region-Global Conditional
+    Networks.'
+  venue: Int. J. Comput. Vis.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/LiuZLL22
+  doi: 10.1007/S11263-022-01677-7
+  ee: https://doi.org/10.1007/s11263-022-01677-7
+  url: https://dblp.org/rec/journals/ijcv/LiuZLL22
+few%20shot%20segmentation%20streamid%3Ajournals%2Fcviu%3A:
+- author: Bin Xu, Yazhou Zhu 0001, Shidong Wang, Yang Long 0001, Haofeng Zhang 0001
+  title: Few-shot Medical Image Segmentation via Boundary-extended Prototypes and
+    Momentum Inference.
+  venue: Comput. Vis. Image Underst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/XuZWLZ26
+  doi: 10.1016/J.CVIU.2025.104571
+  ee: https://doi.org/10.1016/j.cviu.2025.104571
+  url: https://dblp.org/rec/journals/cviu/XuZWLZ26
+- author: Weixiang Gao, Caijuan Shi, Rui Wang 0128, Ao Cai, Changyu Duan, Meiqin Liu
+    0002
+  title: Incremental few-shot instance segmentation via feature enhancement and prototype
+    calibration.
+  venue: Comput. Vis. Image Underst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/GaoSWCDL25
+  doi: 10.1016/J.CVIU.2025.104317
+  ee: https://doi.org/10.1016/j.cviu.2025.104317
+  url: https://dblp.org/rec/journals/cviu/GaoSWCDL25
+- author: Shangwang Liu, Ruonan Xu
+  title: Multi-scale feature fusion based SAM for high-quality few-shot medical image
+    segmentation.
+  venue: Comput. Vis. Image Underst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/LiuX25
+  doi: 10.1016/J.CVIU.2025.104389
+  ee: https://doi.org/10.1016/j.cviu.2025.104389
+  url: https://dblp.org/rec/journals/cviu/LiuX25
+- author: Zhihao Ren, Shengning Lu, Xinhua Wang, Yaoming Liu, Yong Liang
+  title: 'MSCA: A few-shot segmentation framework driven by multi-scale cross-attention
+    and information extraction.'
+  venue: Comput. Vis. Image Underst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/RenLWLL25
+  doi: 10.1016/J.CVIU.2025.104419
+  ee: https://doi.org/10.1016/j.cviu.2025.104419
+  url: https://dblp.org/rec/journals/cviu/RenLWLL25
+- author: Xindan Zhang, Ying Li, Xinnian Zhang
+  title: Boosting few-shot point cloud segmentation with intra-class correlation and
+    iterative prototype fusion.
+  venue: Comput. Vis. Image Underst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/ZhangLZ25
+  doi: 10.1016/J.CVIU.2025.104393
+  ee: https://doi.org/10.1016/j.cviu.2025.104393
+  url: https://dblp.org/rec/journals/cviu/ZhangLZ25
+- author: Luofeng Zhang, Libo Weng, Yuanming Zhang, Fei Gao 0014
+  title: Incremental few-shot instance segmentation without fine-tuning on novel classes.
+  venue: Comput. Vis. Image Underst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/ZhangWZG25
+  doi: 10.1016/J.CVIU.2025.104323
+  ee: https://doi.org/10.1016/j.cviu.2025.104323
+  url: https://dblp.org/rec/journals/cviu/ZhangWZG25
+- author: Chen Liang, Shuang Bai
+  title: 'Found missing semantics: Supplemental prototype network for few-shot semantic
+    segmentation.'
+  venue: Comput. Vis. Image Underst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/LiangB24
+  doi: 10.1016/J.CVIU.2024.104191
+  ee: https://doi.org/10.1016/j.cviu.2024.104191
+  url: https://dblp.org/rec/journals/cviu/LiangB24
+- author: Xu Cheng 0003, Haoyuan Li, Shuya Deng, Yonghong Peng
+  title: 'POEM: A prototype cross and emphasis network for few-shot semantic segmentation.'
+  venue: Comput. Vis. Image Underst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/ChengLDP23
+  doi: 10.1016/J.CVIU.2023.103746
+  ee: https://doi.org/10.1016/j.cviu.2023.103746
+  url: https://dblp.org/rec/journals/cviu/ChengLDP23
+- author: Leiyang Xu, Qiang Wang 0001, Xiaotian Lin, Lin Yuan
+  title: An efficient framework for few-shot skeleton-based temporal action segmentation.
+  venue: Comput. Vis. Image Underst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/XuWLY23
+  doi: 10.1016/J.CVIU.2023.103707
+  ee: https://doi.org/10.1016/j.cviu.2023.103707
+  url: https://dblp.org/rec/journals/cviu/XuWLY23
+few%20shot%20segmentation%20streamid%3Ajournals%2Fpr%3A:
+- author: Shijie Chang, Youwei Pang, Xiaoqi Zhao 0003, Huchuan Lu, Lihe Zhang
+  title: 'Beyond mask: Rethinking guidance types in few-shot segmentation.'
+  venue: Pattern Recognit.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ChangPZLZ25
+  doi: 10.1016/J.PATCOG.2025.111635
+  ee: https://doi.org/10.1016/j.patcog.2025.111635
+  url: https://dblp.org/rec/journals/pr/ChangPZLZ25
+- author: Mengya Han, Heliang Zheng, Chaoyue Wang, Yong Luo 0002, Han Hu 0003, Jing
+    Zhang 0037, Bo Du 0001
+  title: 'PartSeg: Few-shot part segmentation via part-aware prompt learning.'
+  venue: Pattern Recognit.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/HanZWLHZD25
+  doi: 10.1016/J.PATCOG.2024.111326
+  ee: https://doi.org/10.1016/j.patcog.2024.111326
+  url: https://dblp.org/rec/journals/pr/HanZWLHZD25
+- author: Xinyi Zhang, Xian-Kai Lu, Yi-Long Yin, Han-Jia Ye, De-Chuan Zhan
+  title: Efficient Sampling-based Gaussian Processes for few-shot semantic segmentation.
+  venue: Pattern Recognit.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ZhangLYYZ25
+  doi: 10.1016/J.PATCOG.2025.111542
+  ee: https://doi.org/10.1016/j.patcog.2025.111542
+  url: https://dblp.org/rec/journals/pr/ZhangLYYZ25
+- author: Yadang Chen, Sihan Chen, Zhi-Xin Yang 0001, Enhua Wu
+  title: Learning self-target knowledge for few-shot segmentation.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ChenCYW24
+  doi: 10.1016/J.PATCOG.2024.110266
+  ee: https://doi.org/10.1016/j.patcog.2024.110266
+  url: https://dblp.org/rec/journals/pr/ChenCYW24
+- author: Yutao Hu 0002, Xin Huang, Xiaoyan Luo, Jungong Han, Xianbin Cao 0001, Jun
+    Zhang 0007
+  title: Learning Foreground Information Bottleneck for few-shot semantic segmentation.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/HuHLHCZ24
+  doi: 10.1016/J.PATCOG.2023.109993
+  ee: https://doi.org/10.1016/j.patcog.2023.109993
+  url: https://dblp.org/rec/journals/pr/HuHLHCZ24
+- author: Hugo N. Oliveira 0001, Pedro H. T. Gama, Isabelle Bloch, Roberto Marcondes
+    Cesar Jr.
+  title: Meta-learners for few-shot weakly-supervised medical image segmentation.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/OliveiraGBC24
+  doi: 10.1016/J.PATCOG.2024.110471
+  ee: https://doi.org/10.1016/j.patcog.2024.110471
+  url: https://dblp.org/rec/journals/pr/OliveiraGBC24
+- author: Wenxuan Shao, Hao Qi, Xinghui Dong
+  title: A learnable support selection scheme for boosting few-shot segmentation.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ShaoQD24
+  doi: 10.1016/J.PATCOG.2023.110202
+  ee: https://doi.org/10.1016/j.patcog.2023.110202
+  url: https://dblp.org/rec/journals/pr/ShaoQD24
+- author: Runtong Zhang, Hongyuan Zhu 0002, Hanwang Zhang, Chen Gong 0002, Joey Tianyi
+    Zhou, Fanman Meng
+  title: Blessing few-shot segmentation via semi-supervised learning with noisy support
+    images.
+  venue: Pattern Recognit.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/ZhangZZGZM24
+  doi: 10.1016/J.PATCOG.2024.110503
+  ee: https://doi.org/10.1016/j.patcog.2024.110503
+  url: https://dblp.org/rec/journals/pr/ZhangZZGZM24
+- author: Henghui Ding, Hui Zhang, Xudong Jiang 0001
+  title: Self-regularized prototypical network for few-shot semantic segmentation.
+  venue: Pattern Recognit.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/DingZJ23
+  doi: 10.1016/J.PATCOG.2022.109018
+  ee: https://doi.org/10.1016/j.patcog.2022.109018
+  url: https://dblp.org/rec/journals/pr/DingZJ23
+- author: Soopil Kim, Philip Chikontwe, Sion An, Sanghyun Park 0004
+  title: Uncertainty-aware semi-supervised few shot segmentation.
+  venue: Pattern Recognit.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/KimCAP23
+  doi: 10.1016/J.PATCOG.2022.109292
+  ee: https://doi.org/10.1016/j.patcog.2022.109292
+  url: https://dblp.org/rec/journals/pr/KimCAP23
+- author: Hai Min, Yemao Zhang, Yang Zhao 0002, Wei Jia 0001, Ying-Ke Lei, Chunxiao
+    Fan 0002
+  title: Hybrid feature enhancement network for few-shot semantic segmentation.
+  venue: Pattern Recognit.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/MinZZJLF23
+  doi: 10.1016/J.PATCOG.2022.109291
+  ee: https://doi.org/10.1016/j.patcog.2022.109291
+  url: https://dblp.org/rec/journals/pr/MinZZJLF23
+- author: Haoliang Sun, Xiankai Lu, Haochen Wang, Yilong Yin, Xiantong Zhen, Cees
+    G. M. Snoek, Ling Shao 0001
+  title: Attentional prototype inference for few-shot segmentation.
+  venue: Pattern Recognit.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/SunLWYZSS23
+  doi: 10.1016/J.PATCOG.2023.109726
+  ee: https://doi.org/10.1016/j.patcog.2023.109726
+  url: https://dblp.org/rec/journals/pr/SunLWYZSS23
+few%20shot%20segmentation%20streamid%3Ajournals%2Fprl%3A:
+- author: Jiwei Xiao, Ruiping Wang 0001, Chen He, Xilin Chen 0001
+  title: Cross-Domain Few-Shot 3D Point Cloud Semantic Segmentation.
+  venue: Pattern Recognit. Lett.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/XiaoWHC25
+  doi: 10.1016/J.PATREC.2025.07.001
+  ee: https://doi.org/10.1016/j.patrec.2025.07.001
+  url: https://dblp.org/rec/journals/prl/XiaoWHC25
+- author: Tichao Wang, Fusheng Hao, Guosheng Cui, Fuxiang Wu, Mengjie Yang, Qieshi
+    Zhang, Jun Cheng 0002
+  title: Two-stage feature distribution rectification for few-shot point cloud semantic
+    segmentation.
+  venue: Pattern Recognit. Lett.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/WangHCWYZC24
+  doi: 10.1016/J.PATREC.2023.12.008
+  ee: https://doi.org/10.1016/j.patrec.2023.12.008
+  url: https://dblp.org/rec/journals/prl/WangHCWYZC24
+- author: Yazhou Zhu 0001, Ziming Cheng, Shidong Wang, Haofeng Zhang 0001
+  title: Learning De-biased prototypes for Few-shot Medical Image Segmentation.
+  venue: Pattern Recognit. Lett.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/ZhuCWZ24
+  doi: 10.1016/J.PATREC.2024.05.003
+  ee: https://doi.org/10.1016/j.patrec.2024.05.003
+  url: https://dblp.org/rec/journals/prl/ZhuCWZ24
+- author: Ayyappa Kumar Pambala, Titir Dutta, Soma Biswas
+  title: "SML: Semantic meta-learning for few-shot semantic segmentation\u2606."
+  venue: Pattern Recognit. Lett.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/PambalaDB21
+  doi: 10.1016/J.PATREC.2021.03.036
+  ee: https://doi.org/10.1016/j.patrec.2021.03.036
+  url: https://dblp.org/rec/journals/prl/PambalaDB21
+- author: Julia Dietlmeier, Kevin McGuinness, Sandra Rugonyi, Teresa Wilson, Alfred
+    L. Nuttall, Noel E. O&apos;Connor
+  title: Few-shot hypercolumn-based mitochondria segmentation in cardiac and outer
+    hair cells in focused ion beam-scanning electron microscopy (FIB-SEM) data.
+  venue: Pattern Recognit. Lett.
+  year: '2019'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/DietlmeierMRWNO19
+  doi: 10.1016/J.PATREC.2019.10.031
+  ee: https://doi.org/10.1016/j.patrec.2019.10.031
+  url: https://dblp.org/rec/journals/prl/DietlmeierMRWNO19
+few%20shot%20segmentation%20streamid%3Ajournals%2Fmia%3A:
+- author: "Julio Silva-Rodr\xEDguez, Jose Dolz, Ismail Ben Ayed"
+  title: Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for
+    Volumetric Organ Segmentation.
+  venue: Medical Image Anal.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/SilvaRodriguezDA25
+  doi: 10.1016/J.MEDIA.2025.103596
+  ee: https://doi.org/10.1016/j.media.2025.103596
+  url: https://dblp.org/rec/journals/mia/SilvaRodriguezDA25
+- author: Song Tang 0001, Shaxu Yan, Xiaozhi Qi, Jianxin Gao, Mao Ye 0001, Jianwei
+    Zhang 0001, Xiatian Zhu
+  title: Few-shot medical image segmentation with high-fidelity prototypes.
+  venue: Medical Image Anal.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/TangYQGYZZ25
+  doi: 10.1016/J.MEDIA.2024.103412
+  ee: https://doi.org/10.1016/j.media.2024.103412
+  url: https://dblp.org/rec/journals/mia/TangYQGYZZ25
+- author: Shengdong Zhang, Fan Jia, Xiang Li, Hao Zhang 0026, Jun Shi 0004, Liyan
+    Ma, Shihui Ying
+  title: 'LMS-Net: A learned Mumford-Shah network for binary few-shot medical image
+    segmentation.'
+  venue: Medical Image Anal.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/ZhangJLZSMY25
+  doi: 10.1016/J.MEDIA.2025.103676
+  ee: https://doi.org/10.1016/j.media.2025.103676
+  url: https://dblp.org/rec/journals/mia/ZhangJLZSMY25
+- author: Yanjie Zhou, Feng Zhou, Fengjun Xi, Yong Liu, Yun Peng, David E. Carlson,
+    Liyun Tu
+  title: Efficient few-shot medical image segmentation via self-supervised variational
+    autoencoder.
+  venue: Medical Image Anal.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/ZhouZXLPCT25
+  doi: 10.1016/J.MEDIA.2025.103637
+  ee: https://doi.org/10.1016/j.media.2025.103637
+  url: https://dblp.org/rec/journals/mia/ZhouZXLPCT25
+- author: Jun Chen 0030, Xuejiao Li, Heye Zhang, Yongwon Cho, Sung Ho Hwang, Zhifan
+    Gao, Guang Yang 0006
+  title: Adaptive dynamic inference for few-shot left atrium segmentation.
+  venue: Medical Image Anal.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/ChenLZCHGY24
+  doi: 10.1016/J.MEDIA.2024.103321
+  ee: https://doi.org/10.1016/j.media.2024.103321
+  url: https://dblp.org/rec/journals/mia/ChenLZCHGY24
+- author: Yong Feng, Yonghuai Wang, Honghe Li, Mingjun Qu, Jinzhu Yang
+  title: 'Learning what and where to segment: A new perspective on medical image few-shot
+    segmentation.'
+  venue: Medical Image Anal.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/mia/FengWLQY23
+  doi: 10.1016/J.MEDIA.2023.102834
+  ee: https://doi.org/10.1016/j.media.2023.102834
+  url: https://dblp.org/rec/journals/mia/FengWLQY23
+- author: Stine Hansen, Srishti Gautam, Suaiba Amina Salahuddin, Michael Kampffmeyer,
+    Robert Jenssen
+  title: 'ADNet++: A few-shot learning framework for multi-class medical image volume
+    segmentation with uncertainty-guided feature refinement.'
+  venue: Medical Image Anal.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/mia/HansenGSKJ23
+  doi: 10.1016/J.MEDIA.2023.102870
+  ee: https://doi.org/10.1016/j.media.2023.102870
+  url: https://dblp.org/rec/journals/mia/HansenGSKJ23
+- author: Yiwen Li, Yunguan Fu, Iani J. M. B. Gayo, Qianye Yang, Zhe Min, Shaheer
+    U. Saeed, Wen Yan 0005, Yipei Wang, J. Alison Noble, Mark Emberton, Matthew J.
+    Clarkson, Henkjan Huisman, Dean C. Barratt, Victor Adrian Prisacariu, Yipeng Hu
+  title: Prototypical few-shot segmentation for cross-institution male pelvic structures
+    with spatial registration.
+  venue: Medical Image Anal.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/mia/LiFGYMSYWNECHBPH23
+  doi: 10.1016/J.MEDIA.2023.102935
+  ee: https://doi.org/10.1016/j.media.2023.102935
+  url: https://dblp.org/rec/journals/mia/LiFGYMSYWNECHBPH23
+- author: Stine Hansen, Srishti Gautam, Robert Jenssen, Michael Kampffmeyer
+  title: Anomaly detection-inspired few-shot medical image segmentation through self-supervision
+    with supervoxels.
+  venue: Medical Image Anal.
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/mia/HansenGJK22
+  doi: 10.1016/J.MEDIA.2022.102385
+  ee: https://doi.org/10.1016/j.media.2022.102385
+  url: https://dblp.org/rec/journals/mia/HansenGJK22
+- author: Qi Lu, Wan Liu 0001, Zhizheng Zhuo, Yuxing Li 0004, Yunyun Duan, Pinnan
+    Yu, Liying Qu, Chuyang Ye, Yaou Liu
+  title: A transfer learning approach to few-shot segmentation of novel white matter
+    tracts.
+  venue: Medical Image Anal.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/LuLZLDYQYL22
+  doi: 10.1016/J.MEDIA.2022.102454
+  ee: https://doi.org/10.1016/j.media.2022.102454
+  url: https://dblp.org/rec/journals/mia/LuLZLDYQYL22
+- author: Xiaoyan Wang 0007, Yiwen Yuan, Dongyan Guo, Xiaojie Huang, Ying Cui, Ming
+    Xia, Zhenhua Wang 0003, Cong Bai, Shengyong Chen
+  title: 'SSA-Net: Spatial self-attention network for COVID-19 pneumonia infection
+    segmentation with semi-supervised few-shot learning.'
+  venue: Medical Image Anal.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/WangYGHCXWBC22
+  doi: 10.1016/J.MEDIA.2022.102459
+  ee: https://doi.org/10.1016/j.media.2022.102459
+  url: https://dblp.org/rec/journals/mia/WangYGHCXWBC22
+- author: Saidi Guo, Lin Xu 0008, Cheng Feng, Huahua Xiong, Zhifan Gao, Heye Zhang
+  title: Multi-level semantic adaptation for few-shot segmentation on cardiac image
+    sequences.
+  venue: Medical Image Anal.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/GuoXFXGZ21
+  doi: 10.1016/J.MEDIA.2021.102170
+  ee: https://doi.org/10.1016/j.media.2021.102170
+  url: https://dblp.org/rec/journals/mia/GuoXFXGZ21
+- author: "Abhijit Guha Roy, Shayan Siddiqui, Sebastian P\xF6lsterl, Nassir Navab,\
+    \ Christian Wachinger"
+  title: '&apos;Squeeze &amp; excite&apos; guided few-shot segmentation of volumetric
+    images.'
+  venue: Medical Image Anal.
+  year: '2020'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/RoySPNW20
+  doi: 10.1016/J.MEDIA.2019.101587
+  ee: https://doi.org/10.1016/j.media.2019.101587
+  url: https://dblp.org/rec/journals/mia/RoySPNW20
+few%20shot%20segmentation%20streamid%3Ajournals%2Fcmig%3A:
+- author: Wanyuan Gong, Yanmin Luo 0001, Fuxing Yang, Huabiao Zhou, Zhongwei Lin,
+    Chi Cai, Youcao Lin, Junyan Chen
+  title: 'CGNet: Few-shot learning for Intracranial Hemorrhage Segmentation.'
+  venue: Comput. Medical Imaging Graph.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/cmig/GongLYZLCLC25
+  doi: 10.1016/J.COMPMEDIMAG.2025.102505
+  ee: https://doi.org/10.1016/j.compmedimag.2025.102505
+  url: https://dblp.org/rec/journals/cmig/GongLYZLCLC25
+- author: Yuan Huang, Sven A. Holcombe, Stewart C. Wang, Jisi Tang
+  title: 'AFSegNet: few-shot 3D ankle-foot bone segmentation via hierarchical feature
+    distillation and multi-scale attention and fusion.'
+  venue: Comput. Medical Imaging Graph.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/cmig/HuangHWT24a
+  doi: 10.1016/J.COMPMEDIMAG.2024.102456
+  ee: https://doi.org/10.1016/j.compmedimag.2024.102456
+  url: https://dblp.org/rec/journals/cmig/HuangHWT24a
+- author: Runze Wang, Guoyan Zheng
+  title: 'PFMNet: Prototype-based feature mapping network for few-shot domain adaptation
+    in medical image segmentation.'
+  venue: Comput. Medical Imaging Graph.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/cmig/WangZ24
+  doi: 10.1016/J.COMPMEDIMAG.2024.102406
+  ee: https://doi.org/10.1016/j.compmedimag.2024.102406
+  url: https://dblp.org/rec/journals/cmig/WangZ24
+few%20shot%20segmentation%20streamid%3Ajournals%2Fkbs%3A:
+- author: Xiaoming Chen, Zhangyan Zhao, Jingjing Cao, Yuhang Zou, Haipeng Liu
+  title: 'DPNet: A dual prototype few-shot semantic segmentation network for crack
+    detection.'
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChenZCZL25
+  doi: 10.1016/J.KNOSYS.2025.113733
+  ee: https://doi.org/10.1016/j.knosys.2025.113733
+  url: https://dblp.org/rec/journals/kbs/ChenZCZL25
+- author: Pengfang Li, Fang Liu 0001, Licheng Jiao, Shuo Li 0010, Xu Liu 0006, Puhua
+    Chen, Lingling Li 0002, Zehua Hao
+  title: LLM Knowledge-Driven Target Prototype Learning for Few-Shot Segmentation.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/LiLJLLCLH25
+  doi: 10.1016/J.KNOSYS.2025.113149
+  ee: https://doi.org/10.1016/j.knosys.2025.113149
+  url: https://dblp.org/rec/journals/kbs/LiLJLLCLH25
+- author: Chenghua Tang, Jianbing Yi, Yanzhen Chen, Xin Wu, Wenwu Xiong
+  title: Bidirectional consistent hypercorrelation network for cross-domain few-shot
+    segmentation.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/TangYCWX25
+  doi: 10.1016/J.KNOSYS.2025.114866
+  ee: https://doi.org/10.1016/j.knosys.2025.114866
+  url: https://dblp.org/rec/journals/kbs/TangYCWX25
+- author: Yicong Wang, Rong Huang 0003, Shubo Zhou, Xueqin Jiang 0001, Zhijun Fang
+  title: Learning prototypes from background and latent objects for few-shot semantic
+    segmentation.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WangHZJF25
+  doi: 10.1016/J.KNOSYS.2025.113218
+  ee: https://doi.org/10.1016/j.knosys.2025.113218
+  url: https://dblp.org/rec/journals/kbs/WangHZJF25
+- author: Haijun Yan, Zili Zhang, Tao Peng 0006, Xinrong Hu, Jun Zhang, Shuhan Qi
+  title: Enhancing feature interaction for improved generalization in few-shot metal
+    surface defect segmentation.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/YanZPHZQ25
+  doi: 10.1016/J.KNOSYS.2025.114606
+  ee: https://doi.org/10.1016/j.knosys.2025.114606
+  url: https://dblp.org/rec/journals/kbs/YanZPHZQ25
+- author: Binrong Yang, Xulun Ye
+  title: Few-shot 3D point cloud segmentation with unknown class number.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/YangY25
+  doi: 10.1016/J.KNOSYS.2025.114781
+  ee: https://doi.org/10.1016/j.knosys.2025.114781
+  url: https://dblp.org/rec/journals/kbs/YangY25
+- author: Xinyang Huang, Chuang Zhu, Kebin Liu, Ruiying Ren, Shengjie Liu
+  title: Learning robust correlation with foundation model for weakly-supervised few-shot
+    segmentation.
+  venue: Knowl. Based Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/HuangZLRL24
+  doi: 10.1016/J.KNOSYS.2024.112004
+  ee: https://doi.org/10.1016/j.knosys.2024.112004
+  url: https://dblp.org/rec/journals/kbs/HuangZLRL24
+- author: Shenxing Wei, Xing Wei 0001, Zhiheng Ma, Songlin Dong, Shaochen Zhang, Yihong
+    Gong
+  title: Few-shot online anomaly detection and segmentation.
+  venue: Knowl. Based Syst.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WeiWMDZG24
+  doi: 10.1016/J.KNOSYS.2024.112168
+  ee: https://doi.org/10.1016/j.knosys.2024.112168
+  url: https://dblp.org/rec/journals/kbs/WeiWMDZG24
+- author: Qun Li 0002, Baoquan Sun, Bir Bhanu
+  title: 'Lite-FENet: Lightweight multi-scale feature enrichment network for few-shot
+    segmentation.'
+  venue: Knowl. Based Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/LiSB23
+  doi: 10.1016/J.KNOSYS.2023.110887
+  ee: https://doi.org/10.1016/j.knosys.2023.110887
+  url: https://dblp.org/rec/journals/kbs/LiSB23
+- author: Lvlong Lai, Jian Chen 0011, Chi Zhang 0007, Zehong Zhang, Guosheng Lin,
+    Qingyao Wu
+  title: Tackling background ambiguities in multi-class few-shot point cloud semantic
+    segmentation.
+  venue: Knowl. Based Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/LaiCZZLW22
+  doi: 10.1016/J.KNOSYS.2022.109508
+  ee: https://doi.org/10.1016/j.knosys.2022.109508
+  url: https://dblp.org/rec/journals/kbs/LaiCZZLW22
+- author: Mohamed Abdel-Basset, Victor Chang 0001, Hossam Hawash, Ripon Kumar Chakrabortty,
+    Michael J. Ryan
+  title: 'FSS-2019-nCov: A deep learning architecture for semi-supervised few-shot
+    segmentation of COVID-19 infection.'
+  venue: Knowl. Based Syst.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/Abdel-BassetCHC21
+  doi: 10.1016/J.KNOSYS.2020.106647
+  ee: https://doi.org/10.1016/j.knosys.2020.106647
+  url: https://dblp.org/rec/journals/kbs/Abdel-BassetCHC21
+few%20shot%20segmentation%20streamid%3Ajournals%2Feswa%3A:
+- author: Qiang Chi, Fuzhi Wu, Yuhang Liu, Yue Zhang, Zidong Liu, Pascal Haigron,
+    Huazhong Shu
+  title: 'D2SFNet: Dual-domain spatial-frequency network for few-shot medical image
+    segmentation.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ChiWLZLHS26
+  doi: 10.1016/J.ESWA.2025.130107
+  ee: https://doi.org/10.1016/j.eswa.2025.130107
+  url: https://dblp.org/rec/journals/eswa/ChiWLZLHS26
+- author: Yizhan Gu, Yiren Cai, Kai Zhou, Jianing Wang, Meilan Hao
+  title: MCIFSS:Mask-guided modality collaboration with global-local discriminative
+    synergy for incremental few-shot semantic segmentation.
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/GuCZWH26
+  doi: 10.1016/J.ESWA.2025.130250
+  ee: https://doi.org/10.1016/j.eswa.2025.130250
+  url: https://dblp.org/rec/journals/eswa/GuCZWH26
+- author: Bingjie Guo, Wenhui Huang 0002, Xiaoyan Wang
+  title: 'ABE-Mamba: Few-shot medical image segmentation via adversarial bidirectional
+    enhanced Mamba.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/GuoHW26
+  doi: 10.1016/J.ESWA.2025.129897
+  ee: https://doi.org/10.1016/j.eswa.2025.129897
+  url: https://dblp.org/rec/journals/eswa/GuoHW26
+- author: Yanxiong Li, Qisheng Huang, Xiaofen Xing, Xiangmin Xu
+  title: Low-complexity speaker embedding module with feature segmentation, transformation
+    and reconstruction for few-shot speaker identification.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/LiHXX25
+  doi: 10.1016/J.ESWA.2025.127542
+  ee: https://doi.org/10.1016/j.eswa.2025.127542
+  url: https://dblp.org/rec/journals/eswa/LiHXX25
+- author: Xiaoliu Luo, Ting Xie 0004, Weisen Qin, Zhao Duan, Jin Tan, Taiping Zhang
+  title: Combining hierarchical sparse representation with adaptive prompt for few-shot
+    segmentation.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/LuoXQDTZ25
+  doi: 10.1016/J.ESWA.2024.125377
+  ee: https://doi.org/10.1016/j.eswa.2024.125377
+  url: https://dblp.org/rec/journals/eswa/LuoXQDTZ25
+- author: Yuxuan Zhang 0007, Shuchang Wang, Zhenbo Shi, Wei Yang 0011
+  title: On filling the intra-class and inter-class gaps for few-shot segmentation.
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhangWSY25
+  doi: 10.1016/J.ESWA.2024.125552
+  ee: https://doi.org/10.1016/j.eswa.2024.125552
+  url: https://dblp.org/rec/journals/eswa/ZhangWSY25
+- author: Yuexing Han, Ruiqi Li, Bing Wang 0019, Liheng Ruan, Qiaochuan Chen
+  title: A pseudo-labeling based weakly supervised segmentation method for few-shot
+    texture images.
+  venue: Expert Syst. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/HanLWRC24
+  doi: 10.1016/J.ESWA.2023.122110
+  ee: https://doi.org/10.1016/j.eswa.2023.122110
+  url: https://dblp.org/rec/journals/eswa/HanLWRC24
+few%20shot%20segmentation%20streamid%3Ajournals%2Fnn%3A:
+- author: Hailing Wang, Chunwei Wu, Hai Zhang, Guitao Cao, Wenming Cao 0001
+  title: Uncertainty guided semi-supervised few-shot segmentation with prototype level
+    fusion.
+  venue: Neural Networks
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WangWZCC25
+  doi: 10.1016/J.NEUNET.2024.106802
+  ee: https://doi.org/10.1016/j.neunet.2024.106802
+  url: https://dblp.org/rec/journals/nn/WangWZCC25
+- author: Daming Shi 0001, Maysam Orouskhani, Yasin Orouskhani
+  title: A conditional Triplet loss for few-shot learning and its application to image
+    co-segmentation.
+  venue: Neural Networks
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ShiOO21
+  doi: 10.1016/J.NEUNET.2021.01.002
+  ee: https://doi.org/10.1016/j.neunet.2021.01.002
+  url: https://dblp.org/rec/journals/nn/ShiOO21
+few%20shot%20segmentation%20streamid%3Ajournals%2Fijon%3A:
+- author: Yudong Liang, Pei An, Qiong Liu 0001, You Yang 0002, Ling Xu
+  title: Density-aware few-parametric networks for robust few-shot point cloud semantic
+    segmentation.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiangALYX26
+  doi: 10.1016/J.NEUCOM.2025.132158
+  ee: https://doi.org/10.1016/j.neucom.2025.132158
+  url: https://dblp.org/rec/journals/ijon/LiangALYX26
+- author: Anil Ahmed, Degen Huang, Salahuddin Unar, Mobeen Nazar
+  title: 'CrossSeg-GvT: multi-view graph vision transformers with context-aware memory
+    and meta prompting for cross-domain few-shot semantic segmentation.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/AhmedHUN26
+  doi: 10.1016/J.NEUCOM.2025.132337
+  ee: https://doi.org/10.1016/j.neucom.2025.132337
+  url: https://dblp.org/rec/journals/ijon/AhmedHUN26
+- author: Shuai Chen, Fanman Meng, Liming Lei, Haoran Wei, Chenhao Wu, Qingbo Wu 0001,
+    Linfeng Xu 0001, Hongliang Li 0001
+  title: 'CMaP-SAM: Contraction mapping prior for SAM-driven few-shot segmentation.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ChenMLWWWXL26
+  doi: 10.1016/J.NEUCOM.2025.131816
+  ee: https://doi.org/10.1016/j.neucom.2025.131816
+  url: https://dblp.org/rec/journals/ijon/ChenMLWWWXL26
+- author: Shuo Li 0010, Fang Liu 0034, Licheng Jiao, Xuejian Gou, Lingling Li 0002,
+    Xu Liu 0006, Puhua Chen
+  title: Enhancing few-shot segmentation via mask combination learning.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiLJGLLC26
+  doi: 10.1016/J.NEUCOM.2025.132001
+  ee: https://doi.org/10.1016/j.neucom.2025.132001
+  url: https://dblp.org/rec/journals/ijon/LiLJGLLC26
+- author: Shanjuan Chen, Yunlong Yu, Yingming Li, Ziqian Lu, Yulin Zhou
+  title: Mask-free Iterative Refinement Network for weakly-supervised Few-shot Semantic
+    Segmentation.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ChenYLLZ25
+  doi: 10.1016/J.NEUCOM.2024.128600
+  ee: https://doi.org/10.1016/j.neucom.2024.128600
+  url: https://dblp.org/rec/journals/ijon/ChenYLLZ25
+- author: Chen Liu, Meng Chi, Yanding Wei, Qiang Fang, Mingjun Tang, Libin Wang
+  title: Fastener anomaly detection for industrial assembly scenarios based on few-shot
+    fine-grained component segmentation.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LiuCWFTW25
+  doi: 10.1016/J.NEUCOM.2025.131432
+  ee: https://doi.org/10.1016/j.neucom.2025.131432
+  url: https://dblp.org/rec/journals/ijon/LiuCWFTW25
+- author: Xiaoliu Luo, Ningsheng Liao, Huiqing Qi
+  title: Rank-constrained correspondence network for few-shot segmentation.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/LuoLQ25
+  doi: 10.1016/J.NEUCOM.2025.131273
+  ee: https://doi.org/10.1016/j.neucom.2025.131273
+  url: https://dblp.org/rec/journals/ijon/LuoLQ25
+- author: Xiaowei Wang, Qiong Chen, Yong Yang
+  title: Word vector embedding and self-supplementing network for Generalized Few-shot
+    Semantic Segmentation.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangCY25
+  doi: 10.1016/J.NEUCOM.2024.128737
+  ee: https://doi.org/10.1016/j.neucom.2024.128737
+  url: https://dblp.org/rec/journals/ijon/WangCY25
+- author: Siqi Wang, Xiaosheng Yu 0001, Jianning Chi, Chengdong Wu 0001, Xiujing Gao
+  title: 'PONet: Prototype optimization network for few-shot medical image segmentation.'
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/WangYCWG25
+  doi: 10.1016/J.NEUCOM.2025.131113
+  ee: https://doi.org/10.1016/j.neucom.2025.131113
+  url: https://dblp.org/rec/journals/ijon/WangYCWG25
+- author: Aiping Yang, Zijia Sang, Yaran Zhou, Jiale Cao, Liping Liu
+  title: Bi-orientated rectification few-shot segmentation network based on fine-grained
+    prototypes.
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/YangSZCL25
+  doi: 10.1016/J.NEUCOM.2024.129160
+  ee: https://doi.org/10.1016/j.neucom.2024.129160
+  url: https://dblp.org/rec/journals/ijon/YangSZCL25
+- author: Hao Chen 0107, Yonghan Dong, Zheming Lu 0001, Yunlong Yu, Yingming Li, Jungong
+    Han, Zhongfei Zhang
+  title: Dense affinity matching for Few-Shot Segmentation.
+  venue: Neurocomputing
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ChenDLYLHZ24
+  doi: 10.1016/J.NEUCOM.2024.127348
+  ee: https://doi.org/10.1016/j.neucom.2024.127348
+  url: https://dblp.org/rec/journals/ijon/ChenDLYLHZ24
+- author: Pengrui Teng, Wenjian Liu, Xuesong Wang 0001, Di Wu 0030, Chang-an Yuan
+    0001, Yuhu Cheng, De-Shuang Huang
+  title: 'Beyond singular prototype: A prototype splitting strategy for few-shot medical
+    image segmentation.'
+  venue: Neurocomputing
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/TengLWWYCH24
+  doi: 10.1016/J.NEUCOM.2024.127990
+  ee: https://doi.org/10.1016/j.neucom.2024.127990
+  url: https://dblp.org/rec/journals/ijon/TengLWWYCH24
+- author: Yafeng Yang, Yufei Gao 0001, Lin Wei, Mengyang He, Yucheng Shi, Hailing
+    Wang, Qing Li, Zhiyuan Zhu
+  title: Self-support matching networks with multiscale attention for few-shot semantic
+    segmentation.
+  venue: Neurocomputing
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/YangGWHSWLZ24
+  doi: 10.1016/J.NEUCOM.2024.127811
+  ee: https://doi.org/10.1016/j.neucom.2024.127811
+  url: https://dblp.org/rec/journals/ijon/YangGWHSWLZ24
+- author: Gokul Puthumanaillam, Ujjwal Verma
+  title: 'Texture based prototypical network for few-shot semantic segmentation of
+    forest cover: Generalizing for different geographical regions.'
+  venue: Neurocomputing
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/PuthumanaillamV23
+  doi: 10.1016/J.NEUCOM.2023.03.062
+  ee: https://doi.org/10.1016/j.neucom.2023.03.062
+  url: https://dblp.org/rec/journals/ijon/PuthumanaillamV23
+- author: Qieshi Zhang, Tichao Wang, Fusheng Hao, Fuxiang Wu, Jun Cheng 0002
+  title: Prototype expansion and feature calibration for few-shot point cloud semantic
+    segmentation.
+  venue: Neurocomputing
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ZhangWHWC23
+  doi: 10.1016/J.NEUCOM.2023.126732
+  ee: https://doi.org/10.1016/j.neucom.2023.126732
+  url: https://dblp.org/rec/journals/ijon/ZhangWHWC23
+- author: Binjie Mao, Lingfeng Wang 0002, Shiming Xiang, Chunhong Pan
+  title: Task-aware adaptive attention learning for few-shot semantic segmentation.
+  venue: Neurocomputing
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/MaoWXP22
+  doi: 10.1016/J.NEUCOM.2022.04.089
+  ee: https://doi.org/10.1016/j.neucom.2022.04.089
+  url: https://dblp.org/rec/journals/ijon/MaoWXP22
+few%20shot%20segmentation%20streamid%3Ajournals%2Fnca%3A:
+- author: Binjie Mao, Xiyan Liu, Linsu Shi, Jiazhong Yu, Fei Li, Shiming Xiang
+  title: Few-shot video object segmentation with prototype evolution.
+  venue: Neural Comput. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/MaoLSYLX24
+  doi: 10.1007/S00521-023-09325-Y
+  ee: https://doi.org/10.1007/s00521-023-09325-y
+  url: https://dblp.org/rec/journals/nca/MaoLSYLX24
+- author: Ankit Kumar Titoriya, Maheshwari Prasad Singh, Amit Kumar Singh 0001
+  title: Self-supervised few-shot medical image segmentation with spatial transformations.
+  venue: Neural Comput. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/TitoriyaSS24
+  doi: 10.1007/S00521-024-10184-4
+  ee: https://doi.org/10.1007/s00521-024-10184-4
+  url: https://dblp.org/rec/journals/nca/TitoriyaSS24
+- author: Hegui Zhu, Yange Zhou, Cong Jiang, Lianping Yang, Wuming Jiang, Zhimu Wang
+  title: A lightweight siamese transformer for few-shot semantic segmentation.
+  venue: Neural Comput. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/ZhuZJYJW24
+  doi: 10.1007/S00521-024-09471-X
+  ee: https://doi.org/10.1007/s00521-024-09471-x
+  url: https://dblp.org/rec/journals/nca/ZhuZJYJW24
+- author: Zhaobin Chang, Yonggang Lu, Xingcheng Ran, Xiong Gao, Xiangwen Wang
+  title: 'Few-shot semantic segmentation: a review on recent approaches.'
+  venue: Neural Comput. Appl.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/ChangLRGW23
+  doi: 10.1007/S00521-023-08758-9
+  ee: https://doi.org/10.1007/s00521-023-08758-9
+  url: https://dblp.org/rec/journals/nca/ChangLRGW23
+- author: Ze-Yu Liu 0011, Jian-wei Liu 0006
+  title: Multi-scale attentional similarity guidance network for few-shot semantic
+    segmentation.
+  venue: Neural Comput. Appl.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/LiuL22a
+  doi: 10.1007/S00521-022-07494-W
+  ee: https://doi.org/10.1007/s00521-022-07494-w
+  url: https://dblp.org/rec/journals/nca/LiuL22a
+- author: Ze-Yu Liu 0011, Jian-wei Liu 0006
+  title: Kernel-based similarity sorting and allocation for few-shot semantic segmentation.
+  venue: Neural Comput. Appl.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/LiuL22b
+  doi: 10.1007/S00521-022-07654-Y
+  ee: https://doi.org/10.1007/s00521-022-07654-y
+  url: https://dblp.org/rec/journals/nca/LiuL22b

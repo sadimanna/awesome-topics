@@ -22521,6 +22521,11 @@ Neurocomputing:
       year: 4
       link: 60
     body:
+    - title: An enhanced method for hierarchical federated learning based on privacy
+        metric and adaptive differential privacy.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.132334
     - title: Backdoor defense framework with sparse training and detection in federated
         learning.
       venue: Neurocomputing
@@ -22531,6 +22536,11 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.131931
+    - title: Federated intent-aware cross-domain recommendation via semantic alignment
+        and collaborative enhancement.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.132442
     - title: 'Towards one-shot federated learning: Advances, challenges, and future
         directions.'
       venue: Neurocomputing

@@ -1,0 +1,2648 @@
+section:
+- title: NeurIPS
+- title: ICML
+- title: ICLR
+- title: CVPR
+- title: ICCV
+- title: ECCV
+- title: IJCAI
+- title: AAAI
+- title: WACV
+- title: ACM Multimedia
+- title: IEEE Trans. Pattern Anal. Mach. Intell.
+- title: IEEE Trans. Image Process.
+- title: IEEE Trans. Neural Networks Learn. Syst.
+- title: IEEE Trans. Artif. Intell.
+- title: IEEE Trans. Medical Imaging
+- title: IEEE Trans. Emerg. Top. Comput. Intell.
+- title: IEEE Trans. Intell. Transp. Syst.
+- title: IEEE J. Biomed. Health Informatics
+- title: Int. J. Comput. Vis.
+- title: Comput. Vis. Image Underst.
+- title: Pattern Recognit.
+- title: Pattern Recognit. Lett.
+- title: Medical Image Anal.
+- title: Comput. Medical Imaging Graph.
+- title: Knowl. Based Syst.
+- title: Expert Syst. Appl.
+- title: Neural Networks
+- title: Neurocomputing
+- title: Neural Comput. Appl.
+NeurIPS:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/2f75a57e9c71e8369da0150ea769d5a2-Abstract-Conference.html
+    - title: Generated and Pseudo Content guided Prototype Refinement for Few-shot
+        Point Cloud Segmentation.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/377d0752059d3d4686aa021b664a25dd-Abstract-Conference.html
+    - title: Hybrid Mamba for Few-Shot Segmentation.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/86fe62e3b315d2578721562d9fd1a433-Abstract-Conference.html
+    - title: Lightweight Frequency Masker for Cross-Domain Few-Shot Semantic Segmentation.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/af536fa4312b5b2e5c541156cd31e93b-Abstract-Conference.html
+    - title: Unleashing the Potential of the Diffusion Model in Few-shot Semantic
+        Segmentation.
+      venue: NeurIPS
+      year: 2024
+      link: http://papers.nips.cc/paper_files/paper/2024/hash/4b2a917e30e1bb1aff055b4d8c6c081c-Abstract-Conference.html
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Focus on Query: Adversarial Mining Transformer for Few-Shot Segmentation.'
+      venue: NeurIPS
+      year: 2023
+      link: http://papers.nips.cc/paper_files/paper/2023/hash/6447714b83edcbed61dbe10371dd7ae5-Abstract-Conference.html
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Decoupling Classifier for Boosting Few-shot Object Detection and Instance
+        Segmentation.
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/764ba7236fb63743014fafbd87dd4f0e-Abstract-Conference.html
+    - title: Feature-Proxy Transformer for Few-Shot Segmentation.
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/2ae33575c3374050654ae7802326c81d-Abstract-Conference.html
+    - title: Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation.
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/f7fef21d1fb3e950b12b50ad7f395e31-Abstract-Conference.html
+    - title: Mask Matching Transformer for Few-Shot Segmentation.
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/053a18c03e0844d0c484ba2861f8ae6c-Abstract-Conference.html
+    - title: 'Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters
+        Fine-tuning.'
+      venue: NeurIPS
+      year: 2022
+      link: http://papers.nips.cc/paper_files/paper/2022/hash/f3bfbd65743e60c685a3845bd61ce15f-Abstract-Conference.html
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-Shot Segmentation via Cycle-Consistent Transformer.
+      venue: NeurIPS
+      year: 2021
+      link: https://proceedings.neurips.cc/paper/2021/hash/b8b12f949378552c21f28deff8ba8eb6-Abstract.html
+ICML:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic
+        Segmentation.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=Pokj70ZAxJ
+    - title: 'DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network
+        for Few-shot Point Cloud Semantic Segmentation.'
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=BGDSSSJWot
+    - title: Self-Disentanglement and Re-Composition for Cross-Domain Few-Shot Segmentation.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=LkgwdSzlb6
+    - title: Unlocking the Power of SAM 2 for Few-Shot Segmentation.
+      venue: ICML
+      year: 2025
+      link: https://openreview.net/forum?id=TQtUTC3eKv
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Bidirectional Reciprocative Information Communication for Few-Shot Semantic
+        Segmentation.
+      venue: ICML
+      year: 2024
+      link: https://openreview.net/forum?id=uRz9GZN17X
+ICLR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation.
+      venue: ICLR
+      year: 2025
+      link: https://openreview.net/forum?id=jXvwJ51vcK
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Suppressing the Heterogeneity: A Strong Feature Extractor for Few-shot
+        Segmentation.'
+      venue: ICLR
+      year: 2023
+      link: https://openreview.net/forum?id=CGuvK3U09LH
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Conditional Networks for Few-Shot Semantic Segmentation.
+      venue: ICLR
+      year: 2018
+      link: https://openreview.net/forum?id=SkMjFKJwG
+CVPR:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DSV-LFS: Unifying LLM-Driven Semantic Cues with Visual Features for
+        Robust Few-Shot Segmentation.'
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Karimi_DSV-LFS_Unifying_LLM-Driven_Semantic_Cues_with_Visual_Features_for_Robust_CVPR_2025_paper.html
+    - title: Dual-Agent Optimization framework for Cross-Domain Few-Shot Segmentation.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Li_Dual-Agent_Optimization_framework_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.html
+    - title: Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language
+        Model.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/An_Generalized_Few-shot_3D_Point_Cloud_Segmentation_with_Vision-Language_Model_CVPR_2025_paper.html
+    - title: Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.html
+    - title: Text Augmented Correlation Transformer For Few-shot Classification &amp;
+        Segmentation.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Nandam_Text_Augmented_Correlation_Transformer_For_Few-shot_Classification__Segmentation_CVPR_2025_paper.html
+    - title: The Devil is in Low-Level Features for Cross-Domain Few-Shot Segmentation.
+      venue: CVPR
+      year: 2025
+      link: https://openaccess.thecvf.com/content/CVPR2025/html/Liu_The_Devil_is_in_Low-Level_Features_for_Cross-Domain_Few-Shot_Segmentation_CVPR_2025_paper.html
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentation.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02243
+    - title: 'Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot
+        Segmentation.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02228
+    - title: Addressing Background Context Bias in Few-Shot Segmentation Through Iterative
+        Modulation.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00324
+    - title: Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence
+        Mining.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00325
+    - title: Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02269
+    - title: 'LLaFS: When Large Language Models Meet Few-Shot Segmentation.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00296
+    - title: 'No Time to Train: Empowering Non-Parametric Networks for Few-Shot 3D
+        Scene Segmentation.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00368
+    - title: Rethinking Few-shot 3D Point Cloud Semantic Segmentation.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00383
+    - title: Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00378
+    - title: Unlocking the Potential of Pre-Trained Vision Transformers for Few-Shot
+        Semantic Segmentation through Relationship Descriptors.
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.00366
+    - title: 'Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale
+        Approach.'
+      venue: CVPR
+      year: 2024
+      link: https://doi.org/10.1109/CVPR52733.2024.02215
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Strong Baseline for Generalized Few-Shot Semantic Segmentation.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01084
+    - title: Distilling Self-Supervised Vision Transformers for Weakly-Supervised
+        Few-Shot Classification &amp; Segmentation.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01880
+    - title: Hierarchical Dense Correlation Distillation for Few-Shot Segmentation.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.02264
+    - title: Learning Orthogonal Prototypes for Generalized Few-Shot Semantic Segmentation.
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01089
+    - title: 'MIANet: Aggregating Unbiased Instance and General Information for Few-Shot
+        Semantic Segmentation.'
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.00689
+    - title: 'Rethinking Few-Shot Medical Segmentation: A Vector Quantization View.'
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.00300
+    - title: 'Rethinking the Correlation in Few-Shot Segmentation: A Buoys View.'
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.00694
+    - title: 'WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation.'
+      venue: CVPR
+      year: 2023
+      link: https://doi.org/10.1109/CVPR52729.2023.01878
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation.
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.01126
+    - title: 'GANORCON: Are Generative Models Useful for Few-shot Segmentation?'
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.00975
+    - title: Generalized Few-shot Semantic Segmentation.
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.01127
+    - title: Integrative Few-Shot Learning for Classification and Segmentation.
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.00974
+    - title: Learning Non-target Knowledge for Few-shot Semantic Segmentation.
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.01128
+    - title: 'Learning What Not to Segment: A New Perspective on Few-Shot Segmentation.'
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.00789
+    - title: 'Remember the Difference: Cross-Domain Few-Shot Semantic Segmentation
+        via Meta-Memory Transfer.'
+      venue: CVPR
+      year: 2022
+      link: https://doi.org/10.1109/CVPR52688.2022.00693
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Adaptive Prototype Learning and Allocation for Few-Shot Segmentation.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Li_Adaptive_Prototype_Learning_and_Allocation_for_Few-Shot_Segmentation_CVPR_2021_paper.html
+    - title: Anti-Aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Anti-Aliasing_Semantic_Reconstruction_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.html
+    - title: Delving Deep Into Many-to-Many Attention for Few-Shot Video Object Segmentation.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Delving_Deep_Into_Many-to-Many_Attention_for_Few-Shot_Video_Object_Segmentation_CVPR_2021_paper.html
+    - title: Few-Shot 3D Point Cloud Semantic Segmentation.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.html
+    - title: 'Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference
+        Is All You Need?'
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Boudiaf_Few-Shot_Segmentation_Without_Meta-Learning_A_Good_Transductive_Inference_Is_All_CVPR_2021_paper.html
+    - title: Incremental Few-Shot Instance Segmentation.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Ganea_Incremental_Few-Shot_Instance_Segmentation_CVPR_2021_paper.html
+    - title: Scale-Aware Graph Neural Network for Few-Shot Semantic Segmentation.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Xie_Scale-Aware_Graph_Neural_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.html
+    - title: Self-Guided and Cross-Guided Learning for Few-Shot Segmentation.
+      venue: CVPR
+      year: 2021
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Self-Guided_and_Cross-Guided_Learning_for_Few-Shot_Segmentation_CVPR_2021_paper.html
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CRNet: Cross-Reference Networks for Few-Shot Segmentation.'
+      venue: CVPR
+      year: 2020
+      link: https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_CRNet_Cross-Reference_Networks_for_Few-Shot_Segmentation_CVPR_2020_paper.html
+    - title: 'FGN: Fully Guided Network for Few-Shot Instance Segmentation.'
+      venue: CVPR
+      year: 2020
+      link: https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_FGN_Fully_Guided_Network_for_Few-Shot_Instance_Segmentation_CVPR_2020_paper.html
+    - title: 'FSS-1000: A 1000-Class Dataset for Few-Shot Segmentation.'
+      venue: CVPR
+      year: 2020
+      link: https://openaccess.thecvf.com/content_CVPR_2020/html/Li_FSS-1000_A_1000-Class_Dataset_for_Few-Shot_Segmentation_CVPR_2020_paper.html
+    - title: Few-Shot Learning of Part-Specific Probability Space for 3D Shape Segmentation.
+      venue: CVPR
+      year: 2020
+      link: https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Few-Shot_Learning_of_Part-Specific_Probability_Space_for_3D_Shape_Segmentation_CVPR_2020_paper.html
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CANet: Class-Agnostic Segmentation Networks With Iterative Refinement
+        and Attentive Few-Shot Learning.'
+      venue: CVPR
+      year: 2019
+      link: http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_CANet_Class-Agnostic_Segmentation_Networks_With_Iterative_Refinement_and_Attentive_Few-Shot_CVPR_2019_paper.html
+ICCV:
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: "360\xB0 from a Single Camera: A Few-Shot Approach for LiDAR Segmentation."
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCVW60793.2023.00115
+    - title: Generalized Few-Shot Point Cloud Segmentation Via Geometric Words.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.01966
+    - title: 'MSI: Maximize Support-Set Information for Few-Shot Segmentation.'
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.01765
+    - title: Memory-augmented Variational Adaptation for Online Few-shot Segmentation.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCVW60793.2023.00357
+    - title: Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.01729
+    - title: Prototypical Kernel Learning and Open-set Foreground Perception for Generalized
+        Few-shot Semantic Segmentation.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.01764
+    - title: Self-Calibrated Cross Attention Network for Few-Shot Segmentation.
+      venue: ICCV
+      year: 2023
+      link: https://doi.org/10.1109/ICCV51070.2023.00067
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-Shot Semantic Segmentation with Cyclic Memory Network.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.00720
+    - title: Learning Meta-class Memory for Few-Shot Semantic Segmentation.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.00056
+    - title: Mining Latent Classes for Few-shot Segmentation.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.00860
+    - title: Recurrent Mask Refinement for Few-Shot Medical Image Segmentation.
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.00389
+    - title: 'Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight
+        Transformer.'
+      venue: ICCV
+      year: 2021
+      link: https://doi.org/10.1109/ICCV48922.2021.00862
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AMP: Adaptive Masked Proxies for Few-Shot Segmentation.'
+      venue: ICCV
+      year: 2019
+      link: https://doi.org/10.1109/ICCV.2019.00535
+    - title: Feature Weighting and Boosting for Few-Shot Segmentation.
+      venue: ICCV
+      year: 2019
+      link: https://doi.org/10.1109/ICCV.2019.00071
+    - title: 'PANet: Few-Shot Image Semantic Segmentation With Prototype Alignment.'
+      venue: ICCV
+      year: 2019
+      link: https://doi.org/10.1109/ICCV.2019.00929
+ECCV:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AlignDiff: Aligning Diffusion Models for General Few-Shot Segmentation.'
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72940-9_22
+    - title: Eliminating Feature Ambiguity for Few-Shot Segmentation.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72646-0_24
+    - title: Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-73010-8_13
+    - title: 'Localization and Expansion: A Decoupled Framework for Point Cloud Few-Shot
+        Semantic Segmentation.'
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-73464-9_2
+    - title: Pseudo-embedding for Generalized Few-Shot 3D Segmentation.
+      venue: ECCV
+      year: 2024
+      link: https://doi.org/10.1007/978-3-031-72764-1_22
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Adaptive Agent Transformer for Few-Shot Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-19818-2_3
+    - title: Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot
+        Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-19818-2_7
+    - title: Cross-Domain Few-Shot Semantic Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-20056-4_5
+    - title: Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for
+        Few-Shot Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-20044-1_9
+    - title: Dense Gaussian Processes for Few-Shot Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-19818-2_13
+    - title: Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-20044-1_8
+    - title: Dual Contrastive Learning with Anatomical Auxiliary Supervision for Few-Shot
+        Medical Image Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-20044-1_24
+    - title: 'HM: Hybrid Masking for Few-Shot Segmentation.'
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-20044-1_29
+    - title: Improving Few-Shot Part Segmentation Using Coarse Supervision.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-20056-4_17
+    - title: Interclass Prototype Relation for Few-Shot Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-19818-2_21
+    - title: 'Less Than Few: Self-shot Video Instance Segmentation.'
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-19830-4_26
+    - title: Self-support Few-Shot Semantic Segmentation.
+      venue: ECCV
+      year: 2022
+      link: https://doi.org/10.1007/978-3-031-19800-7_41
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Deep Complementary Joint Model for Complex Scene Registration and Few-Shot
+        Segmentation on Medical Images.
+      venue: ECCV
+      year: 2020
+      link: https://doi.org/10.1007/978-3-030-58523-5_45
+    - title: Few-Shot Semantic Segmentation with Democratic Attention Networks.
+      venue: ECCV
+      year: 2020
+      link: https://doi.org/10.1007/978-3-030-58601-0_43
+    - title: Part-Aware Prototype Network for Few-Shot Semantic Segmentation.
+      venue: ECCV
+      year: 2020
+      link: https://doi.org/10.1007/978-3-030-58545-7_9
+    - title: Prototype Mixture Models for Few-Shot Semantic Segmentation.
+      venue: ECCV
+      year: 2020
+      link: https://doi.org/10.1007/978-3-030-58598-3_45
+    - title: 'Self-supervision with Superpixels: Training Few-Shot Medical Image Segmentation
+        Without Annotation.'
+      venue: ECCV
+      year: 2020
+      link: https://doi.org/10.1007/978-3-030-58526-6_45
+IJCAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Concentrate on Weakness: Mining Hard Prototypes for Few-Shot Medical
+        Image Segmentation.'
+      venue: IJCAI
+      year: 2025
+      link: https://doi.org/10.24963/ijcai.2025/139
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Transformer-Based Adaptive Prototype Matching Network for Few-Shot
+        Semantic Segmentation.
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/73
+    - title: 'Aggregation and Purification: Dual Enhancement Network for Point Cloud
+        Few-shot Segmentation.'
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/164
+    - title: Cross-Domain Few-Shot Semantic Segmentation via Doubly Matching Transformation.
+      venue: IJCAI
+      year: 2024
+      link: https://www.ijcai.org/proceedings/2024/71
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FGNet: Towards Filling the Intra-class and Inter-class Gaps for Few-shot
+        Segmentation.'
+      venue: IJCAI
+      year: 2023
+      link: https://doi.org/10.24963/ijcai.2023/194
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation.'
+      venue: IJCAI
+      year: 2022
+      link: https://doi.org/10.24963/ijcai.2022/143
+    - title: 'CATrans: Context and Affinity Transformer for Few-Shot Segmentation.'
+      venue: IJCAI
+      year: 2022
+      link: https://doi.org/10.24963/ijcai.2022/231
+    - title: Iterative Few-shot Semantic Segmentation from Image Label Text.
+      venue: IJCAI
+      year: 2022
+      link: https://doi.org/10.24963/ijcai.2022/193
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Self-Supervised Tuning for Few-Shot Segmentation.
+      venue: IJCAI
+      year: 2020
+      link: https://doi.org/10.24963/ijcai.2020/142
+    - title: 'SimPropNet: Improved Similarity Propagation for Few-shot Image Segmentation.'
+      venue: IJCAI
+      year: 2020
+      link: https://doi.org/10.24963/ijcai.2020/80
+    - title: Weakly Supervised Few-shot Object Segmentation using Co-Attention with
+        Visual and Semantic Embeddings.
+      venue: IJCAI
+      year: 2020
+      link: https://doi.org/10.24963/ijcai.2020/120
+AAAI:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Beyond Pixel and Object: Part Feature as Reference for Few-Shot Video
+        Object Segmentation.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i6.32626
+    - title: Deconfound Semantic Shift and Incompleteness in Incremental Few-shot
+        Semantic Segmentation.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i8.32915
+    - title: Enhancing Generalized Few-Shot Semantic Segmentation via Effective Knowledge
+        Transfer.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i2.32225
+    - title: 'FAMNet: Frequency-aware Matching Network for Cross-domain Few-shot Medical
+        Image Segmentation.'
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i2.32184
+    - title: Few-Shot Incremental Learning via Foreground Aggregation and Knowledge
+        Transfer for Audio-Visual Semantic Segmentation.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i8.32950
+    - title: Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot
+        Segmentation.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i6.32688
+    - title: SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i6.32695
+    - title: Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point
+        Cloud Semantic Segmentation.
+      venue: AAAI
+      year: 2025
+      link: https://doi.org/10.1609/aaai.v39i7.32810
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Adaptive FSS: A Novel Few-Shot Segmentation Framework via Prototype
+        Enhancement.'
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i6.28355
+    - title: 'CGMGM: A Cross-Gaussian Mixture Generative Model for Few-Shot Semantic
+        Segmentation.'
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i5.28280
+    - title: Few Shot Part Segmentation Reveals Compositional Logic for Industrial
+        Anomaly Detection.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i8.28703
+    - title: Label-Efficient Few-Shot Semantic Segmentation with Unsupervised Meta-Training.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i4.28094
+    - title: 'MaskDiff: Modeling Mask Distribution with Diffusion Probabilistic Model
+        for Few-Shot Instance Segmentation.'
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i3.28068
+    - title: Relevant Intrinsic Feature Enhancement Network for Few-Shot Semantic
+        Segmentation.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i2.27834
+    - title: Task-Disruptive Background Suppression for Few-Shot Segmentation.
+      venue: AAAI
+      year: 2024
+      link: https://doi.org/10.1609/aaai.v38i5.28242
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific
+        Attention Based Transformer Network.
+      venue: AAAI
+      year: 2023
+      link: https://doi.org/10.1609/aaai.v37i3.25449
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Learning from the Target: Dual Prototype Network for Few Shot Semantic
+        Segmentation.'
+      venue: AAAI
+      year: 2022
+      link: https://doi.org/10.1609/aaai.v36i2.20090
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Bidirectional RNN-based Few Shot Learning for 3D Medical Image Segmentation.
+      venue: AAAI
+      year: 2021
+      link: https://doi.org/10.1609/aaai.v35i3.16275
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Differentiable Meta-Learning Model for Few-Shot Semantic Segmentation.
+      venue: AAAI
+      year: 2020
+      link: https://doi.org/10.1609/aaai.v34i07.6887
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Attention-Based Multi-Context Guiding for Few-Shot Semantic Segmentation.
+      venue: AAAI
+      year: 2019
+      link: https://doi.org/10.1609/aaai.v33i01.33018441
+WACV:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-shot Structure-Informed Machinery Part Segmentation with Foundation
+        Models and Graph Neural Networks.
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00200
+    - title: Generative Model-Based Fusion for Improved Few-Shot Semantic Segmentation
+        of Infrared Images.
+      venue: WACV
+      year: 2025
+      link: https://doi.org/10.1109/WACV61041.2025.00535
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation
+        and Re-Identification.'
+      venue: WACV
+      year: 2024
+      link: https://doi.org/10.1109/WACV57701.2024.00433
+    - title: Pixel Matching Network for Cross-Domain Few-Shot Segmentation.
+      venue: WACV
+      year: 2024
+      link: https://doi.org/10.1109/WACV57701.2024.00102
+    - title: 'Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation
+        with Meta-Learning.'
+      venue: WACV
+      year: 2024
+      link: https://doi.org/10.1109/WACV57701.2024.00774
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CellTranspose: Few-shot Domain Adaptation for Cellular Instance Segmentation.'
+      venue: WACV
+      year: 2023
+      link: https://doi.org/10.1109/WACV56688.2023.00053
+    - title: Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation.
+      venue: WACV
+      year: 2023
+      link: https://doi.org/10.1109/WACV56688.2023.00259
+    - title: Few-shot Medical Image Segmentation with Cycle-resemblance Attention.
+      venue: WACV
+      year: 2023
+      link: https://doi.org/10.1109/WACV56688.2023.00252
+    - title: Knowing What to Label for Few Shot Microscopy Image Cell Segmentation.
+      venue: WACV
+      year: 2023
+      link: https://doi.org/10.1109/WACV56688.2023.00356
+    - title: Learning Few-shot Segmentation from Bounding Box Annotations.
+      venue: WACV
+      year: 2023
+      link: https://doi.org/10.1109/WACV56688.2023.00374
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Pixel-Level Meta-Learner for Weakly Supervised Few-Shot Semantic Segmentation.
+      venue: WACV
+      year: 2022
+      link: https://doi.org/10.1109/WACV51458.2022.00167
+    - title: 'MaskSplit: Self-supervised Meta-learning for Few-shot Semantic Segmentation.'
+      venue: WACV
+      year: 2022
+      link: https://doi.org/10.1109/WACV51458.2022.00050
+    - title: Pixel-by-Pixel Cross-Domain Alignment for Few-Shot Semantic Segmentation.
+      venue: WACV
+      year: 2022
+      link: https://doi.org/10.1109/WACV51458.2022.00202
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: On the Texture Bias for Few-Shot CNN Segmentation.
+      venue: WACV
+      year: 2021
+      link: https://doi.org/10.1109/WACV48630.2021.00272
+    - title: Variational Prototype Inference for Few-Shot Semantic Segmentation.
+      venue: WACV
+      year: 2021
+      link: https://doi.org/10.1109/WACV48630.2021.00057
+    - title: Weakly-supervised Object Representation Learning for Few-shot Semantic
+        Segmentation.
+      venue: WACV
+      year: 2021
+      link: https://doi.org/10.1109/WACV48630.2021.00154
+ACM Multimedia:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Anatomical Prior Guided Spatial Contrastive Learning for Few-Shot Medical
+        Image Segmentation.
+      venue: ACM Multimedia
+      year: 2024
+      link: https://doi.org/10.1145/3664647.3680558
+    - title: Crossmodal Few-shot 3D Point Cloud Semantic Segmentation via View Synthesis.
+      venue: ACM Multimedia
+      year: 2024
+      link: https://doi.org/10.1145/3664647.3681428
+    - title: Dual-Branch Fusion with Style Modulation for Cross-Domain Few-Shot Semantic
+        Segmentation.
+      venue: ACM Multimedia
+      year: 2024
+      link: https://doi.org/10.1145/3664647.3681667
+    - title: Few-shot Semantic Segmentation via Perceptual Attention and Spatial Control.
+      venue: ACM Multimedia
+      year: 2024
+      link: https://doi.org/10.1145/3664647.3681338
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement.
+      venue: ACM Multimedia
+      year: 2023
+      link: https://doi.org/10.1145/3581783.3612287
+    - title: Incremental Few Shot Semantic Segmentation via Class-agnostic Mask Proposal
+        and Language-driven Classifier.
+      venue: ACM Multimedia
+      year: 2023
+      link: https://doi.org/10.1145/3581783.3611783
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Crossmodal Few-shot 3D Point Cloud Semantic Segmentation.
+      venue: ACM Multimedia
+      year: 2022
+      link: https://doi.org/10.1145/3503161.3548251
+    - title: Dynamic Transformer for Few-shot Instance Segmentation.
+      venue: ACM Multimedia
+      year: 2022
+      link: https://doi.org/10.1145/3503161.3548227
+    - title: Incremental Few-Shot Semantic Segmentation via Embedding Adaptive-Update
+        and Hyper-class Representation.
+      venue: ACM Multimedia
+      year: 2022
+      link: https://doi.org/10.1145/3503161.3548218
+    - title: Leveraging GAN Priors for Few-Shot Part Segmentation.
+      venue: ACM Multimedia
+      year: 2022
+      link: https://doi.org/10.1145/3503161.3548398
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ABPNet: Adaptive Background Modeling for Generalized Few Shot Segmentation.'
+      venue: ACM Multimedia
+      year: 2021
+      link: https://doi.org/10.1145/3474085.3475389
+    - title: Deep Reasoning Network for Few-shot Semantic Segmentation.
+      venue: ACM Multimedia
+      year: 2021
+      link: https://doi.org/10.1145/3474085.3475658
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Dynamic Extension Nets for Few-shot Semantic Segmentation.
+      venue: ACM Multimedia
+      year: 2020
+      link: https://doi.org/10.1145/3394171.3413915
+IEEE Trans. Pattern Anal. Mach. Intell.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Bridge the Intra-Class Gap: K-Shot Multi-Scale Intermediate Prototype
+        Mining Transformer for Few-Shot Semantic Segmentation.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TPAMI.2025.3593816
+    - title: 'LLaFS++: Few-Shot Image Segmentation With Large Language Models.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TPAMI.2025.3573609
+    - title: 'Prompt-and-Transfer: Dynamic Class-Aware Enhancement for Few-Shot Segmentation.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TPAMI.2024.3461779
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'PFENet++: Boosting Few-Shot Semantic Segmentation With the Noise-Filtered
+        Context-Aware Prior Mask.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TPAMI.2023.3329725
+    - title: 'Reference Twice: A Simple and Unified Baseline for Few-Shot Instance
+        Segmentation.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TPAMI.2024.3421340
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Base and Meta: A New Perspective on Few-Shot Segmentation.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2023
+      link: https://doi.org/10.1109/TPAMI.2023.3265865
+    - title: Holistic Prototype Activation for Few-Shot Segmentation.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2023
+      link: https://doi.org/10.1109/TPAMI.2022.3193587
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Prior Guided Feature Enrichment Network for Few-Shot Segmentation.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2022
+      link: https://doi.org/10.1109/TPAMI.2020.3013717
+IEEE Trans. Image Process.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Cross-Domain Few-Shot Medical Image Segmentation via Dynamic Semantic
+        Matching.
+      venue: IEEE Trans. Image Process.
+      year: 2025
+      link: https://doi.org/10.1109/TIP.2025.3618396
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Dual Branch Multi-Level Semantic Learning for Few-Shot Segmentation.
+      venue: IEEE Trans. Image Process.
+      year: 2024
+      link: https://doi.org/10.1109/TIP.2024.3364056
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Prediction Calibration for Generalized Few-Shot Semantic Segmentation.
+      venue: IEEE Trans. Image Process.
+      year: 2023
+      link: https://doi.org/10.1109/TIP.2023.3282070
+    - title: Prototype Adaption and Projection for Few- and Zero-Shot 3D Point Cloud
+        Semantic Segmentation.
+      venue: IEEE Trans. Image Process.
+      year: 2023
+      link: https://doi.org/10.1109/TIP.2023.3279660
+    - title: 'Retain and Recover: Delving Into Information Loss for Few-Shot Segmentation.'
+      venue: IEEE Trans. Image Process.
+      year: 2023
+      link: https://doi.org/10.1109/TIP.2023.3315555
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DRNet: Double Recalibration Network for Few-Shot Semantic Segmentation.'
+      venue: IEEE Trans. Image Process.
+      year: 2022
+      link: https://doi.org/10.1109/TIP.2022.3215905
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Harmonic Feature Activation for Few-Shot Semantic Segmentation.
+      venue: IEEE Trans. Image Process.
+      year: 2021
+      link: https://doi.org/10.1109/TIP.2021.3058512
+IEEE Trans. Neural Networks Learn. Syst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Layer-Wise Mutual Information Meta-Learning Network for Few-Shot Segmentation.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2024.3438771
+    - title: Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot
+        Anomaly Detection.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2024.3463495
+    - title: Retrieval-Augmented Few-Shot Medical Image Segmentation With Foundation
+        Models.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2025.3568479
+    - title: 'SDSimPoint: Shallow-Deep Similarity Learning for Few-Shot Point Cloud
+        Semantic Segmentation.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TNNLS.2025.3543620
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'A Mutually Supervised Graph Attention Network for Few-Shot Segmentation:
+        The Perspective of Fully Utilizing Limited Samples.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2024
+      link: https://doi.org/10.1109/TNNLS.2022.3155486
+    - title: 'Learning Better Registration to Learn Better Few-Shot Medical Image
+        Segmentation: Authenticity, Diversity, and Robustness.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2024
+      link: https://doi.org/10.1109/TNNLS.2022.3190452
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Part-Based Semantic Transform for Few-Shot Semantic Segmentation.
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2022
+      link: https://doi.org/10.1109/TNNLS.2021.3084252
+IEEE Trans. Artif. Intell.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Boosting Few-Shot Semantic Segmentation With Prior-Driven Edge Feature
+        Enhancement Network.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2025
+      link: https://doi.org/10.1109/TAI.2024.3474650
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Dense Multicross Self-Attention and Adaptive Gated Perceptual Unit
+        Method for Few-Shot Semantic Segmentation.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TAI.2024.3369553
+IEEE Trans. Medical Imaging:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Dual Interspersion and Flexible Deployment for Few-Shot Medical Image
+        Segmentation.
+      venue: IEEE Trans. Medical Imaging
+      year: 2025
+      link: https://doi.org/10.1109/TMI.2025.3546653
+    - title: Few-Shot Learning for Annotation-Efficient Nucleus Instance Segmentation.
+      venue: IEEE Trans. Medical Imaging
+      year: 2025
+      link: https://doi.org/10.1109/TMI.2025.3564458
+    - title: Prototype-Guided Graph Reasoning Network for Few-Shot Medical Image Segmentation.
+      venue: IEEE Trans. Medical Imaging
+      year: 2025
+      link: https://doi.org/10.1109/TMI.2024.3459943
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-Shot Medical Image Segmentation via Generating Multiple Representative
+        Descriptors.
+      venue: IEEE Trans. Medical Imaging
+      year: 2024
+      link: https://doi.org/10.1109/TMI.2024.3358295
+    - title: Prototype Correlation Matching and Class- Relation Reasoning for Few-Shot
+        Medical Image Segmentation.
+      venue: IEEE Trans. Medical Imaging
+      year: 2024
+      link: https://doi.org/10.1109/TMI.2024.3412420
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Robust Prototypical Few-Shot Organ Segmentation With Regularized Neural-ODEs.
+      venue: IEEE Trans. Medical Imaging
+      year: 2023
+      link: https://doi.org/10.1109/TMI.2023.3258069
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Self-Supervised Learning for Few-Shot Medical Image Segmentation.
+      venue: IEEE Trans. Medical Imaging
+      year: 2022
+      link: https://doi.org/10.1109/TMI.2022.3150682
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-Shot Learning by a Cascaded Framework With Shape-Constrained Pseudo
+        Label Assessment for Whole Heart Segmentation.
+      venue: IEEE Trans. Medical Imaging
+      year: 2021
+      link: https://doi.org/10.1109/TMI.2021.3053008
+    - title: 'IFSS-Net: Interactive Few-Shot Siamese Network for Faster Muscle Segmentation
+        and Propagation in Volumetric Ultrasound.'
+      venue: IEEE Trans. Medical Imaging
+      year: 2021
+      link: https://doi.org/10.1109/TMI.2021.3058303
+    - title: 'Interactive Few-Shot Learning: Limited Supervision, Better Medical Image
+        Segmentation.'
+      venue: IEEE Trans. Medical Imaging
+      year: 2021
+      link: https://doi.org/10.1109/TMI.2021.3060551
+IEEE Trans. Emerg. Top. Comput. Intell.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Hierarchical Relational Inference for Few-Shot Learning in 3D Left Atrial
+        Segmentation.
+      venue: IEEE Trans. Emerg. Top. Comput. Intell.
+      year: 2024
+      link: https://doi.org/10.1109/TETCI.2024.3377267
+IEEE Trans. Intell. Transp. Syst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Cross-Scale Guidance Network for Few-Shot Moving Foreground Object Segmentation.
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TITS.2025.3559144
+    - title: 'HMFENet: Hierarchical Matching Guided Feature Enhancement Network for
+        Few-Shot RGB-Thermal Urban Scene Segmentation.'
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/TITS.2025.3549516
+IEEE J. Biomed. Health Informatics:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Multi-Objective Evolutionary Optimization Boosted Deep Neural Networks
+        for Few-Shot Medical Segmentation With Noisy Labels.
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/JBHI.2025.3541849
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Retina-TransNet: A Gradient-Guided Few-Shot Retinal Vessel Segmentation
+        Net.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2023
+      link: https://doi.org/10.1109/JBHI.2023.3298710
+Int. J. Comput. Vis.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AgMTR: Agent Mining Transformer for Few-Shot Segmentation in Remote
+        Sensing.'
+      venue: Int. J. Comput. Vis.
+      year: 2025
+      link: https://doi.org/10.1007/s11263-024-02252-y
+    - title: 'DM-PCL: Text-Driven Dual-Modal Prototype Consistency Learning for Weakly-Supervised
+        Few-Shot Part Segmentation.'
+      venue: Int. J. Comput. Vis.
+      year: 2025
+      link: https://doi.org/10.1007/s11263-025-02545-w
+    - title: Few-Shot Referring Video Single- and Multi-Object Segmentation Via Cross-Modal
+        Affinity with Instance Sequence Matching.
+      venue: Int. J. Comput. Vis.
+      year: 2025
+      link: https://doi.org/10.1007/s11263-025-02444-0
+    - title: Temporal Transductive Inference for Few-Shot Video Object Segmentation.
+      venue: Int. J. Comput. Vis.
+      year: 2025
+      link: https://doi.org/10.1007/s11263-025-02390-x
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-Shot Segmentation via Divide-and-Conquer Proxies.
+      venue: Int. J. Comput. Vis.
+      year: 2024
+      link: https://doi.org/10.1007/s11263-023-01886-8
+    - title: 'Harmonizing Base and Novel Classes: A Class-Contrastive Approach for
+        Generalized Few-Shot Segmentation.'
+      venue: Int. J. Comput. Vis.
+      year: 2024
+      link: https://doi.org/10.1007/s11263-023-01939-y
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CRCNet: Few-Shot Segmentation with Cross-Reference and Region-Global
+        Conditional Networks.'
+      venue: Int. J. Comput. Vis.
+      year: 2022
+      link: https://doi.org/10.1007/s11263-022-01677-7
+Comput. Vis. Image Underst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-shot Medical Image Segmentation via Boundary-extended Prototypes
+        and Momentum Inference.
+      venue: Comput. Vis. Image Underst.
+      year: 2026
+      link: https://doi.org/10.1016/j.cviu.2025.104571
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Boosting few-shot point cloud segmentation with intra-class correlation
+        and iterative prototype fusion.
+      venue: Comput. Vis. Image Underst.
+      year: 2025
+      link: https://doi.org/10.1016/j.cviu.2025.104393
+    - title: Incremental few-shot instance segmentation via feature enhancement and
+        prototype calibration.
+      venue: Comput. Vis. Image Underst.
+      year: 2025
+      link: https://doi.org/10.1016/j.cviu.2025.104317
+    - title: Incremental few-shot instance segmentation without fine-tuning on novel
+        classes.
+      venue: Comput. Vis. Image Underst.
+      year: 2025
+      link: https://doi.org/10.1016/j.cviu.2025.104323
+    - title: 'MSCA: A few-shot segmentation framework driven by multi-scale cross-attention
+        and information extraction.'
+      venue: Comput. Vis. Image Underst.
+      year: 2025
+      link: https://doi.org/10.1016/j.cviu.2025.104419
+    - title: Multi-scale feature fusion based SAM for high-quality few-shot medical
+        image segmentation.
+      venue: Comput. Vis. Image Underst.
+      year: 2025
+      link: https://doi.org/10.1016/j.cviu.2025.104389
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Found missing semantics: Supplemental prototype network for few-shot
+        semantic segmentation.'
+      venue: Comput. Vis. Image Underst.
+      year: 2024
+      link: https://doi.org/10.1016/j.cviu.2024.104191
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An efficient framework for few-shot skeleton-based temporal action segmentation.
+      venue: Comput. Vis. Image Underst.
+      year: 2023
+      link: https://doi.org/10.1016/j.cviu.2023.103707
+    - title: 'POEM: A prototype cross and emphasis network for few-shot semantic segmentation.'
+      venue: Comput. Vis. Image Underst.
+      year: 2023
+      link: https://doi.org/10.1016/j.cviu.2023.103746
+Pattern Recognit.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Beyond mask: Rethinking guidance types in few-shot segmentation.'
+      venue: Pattern Recognit.
+      year: 2025
+      link: https://doi.org/10.1016/j.patcog.2025.111635
+    - title: Efficient Sampling-based Gaussian Processes for few-shot semantic segmentation.
+      venue: Pattern Recognit.
+      year: 2025
+      link: https://doi.org/10.1016/j.patcog.2025.111542
+    - title: 'PartSeg: Few-shot part segmentation via part-aware prompt learning.'
+      venue: Pattern Recognit.
+      year: 2025
+      link: https://doi.org/10.1016/j.patcog.2024.111326
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A learnable support selection scheme for boosting few-shot segmentation.
+      venue: Pattern Recognit.
+      year: 2024
+      link: https://doi.org/10.1016/j.patcog.2023.110202
+    - title: Blessing few-shot segmentation via semi-supervised learning with noisy
+        support images.
+      venue: Pattern Recognit.
+      year: 2024
+      link: https://doi.org/10.1016/j.patcog.2024.110503
+    - title: Learning Foreground Information Bottleneck for few-shot semantic segmentation.
+      venue: Pattern Recognit.
+      year: 2024
+      link: https://doi.org/10.1016/j.patcog.2023.109993
+    - title: Learning self-target knowledge for few-shot segmentation.
+      venue: Pattern Recognit.
+      year: 2024
+      link: https://doi.org/10.1016/j.patcog.2024.110266
+    - title: Meta-learners for few-shot weakly-supervised medical image segmentation.
+      venue: Pattern Recognit.
+      year: 2024
+      link: https://doi.org/10.1016/j.patcog.2024.110471
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Attentional prototype inference for few-shot segmentation.
+      venue: Pattern Recognit.
+      year: 2023
+      link: https://doi.org/10.1016/j.patcog.2023.109726
+    - title: Hybrid feature enhancement network for few-shot semantic segmentation.
+      venue: Pattern Recognit.
+      year: 2023
+      link: https://doi.org/10.1016/j.patcog.2022.109291
+    - title: Self-regularized prototypical network for few-shot semantic segmentation.
+      venue: Pattern Recognit.
+      year: 2023
+      link: https://doi.org/10.1016/j.patcog.2022.109018
+    - title: Uncertainty-aware semi-supervised few shot segmentation.
+      venue: Pattern Recognit.
+      year: 2023
+      link: https://doi.org/10.1016/j.patcog.2022.109292
+Pattern Recognit. Lett.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Cross-Domain Few-Shot 3D Point Cloud Semantic Segmentation.
+      venue: Pattern Recognit. Lett.
+      year: 2025
+      link: https://doi.org/10.1016/j.patrec.2025.07.001
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Learning De-biased prototypes for Few-shot Medical Image Segmentation.
+      venue: Pattern Recognit. Lett.
+      year: 2024
+      link: https://doi.org/10.1016/j.patrec.2024.05.003
+    - title: Two-stage feature distribution rectification for few-shot point cloud
+        semantic segmentation.
+      venue: Pattern Recognit. Lett.
+      year: 2024
+      link: https://doi.org/10.1016/j.patrec.2023.12.008
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: "SML: Semantic meta-learning for few-shot semantic segmentation\u2606\
+        ."
+      venue: Pattern Recognit. Lett.
+      year: 2021
+      link: https://doi.org/10.1016/j.patrec.2021.03.036
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-shot hypercolumn-based mitochondria segmentation in cardiac and outer
+        hair cells in focused ion beam-scanning electron microscopy (FIB-SEM) data.
+      venue: Pattern Recognit. Lett.
+      year: 2019
+      link: https://doi.org/10.1016/j.patrec.2019.10.031
+Medical Image Anal.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Efficient few-shot medical image segmentation via self-supervised variational
+        autoencoder.
+      venue: Medical Image Anal.
+      year: 2025
+      link: https://doi.org/10.1016/j.media.2025.103637
+    - title: Few-shot medical image segmentation with high-fidelity prototypes.
+      venue: Medical Image Anal.
+      year: 2025
+      link: https://doi.org/10.1016/j.media.2024.103412
+    - title: 'LMS-Net: A learned Mumford-Shah network for binary few-shot medical
+        image segmentation.'
+      venue: Medical Image Anal.
+      year: 2025
+      link: https://doi.org/10.1016/j.media.2025.103676
+    - title: Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning
+        for Volumetric Organ Segmentation.
+      venue: Medical Image Anal.
+      year: 2025
+      link: https://doi.org/10.1016/j.media.2025.103596
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Adaptive dynamic inference for few-shot left atrium segmentation.
+      venue: Medical Image Anal.
+      year: 2024
+      link: https://doi.org/10.1016/j.media.2024.103321
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ADNet++: A few-shot learning framework for multi-class medical image
+        volume segmentation with uncertainty-guided feature refinement.'
+      venue: Medical Image Anal.
+      year: 2023
+      link: https://doi.org/10.1016/j.media.2023.102870
+    - title: 'Learning what and where to segment: A new perspective on medical image
+        few-shot segmentation.'
+      venue: Medical Image Anal.
+      year: 2023
+      link: https://doi.org/10.1016/j.media.2023.102834
+    - title: Prototypical few-shot segmentation for cross-institution male pelvic
+        structures with spatial registration.
+      venue: Medical Image Anal.
+      year: 2023
+      link: https://doi.org/10.1016/j.media.2023.102935
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A transfer learning approach to few-shot segmentation of novel white
+        matter tracts.
+      venue: Medical Image Anal.
+      year: 2022
+      link: https://doi.org/10.1016/j.media.2022.102454
+    - title: Anomaly detection-inspired few-shot medical image segmentation through
+        self-supervision with supervoxels.
+      venue: Medical Image Anal.
+      year: 2022
+      link: https://doi.org/10.1016/j.media.2022.102385
+    - title: 'SSA-Net: Spatial self-attention network for COVID-19 pneumonia infection
+        segmentation with semi-supervised few-shot learning.'
+      venue: Medical Image Anal.
+      year: 2022
+      link: https://doi.org/10.1016/j.media.2022.102459
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Multi-level semantic adaptation for few-shot segmentation on cardiac
+        image sequences.
+      venue: Medical Image Anal.
+      year: 2021
+      link: https://doi.org/10.1016/j.media.2021.102170
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: '&apos;Squeeze &amp; excite&apos; guided few-shot segmentation of volumetric
+        images.'
+      venue: Medical Image Anal.
+      year: 2020
+      link: https://doi.org/10.1016/j.media.2019.101587
+Comput. Medical Imaging Graph.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CGNet: Few-shot learning for Intracranial Hemorrhage Segmentation.'
+      venue: Comput. Medical Imaging Graph.
+      year: 2025
+      link: https://doi.org/10.1016/j.compmedimag.2025.102505
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AFSegNet: few-shot 3D ankle-foot bone segmentation via hierarchical
+        feature distillation and multi-scale attention and fusion.'
+      venue: Comput. Medical Imaging Graph.
+      year: 2024
+      link: https://doi.org/10.1016/j.compmedimag.2024.102456
+    - title: 'PFMNet: Prototype-based feature mapping network for few-shot domain
+        adaptation in medical image segmentation.'
+      venue: Comput. Medical Imaging Graph.
+      year: 2024
+      link: https://doi.org/10.1016/j.compmedimag.2024.102406
+Knowl. Based Syst.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Bidirectional consistent hypercorrelation network for cross-domain few-shot
+        segmentation.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114866
+    - title: 'DPNet: A dual prototype few-shot semantic segmentation network for crack
+        detection.'
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.113733
+    - title: Enhancing feature interaction for improved generalization in few-shot
+        metal surface defect segmentation.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114606
+    - title: Few-shot 3D point cloud segmentation with unknown class number.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.114781
+    - title: LLM Knowledge-Driven Target Prototype Learning for Few-Shot Segmentation.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.113149
+    - title: Learning prototypes from background and latent objects for few-shot semantic
+        segmentation.
+      venue: Knowl. Based Syst.
+      year: 2025
+      link: https://doi.org/10.1016/j.knosys.2025.113218
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Few-shot online anomaly detection and segmentation.
+      venue: Knowl. Based Syst.
+      year: 2024
+      link: https://doi.org/10.1016/j.knosys.2024.112168
+    - title: Learning robust correlation with foundation model for weakly-supervised
+        few-shot segmentation.
+      venue: Knowl. Based Syst.
+      year: 2024
+      link: https://doi.org/10.1016/j.knosys.2024.112004
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Lite-FENet: Lightweight multi-scale feature enrichment network for few-shot
+        segmentation.'
+      venue: Knowl. Based Syst.
+      year: 2023
+      link: https://doi.org/10.1016/j.knosys.2023.110887
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Tackling background ambiguities in multi-class few-shot point cloud semantic
+        segmentation.
+      venue: Knowl. Based Syst.
+      year: 2022
+      link: https://doi.org/10.1016/j.knosys.2022.109508
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FSS-2019-nCov: A deep learning architecture for semi-supervised few-shot
+        segmentation of COVID-19 infection.'
+      venue: Knowl. Based Syst.
+      year: 2021
+      link: https://doi.org/10.1016/j.knosys.2020.106647
+Expert Syst. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ABE-Mamba: Few-shot medical image segmentation via adversarial bidirectional
+        enhanced Mamba.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.129897
+    - title: 'D2SFNet: Dual-domain spatial-frequency network for few-shot medical
+        image segmentation.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130107
+    - title: MCIFSS:Mask-guided modality collaboration with global-local discriminative
+        synergy for incremental few-shot semantic segmentation.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130250
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Combining hierarchical sparse representation with adaptive prompt for
+        few-shot segmentation.
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2024.125377
+    - title: Low-complexity speaker embedding module with feature segmentation, transformation
+        and reconstruction for few-shot speaker identification.
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2025.127542
+    - title: On filling the intra-class and inter-class gaps for few-shot segmentation.
+      venue: Expert Syst. Appl.
+      year: 2025
+      link: https://doi.org/10.1016/j.eswa.2024.125552
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A pseudo-labeling based weakly supervised segmentation method for few-shot
+        texture images.
+      venue: Expert Syst. Appl.
+      year: 2024
+      link: https://doi.org/10.1016/j.eswa.2023.122110
+Neural Networks:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Uncertainty guided semi-supervised few-shot segmentation with prototype
+        level fusion.
+      venue: Neural Networks
+      year: 2025
+      link: https://doi.org/10.1016/j.neunet.2024.106802
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A conditional Triplet loss for few-shot learning and its application
+        to image co-segmentation.
+      venue: Neural Networks
+      year: 2021
+      link: https://doi.org/10.1016/j.neunet.2021.01.002
+Neurocomputing:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CMaP-SAM: Contraction mapping prior for SAM-driven few-shot segmentation.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.131816
+    - title: 'CrossSeg-GvT: multi-view graph vision transformers with context-aware
+        memory and meta prompting for cross-domain few-shot semantic segmentation.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.132337
+    - title: Density-aware few-parametric networks for robust few-shot point cloud
+        semantic segmentation.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.132158
+    - title: Enhancing few-shot segmentation via mask combination learning.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.132001
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Bi-orientated rectification few-shot segmentation network based on fine-grained
+        prototypes.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2024.129160
+    - title: Fastener anomaly detection for industrial assembly scenarios based on
+        few-shot fine-grained component segmentation.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.131432
+    - title: Mask-free Iterative Refinement Network for weakly-supervised Few-shot
+        Semantic Segmentation.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2024.128600
+    - title: 'PONet: Prototype optimization network for few-shot medical image segmentation.'
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.131113
+    - title: Rank-constrained correspondence network for few-shot segmentation.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2025.131273
+    - title: Word vector embedding and self-supplementing network for Generalized
+        Few-shot Semantic Segmentation.
+      venue: Neurocomputing
+      year: 2025
+      link: https://doi.org/10.1016/j.neucom.2024.128737
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Beyond singular prototype: A prototype splitting strategy for few-shot
+        medical image segmentation.'
+      venue: Neurocomputing
+      year: 2024
+      link: https://doi.org/10.1016/j.neucom.2024.127990
+    - title: Dense affinity matching for Few-Shot Segmentation.
+      venue: Neurocomputing
+      year: 2024
+      link: https://doi.org/10.1016/j.neucom.2024.127348
+    - title: Self-support matching networks with multiscale attention for few-shot
+        semantic segmentation.
+      venue: Neurocomputing
+      year: 2024
+      link: https://doi.org/10.1016/j.neucom.2024.127811
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Prototype expansion and feature calibration for few-shot point cloud
+        semantic segmentation.
+      venue: Neurocomputing
+      year: 2023
+      link: https://doi.org/10.1016/j.neucom.2023.126732
+    - title: 'Texture based prototypical network for few-shot semantic segmentation
+        of forest cover: Generalizing for different geographical regions.'
+      venue: Neurocomputing
+      year: 2023
+      link: https://doi.org/10.1016/j.neucom.2023.03.062
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Task-aware adaptive attention learning for few-shot semantic segmentation.
+      venue: Neurocomputing
+      year: 2022
+      link: https://doi.org/10.1016/j.neucom.2022.04.089
+Neural Comput. Appl.:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A lightweight siamese transformer for few-shot semantic segmentation.
+      venue: Neural Comput. Appl.
+      year: 2024
+      link: https://doi.org/10.1007/s00521-024-09471-x
+    - title: Few-shot video object segmentation with prototype evolution.
+      venue: Neural Comput. Appl.
+      year: 2024
+      link: https://doi.org/10.1007/s00521-023-09325-y
+    - title: Self-supervised few-shot medical image segmentation with spatial transformations.
+      venue: Neural Comput. Appl.
+      year: 2024
+      link: https://doi.org/10.1007/s00521-024-10184-4
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Few-shot semantic segmentation: a review on recent approaches.'
+      venue: Neural Comput. Appl.
+      year: 2023
+      link: https://doi.org/10.1007/s00521-023-08758-9
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Kernel-based similarity sorting and allocation for few-shot semantic
+        segmentation.
+      venue: Neural Comput. Appl.
+      year: 2022
+      link: https://doi.org/10.1007/s00521-022-07654-y
+    - title: Multi-scale attentional similarity guidance network for few-shot semantic
+        segmentation.
+      venue: Neural Comput. Appl.
+      year: 2022
+      link: https://doi.org/10.1007/s00521-022-07494-w
