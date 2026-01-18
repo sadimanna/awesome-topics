@@ -28,6 +28,7 @@ section:
 - title: Neural Networks
 - title: Neurocomputing
 - title: Neural Comput. Appl.
+- title: Inf. Sci.
 NeurIPS:
   '2024':
     header:
@@ -1712,6 +1713,10 @@ IEEE J. Biomed. Health Informatics:
       year: 4
       link: 60
     body:
+    - title: Few-Shot Medical Image Segmentation With High-Confidence Prior Mask.
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/JBHI.2025.3552428
     - title: Multi-Objective Evolutionary Optimization Boosted Deep Neural Networks
         for Few-Shot Medical Segmentation With Noisy Labels.
       venue: IEEE J. Biomed. Health Informatics
@@ -2646,3 +2651,21 @@ Neural Comput. Appl.:
       venue: Neural Comput. Appl.
       year: 2022
       link: https://doi.org/10.1007/s00521-022-07494-w
+Inf. Sci.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Structural propagation dual-prototype refinement network for few-shot
+        3D point cloud segmentation.
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123076

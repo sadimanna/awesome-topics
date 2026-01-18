@@ -13,6 +13,7 @@ section:
 - title: Expert Syst. Appl.
 - title: Neural Comput. Appl.
 - title: Neurocomputing
+- title: Comput. Vis. Image Underst.
 ICLR:
   '2025':
     header:
@@ -416,3 +417,21 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.132398
+Comput. Vis. Image Underst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CNNs vs Transformers: Confirmatory factor analysis for eye gaze classification
+        with explainable AI.'
+      venue: Comput. Vis. Image Underst.
+      year: 2026
+      link: https://doi.org/10.1016/j.cviu.2025.104624

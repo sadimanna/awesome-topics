@@ -1270,6 +1270,27 @@ IEEE J. Biomed. Health Informatics:
       year: 2025
       link: https://doi.org/10.1109/JBHI.2024.3517642
 Int. J. Comput. Vis.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Mamba-Driven Comprehensive Context Learning for Zero-Shot HOI Detection.
+      venue: Int. J. Comput. Vis.
+      year: 2026
+      link: https://doi.org/10.1007/s11263-025-02616-y
+    - title: 'Video Mamba Suite: State Space Model as a Versatile Alternative for
+        Video Understanding.'
+      venue: Int. J. Comput. Vis.
+      year: 2026
+      link: https://doi.org/10.1007/s11263-025-02597-y
   '2025':
     header:
       title: Title
@@ -1288,6 +1309,22 @@ Int. J. Comput. Vis.:
       year: 2025
       link: https://doi.org/10.1007/s11263-025-02530-3
 Comput. Vis. Image Underst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A dynamic hybrid network with attention and mamba for image captioning.
+      venue: Comput. Vis. Image Underst.
+      year: 2026
+      link: https://doi.org/10.1016/j.cviu.2025.104617
   '2025':
     header:
       title: Title

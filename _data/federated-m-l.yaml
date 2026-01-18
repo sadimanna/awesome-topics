@@ -17541,6 +17541,11 @@ IEEE J. Biomed. Health Informatics:
       venue: IEEE J. Biomed. Health Informatics
       year: 2025
       link: https://doi.org/10.1109/JBHI.2025.3566217
+    - title: 'Federated Pseudo-Labeling: A Data-Centric, Privacy-Preserving Framework
+        for Medical Image Segmentation.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/JBHI.2025.3622934
     - title: Progressive Distillation With Optimal Transport for Federated Incomplete
         Multi-Modal Learning of Brain Tumor Segmentation.
       venue: IEEE J. Biomed. Health Informatics
@@ -20711,6 +20716,11 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2026
       link: https://doi.org/10.1016/j.ins.2025.122957
+    - title: 'Taming the long tail in federated learning: A unified global and personalized
+        model framework.'
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2025.123031
   '2025':
     header:
       title: Title

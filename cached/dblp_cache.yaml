@@ -8124,6 +8124,38 @@ federated%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V39I20.35503
   ee: https://doi.org/10.1609/aaai.v39i20.35503
   url: https://dblp.org/rec/conf/aaai/YangL25
+- author: Jingxin Liu 0006, Jieren Cheng, Renda Han, Wenxuan Tu, Jiaxin Wang, Xin
+    Peng 0010
+  title: Federated Graph-Level Clustering Network.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiuCHTWP25
+  doi: 10.1609/AAAI.V39I18.34077
+  ee: https://doi.org/10.1609/aaai.v39i18.34077
+  url: https://dblp.org/rec/conf/aaai/LiuCHTWP25
+- author: Yujing Wang 0010, Hainan Zhang, Sijia Wen, Wangjie Qiu, Binghui Guo
+  title: Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation
+    in Federated Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangZWQG25
+  doi: 10.1609/AAAI.V39I24.34733
+  ee: https://doi.org/10.1609/aaai.v39i24.34733
+  url: https://dblp.org/rec/conf/aaai/WangZWQG25
+- author: Li Zhang, Chaochao Chen 0001, Zhongxuan Han, Qiyong Zhong, Xiaolin Zheng
+  title: 'LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ZhangCHZZ25
+  doi: 10.1609/AAAI.V39I21.34404
+  ee: https://doi.org/10.1609/aaai.v39i21.34404
+  url: https://dblp.org/rec/conf/aaai/ZhangCHZZ25
 federated%20venue%3AAISTATS%3A:
 - &id618
   author: Safwan Labbi, Daniil Tiapkin, Lorenzo Mancini, Paul Mangold, Eric Moulines
@@ -23124,6 +23156,29 @@ federated%20venue%3AECCV%3A:
 - *id1767
 - *id1768
 - *id1769
+- author: Boyu Fan, Chenrui Wu 0002, Xiang Su 0001, Pan Hui 0001
+  title: 'FedTSA: A Cluster-Based Two-Stage Aggregation Method for Model-Heterogeneous
+    Federated Learning.'
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/FanWSH24
+  doi: 10.1007/978-3-031-73010-8_22
+  ee: https://doi.org/10.1007/978-3-031-73010-8_22
+  url: https://dblp.org/rec/conf/eccv/FanWSH24
+- author: Jinglin Liang, Jin Zhong 0001, Hanlin Gu, Zhongqi Lu, Xingxing Tang, Gang
+    Dai 0002, Shuangping Huang, Lixin Fan, Qiang Yang 0001
+  title: 'Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated
+    Class Continual Learning.'
+  venue: ECCV
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eccv/LiangZGLTDHFY24
+  doi: 10.1007/978-3-031-73404-5_18
+  ee: https://doi.org/10.1007/978-3-031-73404-5_18
+  url: https://dblp.org/rec/conf/eccv/LiangZGLTDHFY24
 federated%20streamid%3Aconf%2Fmm%3A:
 - &id1770
   author: Wei Feng 0010, Zhenwei Wu, Qianqian Wang 0001, Bo Dong 0001, Quanxue Gao
@@ -51253,6 +51308,18 @@ federated%20streamid%3Ajournals%2Ftifs%3A:
   doi: 10.1109/TIFS.2025.3629550
   ee: https://doi.org/10.1109/TIFS.2025.3629550
   url: https://dblp.org/rec/journals/tifs/ZhangXXML25
+- author: Yifeng Jiang 0008, Xiaochen Yuan, Weiwen Zhang, Wei Ke 0001, Chan-Tong Lam,
+    Sio Kei Im
+  title: 'PFL-ALP: Personalized Federated Learning Against Backdoor Attacks via Attention-Based
+    Local Purification.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/JiangYZKLI25
+  doi: 10.1109/TIFS.2025.3639936
+  ee: https://doi.org/10.1109/TIFS.2025.3639936
+  url: https://dblp.org/rec/journals/tifs/JiangYZKLI25
 federated%20streamid%3Ajournals%2Ftissec%3A:
 - &id3841
   author: "Georgios Syros, G\xF6kberk Yar, Simona Boboila, Cristina Nita-Rotaru, Alina\
@@ -52901,6 +52968,39 @@ federated%20streamid%3Ajournals%2Ftitb%3A:
 - *id3960
 - *id3961
 - *id3962
+- author: Sidratul Montaha, Rashik Rahman, Tapotosh Ghosh, Farnaz Sheikhi, Farhad
+    Maleki
+  title: 'Federated Pseudo-Labeling: A Data-Centric, Privacy-Preserving Framework
+    for Medical Image Segmentation.'
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/MontahaRGSM25
+  doi: 10.1109/JBHI.2025.3622934
+  ee: https://doi.org/10.1109/JBHI.2025.3622934
+  url: https://dblp.org/rec/journals/titb/MontahaRGSM25
+- author: Le Sun 0003, Jin Wu 0005
+  title: A Scalable and Transferable Federated Learning System for Classifying Healthcare
+    Sensor Data.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/SunW23
+  doi: 10.1109/JBHI.2022.3171402
+  ee: https://doi.org/10.1109/JBHI.2022.3171402
+  url: https://dblp.org/rec/journals/titb/SunW23
+- author: "Saleh Baghersalimi, Tom\xE1s Teijeiro, David Atienza 0001, Amir Aminifar"
+  title: Personalized Real-Time Federated Learning for Epileptic Seizure Detection.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/BaghersalimiTAA22
+  doi: 10.1109/JBHI.2021.3096127
+  ee: https://doi.org/10.1109/JBHI.2021.3096127
+  url: https://dblp.org/rec/journals/titb/BaghersalimiTAA22
 federated%20streamid%3Ajournals%2Ftkdd%3A:
 - &id3963
   author: Wei Guan 0006, Jian Cao 0001, Haiyan Zhao 0002, Yang Gu 0002, Shiyou Qian
@@ -57587,6 +57687,40 @@ federated%20streamid%3Ajournals%2Fisci%3A:
   doi: 10.1016/J.INS.2025.122957
   ee: https://doi.org/10.1016/j.ins.2025.122957
   url: https://dblp.org/rec/journals/isci/ZhangQLZ26
+- author: Pengsong Zhang 0002, Mi Wen, Zhou Zhu, Dongyang Li
+  title: 'Taming the long tail in federated learning: A unified global and personalized
+    model framework.'
+  venue: Inf. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhangWZL26a
+  doi: 10.1016/J.INS.2025.123031
+  ee: https://doi.org/10.1016/j.ins.2025.123031
+  url: https://dblp.org/rec/journals/isci/ZhangWZL26a
+- author: Yi Zhang 0079, Yunfan Lu, Fengxia Liu, Cheng Li 0035, Zixian Gong, Zhe Hu,
+    Qun Xu
+  title: Privacy-preserving and communication-efficient stochastic alternating direction
+    method of multipliers for federated learning.
+  venue: Inf. Sci.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ZhangLLLGHX25
+  doi: 10.1016/J.INS.2024.121641
+  ee: https://doi.org/10.1016/j.ins.2024.121641
+  url: https://dblp.org/rec/journals/isci/ZhangLLLGHX25
+- author: Le Sun 0003, Jin Wu 0005, Yang Xu, Yanchun Zhang
+  title: A federated learning and blockchain framework for physiological signal classification
+    based on continual learning.
+  venue: Inf. Sci.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/SunWXZ23
+  doi: 10.1016/J.INS.2023.02.003
+  ee: https://doi.org/10.1016/j.ins.2023.02.003
+  url: https://dblp.org/rec/journals/isci/SunWXZ23
 federated%20streamid%3Ajournals%2Feswa%3A:
 - &id4304
   author: Yang Liu, Tao Lin, Xin Ye 0004
@@ -59193,6 +59327,17 @@ federated%20streamid%3Ajournals%2Feswa%3A:
   doi: 10.1016/J.ESWA.2025.130144
   ee: https://doi.org/10.1016/j.eswa.2025.130144
   url: https://dblp.org/rec/journals/eswa/ZhouWYHC26
+- author: Qingqiang Qi, Chengyu Hu 0001, Tongyaqi Li, Peng Tang 0002, Shanqing Guo
+  title: 'PFGRS: A Privacy-preserving Subgraph-level Federated Graph learning for
+    Recommender System.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/QiHLTG25
+  doi: 10.1016/J.ESWA.2025.127615
+  ee: https://doi.org/10.1016/j.eswa.2025.127615
+  url: https://dblp.org/rec/journals/eswa/QiHLTG25
 federated%20streamid%3Ajournals%2Fexpert%3A:
 - &id4419
   author: Hai Anh Tran, Duc Tran
@@ -60132,6 +60277,18 @@ federated%20streamid%3Ajournals%2Fnn%3A:
 - *id4488
 - *id4489
 - *id4490
+- author: Zhaoxing Han, Chengyu Hu 0001, Tongyaqi Li, Qingqiang Qi, Peng Tang 0002,
+    Shanqing Guo
+  title: Subgraph-level federated graph neural network for privacy-preserving recommendation
+    with meta-learning.
+  venue: Neural Networks
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/HanHLQTG24
+  doi: 10.1016/J.NEUNET.2024.106574
+  ee: https://doi.org/10.1016/j.neunet.2024.106574
+  url: https://dblp.org/rec/journals/nn/HanHLQTG24
 federated%20streamid%3Ajournals%2Fijon%3A:
 - &id4491
   author: Flora Amato, Lingyu Qiu, Muhammad Tanveer 0001, Salvatore Cuomo, Daniela
@@ -61134,6 +61291,17 @@ federated%20streamid%3Ajournals%2Fijon%3A:
   ee: https://doi.org/10.1016/j.neucom.2025.132334
   url: https://dblp.org/rec/journals/ijon/WangK26
 - author: Jianli Zhao 0002, Jingwen Liu, Sheng Fang, Qingqian Guan, Liang Li
+  title: Federated intent-aware cross-domain recommendation via semantic alignment
+    and collaborative enhancement.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ZhaoLFGL26
+  doi: 10.1016/J.NEUCOM.2025.132442
+  ee: https://doi.org/10.1016/j.neucom.2025.132442
+  url: https://dblp.org/rec/journals/ijon/ZhaoLFGL26
+- author: Jianli Zhao 0002, Jingwen Liu, Sheng Fang 0001, Qingqian Guan, Liang Li
   title: Federated intent-aware cross-domain recommendation via semantic alignment
     and collaborative enhancement.
   venue: Neurocomputing
@@ -83167,6 +83335,17 @@ mamba%20streamid%3Ajournals%2Ftip%3A:
   doi: 10.1109/TIP.2025.3637729
   ee: https://doi.org/10.1109/TIP.2025.3637729
   url: https://dblp.org/rec/journals/tip/ZhangLGLG25
+- author: Junbo Qiao, Jincheng Liao, Wei Li 0002, Yulun Zhang 0001, Yong Guo, Jiao
+    Xie, Jie Hu 0021, Shaohui Lin
+  title: 'Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution.'
+  venue: IEEE Trans. Image Process.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tip/QiaoLLZGXHL25
+  doi: 10.1109/TIP.2025.3643146
+  ee: https://doi.org/10.1109/TIP.2025.3643146
+  url: https://dblp.org/rec/journals/tip/QiaoLLZGXHL25
 mamba%20streamid%3Ajournals%2Ftmi%3A:
 - author: Zihan Cheng 0001, Jintao Guo, Jian Zhang 0090, Lei Qi 0001, Luping Zhou,
     Yinghuan Shi, Yang Gao 0001
@@ -83285,6 +83464,28 @@ mamba%20streamid%3Ajournals%2Fijcv%3A:
   doi: 10.1007/S11263-025-02530-3
   ee: https://doi.org/10.1007/s11263-025-02530-3
   url: https://dblp.org/rec/journals/ijcv/ZhangCLWH25
+- author: Guo Chen 0006, Yifei Huang, Jilan Xu, Baoqi Pei, Jiahao Wang, Zhe Chen 0017,
+    Zhiqi Li, Tong Lu 0002, Limin Wang 0002
+  title: 'Video Mamba Suite: State Space Model as a Versatile Alternative for Video
+    Understanding.'
+  venue: Int. J. Comput. Vis.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/ChenHXPWCLLW26
+  doi: 10.1007/S11263-025-02597-Y
+  ee: https://doi.org/10.1007/s11263-025-02597-y
+  url: https://dblp.org/rec/journals/ijcv/ChenHXPWCLLW26
+- author: Jiawei Liu 0001, Yongchao Xu, Sen Tao, Yuexuan Qi, Zheng-Jun Zha
+  title: Mamba-Driven Comprehensive Context Learning for Zero-Shot HOI Detection.
+  venue: Int. J. Comput. Vis.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijcv/LiuXTQZ26
+  doi: 10.1007/S11263-025-02616-Y
+  ee: https://doi.org/10.1007/s11263-025-02616-y
+  url: https://dblp.org/rec/journals/ijcv/LiuXTQZ26
 mamba%20streamid%3Ajournals%2Fcviu%3A:
 - author: Hejian Chen, Qing Liu, Zhongming Fu, Li Liu
   title: 'UM-Mamba: An efficient U-network with medical visual state space for medical
@@ -83330,6 +83531,17 @@ mamba%20streamid%3Ajournals%2Fcviu%3A:
   doi: 10.1016/J.CVIU.2025.104545
   ee: https://doi.org/10.1016/j.cviu.2025.104545
   url: https://dblp.org/rec/journals/cviu/XuLGMX25
+- author: Lulu Wang, Ruiji Xue, Zhengtao Yu 0001, Ruoyu Zhang, Tongling Pan, Yingna
+    Li
+  title: A dynamic hybrid network with attention and mamba for image captioning.
+  venue: Comput. Vis. Image Underst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/WangXYZPL26
+  doi: 10.1016/J.CVIU.2025.104617
+  ee: https://doi.org/10.1016/j.cviu.2025.104617
+  url: https://dblp.org/rec/journals/cviu/WangXYZPL26
 mamba%20streamid%3Ajournals%2Fpr%3A:
 - author: Shaoxuan Suo, Jinxin Liu, Huihui Miao
   title: 'Mamba-Stereo: Mamba Regularization for Stereo matching.'
@@ -89821,6 +90033,16 @@ few%20shot%20segmentation%20streamid%3Ajournals%2Ftitb%3A:
   doi: 10.1109/JBHI.2023.3298710
   ee: https://doi.org/10.1109/JBHI.2023.3298710
   url: https://dblp.org/rec/journals/titb/ShaoCCYLY23
+- author: Ziming Cheng, Jianqin Zhao, Jingjing Deng 0001, Haofeng Zhang 0001
+  title: Few-Shot Medical Image Segmentation With High-Confidence Prior Mask.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/ChengZDZ25
+  doi: 10.1109/JBHI.2025.3552428
+  ee: https://doi.org/10.1109/JBHI.2025.3552428
+  url: https://dblp.org/rec/journals/titb/ChengZDZ25
 few%20shot%20segmentation%20streamid%3Ajournals%2Fijcv%3A:
 - author: Hanbo Bi, Yingchao Feng, Yongqiang Mao, Jianning Pei, Wenhui Diao, Hongqi
     Wang, Xian Sun 0001
@@ -90829,3 +91051,28 @@ few%20shot%20segmentation%20streamid%3Ajournals%2Fnca%3A:
   doi: 10.1007/S00521-022-07654-Y
   ee: https://doi.org/10.1007/s00521-022-07654-y
   url: https://dblp.org/rec/journals/nca/LiuL22b
+explainab%20transformer%20streamid%3Ajournals%2Fcviu%3A:
+- author: Naman Goyal, Major Singh Goraya, Tajinder Singh
+  title: 'CNNs vs Transformers: Confirmatory factor analysis for eye gaze classification
+    with explainable AI.'
+  venue: Comput. Vis. Image Underst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/GoyalGS26
+  doi: 10.1016/J.CVIU.2025.104624
+  ee: https://doi.org/10.1016/j.cviu.2025.104624
+  url: https://dblp.org/rec/journals/cviu/GoyalGS26
+few%20shot%20segmentation%20streamid%3Ajournals%2Fisci%3A:
+- author: Qingzheng Wang, Jiazhi Xie, Ning Li, Jingjun Bi, Zengwei Mai, Wenhui Liu,
+    Xingqin Wang
+  title: Structural propagation dual-prototype refinement network for few-shot 3D
+    point cloud segmentation.
+  venue: Inf. Sci.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/WangXLBMLW26
+  doi: 10.1016/J.INS.2026.123076
+  ee: https://doi.org/10.1016/j.ins.2026.123076
+  url: https://dblp.org/rec/journals/isci/WangXLBMLW26
