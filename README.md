@@ -158,6 +158,14 @@
   - [2026](https://sadimanna.github.io/awesome-topics/explainability-transformers#neurocomputing-2026)
   </details>
 
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#comput-vis-image-underst">Comput. Vis. Image Underst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/explainability-transformers#comput. vis. image underst.-2026)
+  </details>
+
 </details>
 
 
@@ -1774,6 +1782,14 @@
   - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neural comput. appl.-2022)
   </details>
 
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#inf-sci">Inf. Sci.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#inf. sci.-2026)
+  </details>
+
 </details>
 
 
@@ -3329,6 +3345,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#int-j-comput-vis">Int. J. Comput. Vis.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#int. j. comput. vis.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#int. j. comput. vis.-2025)
   </details>
 
@@ -3337,6 +3354,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#comput-vis-image-underst">Comput. Vis. Image Underst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#comput. vis. image underst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#comput. vis. image underst.-2025)
   </details>
 

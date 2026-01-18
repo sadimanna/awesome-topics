@@ -290,6 +290,13 @@ permalink: /few-shot-segmentation/
 
 </details>
 
+<details markdown="1">
+<summary>Inf. Sci.</summary>
+
+  - [2026](#inf-sci-2026)
+
+</details>
+
 </details>
 
 
@@ -2818,6 +2825,12 @@ permalink: /few-shot-segmentation/
 </tr></thead>
 <tbody>
 <tr>
+<td>Few-Shot Medical Image Segmentation With High-Confidence Prior Mask.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/JBHI.2025.3552428">Link</a></td>
+</tr>
+<tr>
 <td>Multi-Objective Evolutionary Optimization Boosted Deep Neural Networks for Few-Shot Medical Segmentation With Noisy Labels.</td>
 <td>IEEE J. Biomed. Health Informatics</td>
 <td>2025</td>
@@ -4200,6 +4213,38 @@ permalink: /few-shot-segmentation/
 <td>Neural Comput. Appl.</td>
 <td>2022</td>
 <td><a href="https://doi.org/10.1007/s00521-022-07494-w">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Inf. Sci. <a id="venue-inf. sci."></a>
+
+<details>
+
+<summary>Expand Inf. Sci.</summary>
+
+<a id="inf. sci.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Structural propagation dual-prototype refinement network for few-shot 3D point cloud segmentation.</td>
+<td>Inf. Sci.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.ins.2026.123076">Link</a></td>
 </tr>
 </tbody></table>
 

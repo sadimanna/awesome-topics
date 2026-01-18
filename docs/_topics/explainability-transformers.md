@@ -115,6 +115,13 @@ permalink: /explainability-transformers/
 
 </details>
 
+<details markdown="1">
+<summary>Comput. Vis. Image Underst.</summary>
+
+  - [2026](#comput-vis-image-underst-2026)
+
+</details>
+
 </details>
 
 
@@ -779,6 +786,38 @@ permalink: /explainability-transformers/
 <td>Neurocomputing</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.132398">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Comput. Vis. Image Underst. <a id="venue-comput. vis. image underst."></a>
+
+<details>
+
+<summary>Expand Comput. Vis. Image Underst.</summary>
+
+<a id="comput. vis. image underst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>CNNs vs Transformers: Confirmatory factor analysis for eye gaze classification with explainable AI.</td>
+<td>Comput. Vis. Image Underst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.cviu.2025.104624">Link</a></td>
 </tr>
 </tbody></table>
 

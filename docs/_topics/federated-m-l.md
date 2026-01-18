@@ -25104,6 +25104,12 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1109/JBHI.2025.3566217">Link</a></td>
 </tr>
 <tr>
+<td>Federated Pseudo-Labeling: A Data-Centric, Privacy-Preserving Framework for Medical Image Segmentation.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/JBHI.2025.3622934">Link</a></td>
+</tr>
+<tr>
 <td>Progressive Distillation With Optimal Transport for Federated Incomplete Multi-Modal Learning of Brain Tumor Segmentation.</td>
 <td>IEEE J. Biomed. Health Informatics</td>
 <td>2025</td>
@@ -29502,6 +29508,12 @@ permalink: /federated-m-l/
 <td>Inf. Sci.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.ins.2025.122957">Link</a></td>
+</tr>
+<tr>
+<td>Taming the long tail in federated learning: A unified global and personalized model framework.</td>
+<td>Inf. Sci.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.ins.2025.123031">Link</a></td>
 </tr>
 </tbody></table>
 

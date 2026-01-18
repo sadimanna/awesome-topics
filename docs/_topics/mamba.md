@@ -186,6 +186,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>Int. J. Comput. Vis.</summary>
 
+  - [2026](#int-j-comput-vis-2026)
   - [2025](#int-j-comput-vis-2025)
 
 </details>
@@ -193,6 +194,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>Comput. Vis. Image Underst.</summary>
 
+  - [2026](#comput-vis-image-underst-2026)
   - [2025](#comput-vis-image-underst-2025)
 
 </details>
@@ -2148,6 +2150,36 @@ permalink: /mamba/
 
 <summary>Expand Int. J. Comput. Vis.</summary>
 
+<a id="int. j. comput. vis.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Mamba-Driven Comprehensive Context Learning for Zero-Shot HOI Detection.</td>
+<td>Int. J. Comput. Vis.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1007/s11263-025-02616-y">Link</a></td>
+</tr>
+<tr>
+<td>Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding.</td>
+<td>Int. J. Comput. Vis.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1007/s11263-025-02597-y">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="int. j. comput. vis.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -2179,6 +2211,30 @@ permalink: /mamba/
 <details>
 
 <summary>Expand Comput. Vis. Image Underst.</summary>
+
+<a id="comput. vis. image underst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A dynamic hybrid network with attention and mamba for image captioning.</td>
+<td>Comput. Vis. Image Underst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.cviu.2025.104617">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="comput. vis. image underst.-2025"></a>
 <h3 class="year-heading">2025</h3>
