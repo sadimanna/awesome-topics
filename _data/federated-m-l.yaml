@@ -9796,6 +9796,41 @@ INFOCOM:
       year: 2009
       link: https://doi.org/10.1109/INFCOM.2009.5062206
 MobiCom:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Poster: Asynchronous Federated Learning Library and Benchmark with AFL-Lib.'
+      venue: MobiCom
+      year: 2025
+      link: https://doi.org/10.1145/3680207.3765660
+    - title: 'Poster: BlockFL-Med: Blockchain-Enabled and Lightweight Federated Learning
+        for Smart Medical Spaces.'
+      venue: MobiCom
+      year: 2025
+      link: https://doi.org/10.1145/3680207.3765687
+    - title: 'Poster: FedFNS: A Robust Federated Learning Method for Data Shift over
+        Unreliable Communication Links.'
+      venue: MobiCom
+      year: 2025
+      link: https://doi.org/10.1145/3680207.3765674
+    - title: 'Poster: Learning to Personalize in Federated Networks with Contribution-Aware
+        Aggregation.'
+      venue: MobiCom
+      year: 2025
+      link: https://doi.org/10.1145/3680207.3765661
+    - title: When Device Delays Meet Data Heterogeneity in Federated AIoT Applications.
+      venue: MobiCom
+      year: 2025
+      link: https://doi.org/10.1145/3680207.3723481
   '2024':
     header:
       title: Title
@@ -14229,6 +14264,22 @@ IEEE Trans. Artif. Intell.:
       year: 2022
       link: https://doi.org/10.1109/TAI.2021.3133816
 IEEE Trans. Knowl. Data Eng.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Multi-Party Federated Urban Flow Mining and Analysis Based on Lazy Aggregation.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2026
+      link: https://doi.org/10.1109/TKDE.2025.3629816
   '2025':
     header:
       title: Title
@@ -18285,6 +18336,23 @@ Proc. VLDB Endow.:
       year: 2008
       link: http://www.vldb.org/pvldb/vol1/1453864.pdf
 IEEE Trans. Parallel Distributed Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FLUXLog: A Federated Mixture-of-Experts Framework for Unified Log Anomaly
+        Detection.'
+      venue: IEEE Trans. Parallel Distributed Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TPDS.2025.3638693
   '2025':
     header:
       title: Title
@@ -21388,6 +21456,16 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129323
+    - title: Adaptive and efficient federated distillation with selective homomorphic
+        encryption for edge AI.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.131002
+    - title: Adaptive model splitting with sample-efficient reinforcement learning
+        for federated learning.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130875
     - title: 'AdaptiveStreamFL: A Bayesian-enhanced multi-scale federated learning
         framework for dynamic data streams with uncertainty quantification.'
       venue: Expert Syst. Appl.
@@ -21403,6 +21481,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.128931
+    - title: DAG-Driven Optimization for heterogeneous federated learning based on
+        fuzzy entropy and benders decomposition.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130570
     - title: Decentralized federated learning based on bivariate controlled averaging
         and sharpness aware minimization.
       venue: Expert Syst. Appl.
@@ -21428,11 +21511,50 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129215
+    - title: 'FedAspect-GNN: Integrating aspect-level sentiment analysis and graph
+        neural networks for federated recommendation.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130529
+    - title: 'FedCC: Federated cluster-aware contrastive learning with adaptive differential
+        privacy under non-IID settings.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130977
+    - title: 'FedCTPM: A federated cross-regional collaboration learning approach
+        for traffic flow prediction.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130779
+    - title: 'FedCkic: A federated learning inference attack defense method based
+        on centralized key agreement and integrity verification.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130455
+    - title: 'FedFA: Efficient federated large language models with feature adapters.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130894
     - title: 'FedGCLRec: Federated graph contrastive learning framework for social
         influence recommendations.'
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129294
+    - title: 'FedKG: Federated POI recommendation via generative knowledge distillation
+        against spatial heterogeneity.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130652
+    - title: 'FedLBW: A loss-based weighting strategy for federated learning on non-IID
+        data in wireless networks.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130487
+    - title: 'FedLSC: Federated learning with layer similarity comparison for cross-institutional
+        skin cancer image classification.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130937
     - title: 'FedPA: Property-aware federated learning for cellular traffic prediction.'
       venue: Expert Syst. Appl.
       year: 2026
@@ -21465,6 +21587,15 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129754
+    - title: Federated transfer learning-based intrusion detection system in 5G networks.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130868
+    - title: Geographical distributed turbine power prediction using personalized
+        federated learning.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130584
     - title: 'HierFLMC: Efficient hierarchical federated learning based on soft clustering
         model compression.'
       venue: Expert Syst. Appl.

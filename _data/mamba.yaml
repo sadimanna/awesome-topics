@@ -1775,6 +1775,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129897
+    - title: 'Aero-MambaNet: A unified mesh-mamba framework for physics-consistent
+        aerodynamic surrogate modeling.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130923
     - title: 'Costal cartilage segmentation with topology guided deformable mamba:
         Method and benchmark.'
       venue: Expert Syst. Appl.
@@ -1784,6 +1789,16 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.130064
+    - title: 'GCNet-Mamba: Leveraging state space models and CNN for medical image
+        classification.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130733
+    - title: 'GHOST: Sentiment-gated mamba and stock-wise tokenization attention for
+        enhanced stock prediction.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130474
     - title: 'HMambaOcc: Hierarchical Mamba for occupancy flow field prediction in
         autonomous driving under mixed traffic environments.'
       venue: Expert Syst. Appl.
@@ -1804,6 +1819,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.130305
+    - title: Mamba - CNN collaborative learning for panoramic semantic segmentation
+        via online knowledge distillation.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130792
     - title: 'MambaBIR: A residual pyramid network for brain image registration with
         state-space model.'
       venue: Expert Syst. Appl.
@@ -1833,6 +1853,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129092
+    - title: 'Synergistic mamba: Mastering global frequency and local spatial contexts
+        for low-light image enhancement.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130946
     - title: 'TFSM: A network for time-frequency synergistic modeling integrating
         Mamba temporal pathway and spectral features for electricity theft detection.'
       venue: Expert Syst. Appl.

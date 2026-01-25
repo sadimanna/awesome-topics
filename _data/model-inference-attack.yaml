@@ -6109,6 +6109,33 @@ INFOCOM:
       year: 2017
       link: https://doi.org/10.1109/INFOCOM.2017.8057064
 MobiCom:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Demo: Split-and-Pipeline: Collaborative Large Model Inference on Edge
+        Devices.'
+      venue: MobiCom
+      year: 2025
+      link: https://doi.org/10.1145/3680207.3765592
+    - title: 'Poster: KeyRadar: Contactless Touchscreen Keystroke Inference via mmWave
+        Sensing and Language Models.'
+      venue: MobiCom
+      year: 2025
+      link: https://doi.org/10.1145/3680207.3765669
+    - title: 'Poster: MoE2: Optimizing Collaborative Inference for Edge Large Language
+        Models.'
+      venue: MobiCom
+      year: 2025
+      link: https://doi.org/10.1145/3680207.3765696
   '2022':
     header:
       title: Title
@@ -11564,11 +11591,25 @@ Expert Syst. Appl.:
       year: 4
       link: 60
     body:
+    - title: A new benchmark dataset and mixture-of-experts language models for adversarial
+        natural language inference in Vietnamese.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130109
     - title: An effective expectation-maximization algorithm for two-layer mixture
         model of Gaussian process functional regressions via variational inference.
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.128858
+    - title: 'FedCkic: A federated learning inference attack defense method based
+        on centralized key agreement and integrity verification.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130455
+    - title: Preserving data and model privacy during inference and training.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130167
   '2025':
     header:
       title: Title

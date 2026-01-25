@@ -3667,6 +3667,15 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129347
+    - title: 'FMGHA: Future momentum gradient-based attack on hypergraph neural networks.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130769
+    - title: Transferable and defense-aware dual-objective meta gradient memory attack
+        against deepfake generation.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130720
   '2025':
     header:
       title: Title

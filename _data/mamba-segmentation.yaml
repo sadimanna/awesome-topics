@@ -396,6 +396,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129371
+    - title: Mamba - CNN collaborative learning for panoramic semantic segmentation
+        via online knowledge distillation.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130792
     - title: Visual Mamba-CNN for scribble-based segmentation in weakly supervised
         learning for photoacoustic tomography.
       venue: Expert Syst. Appl.
