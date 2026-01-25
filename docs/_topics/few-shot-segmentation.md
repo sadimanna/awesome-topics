@@ -3795,6 +3795,18 @@ permalink: /few-shot-segmentation/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129897">Link</a></td>
 </tr>
 <tr>
+<td>APENet: Task-aware adaptation prototype evolution network for few-shot semantic segmentation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130906">Link</a></td>
+</tr>
+<tr>
+<td>CLIP-driven feature disambiguation and cross-modal synergy for few-shot semantic segmentation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130892">Link</a></td>
+</tr>
+<tr>
 <td>D2SFNet: Dual-domain spatial-frequency network for few-shot medical image segmentation.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>

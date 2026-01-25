@@ -2899,6 +2899,12 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129897">Link</a></td>
 </tr>
 <tr>
+<td>Aero-MambaNet: A unified mesh-mamba framework for physics-consistent aerodynamic surrogate modeling.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130923">Link</a></td>
+</tr>
+<tr>
 <td>Costal cartilage segmentation with topology guided deformable mamba: Method and benchmark.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
@@ -2909,6 +2915,18 @@ permalink: /mamba/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130064">Link</a></td>
+</tr>
+<tr>
+<td>GCNet-Mamba: Leveraging state space models and CNN for medical image classification.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130733">Link</a></td>
+</tr>
+<tr>
+<td>GHOST: Sentiment-gated mamba and stock-wise tokenization attention for enhanced stock prediction.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130474">Link</a></td>
 </tr>
 <tr>
 <td>HMambaOcc: Hierarchical Mamba for occupancy flow field prediction in autonomous driving under mixed traffic environments.</td>
@@ -2933,6 +2951,12 @@ permalink: /mamba/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130305">Link</a></td>
+</tr>
+<tr>
+<td>Mamba - CNN collaborative learning for panoramic semantic segmentation via online knowledge distillation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130792">Link</a></td>
 </tr>
 <tr>
 <td>MambaBIR: A residual pyramid network for brain image registration with state-space model.</td>
@@ -2969,6 +2993,12 @@ permalink: /mamba/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129092">Link</a></td>
+</tr>
+<tr>
+<td>Synergistic mamba: Mastering global frequency and local spatial contexts for low-light image enhancement.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130946">Link</a></td>
 </tr>
 <tr>
 <td>TFSM: A network for time-frequency synergistic modeling integrating Mamba temporal pathway and spectral features for electricity theft detection.</td>

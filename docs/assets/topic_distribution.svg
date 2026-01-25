@@ -4,19 +4,19 @@ text { font-family: Times New Roman, sans-serif; }
 </style>
 <text x="10" y="46" font-size="14">Federated M L</text>
 <rect x="180" y="30" width="400" height="24" fill="#4c72b0" rx="4" />
-<text x="588" y="46" font-size="14">3846</text>
+<text x="588" y="46" font-size="14">3866</text>
 <text x="10" y="80" font-size="14">Model Inference Attack</text>
 <rect x="180" y="64" width="131" height="24" fill="#4c72b0" rx="4" />
-<text x="319" y="80" font-size="14">1266</text>
+<text x="319" y="80" font-size="14">1272</text>
 <text x="10" y="114" font-size="14">Inversion Attacks</text>
 <rect x="180" y="98" width="42" height="24" fill="#4c72b0" rx="4" />
-<text x="230" y="114" font-size="14">413</text>
+<text x="230" y="114" font-size="14">415</text>
 <text x="10" y="148" font-size="14">Mamba</text>
 <rect x="180" y="132" width="33" height="24" fill="#4c72b0" rx="4" />
-<text x="221" y="148" font-size="14">322</text>
+<text x="221" y="148" font-size="14">327</text>
 <text x="10" y="182" font-size="14">Few Shot Segmentation</text>
 <rect x="180" y="166" width="30" height="24" fill="#4c72b0" rx="4" />
-<text x="218" y="182" font-size="14">294</text>
+<text x="218" y="182" font-size="14">296</text>
 <text x="10" y="216" font-size="14">Machine Unlearning</text>
 <rect x="180" y="200" width="13" height="24" fill="#4c72b0" rx="4" />
 <text x="201" y="216" font-size="14">134</text>
@@ -31,7 +31,7 @@ text { font-family: Times New Roman, sans-serif; }
 <text x="193" y="318" font-size="14">56</text>
 <text x="10" y="352" font-size="14">Mamba Segmentation</text>
 <rect x="180" y="336" width="4" height="24" fill="#4c72b0" rx="4" />
-<text x="192" y="352" font-size="14">45</text>
+<text x="192" y="352" font-size="14">46</text>
 <text x="10" y="386" font-size="14">Federated Unlearning</text>
 <rect x="180" y="370" width="3" height="24" fill="#4c72b0" rx="4" />
 <text x="191" y="386" font-size="14">29</text>

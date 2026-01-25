@@ -497,6 +497,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom">MobiCom</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#mobicom-2022)
@@ -865,6 +866,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-knowl-data-eng">IEEE Trans. Knowl. Data Eng.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. knowl. data eng.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. knowl. data eng.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. knowl. data eng.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. knowl. data eng.-2023)
@@ -1053,6 +1055,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-parallel-distributed-syst">IEEE Trans. Parallel Distributed Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. parallel distributed syst.-2023)
@@ -3849,6 +3852,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#mobicom">MobiCom</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#mobicom-2025)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#mobicom-2022)
   </details>
 

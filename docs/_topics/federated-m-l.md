@@ -306,6 +306,7 @@ permalink: /federated-m-l/
 <details markdown="1">
 <summary>MobiCom</summary>
 
+  - [2025](#mobicom-2025)
   - [2024](#mobicom-2024)
   - [2023](#mobicom-2023)
   - [2022](#mobicom-2022)
@@ -640,6 +641,7 @@ permalink: /federated-m-l/
 <details markdown="1">
 <summary>IEEE Trans. Knowl. Data Eng.</summary>
 
+  - [2026](#ieee-trans-knowl-data-eng-2026)
   - [2025](#ieee-trans-knowl-data-eng-2025)
   - [2024](#ieee-trans-knowl-data-eng-2024)
   - [2023](#ieee-trans-knowl-data-eng-2023)
@@ -811,6 +813,7 @@ permalink: /federated-m-l/
 <details markdown="1">
 <summary>IEEE Trans. Parallel Distributed Syst.</summary>
 
+  - [2026](#ieee-trans-parallel-distributed-syst-2026)
   - [2025](#ieee-trans-parallel-distributed-syst-2025)
   - [2024](#ieee-trans-parallel-distributed-syst-2024)
   - [2023](#ieee-trans-parallel-distributed-syst-2023)
@@ -14353,6 +14356,54 @@ permalink: /federated-m-l/
 
 <summary>Expand MobiCom</summary>
 
+<a id="mobicom-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Poster: Asynchronous Federated Learning Library and Benchmark with AFL-Lib.</td>
+<td>MobiCom</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3680207.3765660">Link</a></td>
+</tr>
+<tr>
+<td>Poster: BlockFL-Med: Blockchain-Enabled and Lightweight Federated Learning for Smart Medical Spaces.</td>
+<td>MobiCom</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3680207.3765687">Link</a></td>
+</tr>
+<tr>
+<td>Poster: FedFNS: A Robust Federated Learning Method for Data Shift over Unreliable Communication Links.</td>
+<td>MobiCom</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3680207.3765674">Link</a></td>
+</tr>
+<tr>
+<td>Poster: Learning to Personalize in Federated Networks with Contribution-Aware Aggregation.</td>
+<td>MobiCom</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3680207.3765661">Link</a></td>
+</tr>
+<tr>
+<td>When Device Delays Meet Data Heterogeneity in Federated AIoT Applications.</td>
+<td>MobiCom</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3680207.3723481">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="mobicom-2024"></a>
 <h3 class="year-heading">2024</h3>
 <table class="paper-table">
@@ -20691,6 +20742,30 @@ permalink: /federated-m-l/
 
 <summary>Expand IEEE Trans. Knowl. Data Eng.</summary>
 
+<a id="ieee trans. knowl. data eng.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Multi-Party Federated Urban Flow Mining and Analysis Based on Lazy Aggregation.</td>
+<td>IEEE Trans. Knowl. Data Eng.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TKDE.2025.3629816">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. knowl. data eng.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -26149,6 +26224,30 @@ permalink: /federated-m-l/
 
 <summary>Expand IEEE Trans. Parallel Distributed Syst.</summary>
 
+<a id="ieee trans. parallel distributed syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>FLUXLog: A Federated Mixture-of-Experts Framework for Unified Log Anomaly Detection.</td>
+<td>IEEE Trans. Parallel Distributed Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TPDS.2025.3638693">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. parallel distributed syst.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -30406,6 +30505,18 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129323">Link</a></td>
 </tr>
 <tr>
+<td>Adaptive and efficient federated distillation with selective homomorphic encryption for edge AI.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.131002">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive model splitting with sample-efficient reinforcement learning for federated learning.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130875">Link</a></td>
+</tr>
+<tr>
 <td>AdaptiveStreamFL: A Bayesian-enhanced multi-scale federated learning framework for dynamic data streams with uncertainty quantification.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
@@ -30422,6 +30533,12 @@ permalink: /federated-m-l/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.128931">Link</a></td>
+</tr>
+<tr>
+<td>DAG-Driven Optimization for heterogeneous federated learning based on fuzzy entropy and benders decomposition.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130570">Link</a></td>
 </tr>
 <tr>
 <td>Decentralized federated learning based on bivariate controlled averaging and sharpness aware minimization.</td>
@@ -30454,10 +30571,58 @@ permalink: /federated-m-l/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129215">Link</a></td>
 </tr>
 <tr>
+<td>FedAspect-GNN: Integrating aspect-level sentiment analysis and graph neural networks for federated recommendation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130529">Link</a></td>
+</tr>
+<tr>
+<td>FedCC: Federated cluster-aware contrastive learning with adaptive differential privacy under non-IID settings.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130977">Link</a></td>
+</tr>
+<tr>
+<td>FedCTPM: A federated cross-regional collaboration learning approach for traffic flow prediction.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130779">Link</a></td>
+</tr>
+<tr>
+<td>FedCkic: A federated learning inference attack defense method based on centralized key agreement and integrity verification.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130455">Link</a></td>
+</tr>
+<tr>
+<td>FedFA: Efficient federated large language models with feature adapters.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130894">Link</a></td>
+</tr>
+<tr>
 <td>FedGCLRec: Federated graph contrastive learning framework for social influence recommendations.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129294">Link</a></td>
+</tr>
+<tr>
+<td>FedKG: Federated POI recommendation via generative knowledge distillation against spatial heterogeneity.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130652">Link</a></td>
+</tr>
+<tr>
+<td>FedLBW: A loss-based weighting strategy for federated learning on non-IID data in wireless networks.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130487">Link</a></td>
+</tr>
+<tr>
+<td>FedLSC: Federated learning with layer similarity comparison for cross-institutional skin cancer image classification.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130937">Link</a></td>
 </tr>
 <tr>
 <td>FedPA: Property-aware federated learning for cellular traffic prediction.</td>
@@ -30500,6 +30665,18 @@ permalink: /federated-m-l/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129754">Link</a></td>
+</tr>
+<tr>
+<td>Federated transfer learning-based intrusion detection system in 5G networks.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130868">Link</a></td>
+</tr>
+<tr>
+<td>Geographical distributed turbine power prediction using personalized federated learning.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130584">Link</a></td>
 </tr>
 <tr>
 <td>HierFLMC: Efficient hierarchical federated learning based on soft clustering model compression.</td>

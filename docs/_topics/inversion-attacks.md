@@ -6035,6 +6035,18 @@ permalink: /inversion-attacks/
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129347">Link</a></td>
 </tr>
+<tr>
+<td>FMGHA: Future momentum gradient-based attack on hypergraph neural networks.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130769">Link</a></td>
+</tr>
+<tr>
+<td>Transferable and defense-aware dual-objective meta gradient memory attack against deepfake generation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130720">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="expert syst. appl.-2025"></a>

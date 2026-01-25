@@ -757,6 +757,12 @@ permalink: /mamba-segmentation/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129371">Link</a></td>
 </tr>
 <tr>
+<td>Mamba - CNN collaborative learning for panoramic semantic segmentation via online knowledge distillation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130792">Link</a></td>
+</tr>
+<tr>
 <td>Visual Mamba-CNN for scribble-based segmentation in weakly supervised learning for photoacoustic tomography.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>

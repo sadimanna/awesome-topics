@@ -377,6 +377,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>MobiCom</summary>
 
+  - [2025](#mobicom-2025)
   - [2022](#mobicom-2022)
 
 </details>
@@ -9688,6 +9689,42 @@ permalink: /model-inference-attack/
 
 <summary>Expand MobiCom</summary>
 
+<a id="mobicom-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Demo: Split-and-Pipeline: Collaborative Large Model Inference on Edge Devices.</td>
+<td>MobiCom</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3680207.3765592">Link</a></td>
+</tr>
+<tr>
+<td>Poster: KeyRadar: Contactless Touchscreen Keystroke Inference via mmWave Sensing and Language Models.</td>
+<td>MobiCom</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3680207.3765669">Link</a></td>
+</tr>
+<tr>
+<td>Poster: MoE2: Optimizing Collaborative Inference for Edge Large Language Models.</td>
+<td>MobiCom</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3680207.3765696">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="mobicom-2022"></a>
 <h3 class="year-heading">2022</h3>
 <table class="paper-table">
@@ -17821,10 +17858,28 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>A new benchmark dataset and mixture-of-experts language models for adversarial natural language inference in Vietnamese.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130109">Link</a></td>
+</tr>
+<tr>
 <td>An effective expectation-maximization algorithm for two-layer mixture model of Gaussian process functional regressions via variational inference.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.128858">Link</a></td>
+</tr>
+<tr>
+<td>FedCkic: A federated learning inference attack defense method based on centralized key agreement and integrity verification.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130455">Link</a></td>
+</tr>
+<tr>
+<td>Preserving data and model privacy during inference and training.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130167">Link</a></td>
 </tr>
 </tbody></table>
 
