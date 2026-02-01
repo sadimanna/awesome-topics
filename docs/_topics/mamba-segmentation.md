@@ -47,6 +47,7 @@ permalink: /mamba-segmentation/
 <details markdown="1">
 <summary>ACM Multimedia</summary>
 
+  - [2025](#acm-multimedia-2025)
   - [2024](#acm-multimedia-2024)
 
 </details>
@@ -333,6 +334,48 @@ permalink: /mamba-segmentation/
 <details>
 
 <summary>Expand ACM Multimedia</summary>
+
+<a id="acm multimedia-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>EchoVim: Making Vision Mamba Docile for Echocardiography Video Segmentation via Dynamic Interaction and Semantic Token-attentive Refinement.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754876">Link</a></td>
+</tr>
+<tr>
+<td>LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755452">Link</a></td>
+</tr>
+<tr>
+<td>MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755147">Link</a></td>
+</tr>
+<tr>
+<td>UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via Dynamic Tree Scan and Hidden State Weaken.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755131">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="acm multimedia-2024"></a>
 <h3 class="year-heading">2024</h3>

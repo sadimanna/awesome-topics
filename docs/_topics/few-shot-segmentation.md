@@ -105,6 +105,7 @@ permalink: /few-shot-segmentation/
 <details markdown="1">
 <summary>ACM Multimedia</summary>
 
+  - [2025](#acm-multimedia-2025)
   - [2024](#acm-multimedia-2024)
   - [2023](#acm-multimedia-2023)
   - [2022](#acm-multimedia-2022)
@@ -1975,6 +1976,42 @@ permalink: /few-shot-segmentation/
 <details>
 
 <summary>Expand ACM Multimedia</summary>
+
+<a id="acm multimedia-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MM-Prompt: Multi-modality and Multi-granularity Prompts for Few-Shot Segmentation.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754967">Link</a></td>
+</tr>
+<tr>
+<td>Textual and Visual Guided Task Adaptation for Source-Free Cross-Domain Few-Shot Segmentation.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755772">Link</a></td>
+</tr>
+<tr>
+<td>The Overlooked Matters: Revisiting Background, Prototype, and Activation in Few-Shot Medical Image Segmentation.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754987">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="acm multimedia-2024"></a>
 <h3 class="year-heading">2024</h3>

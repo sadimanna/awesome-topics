@@ -191,6 +191,7 @@ permalink: /inversion-attacks/
 <details markdown="1">
 <summary>ACM Multimedia</summary>
 
+  - [2025](#acm-multimedia-2025)
   - [2024](#acm-multimedia-2024)
   - [2023](#acm-multimedia-2023)
   - [2020](#acm-multimedia-2020)
@@ -3426,6 +3427,42 @@ permalink: /inversion-attacks/
 <details>
 
 <summary>Expand ACM Multimedia</summary>
+
+<a id="acm multimedia-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>CapRecover: A Cross-Modality Feature Inversion Attack Framework on Vision Language Models.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755203">Link</a></td>
+</tr>
+<tr>
+<td>Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755220">Link</a></td>
+</tr>
+<tr>
+<td>MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3761986">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="acm multimedia-2024"></a>
 <h3 class="year-heading">2024</h3>

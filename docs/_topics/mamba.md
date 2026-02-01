@@ -128,6 +128,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>ACM Multimedia</summary>
 
+  - [2025](#acm-multimedia-2025)
   - [2024](#acm-multimedia-2024)
   - [2023](#acm-multimedia-2023)
 
@@ -276,6 +277,20 @@ permalink: /mamba/
   - [2026](#neurocomputing-2026)
   - [2025](#neurocomputing-2025)
   - [2024](#neurocomputing-2024)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Emerg. Top. Comput.</summary>
+
+  - [2025](#ieee-trans-emerg-top-comput-2025)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Intell. Transp. Syst.</summary>
+
+  - [2026](#ieee-trans-intell-transp-syst-2026)
 
 </details>
 
@@ -1720,6 +1735,126 @@ permalink: /mamba/
 
 <summary>Expand ACM Multimedia</summary>
 
+<a id="acm multimedia-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>BiOMamba: Mamba-based Forward-Then-Backward Temporal Modeling for Online Action Detection and Anticipation.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755847">Link</a></td>
+</tr>
+<tr>
+<td>Cycle-Consistent Mamba-Based Registration-Fusion Joint Network for Unregistered Hyperspectral Image Super-Resolution.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755406">Link</a></td>
+</tr>
+<tr>
+<td>DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755263">Link</a></td>
+</tr>
+<tr>
+<td>EchoVim: Making Vision Mamba Docile for Echocardiography Video Segmentation via Dynamic Interaction and Semantic Token-attentive Refinement.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754876">Link</a></td>
+</tr>
+<tr>
+<td>LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754863">Link</a></td>
+</tr>
+<tr>
+<td>LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755452">Link</a></td>
+</tr>
+<tr>
+<td>Learning Long-Range Action Representation by Two-Stream Mamba Pyramid Network for Figure Skating Assessment.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754702">Link</a></td>
+</tr>
+<tr>
+<td>MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755147">Link</a></td>
+</tr>
+<tr>
+<td>Probabilistic Mixture of Hyperbolic Mamba for Few-Shot Class-Incremental Learning.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755306">Link</a></td>
+</tr>
+<tr>
+<td>Radar-Mamba: 4D Millimeter-Wave Point Cloud Enhancement via State Space Models.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755431">Link</a></td>
+</tr>
+<tr>
+<td>SAMVSR: Leveraging Semantic Priors to Zone-Focused Mamba for Video Snow Removal.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754783">Link</a></td>
+</tr>
+<tr>
+<td>SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755641">Link</a></td>
+</tr>
+<tr>
+<td>Spatial-Frequency Mamba Collaborative Learning Network for Infrared Small Target Detection.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754572">Link</a></td>
+</tr>
+<tr>
+<td>UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via Dynamic Tree Scan and Hidden State Weaken.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755131">Link</a></td>
+</tr>
+<tr>
+<td>UMSD: High Realism Motion Style Transfer via Unified Mamba-based Diffusion.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754873">Link</a></td>
+</tr>
+<tr>
+<td>VSumMamba: Mamba Empowered Efficient Video Summarization with Multi-Scale Spatial-Temporal Modeling.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755644">Link</a></td>
+</tr>
+<tr>
+<td>WMamba: Wavelet-based Mamba for Face Forgery Detection.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755592">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="acm multimedia-2024"></a>
 <h3 class="year-heading">2024</h3>
 <table class="paper-table">
@@ -2486,6 +2621,12 @@ permalink: /mamba/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Spatial-frequency dual-constrained Mamba diffusion model for cross-modal generation from CFP to FFA.</td>
+<td>Medical Image Anal.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.media.2025.103925">Link</a></td>
+</tr>
 <tr>
 <td>Switch-UMamba: Dynamic scanning vision Mamba UNet for medical image segmentation.</td>
 <td>Medical Image Anal.</td>
@@ -3501,6 +3642,70 @@ permalink: /mamba/
 <td>Neurocomputing</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2024.128104">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Emerg. Top. Comput. <a id="venue-ieee trans. emerg. top. comput."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Emerg. Top. Comput.</summary>
+
+<a id="ieee trans. emerg. top. comput.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>GraphMamba: Graph Tokenization Mamba for Hyperspectral Image Classification.</td>
+<td>IEEE Trans. Emerg. Top. Comput.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/TETC.2025.3626943">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Intell. Transp. Syst. <a id="venue-ieee trans. intell. transp. syst."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Intell. Transp. Syst.</summary>
+
+<a id="ieee trans. intell. transp. syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification.</td>
+<td>IEEE Trans. Intell. Transp. Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TITS.2025.3625645">Link</a></td>
 </tr>
 </tbody></table>
 

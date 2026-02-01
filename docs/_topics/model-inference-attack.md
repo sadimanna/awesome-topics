@@ -435,6 +435,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>MLSys</summary>
 
+  - [2025](#mlsys-2025)
   - [2024](#mlsys-2024)
   - [2022](#mlsys-2022)
   - [2021](#mlsys-2021)
@@ -516,6 +517,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>ACM Multimedia</summary>
 
+  - [2025](#acm-multimedia-2025)
   - [2024](#acm-multimedia-2024)
   - [2023](#acm-multimedia-2023)
   - [2022](#acm-multimedia-2022)
@@ -818,6 +820,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>IEEE Trans. Inf. Forensics Secur.</summary>
 
+  - [2026](#ieee-trans-inf-forensics-secur-2026)
   - [2025](#ieee-trans-inf-forensics-secur-2025)
   - [2024](#ieee-trans-inf-forensics-secur-2024)
   - [2023](#ieee-trans-inf-forensics-secur-2023)
@@ -10367,6 +10370,30 @@ permalink: /model-inference-attack/
 
 <summary>Expand MLSys</summary>
 
+<a id="mlsys-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Seesaw: High-throughput LLM Inference via Model Re-sharding.</td>
+<td>MLSys</td>
+<td>2025</td>
+<td><a href="https://openreview.net/forum?id=YDksTjY3YY">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="mlsys-2024"></a>
 <h3 class="year-heading">2024</h3>
 <table class="paper-table">
@@ -11414,6 +11441,54 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand ACM Multimedia</summary>
+
+<a id="acm multimedia-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>BOLT: Fewer Tokens but More Performance Retention for Efficient Vision-Language Models Inference.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755305">Link</a></td>
+</tr>
+<tr>
+<td>MQuant: Unleashing the Inference Potential of Multimodal Large Language Models via Static Quantization.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755433">Link</a></td>
+</tr>
+<tr>
+<td>Outlier-Aware Model Merging for Efficient Multitask Inference.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3754894">Link</a></td>
+</tr>
+<tr>
+<td>Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3758156">Link</a></td>
+</tr>
+<tr>
+<td>Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for Real-Time Vision-Only Inference.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755115">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="acm multimedia-2024"></a>
 <h3 class="year-heading">2024</h3>
@@ -15416,6 +15491,30 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand IEEE Trans. Inf. Forensics Secur.</summary>
+
+<a id="ieee trans. inf. forensics secur.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Practical Secure Inference Algorithm for a Fine-Tuned Large Language Model Based on Fully Homomorphic Encryption.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIFS.2025.3639994">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="ieee trans. inf. forensics secur.-2025"></a>
 <h3 class="year-heading">2025</h3>

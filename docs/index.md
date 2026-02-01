@@ -567,6 +567,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys">MLSys</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#mlsys-2022)
@@ -639,6 +640,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#acm-multimedia">ACM Multimedia</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#acm multimedia-2022)
@@ -957,6 +959,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-inf-forensics-secur">IEEE Trans. Inf. Forensics Secur.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. inf. forensics secur.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. inf. forensics secur.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. inf. forensics secur.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. inf. forensics secur.-2023)
@@ -1091,6 +1094,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-computers">IEEE Trans. Computers</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. computers-2023)
@@ -1582,6 +1586,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm-multimedia">ACM Multimedia</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#acm multimedia-2022)
@@ -2000,6 +2005,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#acm-multimedia">ACM Multimedia</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia-2023)
   - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#acm multimedia-2020)
@@ -3049,6 +3055,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#acm-multimedia">ACM Multimedia</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#acm multimedia-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/mamba-segmentation#acm multimedia-2024)
   </details>
 
@@ -3282,6 +3289,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#acm-multimedia">ACM Multimedia</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#acm multimedia-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/mamba#acm multimedia-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/mamba#acm multimedia-2023)
   </details>
@@ -3449,6 +3457,22 @@
   - [2026](https://sadimanna.github.io/awesome-topics/mamba#neurocomputing-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#neurocomputing-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/mamba#neurocomputing-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-emerg-top-comput">IEEE Trans. Emerg. Top. Comput.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. emerg. top. comput.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-intell-transp-syst">IEEE Trans. Intell. Transp. Syst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. intell. transp. syst.-2026)
   </details>
 
 </details>
@@ -3916,6 +3940,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#mlsys">MLSys</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#mlsys-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#mlsys-2024)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#mlsys-2022)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#mlsys-2021)
@@ -4005,6 +4030,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#acm-multimedia">ACM Multimedia</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm multimedia-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm multimedia-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm multimedia-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#acm multimedia-2022)
@@ -4334,6 +4360,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee-trans-inf-forensics-secur">IEEE Trans. Inf. Forensics Secur.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. inf. forensics secur.-2023)
@@ -5392,6 +5419,14 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#icdm">ICDM</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#icdm-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#acm-multimedia">ACM Multimedia</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#acm multimedia-2025)
   </details>
 
 </details>

@@ -4,19 +4,19 @@ text { font-family: Times New Roman, sans-serif; }
 </style>
 <text x="10" y="46" font-size="14">Federated M L</text>
 <rect x="180" y="30" width="400" height="24" fill="#4c72b0" rx="4" />
-<text x="588" y="46" font-size="14">3866</text>
+<text x="588" y="46" font-size="14">3894</text>
 <text x="10" y="80" font-size="14">Model Inference Attack</text>
 <rect x="180" y="64" width="131" height="24" fill="#4c72b0" rx="4" />
-<text x="319" y="80" font-size="14">1272</text>
+<text x="319" y="80" font-size="14">1279</text>
 <text x="10" y="114" font-size="14">Inversion Attacks</text>
 <rect x="180" y="98" width="42" height="24" fill="#4c72b0" rx="4" />
-<text x="230" y="114" font-size="14">415</text>
+<text x="230" y="114" font-size="14">418</text>
 <text x="10" y="148" font-size="14">Mamba</text>
-<rect x="180" y="132" width="33" height="24" fill="#4c72b0" rx="4" />
-<text x="221" y="148" font-size="14">327</text>
+<rect x="180" y="132" width="35" height="24" fill="#4c72b0" rx="4" />
+<text x="223" y="148" font-size="14">347</text>
 <text x="10" y="182" font-size="14">Few Shot Segmentation</text>
 <rect x="180" y="166" width="30" height="24" fill="#4c72b0" rx="4" />
-<text x="218" y="182" font-size="14">296</text>
+<text x="218" y="182" font-size="14">299</text>
 <text x="10" y="216" font-size="14">Machine Unlearning</text>
 <rect x="180" y="200" width="13" height="24" fill="#4c72b0" rx="4" />
 <text x="201" y="216" font-size="14">134</text>
@@ -30,17 +30,17 @@ text { font-family: Times New Roman, sans-serif; }
 <rect x="180" y="302" width="5" height="24" fill="#4c72b0" rx="4" />
 <text x="193" y="318" font-size="14">56</text>
 <text x="10" y="352" font-size="14">Mamba Segmentation</text>
-<rect x="180" y="336" width="4" height="24" fill="#4c72b0" rx="4" />
-<text x="192" y="352" font-size="14">46</text>
+<rect x="180" y="336" width="5" height="24" fill="#4c72b0" rx="4" />
+<text x="193" y="352" font-size="14">50</text>
 <text x="10" y="386" font-size="14">Federated Unlearning</text>
-<rect x="180" y="370" width="3" height="24" fill="#4c72b0" rx="4" />
-<text x="191" y="386" font-size="14">29</text>
+<rect x="180" y="370" width="2" height="24" fill="#4c72b0" rx="4" />
+<text x="190" y="386" font-size="14">29</text>
 <text x="10" y="420" font-size="14">Explainability Transformers</text>
 <rect x="180" y="404" width="2" height="24" fill="#4c72b0" rx="4" />
 <text x="190" y="420" font-size="14">27</text>
 <text x="10" y="454" font-size="14">Prompt Injection Attack</text>
 <rect x="180" y="438" width="2" height="24" fill="#4c72b0" rx="4" />
-<text x="190" y="454" font-size="14">21</text>
+<text x="190" y="454" font-size="14">22</text>
 <text x="10" y="488" font-size="14">Privacy Backdoor Attack</text>
 <rect x="180" y="472" width="0" height="24" fill="#4c72b0" rx="4" />
 <text x="188" y="488" font-size="14">8</text>

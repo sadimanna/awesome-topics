@@ -97,6 +97,13 @@ permalink: /prompt-injection-attack/
 
 </details>
 
+<details markdown="1">
+<summary>ACM Multimedia</summary>
+
+  - [2025](#acm-multimedia-2025)
+
+</details>
+
 </details>
 
 
@@ -607,6 +614,38 @@ permalink: /prompt-injection-attack/
 <td>ICDM</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1109/ICDM59182.2024.00119">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## ACM Multimedia <a id="venue-acm multimedia"></a>
+
+<details>
+
+<summary>Expand ACM Multimedia</summary>
+
+<a id="acm multimedia-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Manipulating Multimodal Agents via Cross-Modal Prompt Injection.</td>
+<td>ACM Multimedia</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1145/3746027.3755211">Link</a></td>
 </tr>
 </tbody></table>
 
