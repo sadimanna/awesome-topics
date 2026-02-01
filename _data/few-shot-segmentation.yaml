@@ -1157,6 +1157,33 @@ WACV:
       year: 2021
       link: https://doi.org/10.1109/WACV48630.2021.00154
 ACM Multimedia:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MM-Prompt: Multi-modality and Multi-granularity Prompts for Few-Shot
+        Segmentation.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754967
+    - title: Textual and Visual Guided Task Adaptation for Source-Free Cross-Domain
+        Few-Shot Segmentation.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755772
+    - title: 'The Overlooked Matters: Revisiting Background, Prototype, and Activation
+        in Few-Shot Medical Image Segmentation.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754987
   '2024':
     header:
       title: Title

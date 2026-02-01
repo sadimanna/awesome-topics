@@ -6564,6 +6564,22 @@ ISCA:
       year: 2022
       link: https://doi.org/10.1145/3470496.3527438
 MLSys:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Seesaw: High-throughput LLM Inference via Model Re-sharding.'
+      venue: MLSys
+      year: 2025
+      link: https://openreview.net/forum?id=YDksTjY3YY
   '2024':
     header:
       title: Title
@@ -7270,6 +7286,42 @@ WOOT:
       year: 2008
       link: http://www.usenix.org/events/woot08/tech/full_papers/viide/viide.pdf
 ACM Multimedia:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'BOLT: Fewer Tokens but More Performance Retention for Efficient Vision-Language
+        Models Inference.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755305
+    - title: 'MQuant: Unleashing the Inference Potential of Multimodal Large Language
+        Models via Static Quantization.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755433
+    - title: Outlier-Aware Model Merging for Efficient Multitask Inference.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754894
+    - title: 'Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy
+        Preservation Ability of Large Vision-Language Models.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3758156
+    - title: 'Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment
+        for Real-Time Vision-Only Inference.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755115
   '2024':
     header:
       title: Title
@@ -9957,6 +10009,23 @@ IEEE Trans. Intell. Transp. Syst.:
       year: 2014
       link: https://doi.org/10.1109/TITS.2013.2282352
 IEEE Trans. Inf. Forensics Secur.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Practical Secure Inference Algorithm for a Fine-Tuned Large Language
+        Model Based on Fully Homomorphic Encryption.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3639994
   '2025':
     header:
       title: Title

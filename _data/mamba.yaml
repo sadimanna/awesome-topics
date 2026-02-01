@@ -35,6 +35,8 @@ section:
 - title: Expert Syst. Appl.
 - title: Neural Networks
 - title: Neurocomputing
+- title: IEEE Trans. Emerg. Top. Comput.
+- title: IEEE Trans. Intell. Transp. Syst.
 NeurIPS:
   '2024':
     header:
@@ -998,6 +1000,101 @@ DAC:
       year: 2018
       link: https://doi.org/10.1145/3195970.3196073
 ACM Multimedia:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'BiOMamba: Mamba-based Forward-Then-Backward Temporal Modeling for Online
+        Action Detection and Anticipation.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755847
+    - title: Cycle-Consistent Mamba-Based Registration-Fusion Joint Network for Unregistered
+        Hyperspectral Image Super-Resolution.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755406
+    - title: 'DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent
+        Lens Flare Removal.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755263
+    - title: 'EchoVim: Making Vision Mamba Docile for Echocardiography Video Segmentation
+        via Dynamic Interaction and Semantic Token-attentive Refinement.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754876
+    - title: 'LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for
+        RGB-D Salient Object Detection.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754863
+    - title: 'LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal
+        Segmentation of Structural Cracks.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755452
+    - title: Learning Long-Range Action Representation by Two-Stream Mamba Pyramid
+        Network for Figure Skating Assessment.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754702
+    - title: 'MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning
+        for Active Contour Optimization in Medical Image Segmentation.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755147
+    - title: Probabilistic Mixture of Hyperbolic Mamba for Few-Shot Class-Incremental
+        Learning.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755306
+    - title: 'Radar-Mamba: 4D Millimeter-Wave Point Cloud Enhancement via State Space
+        Models.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755431
+    - title: 'SAMVSR: Leveraging Semantic Priors to Zone-Focused Mamba for Video Snow
+        Removal.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754783
+    - title: 'SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical
+        Anomaly Detection.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755641
+    - title: Spatial-Frequency Mamba Collaborative Learning Network for Infrared Small
+        Target Detection.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754572
+    - title: 'UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via
+        Dynamic Tree Scan and Hidden State Weaken.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755131
+    - title: 'UMSD: High Realism Motion Style Transfer via Unified Mamba-based Diffusion.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754873
+    - title: 'VSumMamba: Mamba Empowered Efficient Video Summarization with Multi-Scale
+        Spatial-Temporal Modeling.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755644
+    - title: 'WMamba: Wavelet-based Mamba for Face Forgery Detection.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755592
   '2024':
     header:
       title: Title
@@ -1493,6 +1590,11 @@ Medical Image Anal.:
       year: 4
       link: 60
     body:
+    - title: Spatial-frequency dual-constrained Mamba diffusion model for cross-modal
+        generation from CFP to FFA.
+      venue: Medical Image Anal.
+      year: 2026
+      link: https://doi.org/10.1016/j.media.2025.103925
     - title: 'Switch-UMamba: Dynamic scanning vision Mamba UNet for medical image
         segmentation.'
       venue: Medical Image Anal.
@@ -2228,3 +2330,38 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2024
       link: https://doi.org/10.1016/j.neucom.2024.128104
+IEEE Trans. Emerg. Top. Comput.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GraphMamba: Graph Tokenization Mamba for Hyperspectral Image Classification.'
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2025
+      link: https://doi.org/10.1109/TETC.2025.3626943
+IEEE Trans. Intell. Transp. Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision
+        Driver Distraction Identification.'
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TITS.2025.3625645

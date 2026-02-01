@@ -11,6 +11,7 @@ section:
 - title: EMNLP
 - title: ICSE
 - title: ICDM
+- title: ACM Multimedia
 NeurIPS:
   '2024':
     header:
@@ -310,3 +311,20 @@ ICDM:
       venue: ICDM
       year: 2024
       link: https://doi.org/10.1109/ICDM59182.2024.00119
+ACM Multimedia:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Manipulating Multimodal Agents via Cross-Modal Prompt Injection.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755211

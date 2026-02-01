@@ -1946,6 +1946,32 @@ ECCV:
       year: 2008
       link: https://doi.org/10.1007/978-3-540-88682-2_27
 ACM Multimedia:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CapRecover: A Cross-Modality Feature Inversion Attack Framework on Vision
+        Language Models.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755203
+    - title: 'Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755220
+    - title: 'MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via
+        Gradient Decomposition.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3761986
   '2024':
     header:
       title: Title

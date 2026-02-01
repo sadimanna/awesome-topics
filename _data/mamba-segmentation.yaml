@@ -130,6 +130,38 @@ WACV:
       year: 2025
       link: https://doi.org/10.1109/WACV61041.2025.00176
 ACM Multimedia:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'EchoVim: Making Vision Mamba Docile for Echocardiography Video Segmentation
+        via Dynamic Interaction and Semantic Token-attentive Refinement.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754876
+    - title: 'LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal
+        Segmentation of Structural Cracks.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755452
+    - title: 'MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning
+        for Active Contour Optimization in Medical Image Segmentation.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755147
+    - title: 'UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via
+        Dynamic Tree Scan and Hidden State Weaken.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755131
   '2024':
     header:
       title: Title

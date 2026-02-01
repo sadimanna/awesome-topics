@@ -10756,6 +10756,31 @@ ISCA:
       year: 2024
       link: https://doi.org/10.1109/ISCA59077.2024.00071
 MLSys:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FLStore: Efficient Federated Learning Storage for non-training workloads.'
+      venue: MLSys
+      year: 2025
+      link: https://openreview.net/forum?id=OSmHZYq9Ez
+    - title: 'FedProphet: Memory-Efficient Federated Adversarial Training via Robust
+        and Consistent Cascade Learning.'
+      venue: MLSys
+      year: 2025
+      link: https://openreview.net/forum?id=NnmqHLjf0Y
+    - title: 'Photon: Federated LLM Pre-Training.'
+      venue: MLSys
+      year: 2025
+      link: https://openreview.net/forum?id=AQgYcfg5EI
   '2024':
     header:
       title: Title
@@ -11371,6 +11396,89 @@ CSET @ USENIX Security Symposium:
       year: 2019
       link: https://www.usenix.org/conference/cset19/presentation/crow
 ACM Multimedia:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Consistency of Local and Global Flatness for Federated Learning.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755226
+    - title: 'Discovering Maximum Frequency Consensus: Lightweight Federated Learning
+        for Medical Image Segmentation.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755528
+    - title: Diverse and Public Features Cooperation via Gradient Rectification for
+        Federated Prompt Learning.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755308
+    - title: 'DualFPT: Handling Data Heterogeneity in Federated Prompt Tuning from
+        both Generalized and Personalized Perspective.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754872
+    - title: 'DynFed: Adaptive Federated Learning via Quantization-Aware Knowledge
+        Distillation.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755451
+    - title: 'FORGET ME: Federated Unlearning for Face Generation Models.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754935
+    - title: 'FeatShield: Isolating Malicious Feature Extractors for Backdoor-Robust
+        Federated Learning.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755742
+    - title: 'FedAPT: Federated Adversarial Prompt Tuning for Vision-Language Models.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755387
+    - title: 'FedBAP: Backdoor Defense via Benign Adversarial Perturbation in Federated
+        Learning.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754814
+    - title: 'FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754587
+    - title: 'FedRog: Robust Federated Graph Classification for Strong Heterogeneity
+        and High-Noise Scenarios.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755358
+    - title: Federated Incomplete Multi-view Clustering with Individual Structure
+        Preservation and Central Representation Tensorization.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755799
+    - title: Multi-Width Neural Network-Assisted Hierarchical Federated Learning in
+        Heterogeneous Cloud-Edge-Device Computing.
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3754596
+    - title: 'Positive Style Accumulation: A Style Screening and Continuous Utilization
+        Framework for Federated DG-ReID.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755549
+    - title: 'PriCAF: Privacy-Preserving Contribution Assessment in Federated Learning
+        Before Model Training.'
+      venue: ACM Multimedia
+      year: 2025
+      link: https://doi.org/10.1145/3746027.3755825
   '2024':
     header:
       title: Title
@@ -15552,6 +15660,11 @@ IEEE Trans. Emerg. Top. Comput.:
       venue: IEEE Trans. Emerg. Top. Comput.
       year: 2025
       link: https://doi.org/10.1109/TETC.2024.3471458
+    - title: 'Asyn2F: An Asynchronous Federated Learning Framework With Bidirectional
+        Model Aggregation.'
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2025
+      link: https://doi.org/10.1109/TETC.2025.3609004
     - title: 'FedRDF: A Robust and Dynamic Aggregation Function Against Poisoning
         Attacks in Federated Learning.'
       venue: IEEE Trans. Emerg. Top. Comput.
@@ -15562,6 +15675,10 @@ IEEE Trans. Emerg. Top. Comput.:
       venue: IEEE Trans. Emerg. Top. Comput.
       year: 2025
       link: https://doi.org/10.1109/TETC.2024.3473911
+    - title: 'HIFLA: Hilbert-Inspired Federated Learning via Action Principles.'
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2025
+      link: https://doi.org/10.1109/TETC.2025.3629528
     - title: Incentive Mechanism Design for Hierarchical Federated Learning With Selfishness
         Queue Stability.
       venue: IEEE Trans. Emerg. Top. Comput.
@@ -16160,6 +16277,28 @@ IEEE Trans. Intell. Transp. Syst.:
       year: 2021
       link: https://doi.org/10.1109/TITS.2021.3056341
 IEEE Trans. Inf. Forensics Secur.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Practical Framework for Privacy-Preserving and Byzantine-Robust Federated
+        Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3642546
+    - title: 'chamaeleon: Backdoor Attacks Against Vertical Federated Learning for
+        Tabular Data.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3641050
   '2025':
     header:
       title: Title
@@ -19058,6 +19197,28 @@ IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
       year: 2009
       link: https://doi.org/10.1109/TCAD.2009.2014005
 IEEE Trans. Computers:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'S${}{2}$2FL: Toward Efficient and Accurate Heterogeneous Split Federated
+        Learning.'
+      venue: IEEE Trans. Computers
+      year: 2026
+      link: https://doi.org/10.1109/TC.2025.3626198
+    - title: Toward Personalized Federated Meta-Learning With Constrained Hypernetwork
+        on Non-IID Data.
+      venue: IEEE Trans. Computers
+      year: 2026
+      link: https://doi.org/10.1109/TC.2025.3625233
   '2025':
     header:
       title: Title
@@ -20740,6 +20901,11 @@ Inf. Sci.:
       year: 4
       link: 60
     body:
+    - title: A photon-limited federated learning framework for privacy-aware image
+        classification.
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123111
     - title: A verifiable privacy-preserving federated learning scheme based on homomorphic
         proxy re-encryption.
       venue: Inf. Sci.
@@ -22662,6 +22828,10 @@ Neurocomputing:
       year: 4
       link: 60
     body:
+    - title: Adaptive momentum enhanced second-order stochastic federated learning.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132628
     - title: An enhanced method for hierarchical federated learning based on privacy
         metric and adaptive differential privacy.
       venue: Neurocomputing
@@ -22677,11 +22847,21 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.131931
+    - title: Feature-driven layer specialization for label heterogeneous federated
+        learning.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132620
     - title: Federated intent-aware cross-domain recommendation via semantic alignment
         and collaborative enhancement.
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.132442
+    - title: 'PriFLRC: A secure multi-party computation-based privacy-enhanced federated
+        learning scheme resilient to collusion.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.132574
     - title: 'Towards one-shot federated learning: Advances, challenges, and future
         directions.'
       venue: Neurocomputing
