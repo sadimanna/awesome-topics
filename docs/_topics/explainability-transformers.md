@@ -122,6 +122,13 @@ permalink: /explainability-transformers/
 
 </details>
 
+<details markdown="1">
+<summary>EMNLP</summary>
+
+  - [2025](#emnlp-2025)
+
+</details>
+
 </details>
 
 
@@ -818,6 +825,38 @@ permalink: /explainability-transformers/
 <td>Comput. Vis. Image Underst.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.cviu.2025.104624">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## EMNLP <a id="venue-emnlp"></a>
+
+<details>
+
+<summary>Expand EMNLP</summary>
+
+<a id="emnlp-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Refining Attention for Explainable and Noise-Robust Fact-Checking with Transformers.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1295">Link</a></td>
 </tr>
 </tbody></table>
 

@@ -216,6 +216,7 @@ permalink: /few-shot-segmentation/
 <details markdown="1">
 <summary>Pattern Recognit. Lett.</summary>
 
+  - [2026](#pattern-recognit-lett-2026)
   - [2025](#pattern-recognit-lett-2025)
   - [2024](#pattern-recognit-lett-2024)
   - [2021](#pattern-recognit-lett-2021)
@@ -246,6 +247,7 @@ permalink: /few-shot-segmentation/
 <details markdown="1">
 <summary>Knowl. Based Syst.</summary>
 
+  - [2026](#knowl-based-syst-2026)
   - [2025](#knowl-based-syst-2025)
   - [2024](#knowl-based-syst-2024)
   - [2023](#knowl-based-syst-2023)
@@ -266,6 +268,7 @@ permalink: /few-shot-segmentation/
 <details markdown="1">
 <summary>Neural Networks</summary>
 
+  - [2026](#neural-networks-2026)
   - [2025](#neural-networks-2025)
   - [2021](#neural-networks-2021)
 
@@ -3279,6 +3282,30 @@ permalink: /few-shot-segmentation/
 
 <summary>Expand Pattern Recognit. Lett.</summary>
 
+<a id="pattern recognit. lett.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Leveraging language to generalize natural images to few-shot medical image segmentation.</td>
+<td>Pattern Recognit. Lett.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patrec.2026.01.009">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="pattern recognit. lett.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -3645,6 +3672,30 @@ permalink: /few-shot-segmentation/
 
 <summary>Expand Knowl. Based Syst.</summary>
 
+<a id="knowl. based syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>UDG-Prom: A unified dense-guided semantic prompting for cross-domain few-shot image segmentation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.115207">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="knowl. based syst.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -3924,6 +3975,30 @@ permalink: /few-shot-segmentation/
 <details>
 
 <summary>Expand Neural Networks</summary>
+
+<a id="neural networks-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Dynamic routing towards few-shot point cloud semantic segmentation.</td>
+<td>Neural Networks</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2025.108231">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="neural networks-2025"></a>
 <h3 class="year-heading">2025</h3>

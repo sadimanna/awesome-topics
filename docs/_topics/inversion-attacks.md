@@ -210,6 +210,7 @@ permalink: /inversion-attacks/
 <details markdown="1">
 <summary>EMNLP</summary>
 
+  - [2025](#emnlp-2025)
   - [2024](#emnlp-2024)
   - [2023](#emnlp-2023)
   - [2022](#emnlp-2022)
@@ -3689,6 +3690,42 @@ permalink: /inversion-attacks/
 <details>
 
 <summary>Expand EMNLP</summary>
+
+<a id="emnlp-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Investigating How Pre-training Data Leakage Affects Models&apos; Reproduction and Detection Capabilities.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1201">Link</a></td>
+</tr>
+<tr>
+<td>Reverse Prompt Engineering: A Zero-Shot, Genetic Algorithm Approach to Language Model Inversion.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1333">Link</a></td>
+</tr>
+<tr>
+<td>Semantic Inversion, Identical Replies: Revisiting Negation Blindness in Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1088">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="emnlp-2024"></a>
 <h3 class="year-heading">2024</h3>

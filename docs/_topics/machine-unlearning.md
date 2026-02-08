@@ -136,6 +136,7 @@ permalink: /machine-unlearning/
 <details markdown="1">
 <summary>EMNLP</summary>
 
+  - [2025](#emnlp-2025)
   - [2024](#emnlp-2024)
 
 </details>
@@ -1561,6 +1562,30 @@ permalink: /machine-unlearning/
 <details>
 
 <summary>Expand EMNLP</summary>
+
+<a id="emnlp-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.183">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="emnlp-2024"></a>
 <h3 class="year-heading">2024</h3>

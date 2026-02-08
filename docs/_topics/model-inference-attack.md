@@ -302,6 +302,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>EMNLP</summary>
 
+  - [2025](#emnlp-2025)
   - [2024](#emnlp-2024)
   - [2023](#emnlp-2023)
   - [2022](#emnlp-2022)
@@ -921,6 +922,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</summary>
 
+  - [2026](#ieee-trans-comput-aided-des-integr-circuits-syst-2026)
   - [2024](#ieee-trans-comput-aided-des-integr-circuits-syst-2024)
   - [2023](#ieee-trans-comput-aided-des-integr-circuits-syst-2023)
   - [2020](#ieee-trans-comput-aided-des-integr-circuits-syst-2020)
@@ -995,6 +997,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>Knowl. Based Syst.</summary>
 
+  - [2026](#knowl-based-syst-2026)
   - [2025](#knowl-based-syst-2025)
   - [2024](#knowl-based-syst-2024)
   - [2023](#knowl-based-syst-2023)
@@ -1070,6 +1073,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>Neural Networks</summary>
 
+  - [2026](#neural-networks-2026)
   - [2025](#neural-networks-2025)
   - [2024](#neural-networks-2024)
   - [2023](#neural-networks-2023)
@@ -1969,6 +1973,12 @@ permalink: /model-inference-attack/
 <td>ICML</td>
 <td>2025</td>
 <td><a href="https://openreview.net/forum?id=5OLRHkzTYk">Link</a></td>
+</tr>
+<tr>
+<td>Position: Probabilistic Modelling is Sufficient for Causal Inference.</td>
+<td>ICML</td>
+<td>2025</td>
+<td><a href="https://proceedings.mlr.press/v267/mlodozeniec25a.html">Link</a></td>
 </tr>
 <tr>
 <td>Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization.</td>
@@ -8471,6 +8481,96 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand EMNLP</summary>
+
+<a id="emnlp-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1263">Link</a></td>
+</tr>
+<tr>
+<td>Context-Aware Membership Inference Attacks against Pre-trained Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.370">Link</a></td>
+</tr>
+<tr>
+<td>Detecting Knowledge Boundary of Vision Large Language Models by Sampling-Based Inference.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1458">Link</a></td>
+</tr>
+<tr>
+<td>EcoTune: Token-Efficient Multi-Fidelity Hyperparameter Optimization for Large Language Model Inference.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.394">Link</a></td>
+</tr>
+<tr>
+<td>Identifying Unlearned Data in LLMs via Membership Inference Attacks.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.551">Link</a></td>
+</tr>
+<tr>
+<td>Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.901">Link</a></td>
+</tr>
+<tr>
+<td>SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1306">Link</a></td>
+</tr>
+<tr>
+<td>The discordance between embedded ethics and cultural inference in large language models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.743">Link</a></td>
+</tr>
+<tr>
+<td>Train It and Forget It: Merge Lists are Unnecessary for BPE Inference in Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1775">Link</a></td>
+</tr>
+<tr>
+<td>Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.155">Link</a></td>
+</tr>
+<tr>
+<td>Unilaw-R1: A Large Language Model for Legal Reasoning with Reinforcement Learning and Iterative Inference.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.915">Link</a></td>
+</tr>
+<tr>
+<td>Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.98">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="emnlp-2024"></a>
 <h3 class="year-heading">2024</h3>
@@ -16694,6 +16794,30 @@ permalink: /model-inference-attack/
 
 <summary>Expand IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</summary>
 
+<a id="ieee trans. comput. aided des. integr. circuits syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Paddle Lite on Zephyr: Deploying AI Models in RTOS for Inference Acceleration.</td>
+<td>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TCAD.2025.3581867">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. comput. aided des. integr. circuits syst.-2024"></a>
 <h3 class="year-heading">2024</h3>
 <table class="paper-table">
@@ -17275,6 +17399,30 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand Knowl. Based Syst.</summary>
+
+<a id="knowl. based syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Accelerating long-context inference of large language models via dynamic attention load balancing.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.115018">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="knowl. based syst.-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -18535,6 +18683,36 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand Neural Networks</summary>
+
+<a id="neural networks-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Deep belief Markov models for POMDP inference.</td>
+<td>Neural Networks</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2025.108386">Link</a></td>
+</tr>
+<tr>
+<td>fastiSSM: Fast inference of state space model with online model approximation in frequency-domain.</td>
+<td>Neural Networks</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2025.108459">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="neural networks-2025"></a>
 <h3 class="year-heading">2025</h3>

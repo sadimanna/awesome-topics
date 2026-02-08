@@ -55,6 +55,7 @@ permalink: /mamba-segmentation/
 <details markdown="1">
 <summary>IEEE Trans. Medical Imaging</summary>
 
+  - [2026](#ieee-trans-medical-imaging-2026)
   - [2025](#ieee-trans-medical-imaging-2025)
 
 </details>
@@ -409,6 +410,30 @@ permalink: /mamba-segmentation/
 
 <summary>Expand IEEE Trans. Medical Imaging</summary>
 
+<a id="ieee trans. medical imaging-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>SegMamba-V2: Long-Range Sequential Modeling Mamba for General 3-D Medical Image Segmentation.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TMI.2025.3589797">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. medical imaging-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -706,6 +731,18 @@ permalink: /mamba-segmentation/
 <td>Knowl. Based Syst.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.114949">Link</a></td>
+</tr>
+<tr>
+<td>Mul-VMamba: Multimodal semantic segmentation using selection-fusion-based vision-Mamba.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.115119">Link</a></td>
+</tr>
+<tr>
+<td>WMC-Net: Wavelet-enhanced mamba with contextual fusion network for medical image segmentation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2025.115134">Link</a></td>
 </tr>
 </tbody></table>
 

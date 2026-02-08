@@ -50,6 +50,7 @@ permalink: /l-l-m-unlearning/
 <details markdown="1">
 <summary>EMNLP</summary>
 
+  - [2025](#emnlp-2025)
   - [2024](#emnlp-2024)
   - [2023](#emnlp-2023)
 
@@ -635,6 +636,66 @@ permalink: /l-l-m-unlearning/
 <details>
 
 <summary>Expand EMNLP</summary>
+
+<a id="emnlp-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation and Optimization.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.452">Link</a></td>
+</tr>
+<tr>
+<td>Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1109">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Biases in Language Models via Bias Unlearning.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.208">Link</a></td>
+</tr>
+<tr>
+<td>OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.183">Link</a></td>
+</tr>
+<tr>
+<td>REVIVING YOUR MNEME: Predicting The Side Effects of LLM Unlearning and Fine-Tuning via Sparse Model Diffing.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1641">Link</a></td>
+</tr>
+<tr>
+<td>SEPS: A Separability Measure for Robust Unlearning in LLMs.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.283">Link</a></td>
+</tr>
+<tr>
+<td>SUA: Stealthy Multimodal Large Language Model Unlearning Attack.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.565">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="emnlp-2024"></a>
 <h3 class="year-heading">2024</h3>
