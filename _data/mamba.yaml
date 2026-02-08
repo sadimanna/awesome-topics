@@ -37,6 +37,7 @@ section:
 - title: Neurocomputing
 - title: IEEE Trans. Emerg. Top. Comput.
 - title: IEEE Trans. Intell. Transp. Syst.
+- title: IEEE Trans. Artif. Intell.
 NeurIPS:
   '2024':
     header:
@@ -800,6 +801,32 @@ ACL:
       year: 2025
       link: https://aclanthology.org/2025.acl-long.76/
 EMNLP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained
+        Environments.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.562
+    - title: Exploring the Limitations of Mamba in COPY and CoT Reasoning.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.634
+    - title: 'Recall with Reasoning: Chain-of-Thought Distillation for Mamba&apos;s
+        Long-Context Memory and Extrapolation.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.235
   '2024':
     header:
       title: Title
@@ -1272,6 +1299,23 @@ IEEE Trans. Image Process.:
       year: 2025
       link: https://doi.org/10.1109/TIP.2025.3637729
 IEEE Trans. Medical Imaging:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SegMamba-V2: Long-Range Sequential Modeling Mamba for General 3-D Medical
+        Image Segmentation.'
+      venue: IEEE Trans. Medical Imaging
+      year: 2026
+      link: https://doi.org/10.1109/TMI.2025.3589797
   '2025':
     header:
       title: Title
@@ -1480,6 +1524,10 @@ Pattern Recognit.:
       venue: Pattern Recognit.
       year: 2026
       link: https://doi.org/10.1016/j.patcog.2025.112725
+    - title: Global and local Mamba network for multi-modality medical image super-resolution.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2025.112888
     - title: 'GraphMamba: Graph-driven spatial order-aware Mamba for medical image
         segmentation.'
       venue: Pattern Recognit.
@@ -1489,6 +1537,11 @@ Pattern Recognit.:
       venue: Pattern Recognit.
       year: 2026
       link: https://doi.org/10.1016/j.patcog.2025.112457
+    - title: 'IHMambaSR: An importance-guided hierarchical mamba with dynamic prompt
+        for single image super-resolution.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2026.113057
     - title: 'MGCM: Multi-modal graph convolutional mamba for cancer survival prediction.'
       venue: Pattern Recognit.
       year: 2026
@@ -1708,16 +1761,46 @@ Knowl. Based Syst.:
       year: 4
       link: 60
     body:
+    - title: 'DSFMamba: Dual-state fusion mamba for long-short term motion-adaptive
+        streaming perception in autonomous driving.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115249
+    - title: 'FSMamba: A dual-expert architecture with fast global attention and local-enhanced
+        state-space mamba for time series forecasting.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115233
     - title: 'IA-MUNet: A knowledge-guided instance-aware mamba-UNet for efficient
         multiclass dental image segmentation.'
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.114949
+    - title: 'Mamba -GTC: Cross-view contrastive learning with state space modeling
+        for heterogeneous graph representation.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115161
     - title: 'Mamba2Diff: An enhanced diffusion framework for goal-conditioned imitation
         learning in robotic long-horizon action modeling.'
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.114990
+    - title: Mix-domain contrastive learning with Mamba generator for unpaired H&amp;E-to-IHC
+        stain translation.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115096
+    - title: 'Mul-VMamba: Multimodal semantic segmentation using selection-fusion-based
+        vision-Mamba.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115119
+    - title: 'WMC-Net: Wavelet-enhanced mamba with contextual fusion network for medical
+        image segmentation.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115134
   '2025':
     header:
       title: Title
@@ -2114,10 +2197,20 @@ Neural Networks:
       venue: Neural Networks
       year: 2026
       link: https://doi.org/10.1016/j.neunet.2025.108020
+    - title: 'LU-mamba: LiDAR upsampling via bidirectional state space modeling on
+        range images.'
+      venue: Neural Networks
+      year: 2026
+      link: https://doi.org/10.1016/j.neunet.2025.108480
     - title: 'MIIGAN: Mambas make strong GAN for infrared image generation.'
       venue: Neural Networks
       year: 2026
       link: https://doi.org/10.1016/j.neunet.2025.108021
+    - title: Repetitive contrastive learning enhances Mamba&apos;s selectivity in
+        time series prediction.
+      venue: Neural Networks
+      year: 2026
+      link: https://doi.org/10.1016/j.neunet.2025.108290
     - title: 'Semi-LLIE: Semi-supervised contrastive learning with Mamba-based low-light
         enhancement.'
       venue: Neural Networks
@@ -2166,6 +2259,10 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.131930
+    - title: 'FA-STTM: A hybrid Transformer-Mamba network for motor imagery EEG classification.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2025.132481
     - title: 'Li-MFNet: A lightweight multi-scale input Mamba fusion network for medical
         image segmentation.'
       venue: Neurocomputing
@@ -2365,3 +2462,21 @@ IEEE Trans. Intell. Transp. Syst.:
       venue: IEEE Trans. Intell. Transp. Syst.
       year: 2026
       link: https://doi.org/10.1109/TITS.2025.3625645
+IEEE Trans. Artif. Intell.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Spatio-Temporal Mamba Dynamic Graph Convolutional Recurrent Network for
+        Traffic Prediction.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TAI.2025.3571378

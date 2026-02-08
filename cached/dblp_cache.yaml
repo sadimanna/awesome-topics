@@ -2039,6 +2039,39 @@ model%20inversion%20venue%3AICML%3A:
 - *id146
 - *id147
 - *id148
+- author: Omri Ben Hemo, Alon Zolfi, Oryan Yehezkel, Omer Hofman, Roman Vainshtein,
+    Hisashi Kojima, Yuval Elovici, Asaf Shabtai
+  title: Gradient Inversion of Multimodal Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HemoZYHVKES25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/hemo25a.html
+  url: https://dblp.org/rec/conf/icml/HemoZYHVKES25
+- author: Yunhong Lu, Qichao Wang, Hengyuan Cao, Xiaoyin Xu, Min Zhang
+  title: Smoothed Preference Optimization via ReNoise Inversion for Aligning Diffusion
+    Models with Varied Human Preferences.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LuWCXZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/lu25l.html
+  url: https://dblp.org/rec/conf/icml/LuWCXZ25
+- author: Xuantong Liu, Tianyang Hu 0001, Wenjia Wang, Kenji Kawaguchi, Yuan Yao 0011
+  title: 'Referee Can Play: An Alternative Approach to Conditional Generation via
+    Model Inversion.'
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LiuHWK024
+  doi: ''
+  ee: https://openreview.net/forum?id=hZ0fWhgVch
+  url: https://dblp.org/rec/conf/icml/LiuHWK024
 model%20inversion%20venue%3AICLR%3A:
 - &id149
   author: Youngseok Kim 0002, Sunwook Hwang, Hyung-Sin Kim, Saewoong Bahk
@@ -2781,6 +2814,28 @@ model%20inversion%20venue%3AEMNLP%3A:
   url: https://dblp.org/rec/conf/emnlp/MahmudM24
 - *id200
 - *id201
+- author: Jinsung Kim, Seonmin Koo, Heuiseok Lim
+  title: 'Semantic Inversion, Identical Replies: Revisiting Negation Blindness in
+    Large Language Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/KimKL25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1088
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1088
+  url: https://dblp.org/rec/conf/emnlp/KimKL25
+- author: Hanqing Li, Diego Klabjan
+  title: 'Reverse Prompt Engineering: A Zero-Shot, Genetic Algorithm Approach to Language
+    Model Inversion.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiK25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1333
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1333
+  url: https://dblp.org/rec/conf/emnlp/LiK25
 model%20inversion%20venue%3ACOLING%3A:
 - &id202
   author: Ying Li 0125, Pascale Fung
@@ -3120,6 +3175,17 @@ gradient%20inversion%20venue%3AICML%3A:
   ee: https://openreview.net/forum?id=j4IELrBhoG
   url: https://dblp.org/rec/conf/icml/HemoZYHVKES25
 - *id226
+- author: Omri Ben Hemo, Alon Zolfi, Oryan Yehezkel, Omer Hofman, Roman Vainshtein,
+    Hisashi Kojima, Yuval Elovici, Asaf Shabtai
+  title: Gradient Inversion of Multimodal Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HemoZYHVKES25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/hemo25a.html
+  url: https://dblp.org/rec/conf/icml/HemoZYHVKES25
 gradient%20inversion%20venue%3AICLR%3A:
 - &id227
   author: Donghoon Kim, Minji Bae, Kyuhong Shim, Byonghyo Shim
@@ -5002,6 +5068,40 @@ federated%20venue%3AIJCAI%3A:
   doi: 10.24963/IJCAI.2022/273
   ee: https://doi.org/10.24963/ijcai.2022/273
   url: https://dblp.org/rec/conf/ijcai/Chen0YCDHC22
+- author: Peng Chen 0030, Haolong Xiang, Xin Du 0002, Xiaolong Xu 0001, Xuhao Jiang,
+    Zhihui Lu 0002, Jirui Yang, Qiang Duan 0002, Wanchun Dou
+  title: Universal Backdoor Defense via Label Consistency in Vertical Federated Learning.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenXD0J0YDD25
+  doi: 10.24963/IJCAI.2025/528
+  ee: https://doi.org/10.24963/ijcai.2025/528
+  url: https://dblp.org/rec/conf/ijcai/ChenXD0J0YDD25
+- author: Haiyang Chen, Xiaolong Xu 0001, Xiang Zhu, Xiaokang Zhou, Fei Dai 0002,
+    Yansong Gao 0001, Xiao Chen, Shuo Wang 0026, Hongsheng Hu
+  title: Where Does This Data Come From? Enhanced Source Inference Attacks in Federated
+    Learning.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenXZZDGCWH25
+  doi: 10.24963/IJCAI.2025/536
+  ee: https://doi.org/10.24963/ijcai.2025/536
+  url: https://dblp.org/rec/conf/ijcai/ChenXZZDGCWH25
+- author: Jirui Yang, Peng Chen 0030, Zhihui Lu 0002, Jianping Zeng 0002, Qiang Duan
+    0002, Xin Du 0002, Ruijun Deng
+  title: Backdoor Attack on Vertical Federated Graph Neural Network Learning.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/YangCLZDDD25
+  doi: 10.24963/IJCAI.2025/877
+  ee: https://doi.org/10.24963/ijcai.2025/877
+  url: https://dblp.org/rec/conf/ijcai/YangCLZDDD25
 federated%20venue%3AAAAI%3A:
 - &id368
   author: Xueyang Wu 0001, Hengguan Huang, Youlong Ding, Hao Wang 0014, Ye Wang 0007,
@@ -8312,6 +8412,59 @@ federated%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V39I16.33865
   ee: https://doi.org/10.1609/aaai.v39i16.33865
   url: https://dblp.org/rec/conf/aaai/GuoZC0RZQ25
+- author: Xiaobing Chen, Xiangwei Zhou, Songyang Zhang 0002, Mingxuan Sun 0001
+  title: 'DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChenZZS25
+  doi: 10.1609/AAAI.V39I15.33746
+  ee: https://doi.org/10.1609/aaai.v39i15.33746
+  url: https://dblp.org/rec/conf/aaai/ChenZZS25
+- author: Yujing Wang 0010, Hainan Zhang 0001, Sijia Wen, Wangjie Qiu, Binghui Guo
+  title: Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation
+    in Federated Learning.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangZWQG25
+  doi: 10.1609/AAAI.V39I24.34733
+  ee: https://doi.org/10.1609/aaai.v39i24.34733
+  url: https://dblp.org/rec/conf/aaai/WangZWQG25
+- author: Bo Yan 0005, Sihao He 0001, Cheng Yang 0002, Shang Liu 0001, Yang Cao 0011,
+    Chuan Shi 0001
+  title: Federated Graph Condensation with Information Bottleneck Principles.
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/YanHYLCS25
+  doi: 10.1609/AAAI.V39I12.33417
+  ee: https://doi.org/10.1609/aaai.v39i12.33417
+  url: https://dblp.org/rec/conf/aaai/YanHYLCS25
+- author: Jiayi Chen, Aidong Zhang 0001
+  title: On Disentanglement of Asymmetrical Knowledge Transfer for Modality-Task Agnostic
+    Federated Learning.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChenZ24
+  doi: 10.1609/AAAI.V38I10.29010
+  ee: https://doi.org/10.1609/aaai.v38i10.29010
+  url: https://dblp.org/rec/conf/aaai/ChenZ24
+- author: Jianhui Sun, Xidong Wu, Heng Huang, Aidong Zhang 0001
+  title: On the Role of Server Momentum in Federated Learning.
+  venue: AAAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/SunWHZ24
+  doi: 10.1609/AAAI.V38I13.29439
+  ee: https://doi.org/10.1609/aaai.v38i13.29439
+  url: https://dblp.org/rec/conf/aaai/SunWHZ24
 federated%20venue%3AAISTATS%3A:
 - &id618
   author: Safwan Labbi, Daniil Tiapkin, Lorenzo Mancini, Paul Mangold, Eric Moulines
@@ -9159,6 +9312,26 @@ federated%20venue%3AAISTATS%3A:
   doi: ''
   ee: https://proceedings.mlr.press/v238/huang24c.html
   url: https://dblp.org/rec/conf/aistats/HuangWLC24
+- author: Ethan Blaser, Chuanhao Li 0002, Hongning Wang
+  title: Federated Linear Contextual Bandits with Heterogeneous Clients.
+  venue: AISTATS
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aistats/BlaserLW24
+  doi: ''
+  ee: https://proceedings.mlr.press/v238/blaser24a.html
+  url: https://dblp.org/rec/conf/aistats/BlaserLW24
+- author: Chuanhao Li 0002, Hongning Wang
+  title: Asynchronous Upper Confidence Bound Algorithms for Federated Linear Bandits.
+  venue: AISTATS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aistats/LiW22
+  doi: ''
+  ee: https://proceedings.mlr.press/v151/li22e.html
+  url: https://dblp.org/rec/conf/aistats/LiW22
 federated%20streamid%3Aconf%2Falt%3A:
 - &id685
   author: Zachary Charles, Keith Rush
@@ -12166,6 +12339,57 @@ federated%20venue%3ANeurIPS%3A:
   doi: ''
   ee: http://papers.nips.cc/paper_files/paper/2024/hash/efd1e27afcb94addd03b9e14c8d9f78f-Abstract-Conference.html
   url: https://dblp.org/rec/conf/nips/Liao0ZY0WW0Z24
+- author: Lin Wang, Yongxin Guo 0001, Tao Lin 0004, Xiaoying Tang 0002
+  title: 'DELTA: Diverse Client Sampling for Fasting Federated Learning.'
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/WangGL023
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/949c57d30f8791e3ae42646081b3c102-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WangGL023
+- author: Zhepei Wei, Chuanhao Li 0002, Haifeng Xu, Hongning Wang
+  title: Incentivized Communication for Federated Bandits.
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/WeiLXW23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/aa61d142c0081a8259a6372a3bb0af2b-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WeiLXW23
+- author: Xidong Wu, Jianhui Sun, Zhengmian Hu, Junyi Li 0002, Aidong Zhang 0001,
+    Heng Huang
+  title: Federated Conditional Stochastic Optimization.
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/WuSHLZH23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/1229eaae5bf1db93e1e4c539258eb472-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WuSHLZH23
+- author: Xidong Wu, Jianhui Sun, Zhengmian Hu, Aidong Zhang 0001, Heng Huang
+  title: Solving a Class of Non-Convex Minimax Optimization in Federated Learning.
+  venue: NeurIPS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/WuSHZH23
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2023/hash/254009e8d528f98764a060e877a1b01c-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/WuSHZH23
+- author: Chuanhao Li 0002, Hongning Wang
+  title: Communication Efficient Federated Learning for Generalized Linear Bandits.
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/LiW22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/faa8be9311811ba7c36fa1ceec13b862-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/LiW22
 federated%20venue%3AICML%3A:
 - &id913
   author: Guan Huang 0004, Tao Shu
@@ -15236,6 +15460,739 @@ federated%20venue%3AICML%3A:
   doi: ''
   ee: https://proceedings.mlr.press/v162/honig22a.html
   url: https://dblp.org/rec/conf/icml/HonigZM22
+- author: Guan Huang 0004, Tao Shu
+  title: 'Federated Oriented Learning: A Practical One-Shot Personalized Federated
+    Learning Framework.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0004S25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/huang25ae.html
+  url: https://dblp.org/rec/conf/icml/0004S25
+- author: Terje Mildner, Oliver Hamelijnck, Paris Giampouras, Theodoros Damoulas
+  title: 'Federated Generalised Variational Inference: A Robust Probabilistic Federated
+    Learning Framework.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/MildnerHGD25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/mildner25a.html
+  url: https://dblp.org/rec/conf/icml/MildnerHGD25
+- author: Jiayuan Zhang 0001, Xuefeng Liu 0001, Jianwei Niu 0002, Shaojie Tang 0001,
+    Haotian Yang, Xinghao Wu
+  title: Causality Inspired Federated Learning for OOD Generalization.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0001000YW25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25ba.html
+  url: https://dblp.org/rec/conf/icml/0001000YW25
+- author: Xiaoli Tang 0001, Han Yu 0001, Zengxiang Li, Xiaoxiao Li
+  title: Multi-Session Budget Optimization for Forward Auction-based Federated Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/00010LL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/tang25m.html
+  url: https://dblp.org/rec/conf/icml/00010LL25
+- author: Shiwei Li 0002, Xiandi Luo, Haozhao Wang, Xing Tang 0007, Shijie Xu, Weihong
+    Luo, Yuhua Li 0003, Xiuqiang He 0001, Ruixuan Li 0001
+  title: The Panaceas for Improving Low-Rank Decomposition in Communication-Efficient
+    Federated Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0002LW0XL00025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/li25bn.html
+  url: https://dblp.org/rec/conf/icml/0002LW0XL00025
+- author: Amir Najafi 0002, Samin Mahdizadeh Sani, Farzan Farnia
+  title: Certifiably Robust Model Evaluation in Federated Learning under Meta-Distributional
+    Shifts.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0002SF25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/najafi25a.html
+  url: https://dblp.org/rec/conf/icml/0002SF25
+- author: Xinyue Chen 0004, Jinfeng Peng, Yuhao Li, Xiaorong Pu, Yang Yang 0002, Yazhou
+    Ren 0001
+  title: An Effective and Secure Federated Multi-View Clustering Method with Information-Theoretic
+    Perspective.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0004PLP0025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/chen25az.html
+  url: https://dblp.org/rec/conf/icml/0004PLP0025
+- author: Jingxin Liu 0006, Renda Han, Wenxuan Tu, Haotian Wang, Junlong Wu, Jieren
+    Cheng
+  title: Federated Node-Level Clustering Network with Cross-Subgraph Link Mending.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0006HTWWC25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/liu25v.html
+  url: https://dblp.org/rec/conf/icml/0006HTWWC25
+- author: Yichen Li 0006, Yuying Wang, Haozhao Wang, Yining Qi, Tianzhe Xiao, Ruixuan
+    Li 0001
+  title: 'FedSSI: Rehearsal-Free Continual Federated Learning with Synergistic Synaptic
+    Intelligence.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0006WWQX025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/li25cq.html
+  url: https://dblp.org/rec/conf/icml/0006WWQX025
+- author: Aayushya Agarwal, Gauri Joshi, Lawrence T. Pileggi
+  title: 'FedECADO: A Dynamical System Model of Federated Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/AgarwalJP25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/agarwal25c.html
+  url: https://dblp.org/rec/conf/icml/AgarwalJP25
+- author: Youssef Allouah, Rachid Guerraoui, John Stephan
+  title: Towards Trustworthy Federated Learning with Untrusted Participants.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/AllouahGS25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/allouah25a.html
+  url: https://dblp.org/rec/conf/icml/AllouahGS25
+- author: Alexander Bienstock, Ujjwal Kumar, Antigoni Polychroniadou
+  title: 'DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning
+    Based on Constant-Overhead Linear Secret Resharing.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/BienstockKP25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/bienstock25a.html
+  url: https://dblp.org/rec/conf/icml/BienstockKP25
+- author: Guoqing Chao, Zhenghao Zhang, Lei Meng, Jie Wen, Dianhui Chu
+  title: Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChaoZMWC25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/chao25a.html
+  url: https://dblp.org/rec/conf/icml/ChaoZMWC25
+- author: Mengmeng Chen, Xiaohu Wu, Qiqi Liu, Tiantian He 0001, Yew-Soon Ong, Yaochu
+    Jin, Qicheng Lao, Han Yu 0001
+  title: Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative
+    Federated Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChenWL0OJL025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/chen25br.html
+  url: https://dblp.org/rec/conf/icml/ChenWL0OJL025
+- author: Hongyao Chen, Tianyang Xu 0001, Xiaojun Wu 0001, Josef Kittler
+  title: 'Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation
+    in Federated Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChenX0K25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/chen25by.html
+  url: https://dblp.org/rec/conf/icml/ChenX0K25
+- author: Li Ding, Hao Zhang, Wenrui Dai, Chenglin Li, Weijia Lu, Zhifei Yang 0005,
+    Xiaodong Zhang, Xiaofeng Ma, Junni Zou, Hongkai Xiong
+  title: 'LBI-FL: Low-Bit Integerized Federated Learning with Temporally Dynamic Bit-Width
+    Allocation.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/DingZDLL0ZMZX25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/ding25e.html
+  url: https://dblp.org/rec/conf/icml/DingZDLL0ZMZX25
+- author: Chengying Fang, Wenke Huang 0003, Guancheng Wan, Yihao Yang, Mang Ye
+  title: 'FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Fang0WYY25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/fang25e.html
+  url: https://dblp.org/rec/conf/icml/Fang0WYY25
+- author: Vitaly Feldman, Audra McMillan, Guy N. Rothblum, Kunal Talwar
+  title: Local Pan-privacy for Federated Analytics.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/FeldmanMRT25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/feldman25a.html
+  url: https://dblp.org/rec/conf/icml/FeldmanMRT25
+- author: Lele Fu, Bowen Deng 0002, Sheng Huang, Tianchi Liao, Shirui Pan, Chuan Chen
+    0001
+  title: 'Less is More: Federated Graph Learning with Alleviating Topology Heterogeneity
+    from A Causal Perspective.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Fu0HLP025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/fu25a.html
+  url: https://dblp.org/rec/conf/icml/Fu0HLP025
+- author: Wenwen He, Wenke Huang 0003, Bin Yang 0026, Shukan Liu, Mang Ye
+  title: 'SPMC: Self-Purifying Federated Backdoor Defense via Margin Contribution.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/He00LY25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/he25f.html
+  url: https://dblp.org/rec/conf/icml/He00LY25
+- author: Charlie Hou, Mei-Yu Wang, Yige Zhu, Daniel Lazar, Giulia Fanti
+  title: Private Federated Learning using Preference-Optimized Synthetic Data.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HouWZLF25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/hou25g.html
+  url: https://dblp.org/rec/conf/icml/HouWZLF25
+- author: Won-Jun Jang, Hyeon-Seo Park, Si-Hyeon Lee
+  title: Provably Near-Optimal Federated Ensemble Distillation with Negligible Overhead.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/JangPL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/jang25b.html
+  url: https://dblp.org/rec/conf/icml/JangPL25
+- author: Xiaoqian Jiang, Jing Zhang
+  title: 'FedClean: A General Robust Label Noise Correction for Federated Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/JiangZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/jiang25m.html
+  url: https://dblp.org/rec/conf/icml/JiangZ25
+- author: Dongwon Kim, Donghee Kim, Sung Kuk Shyn, Kwangsu Kim
+  title: Federated Learning for Feature Generalization with Convex Constraints.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/KimKSK25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/kim25o.html
+  url: https://dblp.org/rec/conf/icml/KimKSK25
+- author: Yuecheng Li, Lele Fu, Tong Wang, Jian Lou 0001, Bin Chen 0011, Lei Yang
+    0030, Jian Shen, Zibin Zheng, Chuan Chen 0001
+  title: 'Clients Collaborate: Flexible Differentially Private Federated Learning
+    with Guaranteed Improvement of Utility-Privacy Trade-off.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LiFWL00SZ025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/li25n.html
+  url: https://dblp.org/rec/conf/icml/LiFWL00SZ025
+- author: Yuhang Li, Tong Liu 0001, Yangguang Cui, Ming Hu, Xiaoqiang Li 0002
+  title: 'One Arrow, Two Hawks: Sharpness-aware Minimization for Federated Learning
+    via Global Model Trajectory.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LiLCHL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/li25bd.html
+  url: https://dblp.org/rec/conf/icml/LiLCHL25
+- author: Xinting Liao, Weiming Liu 0005, Jiaming Qian, Pengyang Zhou, Jiahe Xu 0003,
+    Wenjie Wang 0007, Chaochao Chen 0001, Xiaolin Zheng, Tat-Seng Chua
+  title: 'FOCoOp: Enhancing Out-of-Distribution Robustness in Federated Prompt Learning
+    for Vision-Language Models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Liao0QZ0W0ZC25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/liao25e.html
+  url: https://dblp.org/rec/conf/icml/Liao0QZ0W0ZC25
+- author: Yangxu Liao, Wenke Huang 0003, Guancheng Wan, Jian Liang 0003, Bin Yang
+    0026, Mang Ye
+  title: Splitting with Importance-aware Updating for Heterogeneous Federated Learning
+    with Large Language Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Liao0W00Y25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/liao25c.html
+  url: https://dblp.org/rec/conf/icml/Liao0W00Y25
+- author: "Alessandro Licciardi, Davide Leo, Eros Fan\xEC, Barbara Caputo, Marco Ciccone"
+  title: Interaction-Aware Gaussian Weighting for Clustered Federated Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LicciardiLFCC25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/licciardi25a.html
+  url: https://dblp.org/rec/conf/icml/LicciardiLFCC25
+- author: Junkang Liu, Yuanyuan Liu 0001, Fanhua Shang, Hongying Liu 0001, Jin Liu,
+    Wei Feng 0005
+  title: Improving Generalization in Federated Learning with Highly Heterogeneous
+    Data via Momentum-Based Stochastic Controlled Weight Averaging.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Liu0S0L025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/liu25am.html
+  url: https://dblp.org/rec/conf/icml/Liu0S0L025
+- author: Suyuan Liu, Hao Yu 0017, Hao Tan, Ke Liang 0006, Siwei Wang 0001, Shengju
+    Yu, En Zhu, Xinwang Liu 0002
+  title: Efficient Federated Incomplete Multi-View Clustering.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Liu0T00YZ025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/liu25cq.html
+  url: https://dblp.org/rec/conf/icml/Liu0T00YZ025
+- author: Xinyi Lu, Hao Zhang, Chenglin Li, Weijia Lu, Zhifei Yang 0005, Wenrui Dai,
+    Xiaodong Zhang, Xiaofeng Ma, Can Zhang, Junni Zou, Hongkai Xiong
+  title: 'FedSMU: Communication-Efficient and Generalization-Enhanced Federated Learning
+    through Symbolic Model Updates.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LuZLL0DZMZZX25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/lu25u.html
+  url: https://dblp.org/rec/conf/icml/LuZLL0DZMZZX25
+- author: Peihua Mai, Youlong Ding, Ziyan Lyu, Minxin Du, Yan Pang
+  title: 'SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender
+    System with Large Embedding.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/MaiDLDP25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/mai25a.html
+  url: https://dblp.org/rec/conf/icml/MaiDLDP25
+- author: Aniket Murhekar, Jiaxin Song, Parnian Shahkar, Bhaskar Ray Chaudhury, Ruta
+    Mehta
+  title: 'You Get What You Give: Reciprocally Fair Federated Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/MurhekarSSCM25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/murhekar25a.html
+  url: https://dblp.org/rec/conf/icml/MurhekarSSCM25
+- author: Srijith Nair, Michael Lin, Peizhong Ju, Amirreza Talebi, Elizabeth Serena
+    Bentley, Jia Liu 0002
+  title: 'FSL-SAGE: Accelerating Federated Split Learning via Smashed Activation Gradient
+    Estimation.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/NairLJTB025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/nair25b.html
+  url: https://dblp.org/rec/conf/icml/NairLJTB025
+- author: Quan Minh Nguyen, Minh N. Vu, Truc Nguyen, My T. Thai
+  title: Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in
+    Federated Vision Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/NguyenVNT25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/nguyen25j.html
+  url: https://dblp.org/rec/conf/icml/NguyenVNT25
+- author: Lang Pu, Jingjing Gu, Chao Lin 0003, Xinyi Huang 0001
+  title: 'Janus: Dual-Server Multi-Round Secure Aggregation with Verifiability for
+    Federated Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/PuGL025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/pu25a.html
+  url: https://dblp.org/rec/conf/icml/PuGL025
+- author: Fan Qi, Daxu Shi, Chuokun Xu, Shuai Li, Changsheng Xu
+  title: Rethinking the Temperature for Federated Heterogeneous Distillation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/QiSXLX25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/qi25a.html
+  url: https://dblp.org/rec/conf/icml/QiSXLX25
+- author: Jiaru Qian, Guancheng Wan, Wenke Huang 0003, Guibin Zhang, Yuxin Wu, Bo
+    Du 0001, Mang Ye
+  title: 'GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based
+    Topology Knowledge Retention.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/QianW0ZW0Y25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/qian25a.html
+  url: https://dblp.org/rec/conf/icml/QianW0ZW0Y25
+- author: Roie Reshef, Kfir Yehuda Levy
+  title: 'Privacy-Preserving Federated Convex Optimization: Balancing Partial-Participation
+    and Efficiency via Noise Cancellation.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ReshefL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/reshef25a.html
+  url: https://dblp.org/rec/conf/icml/ReshefL25
+- author: Xuankun Rong, Jianshu Zhang 0003, Kun He, Mang Ye
+  title: 'CAN: Leveraging Clients As Navigators for Generative Replay in Federated
+    Continual Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Rong0HY25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/rong25a.html
+  url: https://dblp.org/rec/conf/icml/Rong0HY25
+- author: Jonathan Scott, Christoph H. Lampert, David Saulpic
+  title: Differentially Private Federated k-Means Clustering with Server-Side Data.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ScottLS25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/scott25a.html
+  url: https://dblp.org/rec/conf/icml/ScottLS25
+- author: Zitong Shi, Guancheng Wan, Wenke Huang 0003, Guibin Zhang, He Li 0054, Carl
+    Yang 0001, Mang Ye
+  title: 'EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning
+    via Unified Sparsification.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ShiW0Z00Y25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/shi25j.html
+  url: https://dblp.org/rec/conf/icml/ShiW0Z00Y25
+- author: Supratim Shit, Gurmehak Kaur Chadha, Surendra Kumar, Bapi Chatterjee
+  title: 'Improved Coresets for Vertical Federated Learning: Regularized Linear and
+    Logistic Regressions.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ShitCKC25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/shit25a.html
+  url: https://dblp.org/rec/conf/icml/ShitCKC25
+- author: Yao Shu, Wenyang Hu, See-Kiong Ng, Bryan Kian Hsiang Low, Fei Richard Yu
+  title: 'Ferret: Federated Full-Parameter Tuning at Scale for Large Language Models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ShuHNLY25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/shu25a.html
+  url: https://dblp.org/rec/conf/icml/ShuHNLY25
+- author: Ankit Pratap Singh, Ahmed Ali Abbasi, Namrata Vaswani
+  title: Byzantine-Resilient Federated Alternating Gradient Descent and Minimization
+    for Partly-Decoupled Low Rank Matrix Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/SinghAV25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/singh25a.html
+  url: https://dblp.org/rec/conf/icml/SinghAV25
+- author: Jacopo Talpini, Marco Savi, Giovanni Neglia
+  title: 'FedBEns: One-Shot Federated Learning based on Bayesian Ensemble.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/TalpiniSN25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/talpini25a.html
+  url: https://dblp.org/rec/conf/icml/TalpiniSN25
+- author: Zihan Tan, Suyuan Huang 0003, Guancheng Wan, Wenke Huang 0003, He Li 0054,
+    Mang Ye
+  title: 'S2FGL: Spatial Spectral Federated Graph Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Tan0W00Y25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/tan25d.html
+  url: https://dblp.org/rec/conf/icml/Tan0W00Y25
+- author: Ying-Peng Tang, Chao Ren 0006, Xiaoli Tang 0001, Sheng-Jun Huang, Lizhen
+    Cui, Han Yu 0001
+  title: Efficient Heterogeneity-Aware Federated Active Data Selection.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Tang00HC025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/tang25i.html
+  url: https://dblp.org/rec/conf/icml/Tang00HC025
+- author: Mahendra Singh Thapa, Rui Li
+  title: Harnessing Heterogeneous Statistical Strength for Personalized Federated
+    Learning via Hierarchical Bayesian Inference.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ThapaL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/thapa25a.html
+  url: https://dblp.org/rec/conf/icml/ThapaL25
+- author: Gabriel Thompson, Kai Yue, Chau-Wai Wong, Huaiyu Dai
+  title: 'NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings
+    via Neural Tangent Kernel.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ThompsonYWD25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/thompson25a.html
+  url: https://dblp.org/rec/conf/icml/ThompsonYWD25
+- author: Yunxia Wang, Fuyuan Cao, Kui Yu, Jiye Liang
+  title: Federated Causal Structure Learning with Non-identical Variable Sets.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangCYL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25j.html
+  url: https://dblp.org/rec/conf/icml/WangCYL25
+- author: Ganyu Wang, Jinjie Fang, Maxwell J. Yin, Bin Gu 0001, Xi Chen 0009, Boyu
+    Wang 0004, Yi Chang 0001, Charles Ling 0001
+  title: 'FedOne: Query-Efficient Federated Learning for Black-box Discrete Prompt
+    Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangFY0000025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25ab.html
+  url: https://dblp.org/rec/conf/icml/WangFY0000025
+- author: Ziqiao Wang, Cheng Long, Yongyi Mao
+  title: 'Generalization in Federated Learning: A Conditional Mutual Information Framework.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangLM25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25bs.html
+  url: https://dblp.org/rec/conf/icml/WangLM25
+- author: Jiaqi Wang 0002, Jingtao Li, Weiming Zhuang, Chen Chen 0043, Lingjuan Lyu,
+    Fenglong Ma
+  title: Enhancing Foundation Models with Federated Domain Knowledge Infusion.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangLZ0LM25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25bk.html
+  url: https://dblp.org/rec/conf/icml/WangLZ0LM25
+- author: Ruhan Wang, Zhiyong Wang, Chengkai Huang, Rui Wang, Tong Yu 0001, Lina Yao
+    0001, John C. S. Lui, Dongruo Zhou
+  title: 'Federated In-Context Learning: Iterative Refinement for Improved Answer
+    Quality.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangWHW00LZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25db.html
+  url: https://dblp.org/rec/conf/icml/WangWHW00LZ25
+- author: Haozhao Wang, Shengyu Wang, Jiaming Li, Hao Ren 0001, Xingshuo Han, Wenchao
+    Xu 0001, Shangwei Guo, Tianwei Zhang 0004, Ruixuan Li 0001
+  title: 'BSemiFL: Semi-supervised Federated Learning via a Bayesian Approach.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangWL0H0G0025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25dc.html
+  url: https://dblp.org/rec/conf/icml/WangWL0H0G0025
+- author: Wenjing Yan, Xiangyu Zhong, Xiaolu Wang, Ying-Jun Angela Zhang
+  title: 'Momentum-Driven Adaptivity: Towards Tuning-Free Asynchronous Federated Learning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YanZWZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/yan25f.html
+  url: https://dblp.org/rec/conf/icml/YanZWZ25
+- author: Yihao Yang, Wenke Huang 0003, Guancheng Wan, Bin Yang 0026, Mang Ye
+  title: Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic
+    Adaptation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YangHW0Y25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/yang25k.html
+  url: https://dblp.org/rec/conf/icml/YangHW0Y25
+- author: Mingzhao Yang, Shangchao Su, Bin Li 0015, Xiangyang Xue 0001
+  title: One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion
+    Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YangS0025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/yang25ad.html
+  url: https://dblp.org/rec/conf/icml/YangS0025
+- author: Xin Yu, Zelin He, Ying Sun, Lingzhou Xue, Runze Li
+  title: Understanding the Statistical Accuracy-Communication Trade-off in Personalized
+    Federated Learning with Minimax Guarantees.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YuHSXL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/yu25h.html
+  url: https://dblp.org/rec/conf/icml/YuHSXL25
+- author: Hui Zeng, Wenke Huang 0003, Tongqing Zhou, Xinyi Wu, Guancheng Wan, Yingwen
+    Chen 0001, Zhiping Cai
+  title: Does One-shot Give the Best Shot? Mitigating Model Inconsistency in One-shot
+    Federated Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZengHZWW0C25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zeng25c.html
+  url: https://dblp.org/rec/conf/icml/ZengHZWW0C25
+- author: Tianyi Zhang, Yu Cao 0001, Dianbo Liu
+  title: Uncertainty-Based Extensible Codebook for Discrete Federated Learning in
+    Heterogeneous Data Silos.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Zhang0L25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25f.html
+  url: https://dblp.org/rec/conf/icml/Zhang0L25
+- author: Haochen Zhang, Zhong Zheng, Lingzhou Xue
+  title: Gap-Dependent Bounds for Federated Q-Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhangZX25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25dl.html
+  url: https://dblp.org/rec/conf/icml/ZhangZX25
+- author: Jiayi Chen, Aidong Zhang 0001
+  title: 'FedMBridge: Bridgeable Multimodal Federated Learning.'
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChenZ24
+  doi: ''
+  ee: https://openreview.net/forum?id=jrHUbftLd6
+  url: https://dblp.org/rec/conf/icml/ChenZ24
+- author: Yongxin Guo 0001, Xiaoying Tang 0002, Tao Lin 0004
+  title: 'FedRC: Tackling Diverse Distribution Shifts Challenge in Federated Learning
+    by Robust Clustering.'
+  venue: ICML
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/GuoTL24
+  doi: ''
+  ee: https://openreview.net/forum?id=kc4dZYJlJG
+  url: https://dblp.org/rec/conf/icml/GuoTL24
+- author: Yongxin Guo 0001, Xiaoying Tang 0002, Tao Lin 0004
+  title: 'FedBR: Improving Federated Learning on Heterogeneous Data via Local Learning
+    Bias Reduction.'
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Guo0L23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/guo23g.html
+  url: https://dblp.org/rec/conf/icml/Guo0L23
 federated%20venue%3AICLR%3A:
 - &id1150
   author: Jingyuan Zhang, Yiyang Duan, Shuaicheng Niu, Yang Cao 0011, Wei Yang Bryan
@@ -17369,6 +18326,37 @@ federated%20venue%3AICLR%3A:
   doi: ''
   ee: https://openreview.net/forum?id=iX3uESGdsO
   url: https://dblp.org/rec/conf/iclr/GuoZWFWQ25
+- author: Yongxin Guo 0001, Xiaoying Tang 0002, Tao Lin 0004
+  title: 'Enhancing Clustered Federated Learning: Integration of Strategies and Improved
+    Methodologies.'
+  venue: ICLR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/Guo0L25
+  doi: ''
+  ee: https://openreview.net/forum?id=zPDpdk3V8L
+  url: https://dblp.org/rec/conf/iclr/Guo0L25
+- author: Chuanhao Li 0002, Chong Liu 0007, Yu-Xiang Wang 0003
+  title: Communication-Efficient Federated Non-Linear Bandit Optimization.
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/LiLW24
+  doi: ''
+  ee: https://openreview.net/forum?id=nFI3wFM9yN
+  url: https://dblp.org/rec/conf/iclr/LiLW24
+- author: Zhepei Wei, Chuanhao Li 0002, Tianze Ren, Haifeng Xu, Hongning Wang
+  title: Incentivized Truthful Communication for Federated Bandits.
+  venue: ICLR
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/iclr/WeiLRXW24
+  doi: ''
+  ee: https://openreview.net/forum?id=ykEixGIJYb
+  url: https://dblp.org/rec/conf/iclr/WeiLRXW24
 federated%20venue%3ACOLT%3A:
 - &id1315
   author: Xuyang Zhao, Huiyuan Wang, Wei Lin
@@ -17722,6 +18710,17 @@ federated%20venue%3AUAI%3A:
 - *id1340
 - *id1341
 - *id1342
+- author: Zichen Wang, Chuanhao Li 0002, Chenyu Song, Lianghui Wang, Quanquan Gu,
+    Huazheng Wang
+  title: Pure Exploration in Asynchronous Federated Bandits.
+  venue: UAI
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uai/WangLSWGW24
+  doi: ''
+  ee: https://proceedings.mlr.press/v244/wang24c.html
+  url: https://dblp.org/rec/conf/uai/WangLSWGW24
 federated%20streamid%3Ajournals%2Fml%3A:
 - &id1343
   author: Shuo Chen, Tanping Zhou, Huiyu Xie, Weidong Du, Xiaoyuan Yang 0002
@@ -19722,6 +20721,51 @@ federated%20venue%3AKDD%3A:
   doi: 10.1145/3711896.3736825
   ee: https://doi.org/10.1145/3711896.3736825
   url: https://dblp.org/rec/conf/kdd/BaiS0S0000025
+- author: Xiong Wang 0006, Yi Zhang 0004, Yuxin Chen, Yuqing Li 0001, Chuanhu Ma,
+    Bo Li 0001, Hai Jin 0001
+  title: Runtime-Aware Pipeline for Vertical Federated Learning with Bounded Model
+    Staleness.
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/WangZCLML025
+  doi: 10.1145/3690624.3709243
+  ee: https://doi.org/10.1145/3690624.3709243
+  url: https://dblp.org/rec/conf/kdd/WangZCLML025
+- author: Jianqing Zhang, Xinghao Wu, Yanbing Zhou, Xiaoting Sun, Qiqi Cai, Yang Liu
+    0165, Yang Hua 0001, Zhenzhe Zheng 0001, Jian Cao 0001, Qiang Yang 0001
+  title: 'HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark.'
+  venue: KDD
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/ZhangWZSC00Z0025
+  doi: 10.1145/3711896.3737379
+  ee: https://doi.org/10.1145/3711896.3737379
+  url: https://dblp.org/rec/conf/kdd/ZhangWZSC00Z0025
+- author: Yidan Xing 0001, Zhenzhe Zheng 0001, Fan Wu 0006
+  title: Preventing Strategic Behaviors in Collaborative Inference for Vertical Federated
+    Learning.
+  venue: KDD
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/XingZ024
+  doi: 10.1145/3637528.3671663
+  ee: https://doi.org/10.1145/3637528.3671663
+  url: https://dblp.org/rec/conf/kdd/XingZ024
+- author: Jiayi Chen, Aidong Zhang 0001
+  title: 'FedMSplit: Correlation-Adaptive Federated Multi-Task Learning across Multimodal
+    Split Networks.'
+  venue: KDD
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/kdd/ChenZ22
+  doi: 10.1145/3534678.3539384
+  ee: https://doi.org/10.1145/3534678.3539384
+  url: https://dblp.org/rec/conf/kdd/ChenZ22
 federated%20venue%3AWSDM%3A:
 - &id1490
   author: Yue Ding 0001, Yanbiao Ji, Xun Cai, Xin Xin 0003, Yuxiang Lu, Suizhi Huang,
@@ -22560,6 +23604,16 @@ federated%20venue%3ACVPR%3A:
   doi: 10.1109/CVPR52733.2024.01173
   ee: https://doi.org/10.1109/CVPR52733.2024.01173
   url: https://dblp.org/rec/conf/cvpr/GaoLZZ0H24
+- author: Ye Li 0041, Yanchao Zhao, Chengcheng Zhu, Jiale Zhang 0001
+  title: 'Infighting in the Dark: Multi-Label Backdoor Attack in Federated Learning.'
+  venue: CVPR
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cvpr/LiZZZ25
+  doi: 10.1109/CVPR52734.2025.02400
+  ee: https://openaccess.thecvf.com/content/CVPR2025/html/Li_Infighting_in_the_Dark_Multi-Label_Backdoor_Attack_in_Federated_Learning_CVPR_2025_paper.html
+  url: https://dblp.org/rec/conf/cvpr/LiZZZ25
 federated%20venue%3AICCV%3A:
 - &id1703
   author: Sungwon Han 0001, Sungwon Park 0001, Fangzhao Wu, Sundong Kim, Bin Zhu 0008,
@@ -24185,6 +25239,18 @@ federated%20streamid%3Aconf%2Fmm%3A:
   doi: 10.1145/3746027.3754587
   ee: https://doi.org/10.1145/3746027.3754587
   url: https://dblp.org/rec/conf/mm/ZhengYXJTQR25
+- author: Xinhai Yan, Libing Wu, Zhuangzhuang Zhang, Bingyi Liu, Lijuan Huo, Jing
+    Wang 0036
+  title: 'FedBAP: Backdoor Defense via Benign Adversarial Perturbation in Federated
+    Learning.'
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/YanWZLHW25
+  doi: 10.1145/3746027.3754814
+  ee: https://doi.org/10.1145/3746027.3754814
+  url: https://dblp.org/rec/conf/mm/YanWZLHW25
 federated%20streamid%3Ajournals%2Fijcv%3A:
 - &id1812
   author: Qiushi Yang, Zhen Chen 0013, Zhe Peng, Yixuan Yuan
@@ -24857,6 +25923,74 @@ federated%20venue%3AEMNLP%3A:
 - *id1860
 - *id1861
 - *id1862
+- author: Tao Fan 0002, Guoqiang Ma, Yuanfeng Song, Lixin Fan, Qiang Yang 0001
+  title: 'PPC-GPT: Federated Task-Specific Compression of Large Language Models via
+    Pruning and Chain-of-Thought Distillation.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/FanMSFY25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.747
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.747
+  url: https://dblp.org/rec/conf/emnlp/FanMSFY25
+- author: Min Hyuk Kim, Changheon Kim, Seok Bong Yoo
+  title: 'X-FLoRA: Cross-modal Federated Learning with Modality-expert LoRA for Medical
+    VQA.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/KimKY25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.422
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.422
+  url: https://dblp.org/rec/conf/emnlp/KimKY25
+- author: Jiaxin Li, Geng Zhao, Xiaoci Zhang
+  title: Multilingual Federated Low-Rank Adaptation for Collaborative Content Anomaly
+    Detection across Multilingual Social Media Participants.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiZZ25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.770
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.770
+  url: https://dblp.org/rec/conf/emnlp/LiZZ25
+- author: Han Liu, Ruoyao Wen, Srijith Nair, Jia Liu 0002, Wenjing Lou, Chongjie Zhang,
+    William Yeoh 0001, Yevgeniy Vorobeychik, Ning Zhang 0017
+  title: 'EcoLoRA: Communication-Efficient Federated Fine-Tuning of Large Language
+    Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiuWNLLZYVZ25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1046
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1046
+  url: https://dblp.org/rec/conf/emnlp/LiuWNLLZYVZ25
+- author: Zhanming Shen, Tianqi Xu, Hao Wang, Jian Li, Miao Pan
+  title: 'pFedGPT: Hierarchically Optimizing LoRA Aggregation Weights for Personalized
+    Federated GPT Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ShenXWLP25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.239
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.239
+  url: https://dblp.org/rec/conf/emnlp/ShenXWLP25
+- author: Jiaying Zheng, Hainan Zhang 0001, Lingxiang Wang, Wangjie Qiu, Hong-Wei
+    Zheng, Zhi Ming Zheng
+  title: 'Safely Learning with Private Data: A Federated Learning Framework for Large
+    Language Model.'
+  venue: EMNLP
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ZhengZWQZZ24
+  doi: 10.18653/V1/2024.EMNLP-MAIN.303
+  ee: https://doi.org/10.18653/v1/2024.emnlp-main.303
+  url: https://dblp.org/rec/conf/emnlp/ZhengZWQZZ24
 federated%20venue%3ACOLING%3A:
 - &id1863
   author: Ying Gao 0006, Yuxin Xie 0002, Huanghao Deng, Zukun Zhu
@@ -28520,6 +29654,41 @@ federated%20venue%3AINFOCOM%3A:
   doi: 10.1109/INFOCOM55648.2025.11044743
   ee: https://doi.org/10.1109/INFOCOM55648.2025.11044743
   url: https://dblp.org/rec/conf/infocom/WangZ00LYQ25
+- author: Nan Yan 0001, Yuqing Li 0001, Jing Chen 0003, Xiong Wang 0006, Jianan Hong,
+    Kun He 0008, Wei Wang 0030
+  title: Efficient and Straggler-Resistant Homomorphic Encryption for Heterogeneous
+    Federated Learning.
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/YanL0WH0W24
+  doi: 10.1109/INFOCOM52122.2024.10621440
+  ee: https://doi.org/10.1109/INFOCOM52122.2024.10621440
+  url: https://dblp.org/rec/conf/infocom/YanL0WH0W24
+- author: Yuchuan Ye, Youjia Chen, Junnan Yang, Ming Ding 0001, Peng Cheng 0002, Jinsong
+    Hu 0001, Haifeng Zheng
+  title: Wireless Hierarchical Federated Aggregation Weights Design with Loss-Based-Heterogeneity.
+  venue: INFOCOM
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/YeCY00HZ24
+  doi: 10.1109/INFOCOMWKSHPS61880.2024.10620731
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS61880.2024.10620731
+  url: https://dblp.org/rec/conf/infocom/YeCY00HZ24
+- author: Xiong Wang 0006, Yuxin Chen, Yuqing Li 0001, Xiaofei Liao, Hai Jin 0001,
+    Bo Li 0001
+  title: 'FedMoS: Taming Client Drift in Federated Learning with Double Momentum and
+    Adaptive Selection.'
+  venue: INFOCOM
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/WangCLLJL23
+  doi: 10.1109/INFOCOM53939.2023.10228957
+  ee: https://doi.org/10.1109/INFOCOM53939.2023.10228957
+  url: https://dblp.org/rec/conf/infocom/WangCLLJL23
 federated%20venue%3AMobiCom%3A:
 - &id2141
   author: Yiming Li, Jingwei Sun 0002, Yudong Liu, Yuandong Zhang, Ang Li 0005, Beidi
@@ -28829,6 +29998,18 @@ federated%20venue%3AMobiCom%3A:
   doi: 10.1145/3680207.3765661
   ee: https://doi.org/10.1145/3680207.3765661
   url: https://dblp.org/rec/conf/mobicom/XingD0H25
+- author: Zhidu Li, Dongsheng Luo, Qing Xue, Yue Tian 0001, Zhengwei Ni, Mingliang
+    Deng
+  title: 'Poster: FedFNS: A Robust Federated Learning Method for Data Shift over Unreliable
+    Communication Links.'
+  venue: MobiCom
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mobicom/LiLXTND25
+  doi: 10.1145/3680207.3765674
+  ee: https://doi.org/10.1145/3680207.3765674
+  url: https://dblp.org/rec/conf/mobicom/LiLXTND25
 federated%20venue%3ANSDI%3A:
 - &id2160
   author: Harish Srinivas, Graham Cormode, Mehrdad Honarkhah, Samuel Lurye, Jonathan
@@ -30232,6 +31413,40 @@ federated%20venue%3AWWW%3A:
   doi: 10.1145/3543507.3583359
   ee: https://doi.org/10.1145/3543507.3583359
   url: https://dblp.org/rec/conf/www/YuanYNCHY23
+- author: Yu Feng 0015, Yangli-ao Geng, Yifan Zhu 0001, Zongfu Han, Xie Yu, Kaiwen
+    Xue 0001, Haoran Luo 0001, Mengyang Sun, Guangwei Zhang 0003, Meina Song
+  title: 'PM-MOE: Mixture of Experts on Private Model Parameters for Personalized
+    Federated Learning.'
+  venue: WWW
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/FengG0HYX0SZS25
+  doi: 10.1145/3696410.3714561
+  ee: https://doi.org/10.1145/3696410.3714561
+  url: https://dblp.org/rec/conf/www/FengG0HYX0SZS25
+- author: Xinrui He, Shuo Liu 0020, Jacky Keung, Jingrui He
+  title: Co-clustering for Federated Recommender System.
+  venue: WWW
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/HeLKH24
+  doi: 10.1145/3589334.3645626
+  ee: https://doi.org/10.1145/3589334.3645626
+  url: https://dblp.org/rec/conf/www/HeLKH24
+- author: Chen Gong 0006, Zhenzhe Zheng 0001, Fan Wu 0006, Yunfeng Shao 0001, Bingshuai
+    Li, Guihai Chen
+  title: To Store or Not? Online Data Selection for Federated Learning with Limited
+    Storage.
+  venue: WWW
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/www/GongZ0SLC23
+  doi: 10.1145/3543507.3583426
+  ee: https://doi.org/10.1145/3543507.3583426
+  url: https://dblp.org/rec/conf/www/GongZ0SLC23
 federated%20venue%3AOSDI%3A:
 - &id2264
   author: Fan Lai 0001, Xiangfeng Zhu, Harsha V. Madhyastha, Mosharaf Chowdhury
@@ -31780,6 +32995,16 @@ federated%20streamid%3Ajournals%2Ftpds%3A:
   doi: 10.1109/TPDS.2025.3638693
   ee: https://doi.org/10.1109/TPDS.2025.3638693
   url: https://dblp.org/rec/journals/tpds/XiaZWJ26
+- author: Md Palash Uddin, Yong Xiang 0001, Xuequan Lu, John Yearwood, Longxiang Gao
+  title: Mutual Information Driven Federated Learning.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/UddinXLYG21
+  doi: 10.1109/TPDS.2020.3040981
+  ee: https://doi.org/10.1109/TPDS.2020.3040981
+  url: https://dblp.org/rec/journals/tpds/UddinXLYG21
 federated%20venue%3ADAC%3A:
 - &id2379
   author: Yuanchun Guo, Bingyan Liu, Yulong Sha, Zhensheng Xian
@@ -32714,6 +33939,17 @@ federated%20streamid%3Ajournals%2Ftc%3A:
   doi: 10.1109/TC.2025.3533095
   ee: https://doi.org/10.1109/TC.2025.3533095
   url: https://dblp.org/rec/journals/tc/YuYZZLCC25
+- author: Wei Li 0121, Zicheng Shen, Xiulong Liu 0001, Chuntao Ding, Jiaxing Shen
+  title: 'Fed-OGD: Mitigating Straggler Effects in Federated Learning via Orthogonal
+    Gradient Descent.'
+  venue: IEEE Trans. Computers
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tc/LiSLDS25
+  doi: 10.1109/TC.2025.3584272
+  ee: https://doi.org/10.1109/TC.2025.3584272
+  url: https://dblp.org/rec/journals/tc/LiSLDS25
 federated%20streamid%3Aconf%2Ficse%3A:
 - &id2447
   author: Nourah S. AlOtaibi, Muhamad Felemban, Sajjad Mahmood
@@ -33108,6 +34344,17 @@ federated%20venue%3AWACV%3A:
 - *id2474
 - *id2475
 - *id2476
+- author: Junming Chen, Meirui Jiang, Qi Dou 0001, Qifeng Chen 0001
+  title: Federated Domain Generalization for Image Recognition via Cross-Client Style
+    Transfer.
+  venue: WACV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wacv/ChenJDC23
+  doi: 10.1109/WACV56688.2023.00044
+  ee: https://doi.org/10.1109/WACV56688.2023.00044
+  url: https://dblp.org/rec/conf/wacv/ChenJDC23
 llm%20unlearning%20venue%3ANeurIPS%3A:
 - &id2477
   author: Jiabao Ji, Yujian Liu, Yang Zhang 0001, Gaowen Liu, Ramana Kompella, Sijia
@@ -33229,6 +34476,83 @@ llm%20unlearning%20venue%3AICML%3A:
 - *id2483
 - *id2484
 - *id2485
+- author: Jiali Cheng, Hadi Amiri
+  title: Tool Unlearning for Tool-Augmented LLMs.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChengA25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/cheng25a.html
+  url: https://dblp.org/rec/conf/icml/ChengA25
+- author: Chongyu Fan, Jinghan Jia, Yihua Zhang, Anil Ramakrishna, Mingyi Hong 0001,
+    Sijia Liu 0001
+  title: 'Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware
+    Minimization Perspective and Beyond.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/FanJZR0025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/fan25e.html
+  url: https://dblp.org/rec/conf/icml/FanJZR0025
+- author: Andrei Ioan Muresanu, Anvith Thudi, Michael R. Zhang, Nicolas Papernot
+  title: Fast Exact Unlearning for In-Context Learning Data for LLMs.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/MuresanuTZP25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/muresanu25a.html
+  url: https://dblp.org/rec/conf/icml/MuresanuTZP25
+- author: Yue Wang, Qizhou Wang, Feng Liu 0003, Wei Huang 0034, Yali Du 0001, Xiaojiang
+    Du, Bo Han 0003
+  title: 'GRU: Mitigating the Trade-off between Unlearning and Retention for LLMs.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangW000D025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25de.html
+  url: https://dblp.org/rec/conf/icml/WangW000D025
+- author: Changsheng Wang, Yihua Zhang, Jinghan Jia, Parikshit Ram, Dennis Wei, Yuguang
+    Yao, Soumyadeep Pal, Nathalie Baracaldo, Sijia Liu 0001
+  title: Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream
+    Fine-Tuning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangZJRWYPB025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25en.html
+  url: https://dblp.org/rec/conf/icml/WangZJRWYPB025
+- author: Abudukelimu Wuerkaixi, Qizhou Wang, Sen Cui, Wutong Xu, Bo Han 0003, Gang
+    Niu 0001, Masashi Sugiyama, Changshui Zhang
+  title: Adaptive Localization of Knowledge Negation for Continual LLM Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WuerkaixiWCX00S25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wuerkaixi25a.html
+  url: https://dblp.org/rec/conf/icml/WuerkaixiWCX00S25
+- author: Puning Yang, Qizhou Wang, Zhuo Huang, Tongliang Liu, Chengqi Zhang, Bo Han
+    0003
+  title: Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YangWHLZ025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/yang25ak.html
+  url: https://dblp.org/rec/conf/icml/YangWHLZ025
 llm%20unlearning%20venue%3AICLR%3A:
 - &id2486
   author: Shengyuan Hu 0001, Yiwei Fu, Steven Z. Wu, Virginia Smith
@@ -33449,6 +34773,17 @@ llm%20unlearning%20venue%3AACL%3A:
   doi: 10.18653/V1/2025.FINDINGS-ACL.1285
   ee: https://doi.org/10.18653/v1/2025.findings-acl.1285
   url: https://dblp.org/rec/conf/acl/NiwaKI25
+- author: Tianle Gu, Kexin Huang, Ruilin Luo, Yuanqi Yao, Xiuying Chen, Yujiu Yang
+    0001, Yan Teng 0002, Yingchun Wang 0004
+  title: 'From Evasion to Concealment: Stealthy Knowledge Unlearning for LLMs.'
+  venue: ACL
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/GuHLYCYTW25
+  doi: ''
+  ee: https://aclanthology.org/2025.findings-acl.535/
+  url: https://dblp.org/rec/conf/acl/GuHLYCYTW25
 llm%20unlearning%20venue%3AEMNLP%3A:
 - &id2502
   author: Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James
@@ -33488,6 +34823,27 @@ llm%20unlearning%20venue%3AEMNLP%3A:
 - *id2502
 - *id2503
 - *id2504
+- author: Wonje Jeung, Sangyeon Yoon, Albert No
+  title: 'SEPS: A Separability Measure for Robust Unlearning in LLMs.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/JeungYN25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.283
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.283
+  url: https://dblp.org/rec/conf/emnlp/JeungYN25
+- author: Aly M. Kassem, Zhuan Shi, Negar Rostamzadeh, Golnoosh Farnadi
+  title: 'REVIVING YOUR MNEME: Predicting The Side Effects of LLM Unlearning and Fine-Tuning
+    via Sparse Model Diffing.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/KassemSRF25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1641
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1641
+  url: https://dblp.org/rec/conf/emnlp/KassemSRF25
 large%20language%20models%20unlearning%20venue%3AAAAI%3A:
 - author: Hongbang Yuan, Zhuoran Jin, Pengfei Cao, Yubo Chen 0001, Kang Liu 0001,
     Jun Zhao 0001
@@ -34137,6 +35493,18 @@ prompt%20injection%20attack%20venue%3AICML%3A:
   ee: https://openreview.net/forum?id=gt1MmGaKdZ
   url: https://dblp.org/rec/conf/icml/ZhuY00W25
 - *id2509
+- author: Kaijie Zhu, Xianjun Yang, Jindong Wang 0001, Wenbo Guo 0002, William Yang
+    Wang
+  title: 'MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI
+    Agents.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhuY00W25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhu25z.html
+  url: https://dblp.org/rec/conf/icml/ZhuY00W25
 prompt%20injection%20attack%20venue%3AICLR%3A:
 - &id2510
   author: Sam Toyer, Olivia Watkins, Ethan Adrian Mendes, Justin Svegliato, Luke Bailey,
@@ -34278,6 +35646,18 @@ prompt%20injection%20venue%3AICML%3A:
   ee: https://openreview.net/forum?id=gt1MmGaKdZ
   url: https://dblp.org/rec/conf/icml/ZhuY00W25
 - *id2519
+- author: Kaijie Zhu, Xianjun Yang, Jindong Wang 0001, Wenbo Guo 0002, William Yang
+    Wang
+  title: 'MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI
+    Agents.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhuY00W25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhu25z.html
+  url: https://dblp.org/rec/conf/icml/ZhuY00W25
 prompt%20injection%20venue%3AICLR%3A:
 - &id2520
   author: Sam Toyer, Olivia Watkins, Ethan Adrian Mendes, Justin Svegliato, Luke Bailey,
@@ -34518,6 +35898,51 @@ prompt%20injection%20venue%3AEMNLP%3A:
   ee: https://doi.org/10.18653/v1/2024.emnlp-main.33
   url: https://dblp.org/rec/conf/emnlp/0008PHY24
 - *id2536
+- author: Hengyu An, Jinghuai Zhang, Tianyu Du, Chunyi Zhou 0001, Qingming Li, Tao
+    Lin 0004, Shouling Ji
+  title: 'IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt
+    Injection in LLM Agents.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/AnZDZLLJ25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.53
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.53
+  url: https://dblp.org/rec/conf/emnlp/AnZDZLLJ25
+- author: Yulin Chen, Haoran Li 0003, Yuexin Li, Yue Liu 0008, Yangqiu Song, Bryan
+    Hooi
+  title: 'TopicAttack: An Indirect Prompt Injection Attack via Topic Transition.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChenLLLSH25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.372
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.372
+  url: https://dblp.org/rec/conf/emnlp/ChenLLLSH25
+- author: Minghui Li, Hao Zhang, Yechao Zhang, Wei Wan, Shengshan Hu, Pei Xiaobing,
+    Jing Wang
+  title: Transferable Direct Prompt Injection via Activation-Guided MCMC Sampling.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiZZWHXW25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.102
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.102
+  url: https://dblp.org/rec/conf/emnlp/LiZZWHXW25
+- author: Xilong Wang, John Bloch, Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Zhenqiang
+    Gong
+  title: 'WebInject: Prompt Injection Attack to Web Agents.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/WangBSHZG25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.104
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.104
+  url: https://dblp.org/rec/conf/emnlp/WangBSHZG25
 prompt%20injection%20streamid%3Aconf%2Ficse%3A:
 - &id2537
   author: Rodrigo Pedro, Miguel E. Coimbra, Daniel Castro 0004, Paulo Carreira 0001,
@@ -34620,6 +36045,17 @@ machine%20unlearning%20venue%3AIJCAI%3A:
 - *id2542
 - *id2543
 - *id2544
+- author: Haonan Yan, Xiaoguang Li, Ziyao Guo, Hui Li 0006, Fenghua Li 0001, Xiaodong
+    Lin 0001
+  title: 'ARCANE: An Efficient Architecture for Exact Machine Unlearning.'
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/YanLG0L022
+  doi: 10.24963/IJCAI.2022/556
+  ee: https://doi.org/10.24963/ijcai.2022/556
+  url: https://dblp.org/rec/conf/ijcai/YanLG0L022
 machine%20unlearning%20venue%3AAAAI%3A:
 - &id2545
   author: Hyunjune Kim, Sangyong Lee, Simon S. Woo
@@ -35055,6 +36491,59 @@ machine%20unlearning%20venue%3AICML%3A:
 - *id2575
 - *id2576
 - *id2577
+- author: Hyoseo Kim, Dongyoon Han, Junsuk Choe
+  title: 'NegMerge: Sign-Consensual Weight Merging for Machine Unlearning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/KimHC25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/kim25f.html
+  url: https://dblp.org/rec/conf/icml/KimHC25
+- author: Marcin Sendera, Lukasz Struski, Kamil Ksiazek, Kryspin Musiol, Jacek Tabor,
+    Dawid Damian Rymarczyk
+  title: 'SEMU: Singular Value Decomposition for Efficient Machine Unlearning.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/SenderaSKMTR25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/sendera25a.html
+  url: https://dblp.org/rec/conf/icml/SenderaSKMTR25
+- author: Nazanin Mohammadi Sepahvand, Anvith Thudi, Berivan Isik, Ashmita Bhattacharyya,
+    Nicolas Papernot, Eleni Triantafillou, Daniel M. Roy 0001, Gintare Karolina Dziugaite
+  title: Leveraging Per-Instance Privacy for Machine Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/SepahvandTIBPT025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/sepahvand25a.html
+  url: https://dblp.org/rec/conf/icml/SepahvandTIBPT025
+- author: Martin Van Waerebeke, Marco Lorenzi, Giovanni Neglia, Kevin Scaman
+  title: When to Forget? Complexity Trade-offs in Machine Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WaerebekeLNS25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/van-waerebeke25a.html
+  url: https://dblp.org/rec/conf/icml/WaerebekeLNS25
+- author: Zihan Zhou, Yang Zhou 0001, Zijie Zhang 0001, Lingjuan Lyu, Da Yan 0001,
+    Ruoming Jin, Dejing Dou
+  title: Flexible, Efficient, and Stable Adversarial Attacks on Machine Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Zhou00L0JD25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhou25al.html
+  url: https://dblp.org/rec/conf/icml/Zhou00L0JD25
 machine%20unlearning%20venue%3AICLR%3A:
 - &id2578
   author: Youssef Allouah, Joshua Kazdan, Rachid Guerraoui, Sanmi Koyejo
@@ -35787,6 +37276,16 @@ machine%20unlearning%20venue%3AEMNLP%3A:
   url: https://dblp.org/rec/conf/emnlp/WichertS24
 - *id2631
 - *id2632
+- author: Xiaoyu Xu, Minxin Du, Qingqing Ye 0001, Haibo Hu 0001
+  title: 'OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/XuDYH25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.183
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.183
+  url: https://dblp.org/rec/conf/emnlp/XuDYH25
 machine%20unlearning%20streamid%3Aconf%2Fsigmod%3A:
 - &id2633
   author: Meghdad Kurmanji, Eleni Triantafillou, Peter Triantafillou
@@ -36471,6 +37970,27 @@ federated%20streamid%3Ajournals%2Ftai%3A:
 - *id2683
 - *id2684
 - *id2685
+- author: Keyvan Kazemi, Mohammad Hossein Badiei, Hamed Kebriaei
+  title: Robust Peer-to-Peer Federated Learning With Deep Reinforcement Learning Based
+    Client Selection Against Data Poisoning Attacks.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/KazemiBK26
+  doi: 10.1109/TAI.2025.3571872
+  ee: https://doi.org/10.1109/TAI.2025.3571872
+  url: https://dblp.org/rec/journals/tai/KazemiBK26
+- author: Xinhui Yu, Arvin Tashakori, Liang Zou, Zhen Wang 0029
+  title: 'pFedBL: Federated Bayesian Learning With Personalized Prior.'
+  venue: IEEE Trans. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/YuTZW26
+  doi: 10.1109/TAI.2025.3576201
+  ee: https://doi.org/10.1109/TAI.2025.3576201
+  url: https://dblp.org/rec/journals/tai/YuTZW26
 prompt%20poisoning%20attack%20streamid%3Aconf%2Fsp%3A:
 - &id2686
   author: Shawn Shan, Wenxin Ding, Josephine Passananti, Stanley Wu, Haitao Zheng
@@ -36648,6 +38168,18 @@ large%20language%20model%20unlearning%20venue%3AICML%3A:
   url: https://dblp.org/rec/conf/icml/BarbulescuT24
 - *id2696
 - *id2697
+- author: Rongzhe Wei, Mufei Li, Mohsen Ghassemi, Eleonora Kreacic, Yifan Li, Xiang
+    Yue, Bo Li 0026, Vamsi K. Potluru, Pan Li 0005, Eli Chien
+  title: Underestimated Privacy Risks for Minority Populations in Large Language Model
+    Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WeiLGKLY0P0C25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wei25d.html
+  url: https://dblp.org/rec/conf/icml/WeiLGKLY0P0C25
 large%20language%20model%20unlearning%20venue%3AICLR%3A:
 - &id2698
   author: Chongyang Gao, Lixu Wang, Kaize Ding, Chenkai Weng, Xiao Wang 0012, Qi Zhu
@@ -36935,6 +38467,38 @@ large%20language%20model%20unlearning%20venue%3AEMNLP%3A:
 - *id2716
 - *id2717
 - *id2718
+- author: Anda Cheng, Wei Huang 0039, Yinggui Wang
+  title: 'A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation
+    and Optimization.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChengHW25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.452
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.452
+  url: https://dblp.org/rec/conf/emnlp/ChengHW25
+- author: Xiaoyu Xu, Minxin Du, Qingqing Ye 0001, Haibo Hu 0001
+  title: 'OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/XuDYH25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.183
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.183
+  url: https://dblp.org/rec/conf/emnlp/XuDYH25
+- author: Xianren Zhang, Hui Liu 0031, Delvin Ce Zhang, Xianfeng Tang, Qi He 0002,
+    Dongwon Lee 0001, Suhang Wang
+  title: 'SUA: Stealthy Multimodal Large Language Model Unlearning Attack.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ZhangLZTHLW25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.565
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.565
+  url: https://dblp.org/rec/conf/emnlp/ZhangLZTHLW25
 large%20language%20model%20unlearning%20venue%3ACOLING%3A:
 - &id2719
   author: Weitao Ma, Xiaocheng Feng, Weihong Zhong, Lei Huang 0021, Yangfan Ye, Xiachong
@@ -37127,6 +38691,18 @@ language%20model%20unlearning%20venue%3AICML%3A:
 - *id2729
 - *id2730
 - *id2731
+- author: Rongzhe Wei, Mufei Li, Mohsen Ghassemi, Eleonora Kreacic, Yifan Li, Xiang
+    Yue, Bo Li 0026, Vamsi K. Potluru, Pan Li 0005, Eli Chien
+  title: Underestimated Privacy Risks for Minority Populations in Large Language Model
+    Unlearning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WeiLGKLY0P0C25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wei25d.html
+  url: https://dblp.org/rec/conf/icml/WeiLGKLY0P0C25
 language%20model%20unlearning%20venue%3AICLR%3A:
 - &id2732
   author: Chongyang Gao, Lixu Wang, Kaize Ding, Chenkai Weng, Xiao Wang 0012, Qi Zhu
@@ -37622,6 +39198,59 @@ language%20model%20unlearning%20venue%3AEMNLP%3A:
   doi: 10.18653/V1/2024.EMNLP-MAIN.566
   ee: https://doi.org/10.18653/v1/2024.emnlp-main.566
   url: https://dblp.org/rec/conf/emnlp/Feng0LL24
+- author: Hwiyeong Lee, Uiji Hwang, Hyelim Lim, Taeuk Kim
+  title: Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter
+    Attribution for Knowledge Unlearning in Language Models.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LeeHLK25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1109
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1109
+  url: https://dblp.org/rec/conf/emnlp/LeeHLK25
+- author: Anda Cheng, Wei Huang 0039, Yinggui Wang
+  title: 'A Fully Probabilistic Perspective on Large Language Model Unlearning: Evaluation
+    and Optimization.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChengHW25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.452
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.452
+  url: https://dblp.org/rec/conf/emnlp/ChengHW25
+- author: Dianqing Liu, Yi Liu, Guoqing Jin, Zhendong Mao 0001
+  title: Mitigating Biases in Language Models via Bias Unlearning.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiuLJM25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.208
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.208
+  url: https://dblp.org/rec/conf/emnlp/LiuLJM25
+- author: Xiaoyu Xu, Minxin Du, Qingqing Ye 0001, Haibo Hu 0001
+  title: 'OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/XuDYH25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.183
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.183
+  url: https://dblp.org/rec/conf/emnlp/XuDYH25
+- author: Xianren Zhang, Hui Liu 0031, Delvin Ce Zhang, Xianfeng Tang, Qi He 0002,
+    Dongwon Lee 0001, Suhang Wang
+  title: 'SUA: Stealthy Multimodal Large Language Model Unlearning Attack.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ZhangLZTHLW25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.565
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.565
+  url: https://dblp.org/rec/conf/emnlp/ZhangLZTHLW25
 language%20model%20unlearning%20venue%3ACOLING%3A:
 - &id2768
   author: Weitao Ma, Xiaocheng Feng, Weihong Zhong, Lei Huang 0021, Yangfan Ye, Xiachong
@@ -37869,6 +39498,18 @@ model%20poisoning%20venue%3AICML%3A:
 - *id2783
 - *id2784
 - *id2785
+- author: Chenyang Zhang, Xiaoyu Zhang 0010, Jian Lou 0001, Kai Wu 0003, Zilong Wang
+    0001, Xiaofeng Chen 0001
+  title: 'PoisonedEye: Knowledge Poisoning Attack on Retrieval-Augmented Generation
+    based Large Vision-Language Models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Zhang0000025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25da.html
+  url: https://dblp.org/rec/conf/icml/Zhang0000025
 model%20poisoning%20venue%3AICLR%3A:
 - &id2786
   author: Keltin Grimes, Marco Christiani, David Shriver, Marissa Catherine Connor
@@ -38656,6 +40297,28 @@ model%20poisoning%20streamid%3Ajournals%2Ftifs%3A:
 - *id2840
 - *id2841
 - *id2842
+- author: Zhuoran Ma 0002, Xinyi Huang 0001, Zhuzhu Wang, Zhan Qin, Xiangyu Wang 0010,
+    Jianfeng Ma 0001
+  title: 'FedGhost: Data-Free Model Poisoning Enhancement in Federated Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/MaHWQWM25
+  doi: 10.1109/TIFS.2025.3539087
+  ee: https://doi.org/10.1109/TIFS.2025.3539087
+  url: https://dblp.org/rec/journals/tifs/MaHWQWM25
+- author: Zhuoran Ma 0002, Jianfeng Ma 0001, Yinbin Miao, Yingjiu Li, Robert H. Deng
+  title: 'ShieldFL: Mitigating Model Poisoning Attacks in Privacy-Preserving Federated
+    Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/MaMMLD22
+  doi: 10.1109/TIFS.2022.3169918
+  ee: https://doi.org/10.1109/TIFS.2022.3169918
+  url: https://dblp.org/rec/journals/tifs/MaMMLD22
 model%20poisoning%20streamid%3Ajournals%2Ftcad%3A:
 - &id2843
   author: Chia-Chih Lin, Ming-Syan Chen
@@ -38873,6 +40536,18 @@ model%20poisoning%20attack%20venue%3AICML%3A:
 - *id2856
 - *id2857
 - *id2858
+- author: Chenyang Zhang, Xiaoyu Zhang 0010, Jian Lou 0001, Kai Wu 0003, Zilong Wang
+    0001, Xiaofeng Chen 0001
+  title: 'PoisonedEye: Knowledge Poisoning Attack on Retrieval-Augmented Generation
+    based Large Vision-Language Models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Zhang0000025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25da.html
+  url: https://dblp.org/rec/conf/icml/Zhang0000025
 model%20poisoning%20attack%20venue%3AICLR%3A:
 - &id2859
   author: Tribhuvanesh Orekondy, Bernt Schiele, Mario Fritz
@@ -39391,6 +41066,17 @@ model%20poisoning%20attack%20streamid%3Ajournals%2Ftifs%3A:
 - *id2894
 - *id2895
 - *id2896
+- author: Zhuoran Ma 0002, Jianfeng Ma 0001, Yinbin Miao, Yingjiu Li, Robert H. Deng
+  title: 'ShieldFL: Mitigating Model Poisoning Attacks in Privacy-Preserving Federated
+    Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/MaMMLD22
+  doi: 10.1109/TIFS.2022.3169918
+  ee: https://doi.org/10.1109/TIFS.2022.3169918
+  url: https://dblp.org/rec/journals/tifs/MaMMLD22
 model%20poisoning%20attack%20streamid%3Ajournals%2Ftcad%3A:
 - &id2897
   author: Chia-Chih Lin, Ming-Syan Chen
@@ -41744,6 +43430,18 @@ machine%20unlearning%20streamid%3Ajournals%2Fpr%3A:
   ee: https://doi.org/10.1016/j.patcog.2025.112411
   url: https://dblp.org/rec/journals/pr/KangFGFVK26
 - *id3071
+- author: "Lei Kang 0002, Xuanshuo Fu, Llu\xEDs G\xF3mez, Alicia Forn\xE9s, Ernest\
+    \ Valveny, Dimosthenis Karatzas"
+  title: 'Preserving privacy without compromising accuracy: Machine unlearning for
+    handwritten text recognition.'
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: open
+  key: journals/pr/KangFGFVK26
+  doi: 10.1016/J.PATCOG.2025.112411
+  ee: https://doi.org/10.1016/j.patcog.2025.112411
+  url: https://dblp.org/rec/journals/pr/KangFGFVK26
 machine%20unlearning%20streamid%3Ajournals%2Fkbs%3A:
 - &id3072
   author: Kun Gao 0006, Tianqing Zhu, Dayong Ye, Wanlei Zhou 0001
@@ -42241,6 +43939,18 @@ federated%20venue%3AICDM%3A:
 - *id3107
 - *id3108
 - *id3109
+- author: Peng Chen 0030, Jirui Yang, Junxiong Lin, Zhihui Lu 0002, Qiang Duan 0002,
+    Hongfeng Chai
+  title: A Practical Clean-Label Backdoor Attack with Limited Information in Vertical
+    Federated Learning.
+  venue: ICDM
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdm/ChenYL0DC23
+  doi: 10.1109/ICDM58522.2023.00013
+  ee: https://doi.org/10.1109/ICDM58522.2023.00013
+  url: https://dblp.org/rec/conf/icdm/ChenYL0DC23
 federated%20streamid%3Aconf%2Fcikm%3A:
 - &id3110
   author: Haochen Yuan 0001, Yang Zhang 0095, Quan Z. Sheng, Lina Yao 0001, Yipeng
@@ -43343,6 +45053,28 @@ federated%20streamid%3Aconf%2Fcikm%3A:
   doi: 10.1145/3746252.3761309
   ee: https://doi.org/10.1145/3746252.3761309
   url: https://dblp.org/rec/conf/cikm/LiLCCX25
+- author: Jaehyung Lim, Wonbin Kweon, Woojoo Kim, Junyoung Kim 0007, Seongjin Choi,
+    Dongha Kim, Hwanjo Yu
+  title: Federated Continual Recommendation.
+  venue: CIKM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/LimKKKCKY25
+  doi: 10.1145/3746252.3761268
+  ee: https://doi.org/10.1145/3746252.3761268
+  url: https://dblp.org/rec/conf/cikm/LimKKKCKY25
+- author: Lishan Yang 0002, Wei Emma Zhang, Quan Z. Sheng, Lina Yao 0001, Weitong
+    Chen 0001, Ali Shakeri 0003
+  title: 'MMiC: Mitigating Modality Incompleteness in Clustered Federated Learning.'
+  venue: CIKM
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/YangZS00025
+  doi: 10.1145/3746252.3761140
+  ee: https://doi.org/10.1145/3746252.3761140
+  url: https://dblp.org/rec/conf/cikm/YangZS00025
 federated%20streamid%3Aconf%2Fusenix%3A:
 - &id3192
   author: Shichen Zhan, Li Li 0064, Chengzhong Xu 0001
@@ -45520,6 +47252,39 @@ federated%20streamid%3Ajournals%2Ftnn%3A:
   doi: 10.1109/TNNLS.2022.3160699
   ee: https://doi.org/10.1109/TNNLS.2022.3160699
   url: https://dblp.org/rec/journals/tnn/TanYCY23
+- author: Hui Fang, Yang Gao 0024, Peng Zhang 0001, Sheng Zhou 0004, Hongyang Chen
+    0001, Jiajun Bu, Haishuai Wang
+  title: Contrastive Federated Learning for Graph Anomaly Detection.
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/FangGZZCBW26
+  doi: 10.1109/TNNLS.2025.3601449
+  ee: https://doi.org/10.1109/TNNLS.2025.3601449
+  url: https://dblp.org/rec/journals/tnn/FangGZZCBW26
+- author: "Teresa Salazar, Jo\xE3o Gama 0001, Helder Ara\xFAjo, Pedro Henriques Abreu"
+  title: 'Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative
+    in Federated Learning.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/SalazarGAA26
+  doi: 10.1109/TNNLS.2025.3601834
+  ee: https://doi.org/10.1109/TNNLS.2025.3601834
+  url: https://dblp.org/rec/journals/tnn/SalazarGAA26
+- author: Chenhao Xu 0003, Nasrin Sohrabi, Youyang Qu, Hai Dong, Zahir Tari, Xun Yi
+  title: 'DSPFL: A Deep-Layer Sign Sharing Personalized Federated Learning Scheme
+    for Mitigating Poisoning Attacks.'
+  venue: IEEE Trans. Neural Networks Learn. Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tnn/XuSQDTY26
+  doi: 10.1109/TNNLS.2025.3601078
+  ee: https://doi.org/10.1109/TNNLS.2025.3601078
+  url: https://dblp.org/rec/journals/tnn/XuSQDTY26
 federated%20streamid%3Ajournals%2Ftkde%3A:
 - &id3354
   author: Waqar Ali 0001, Khalid Umer, Xiangmin Zhou, Jie Shao 0001
@@ -46250,6 +48015,43 @@ federated%20streamid%3Ajournals%2Ftkde%3A:
   doi: 10.1109/TKDE.2024.3424411
   ee: https://doi.org/10.1109/TKDE.2024.3424411
   url: https://dblp.org/rec/journals/tkde/WangZLZZT24
+- author: Hao Miao 0001, Ziqiao Liu, Yan Zhao 0008, Chenxi Liu 0003, Chenjuan Guo,
+    Bin Yang 0002, Kai Zheng 0001, Huan Li 0003, Christian S. Jensen
+  title: 'LightTR+: A Lightweight Incremental Framework for Federated Trajectory Recovery.'
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/MiaoLZLGYZLJ26
+  doi: 10.1109/TKDE.2025.3638888
+  ee: https://doi.org/10.1109/TKDE.2025.3638888
+  url: https://dblp.org/rec/journals/tkde/MiaoLZLGYZLJ26
+- author: Tao Fan 0002, Hanlin Gu, Xuemei Cao 0001, Chee Seng Chan, Qian Chen 0023,
+    Yiqiang Chen 0001, Yihui Feng, Yang Gu 0001, Jiaxiang Geng, Bing Luo 0002, Shuoling
+    Liu, WinKent Ong, Chao Ren 0006, Jiaqi Shao, Chuan Sun, Xiaoli Tang 0001, Hong
+    Xi Tae, Yongxin Tong, Shuyue Wei 0001, Fan Wu 0006, Wei Xi 0003, Mingcong Xu,
+    He Yang, Xin Yang 0012, Jiangpeng Yan, Hao Yu 0023, Han Yu 0001, Teng Zhang, Yifei
+    Zhang, Xiaojin Zhang 0002, Zhenzhe Zheng 0002, Lixin Fan, Qiang Yang 0001
+  title: Ten Challenging Problems in Federated Foundation Models.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/FanGCCCCFGGLLORSSTTTWWX25
+  doi: 10.1109/TKDE.2025.3555328
+  ee: https://doi.org/10.1109/TKDE.2025.3555328
+  url: https://dblp.org/rec/journals/tkde/FanGCCCCFGGLLORSSTTTWWX25
+- author: Zhuoran Ma 0002, Yang Liu 0118, Yinbin Miao, Guowen Xu, Ximeng Liu, Jianfeng
+    Ma 0001, Robert H. Deng
+  title: 'FlGan: GAN-Based Unbiased Federated Learning Under Non-IID Settings.'
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/MaLMXLMD24
+  doi: 10.1109/TKDE.2023.3309858
+  ee: https://doi.org/10.1109/TKDE.2023.3309858
+  url: https://dblp.org/rec/journals/tkde/MaLMXLMD24
 federated%20streamid%3Ajournals%2Ftbd%3A:
 - &id3407
   author: "Ali Beikmohammadi, Sarit Khirirat, Sindri Magn\xFAsson"
@@ -47134,6 +48936,41 @@ federated%20streamid%3Ajournals%2Ftbd%3A:
   doi: 10.1109/TBDATA.2022.3201729
   ee: https://doi.org/10.1109/TBDATA.2022.3201729
   url: https://dblp.org/rec/journals/tbd/ShiXJYC24
+- author: K. Naveen Kumar, Srinivasa Rao Chalamala, Ajeet Kumar Singh, C. Krishna
+    Mohan
+  title: Optimal Transport Barycentric Aggregation for Byzantine-Resilient Federated
+    Learning.
+  venue: IEEE Trans. Big Data
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/KumarCSM26
+  doi: 10.1109/TBDATA.2025.3604177
+  ee: https://doi.org/10.1109/TBDATA.2025.3604177
+  url: https://dblp.org/rec/journals/tbd/KumarCSM26
+- author: Md Palash Uddin, Yong Xiang 0001, Mahmudul Hasan 0018, Yao Zhao, Youyang
+    Qu, Longxiang Gao
+  title: Fast Convergent Federated Learning via Decaying SGD Updates.
+  venue: IEEE Trans. Big Data
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/UddinXHZQG26
+  doi: 10.1109/TBDATA.2025.3618454
+  ee: https://doi.org/10.1109/TBDATA.2025.3618454
+  url: https://dblp.org/rec/journals/tbd/UddinXHZQG26
+- author: Yunpeng Xiao 0001, Xufeng Li, Tun Li 0001, Rong Wang 0003, Yucai Pang, Guoyin
+    Wang 0001
+  title: A Distributed Generative Adversarial Network for Data Augmentation Under
+    Vertical Federated Learning.
+  venue: IEEE Trans. Big Data
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/XiaoLLWPW25
+  doi: 10.1109/TBDATA.2024.3375150
+  ee: https://doi.org/10.1109/TBDATA.2024.3375150
+  url: https://dblp.org/rec/journals/tbd/XiaoLLWPW25
 federated%20streamid%3Ajournals%2Ftcyb%3A:
 - &id3475
   author: Renyou Xie, Chaojie Li, Zhaohui Yang 0001, Zhao Xu 0002, Jian Huang 0001,
@@ -47688,6 +49525,30 @@ federated%20streamid%3Ajournals%2Ftmi%3A:
   doi: 10.1109/TMI.2025.3584967
   ee: https://doi.org/10.1109/TMI.2025.3584967
   url: https://dblp.org/rec/journals/tmi/CheWJXC25
+- author: Haoxuan Che, Haibo Jin, Zhengrui Guo, Yi Lin 0009, Cheng Jin 0003, Hao Chen
+    0011
+  title: LLM-Driven Medical Report Generation via Communication-Efficient Heterogeneous
+    Federated Learning.
+  venue: IEEE Trans. Medical Imaging
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/CheJGLJC26
+  doi: 10.1109/TMI.2025.3591185
+  ee: https://doi.org/10.1109/TMI.2025.3591185
+  url: https://dblp.org/rec/journals/tmi/CheJGLJC26
+- author: Danni Peng, Yuan Wang 0008, Kangning Cai, Peiyan Ning, Jiming Xu, Yong Liu
+    0026, Rick Siow Mong Goh, Qingsong Wei, Huazhu Fu
+  title: Improving Learning of New Diseases Through Knowledge-Enhanced Initialization
+    for Federated Adapter Tuning.
+  venue: IEEE Trans. Medical Imaging
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/PengWCNXLGWF26
+  doi: 10.1109/TMI.2025.3596835
+  ee: https://doi.org/10.1109/TMI.2025.3596835
+  url: https://dblp.org/rec/journals/tmi/PengWCNXLGWF26
 federated%20streamid%3Ajournals%2Ftsmc%3A:
 - &id3514
   author: Jialin Guo, Anfeng Liu, Neal N. Xiong, Jie Wu 0001
@@ -48246,6 +50107,18 @@ federated%20streamid%3Ajournals%2Ftetci%3A:
   doi: 10.1109/TETCI.2025.3572126
   ee: https://doi.org/10.1109/TETCI.2025.3572126
   url: https://dblp.org/rec/journals/tetci/NiuTCZL25
+- author: Wanjing Zhao, Yunpeng Xiao 0001, Tun Li 0001, Rong Wang 0003, Qian Li 0009,
+    Guoyin Wang 0001
+  title: A Cross-Domain Recommendation Model Based on Asymmetric Vertical Federated
+    Learning and Heterogeneous Representation.
+  venue: IEEE Trans. Emerg. Top. Comput. Intell.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tetci/ZhaoXLWLW25
+  doi: 10.1109/TETCI.2025.3543313
+  ee: https://doi.org/10.1109/TETCI.2025.3543313
+  url: https://dblp.org/rec/journals/tetci/ZhaoXLWLW25
 federated%20streamid%3Ajournals%2Ftetc%3A:
 - &id3552
   author: "Enrique M\xE1rmol Campos, Aurora Gonz\xE1lez-Vidal, Jos\xE9 Luis Hern\xE1\
@@ -52226,6 +54099,52 @@ federated%20streamid%3Ajournals%2Ftifs%3A:
   doi: 10.1109/TIFS.2025.3642546
   ee: https://doi.org/10.1109/TIFS.2025.3642546
   url: https://dblp.org/rec/journals/tifs/ZhangFLYZWLL26
+- author: Zhuoran Ma 0002, Xinyi Huang 0001, Zhuzhu Wang, Zhan Qin, Xiangyu Wang 0010,
+    Jianfeng Ma 0001
+  title: 'FedGhost: Data-Free Model Poisoning Enhancement in Federated Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/MaHWQWM25
+  doi: 10.1109/TIFS.2025.3539087
+  ee: https://doi.org/10.1109/TIFS.2025.3539087
+  url: https://dblp.org/rec/journals/tifs/MaHWQWM25
+- author: Md. Mamunur Rashid, Yong Xiang 0001, Md Palash Uddin, Jine Tang, Keshav
+    Sood, Longxiang Gao
+  title: Trustworthy and Fair Federated Learning via Reputation-Based Consensus and
+    Adaptive Incentives.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/RashidXUTSG25
+  doi: 10.1109/TIFS.2025.3546841
+  ee: https://doi.org/10.1109/TIFS.2025.3546841
+  url: https://dblp.org/rec/journals/tifs/RashidXUTSG25
+- author: Pei Ye, Yuqing Li 0001, Kun He 0008, Qiao Li, Tianjie Qin, Xiong Wang 0006,
+    Kaige Yang, Chujun Zhang, Jing Chen 0003
+  title: 'Breaking the Illusion: A Critical Study of Backdoor Defense in Federated
+    Learning With Non-IID Data.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/YeLHLQWYZC25
+  doi: 10.1109/TIFS.2025.3643155
+  ee: https://doi.org/10.1109/TIFS.2025.3643155
+  url: https://dblp.org/rec/journals/tifs/YeLHLQWYZC25
+- author: Zhuoran Ma 0002, Jianfeng Ma 0001, Yinbin Miao, Yingjiu Li, Robert H. Deng
+  title: 'ShieldFL: Mitigating Model Poisoning Attacks in Privacy-Preserving Federated
+    Learning.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/MaMMLD22
+  doi: 10.1109/TIFS.2022.3169918
+  ee: https://doi.org/10.1109/TIFS.2022.3169918
+  url: https://dblp.org/rec/journals/tifs/MaMMLD22
 federated%20streamid%3Ajournals%2Ftissec%3A:
 - &id3841
   author: "Georgios Syros, G\xF6kberk Yar, Simona Boboila, Cristina Nita-Rotaru, Alina\
@@ -53128,6 +55047,27 @@ federated%20streamid%3Ajournals%2Ftist%3A:
   doi: 10.1145/3673237
   ee: https://doi.org/10.1145/3673237
   url: https://dblp.org/rec/journals/tist/FuDSCH24
+- author: Jinghui Zhang 0001, Dingyang Lv, Qiangsheng Dai, Fa Xin, Fang Dong 0001
+  title: Noise-aware Local Model Training Mechanism for Federated Learning.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/ZhangLDXD23
+  doi: 10.1145/3591363
+  ee: https://doi.org/10.1145/3591363
+  url: https://dblp.org/rec/journals/tist/ZhangLDXD23
+- author: Yijing Liu 0003, Dongming Han, Jianwei Zhang 0015, Haiyang Zhu, Mingliang
+    Xu 0001, Wei Chen 0001
+  title: Federated Multi-task Graph Learning.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/LiuHZZXC22
+  doi: 10.1145/3527622
+  ee: https://doi.org/10.1145/3527622
+  url: https://dblp.org/rec/journals/tist/LiuHZZXC22
 federated%20streamid%3Ajournals%2Ftitb%3A:
 - &id3907
   author: Abdulrahman Al-Dailami, Hulin Kuang, Jianxin Wang 0001
@@ -54769,6 +56709,39 @@ federated%20streamid%3Ajournals%2Fpr%3A:
   doi: 10.1016/J.PATCOG.2024.110542
   ee: https://doi.org/10.1016/j.patcog.2024.110542
   url: https://dblp.org/rec/journals/pr/GuoWG24
+- author: Chunhua Ju, Huajian Zhou, Fuguang Bao, Chonghuan Xu
+  title: A multi-spatiotemporal joint next-POI travel sequence recommendation method
+    based on federated learning.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/JuZBX26
+  doi: 10.1016/J.PATCOG.2025.112867
+  ee: https://doi.org/10.1016/j.patcog.2025.112867
+  url: https://dblp.org/rec/journals/pr/JuZBX26
+- author: Shuyi Li 0003, Jianian Hu, Bob Zhang 0001, Shanping Yu, Lifang Wu
+  title: 'DpFedFKP: Dynamic personalized federated learning for finger knuckle print
+    recognition.'
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/LiHZYW26
+  doi: 10.1016/J.PATCOG.2025.112966
+  ee: https://doi.org/10.1016/j.patcog.2025.112966
+  url: https://dblp.org/rec/journals/pr/LiHZYW26
+- author: Chenyang Wang 0002, Junjun Jiang, Xingyu Hu, Xianming Liu 0005, Xiangyang
+    Ji
+  title: Federated domain generalization via data-centric flatness optimization.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/WangJHLJ26
+  doi: 10.1016/J.PATCOG.2025.113023
+  ee: https://doi.org/10.1016/j.patcog.2025.113023
+  url: https://dblp.org/rec/journals/pr/WangJHLJ26
 federated%20streamid%3Ajournals%2Fprl%3A:
 - &id4024
   author: SeungBum Ha, Taehwan Lee, Jiyoun Lim, Sung Whan Yoon
@@ -57091,6 +59064,172 @@ federated%20streamid%3Ajournals%2Fkbs%3A:
   doi: 10.1016/J.KNOSYS.2022.109459
   ee: https://doi.org/10.1016/j.knosys.2022.109459
   url: https://dblp.org/rec/journals/kbs/ChenZYJC22
+- author: Leiming Chen, Dehai Zhao, Yongbiao Gao, Jiehan Zhou, Chee-Wei Tan 0001
+  title: 'FedMTL: Adaptive multi-teacher knowledge distillation for federated continual
+    learning.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChenZGZT26
+  doi: 10.1016/J.KNOSYS.2025.115160
+  ee: https://doi.org/10.1016/j.knosys.2025.115160
+  url: https://dblp.org/rec/journals/kbs/ChenZGZT26
+- author: Emmen Farooq, Michela Milano, Andrea Borghesi
+  title: Federated LSTM autoencoders for time series anomaly detection in production-scale
+    HPC systems.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/FarooqMB26
+  doi: 10.1016/J.KNOSYS.2025.115043
+  ee: https://doi.org/10.1016/j.knosys.2025.115043
+  url: https://dblp.org/rec/journals/kbs/FarooqMB26
+- author: Yan Han, Wei Dai, Qingqing Huang, Zhiyao Liu, Yan Zhang, Bin Yong
+  title: A cluster aggregation-based personalized federated learning framework for
+    wind turbine gearbox fault diagnosis under model heterogeneity.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/HanDHLZY26
+  doi: 10.1016/J.KNOSYS.2025.115201
+  ee: https://doi.org/10.1016/j.knosys.2025.115201
+  url: https://dblp.org/rec/journals/kbs/HanDHLZY26
+- author: Along He, Yanlin Wu, Linlin Shen, Tao Li, Ke Zou, Huazhu Fu
+  title: Federated semi-supervised calibrated efficient fine-tuning of foundation
+    models for medical image classification.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/HeWSLZF26
+  doi: 10.1016/J.KNOSYS.2025.115228
+  ee: https://doi.org/10.1016/j.knosys.2025.115228
+  url: https://dblp.org/rec/journals/kbs/HeWSLZF26
+- author: Yibo Jiao, Dairao He, Xiaojun Li, Yi Su 0010, Zhong Wang 0015, Hongyang
+    Gu
+  title: 'FedDNL: Federated differentiated noisy learning for label noise heterogeneity.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/JiaoHLSWG26
+  doi: 10.1016/J.KNOSYS.2025.115085
+  ee: https://doi.org/10.1016/j.knosys.2025.115085
+  url: https://dblp.org/rec/journals/kbs/JiaoHLSWG26
+- author: Abdul Hai Karimi, Taimoor Khan, Chang Choi
+  title: Multimodality-based framework for enhanced skin lesion recognition over federated
+    learning.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/KarimiKC26
+  doi: 10.1016/J.KNOSYS.2025.115151
+  ee: https://doi.org/10.1016/j.knosys.2025.115151
+  url: https://dblp.org/rec/journals/kbs/KarimiKC26
+- author: Yuxuan Liu 0017, Chongyang Xu, Zihan Zhao, Yangyang Wang 0004, Zhiming He
+  title: Federated graph learning under expressiveness heterogeneity with personalized
+    subgraph selection.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/LiuXZWH26
+  doi: 10.1016/J.KNOSYS.2025.115106
+  ee: https://doi.org/10.1016/j.knosys.2025.115106
+  url: https://dblp.org/rec/journals/kbs/LiuXZWH26
+- author: Bo Peng, Xingwei Wang 0001, Bo Yi 0002, Ying Li 0037, Min Huang 0001, Lixing
+    Wang
+  title: Gradient-driven data-free sample balancing for robust hierarchical federated
+    learning.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/PengWYLHW26
+  doi: 10.1016/J.KNOSYS.2025.115107
+  ee: https://doi.org/10.1016/j.knosys.2025.115107
+  url: https://dblp.org/rec/journals/kbs/PengWYLHW26
+- author: Monika Verma, Vivek Parganiha
+  title: Privacy-preserving context-aware recommendation system with federated neural
+    collaborative filtering.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/VermaP26
+  doi: 10.1016/J.KNOSYS.2025.114997
+  ee: https://doi.org/10.1016/j.knosys.2025.114997
+  url: https://dblp.org/rec/journals/kbs/VermaP26
+- author: Peng Wang, Zhilong Mi, Zihang Shen, Ziqiao Yin, Binghui Guo, Jin Dong
+  title: 'FedRDA: Federated learning with representation decoupling and divergence-aware
+    aggregation.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WangMSYGD26
+  doi: 10.1016/J.KNOSYS.2025.115084
+  ee: https://doi.org/10.1016/j.knosys.2025.115084
+  url: https://dblp.org/rec/journals/kbs/WangMSYGD26
+- author: Guangli Wu, Jieyou Shi, Jing Zhang 0117
+  title: Federated heterogeneous graph neural network enhanced by perturbation graph
+    contrastive learning and SpectralNet for privacy-preserving recommendation.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/WuSZ26
+  doi: 10.1016/J.KNOSYS.2025.115030
+  ee: https://doi.org/10.1016/j.knosys.2025.115030
+  url: https://dblp.org/rec/journals/kbs/WuSZ26
+- author: Chengjie Ying, Xi Fang, Zhiqiang Ru, Yuan Wan, Liang Xie 0001
+  title: 'LiFedST: A linearized federated split-attention transformer for spatio-temporal
+    forecasting.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/YingFRWX26
+  doi: 10.1016/J.KNOSYS.2025.115110
+  ee: https://doi.org/10.1016/j.knosys.2025.115110
+  url: https://dblp.org/rec/journals/kbs/YingFRWX26
+- author: Ziyuan Yu, Zheng Huo, Teng Wang, Xinjing Li
+  title: 'FedDP-FPM: A federated frequent itemset mining algorithm under differential
+    privacy.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/YuHWL26
+  doi: 10.1016/J.KNOSYS.2025.115142
+  ee: https://doi.org/10.1016/j.knosys.2025.115142
+  url: https://dblp.org/rec/journals/kbs/YuHWL26
+- author: Tao Zhong, Kaiyan Zhao, Steve Drew 0001, Xiaoguang Niu
+  title: 'FedPAD: Aggregation-free federated learning with prototype-based adaptive
+    distillation.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhongZDN26
+  doi: 10.1016/J.KNOSYS.2025.114951
+  ee: https://doi.org/10.1016/j.knosys.2025.114951
+  url: https://dblp.org/rec/journals/kbs/ZhongZDN26
+- author: Zihao Zheng, Borui Cai, Yong Xiang 0001, Yao Zhao, Md Palash Uddin, Keshav
+    Sood
+  title: A federated compositional knowledge graph embedding for communication efficiency.
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhengCXZUS25
+  doi: 10.1016/J.KNOSYS.2025.113873
+  ee: https://doi.org/10.1016/j.knosys.2025.113873
+  url: https://dblp.org/rec/journals/kbs/ZhengCXZUS25
 federated%20streamid%3Ajournals%2Fisci%3A:
 - &id4187
   author: Zhe Wang 0002, Yu Zhang, Xinlei Xu, Zhiling Fu, Hai Yang 0002, Wenli Du
@@ -60464,6 +62603,28 @@ federated%20streamid%3Ajournals%2Feswa%3A:
   doi: 10.1016/J.ESWA.2025.130652
   ee: https://doi.org/10.1016/j.eswa.2025.130652
   url: https://dblp.org/rec/journals/eswa/ZhongZWTW26
+- author: Chenhan Zhai, Hui Liu 0006, Ertong Shang, Lizhe Zhang, Zeyu Qiu, Junzhao
+    Du
+  title: 'FedPA: Property-aware federated learning for cellular traffic prediction.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhaiLSZQD26
+  doi: 10.1016/J.ESWA.2025.130147
+  ee: https://doi.org/10.1016/j.eswa.2025.130147
+  url: https://dblp.org/rec/journals/eswa/ZhaiLSZQD26
+- author: Jiale Zhang 0001, Ye Li 0041, Di Wu 0050, Yanchao Zhao, Shivakumara Palaiahnakote
+  title: 'SFFL: Self-aware fairness federated learning framework for heterogeneous
+    data distributions.'
+  venue: Expert Syst. Appl.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhangLWZP25
+  doi: 10.1016/J.ESWA.2025.126418
+  ee: https://doi.org/10.1016/j.eswa.2025.126418
+  url: https://dblp.org/rec/journals/eswa/ZhangLWZP25
 federated%20streamid%3Ajournals%2Fexpert%3A:
 - &id4419
   author: Hai Anh Tran, Duc Tran
@@ -61415,6 +63576,61 @@ federated%20streamid%3Ajournals%2Fnn%3A:
   doi: 10.1016/J.NEUNET.2024.106574
   ee: https://doi.org/10.1016/j.neunet.2024.106574
   url: https://dblp.org/rec/journals/nn/HanHLQTG24
+- author: Basharat Ali, Guihai Chen
+  title: Proactive and privacy-Preserving defense for DNS over HTTPS via federated
+    AI attestation (PAFA-DoH).
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/AliC26
+  doi: 10.1016/J.NEUNET.2025.108343
+  ee: https://doi.org/10.1016/j.neunet.2025.108343
+  url: https://dblp.org/rec/journals/nn/AliC26
+- author: Haizhou Du, Chongyi Qiu, Huan Huo
+  title: 'FedHyperGraph: A layer-wise personalized federated learning with correlation
+    graphs in hyperbolic space.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/DuQH26
+  doi: 10.1016/J.NEUNET.2025.108481
+  ee: https://doi.org/10.1016/j.neunet.2025.108481
+  url: https://dblp.org/rec/journals/nn/DuQH26
+- author: Renda Han, Xinyuan Li, Guangzhen Yao, Mengfei Li, Wenxin Zhang 0005, Ronghao
+    Fu, Zeyu Zhang 0006, Junlong Wu
+  title: Federated graph-level clustering network with adaptive knowledge compensation.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/HanLYLZFZW26
+  doi: 10.1016/J.NEUNET.2025.108212
+  ee: https://doi.org/10.1016/j.neunet.2025.108212
+  url: https://dblp.org/rec/journals/nn/HanLYLZFZW26
+- author: Li Wang 0064, Qiang Wu 0001, Min Xu 0001
+  title: 'FedPCL-CDR: A federated prototype-based contrastive learning framework for
+    privacy-preserving cross-domain recommendation.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WangWX26
+  doi: 10.1016/J.NEUNET.2025.108380
+  ee: https://doi.org/10.1016/j.neunet.2025.108380
+  url: https://dblp.org/rec/journals/nn/WangWX26
+- author: Yinan Wu, Yanli Ren, Zheng Guo, Mu Huang
+  title: Privacy-preserving personalized federated prompt learning for vision-language
+    models.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/WuRGH26
+  doi: 10.1016/J.NEUNET.2025.108220
+  ee: https://doi.org/10.1016/j.neunet.2025.108220
+  url: https://dblp.org/rec/journals/nn/WuRGH26
 federated%20streamid%3Ajournals%2Fijon%3A:
 - &id4491
   author: Flora Amato, Lingyu Qiu, Muhammad Tanveer 0001, Salvatore Cuomo, Daniela
@@ -62469,6 +64685,39 @@ federated%20streamid%3Ajournals%2Fijon%3A:
   doi: 10.1016/J.NEUCOM.2026.132628
   ee: https://doi.org/10.1016/j.neucom.2026.132628
   url: https://dblp.org/rec/journals/ijon/ZhangPLQ26
+- author: Zhengyang Zhang, Chunmei Ma, Baogui Huang, Guangshun Li, Zhaofeng Niu, Defu
+    Qiu
+  title: Secure federated learning based on multi-round critical parameters.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ZhangMHLNQ26
+  doi: 10.1016/J.NEUCOM.2025.132471
+  ee: https://doi.org/10.1016/j.neucom.2025.132471
+  url: https://dblp.org/rec/journals/ijon/ZhangMHLNQ26
+- author: Jiachen Zhu, Yanrong Lu, Wencheng Yang, Ji Zhang 0001
+  title: An enhanced low-rank fine-tuning framework for federated large language models.
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/ZhuLYZ26
+  doi: 10.1016/J.NEUCOM.2025.132475
+  ee: https://doi.org/10.1016/j.neucom.2025.132475
+  url: https://dblp.org/rec/journals/ijon/ZhuLYZ26
+- author: Jiuyun Xu, Yingzhi Zhao, Xiaowen Li, Liang Zhou, Kongshang Zhu, Xiangrui
+    Xu 0004, Qiang Duan 0002, Ruru Zhang
+  title: 'TEG-DI: Dynamic incentive model for Federated Learning based on Tripartite
+    Evolutionary Game.'
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/XuZLZZXDZ25
+  doi: 10.1016/J.NEUCOM.2024.129259
+  ee: https://doi.org/10.1016/j.neucom.2024.129259
+  url: https://dblp.org/rec/journals/ijon/XuZLZZXDZ25
 federated%20streamid%3Ajournals%2Fnca%3A:
 - &id4566
   author: Zaher Al Aghbari, Ahmed M. Khedr, Naveed Ahmed 0001, Shini Girija, Thar
@@ -62838,6 +65087,16 @@ federated%20streamid%3Ajournals%2Fnca%3A:
 - *id4591
 - *id4592
 - *id4593
+- author: Ye Li 0041, Jiale Zhang 0001, Junwu Zhu, Wenjuan Li 0001
+  title: 'Blockfd: blockchain-based federated distillation against poisoning attacks.'
+  venue: Neural Comput. Appl.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/nca/LiZZL24
+  doi: 10.1007/S00521-024-09715-W
+  ee: https://doi.org/10.1007/s00521-024-09715-w
+  url: https://dblp.org/rec/journals/nca/LiZZL24
 federated%20streamid%3Ajournals%2Fjair%3A:
 - &id4594
   author: Zhaonan Qu, Kaixiang Lin, Zhaojian Li 0001, Jiayu Zhou, Zhengyuan Zhou
@@ -63940,6 +66199,17 @@ model%20inference%20venue%3ANeurIPS%3A:
 - *id4676
 - *id4677
 - *id4678
+- author: Yaxin Xiao, Qingqing Ye 0001, Haibo Hu 0001, Huadi Zheng, Chengfang Fang,
+    Jie Shi 0005
+  title: 'MExMI: Pool-based Active Model Extraction Crossover Membership Inference.'
+  venue: NeurIPS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/Xiao00ZFS22
+  doi: ''
+  ee: http://papers.nips.cc/paper_files/paper/2022/hash/4241c27d3161c7a7064bfc1a6e539563-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/nips/Xiao00ZFS22
 model%20inference%20venue%3AICML%3A:
 - &id4679
   author: Mitchell Wortsman, Gabriel Ilharco, Samir Yitzhak Gadre, Rebecca Roelofs,
@@ -65288,6 +67558,357 @@ model%20inference%20venue%3AICML%3A:
   doi: ''
   ee: https://openreview.net/forum?id=tnxONP8zTE
   url: https://dblp.org/rec/conf/icml/HouLLZL0L0D25
+- author: Ge Li 0001, Yao Wan 0001, Hongyu Zhang 0002, Zhou Zhao 0001, Wenbin Jiang
+    0001, Xuanhua Shi, Hai Jin 0001, Zheng Wang 0001
+  title: Dataflow-Guided Neuro-Symbolic Language Models for Type Inference.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/00010000S0025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/li25cj.html
+  url: https://dblp.org/rec/conf/icml/00010000S0025
+- author: Song Bian 0002, Minghao Yan, Shivaram Venkataraman
+  title: Scaling Inference-Efficient Language Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0002YV25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/bian25b.html
+  url: https://dblp.org/rec/conf/icml/0002YV25
+- author: Jialin Zhao 0004, Yingtao Zhang, Carlo Vittorio Cannistraci
+  title: 'Pivoting Factorization: A Compact Meta Low-Rank Representation of Sparsity
+    for Efficient Inference in Large Language Models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0004ZC25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhao25af.html
+  url: https://dblp.org/rec/conf/icml/0004ZC25
+- author: Yuan Zhang 0020, Chun-Kai Fan, Junpeng Ma, Wenzhao Zheng, Tao Huang 0020,
+    Kuan Cheng, Denis A. Gudovskiy, Tomoyuki Okuno, Yohei Nakata, Kurt Keutzer, Shanghang
+    Zhang
+  title: 'SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model
+    Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0020FMZ0CGONKZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25s.html
+  url: https://dblp.org/rec/conf/icml/0020FMZ0CGONKZ25
+- author: Ananth Balashankar, Ziteng Sun, Jonathan Berant, Jacob Eisenstein, Michael
+    Collins 0001, Adrian Hutter, Jong Lee, Chirag Nagpal, Flavien Prost, Aradhana
+    Sinha, Ananda Theertha Suresh, Ahmad Beirami
+  title: 'InfAlign: Inference-aware language model alignment.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/BalashankarSBE025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/balashankar25a.html
+  url: https://dblp.org/rec/conf/icml/BalashankarSBE025
+- author: Leo de Castro, Daniel Escudero 0001, Adya Agrawal, Antigoni Polychroniadou,
+    Manuela Veloso
+  title: 'EncryptedLLM: Privacy-Preserving Large Language Model Inference via GPU-Accelerated
+    Fully Homomorphic Encryption.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Castro0APV25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/de-castro25a.html
+  url: https://dblp.org/rec/conf/icml/Castro0APV25
+- author: Juan D. Correa, Elias Bareinboim
+  title: 'Counterfactual Graphical Models: Constraints and Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/CorreaB25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/correa25a.html
+  url: https://dblp.org/rec/conf/icml/CorreaB25
+- author: Tianyu Cui, Song-Jun Xu, Artem Moskalev, Shuwei Li, Tommaso Mansi, Mangal
+    Prakash, Rui Liao
+  title: 'InfoSEM: A Deep Generative Model with Informative Priors for Gene Regulatory
+    Network Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/CuiXMLMPL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/cui25e.html
+  url: https://dblp.org/rec/conf/icml/CuiXMLMPL25
+- author: Weihua Du, Yiming Yang 0002, Sean Welleck
+  title: Optimizing Temperature for Language Models with Multi-Sample Inference.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Du0W25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/du25f.html
+  url: https://dblp.org/rec/conf/icml/Du0W25
+- author: Xiaoxuan Han, Songlin Yang, Wei Wang 0025, Yang Li, Jing Dong 0003
+  title: 'Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image
+    Diffusion Models at Inference Time.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HanY0L025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/han25k.html
+  url: https://dblp.org/rec/conf/icml/HanY0L025
+- author: Zhenyu Hou, Xin Lv, Rui Lu 0002, Jiajie Zhang, Yujiang Li, Zijun Yao 0002,
+    Juanzi Li, Jie Tang 0001, Yuxiao Dong
+  title: 'T1: Advancing Language Model Reasoning through Reinforcement Learning and
+    Inference Scaling.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HouLLZL0L0D25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/hou25e.html
+  url: https://dblp.org/rec/conf/icml/HouLLZL0L0D25
+- author: Deqian Kong, Minglu Zhao, Dehong Xu, Bo Pang 0004, Shu Wang 0002, Edouardo
+    Honig, Zhangzhang Si, Chuan Li, Jianwen Xie, Sirui Xie, Ying Nian Wu
+  title: Latent Thought Models with Variational Bayes Inference-Time Computation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/KongZX00HSLXXW25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/kong25c.html
+  url: https://dblp.org/rec/conf/icml/KongZX00HSLXXW25
+- author: Patrick Leask, Neel Nanda, Noura Al Moubayed
+  title: 'Inference-Time Decomposition of Activations (ITDA): A Scalable Approach
+    to Interpreting Large Language Models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LeaskNM25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/leask25a.html
+  url: https://dblp.org/rec/conf/icml/LeaskNM25
+- author: Noam Itzhak Levi
+  title: A Simple Model of Inference Scaling Laws.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Levi25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/levi25a.html
+  url: https://dblp.org/rec/conf/icml/Levi25
+- author: Jingwei Li, Jing Dong 0008, Tianxing He, Jingzhao Zhang
+  title: Towards Black-Box Membership Inference Attack for Diffusion Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Li0HZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/li25k.html
+  url: https://dblp.org/rec/conf/icml/Li0HZ25
+- author: Bruno Kacper Mlodozeniec, David Krueger 0001, Richard E. Turner
+  title: 'Position: Probabilistic Modelling is Sufficient for Causal Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Mlodozeniec0T25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/mlodozeniec25a.html
+  url: https://dblp.org/rec/conf/icml/Mlodozeniec0T25
+- author: Quan Minh Nguyen, Minh N. Vu, Truc Nguyen, My T. Thai
+  title: Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in
+    Federated Vision Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/NguyenVNT25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/nguyen25j.html
+  url: https://dblp.org/rec/conf/icml/NguyenVNT25
+- author: "Thomas Schmied, Thomas Adler, Vihang Prakash Patil, Maximilian Beck, Korbinian\
+    \ P\xF6ppel, Johannes Brandstetter, G\xFCnter Klambauer, Razvan Pascanu, Sepp\
+    \ Hochreiter"
+  title: 'A Large Recurrent Action Model: xLSTM enables Fast Inference for Robotics
+    Tasks.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/SchmiedAPBPBKPH25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/schmied25a.html
+  url: https://dblp.org/rec/conf/icml/SchmiedAPBPBKPH25
+- author: Raghav Singhal, Zachary Horvitz, Ryan Teehan, Mengye Ren, Zhou Yu, Kathleen
+    McKeown, Rajesh Ranganath
+  title: A General Framework for Inference-time Scaling and Steering of Diffusion
+    Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/SinghalHTRYMR25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/singhal25b.html
+  url: https://dblp.org/rec/conf/icml/SinghalHTRYMR25
+- author: Zhiwei Tang, Jiangweizhi Peng, Jiasheng Tang, Mingyi Hong 0001, Fan Wang
+    0019, Tsung-Hui Chang
+  title: Inference-Time Alignment of Diffusion Models with Direct Noise Optimization.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/TangPT00C25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/tang25h.html
+  url: https://dblp.org/rec/conf/icml/TangPT00C25
+- author: "Yunhao Tang, Kunhao Zheng, Gabriel Synnaeve, R\xE9mi Munos"
+  title: Optimizing Language Models for Inference Time Objectives using Reinforcement
+    Learning.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/TangZSM25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/tang25o.html
+  url: https://dblp.org/rec/conf/icml/TangZSM25
+- author: Alejandro Velez-Arce, Marinka Zitnik
+  title: 'PyTDC: A multimodal machine learning training, evaluation, and inference
+    platform for biomedical foundation models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Velez-ArceZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/velez-arce25a.html
+  url: https://dblp.org/rec/conf/icml/Velez-ArceZ25
+- author: Siddarth Venkatraman, Mohsin Hasan, Minsu Kim 0004, Luca Scimeca, Marcin
+    Sendera, Yoshua Bengio, Glen Berseth, Nikolay Malkin
+  title: 'Outsourced Diffusion Sampling: Efficient Posterior Inference in Latent Spaces
+    of Generative Models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/VenkatramanH0SS25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/venkatraman25a.html
+  url: https://dblp.org/rec/conf/icml/VenkatramanH0SS25
+- author: Haoyu Peter Wang, Shikun Liu, Rongzhe Wei, Pan Li 0005
+  title: Generalization Principles for Inference over Text-Attributed Graphs with
+    Large Language Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangLW025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25bq.html
+  url: https://dblp.org/rec/conf/icml/WangLW025
+- author: Qinsi Wang, Hancheng Ye, Ming-Yu Chung, Yudong Liu, Yueqian Lin, Martin
+    Kuo, Mingyuan Ma, Jianyi Zhang, Yiran Chen 0001
+  title: 'CoreMatching: A Co-adaptive Sparse Inference Framework with Token and Neuron
+    Pruning for Comprehensive Acceleration of Vision-Language Models.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/WangYCLLKMZ025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25eb.html
+  url: https://dblp.org/rec/conf/icml/WangYCLLKMZ025
+- author: Zeyu Yang, Wesley Armour
+  title: 'The Hidden Joules: Evaluating the Energy Consumption of Vision Backbones
+    for Progress Towards More Efficient Model Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YangA25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/yang25b.html
+  url: https://dblp.org/rec/conf/icml/YangA25
+- author: Taeyoung Yun, Kiyoung Om, Jaewoo Lee, Sujin Yun, Jinkyoo Park
+  title: Posterior Inference with Diffusion Models for High-dimensional Black-box
+    Optimization.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YunOLYP25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/yun25a.html
+  url: https://dblp.org/rec/conf/icml/YunOLYP25
+- author: Ce Zhang, Yixin Han, Yafei Wang, Xiaodong Yan, Linglong Kong, Ting Li, Bei
+    Jiang
+  title: 'Differentially Private Analysis for Binary Response Models: Optimality,
+    Estimation, and Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhangHWYKLJ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25x.html
+  url: https://dblp.org/rec/conf/icml/ZhangHWYKLJ25
+- author: Muru Zhang, Mayank Mishra, Zhongzhu Zhou, William Brandon, Jue Wang, Yoon
+    Kim, Jonathan Ragan-Kelley, Shuaiwen Leon Song, Ben Athiwaratkun, Tri Dao
+  title: 'Ladder-Residual: Parallelism-Aware Architecture for Accelerating Large Model
+    Inference with Communication Overlapping.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhangMZBWKRSAD25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25bg.html
+  url: https://dblp.org/rec/conf/icml/ZhangMZBWKRSAD25
+- author: Jintao Zhang, Chendong Xiang, Haofeng Huang, Jia Wei, Haocheng Xi, Jun Zhu
+    0001, Jianfei Chen 0001
+  title: 'SpargeAttention: Accurate and Training-free Sparse Attention Accelerating
+    Any Model Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhangXHWX0C25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhang25ch.html
+  url: https://dblp.org/rec/conf/icml/ZhangXHWX0C25
+- author: Jixian Zhou, Fang Dong, Ruijun Huang, Hengjie Cao, Mengyi Chen, Yifeng Yang,
+    Anrui Chen, Mingzhi Dong, Yujiang Wang 0001, Dongsheng Li 0002, David A. Clifton,
+    Qin Lv, Rui Zhu 0006, Chun Zhang, Fan Yang 0001, Tun Lu, Ning Gu 0001, Li Shang
+  title: 'Oracle-MoE: Locality-preserving Routing in the Oracle Space for Memory-constrained
+    Large Language Model Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ZhouDHCCYCD00CL25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/zhou25b.html
+  url: https://dblp.org/rec/conf/icml/ZhouDHCCYCD00CL25
 model%20inference%20venue%3AICLR%3A:
 - &id4783
   author: Costin-Andrei Oncescu, Sanket Purandare, Stratos Idreos, Sham M. Kakade
@@ -69770,6 +72391,17 @@ model%20inference%20venue%3AACL%3A:
   doi: 10.18653/V1/2025.ACL-LONG.569
   ee: https://doi.org/10.18653/v1/2025.acl-long.569
   url: https://dblp.org/rec/conf/acl/MiaoF25
+- author: Omar Shaikh, Caleb Ziems, William Barr Held, Aryan J. Pariani, Fred Morstatter,
+    Diyi Yang
+  title: Modeling Cross-Cultural Pragmatic Inference with Codenames Duet.
+  venue: ACL
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/acl/ShaikhZHPMY23
+  doi: 10.18653/V1/2023.FINDINGS-ACL.410
+  ee: https://doi.org/10.18653/v1/2023.findings-acl.410
+  url: https://dblp.org/rec/conf/acl/ShaikhZHPMY23
 model%20inference%20venue%3ANAACL-HLT%3A:
 - &id5130
   author: Shikhar Tuli, Chi-Heng Lin, Yen-Chang Hsu, Niraj K. Jha, Yilin Shen, Hongxia
@@ -70529,6 +73161,131 @@ model%20inference%20venue%3AEMNLP%3A:
   doi: 10.18653/V1/2024.EMNLP-INDUSTRY.34
   ee: https://doi.org/10.18653/v1/2024.emnlp-industry.34
   url: https://dblp.org/rec/conf/emnlp/StripelisX0SJYZ24
+- author: Hua Cai, Shuang Zhao, Liang Zhang, Xuli Shen, Qing Xu 0017, Weilin Shen,
+    Zihao Wen, Tianke Ban
+  title: 'Unilaw-R1: A Large Language Model for Legal Reasoning with Reinforcement
+    Learning and Iterative Inference.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/CaiZZSXSWB25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.915
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.915
+  url: https://dblp.org/rec/conf/emnlp/CaiZZSXSWB25
+- author: Hongyan Chang, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi,
+    Reza Shokri
+  title: Context-Aware Membership Inference Attacks against Pre-trained Large Language
+    Models.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChangSKHS25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.370
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.370
+  url: https://dblp.org/rec/conf/emnlp/ChangSKHS25
+- author: Zhuo Chen, Xinyu Wang 0013, Yong Jiang 0005, Zhen Zhang, Xinyu Geng, Pengjun
+    Xie, Fei Huang 0002, Kewei Tu
+  title: Detecting Knowledge Boundary of Vision Large Language Models by Sampling-Based
+    Inference.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChenWJZGXHT25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1458
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1458
+  url: https://dblp.org/rec/conf/emnlp/ChenWJZGXHT25
+- author: Benyamin Jamialahmadi 0001, Parsa Kavehzadeh, Mehdi Rezagholizadeh, Parsa
+    Farinneya, Hossein Rajabzadeh, Aref Jafari, Boxing Chen, Marzieh S. Tahaei
+  title: 'Balcony: A Lightweight Approach to Dynamic Inference of Generative Language
+    Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/JamialahmadiKRFRJCT25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1263
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1263
+  url: https://dblp.org/rec/conf/emnlp/JamialahmadiKRFRJCT25
+- author: Yifan Lan, Yuanpu Cao, Weitong Zhang, Lu Lin 0001, Jinghui Chen
+  title: 'Phi: Preference Hijacking in Multi-modal Large Language Models at Inference
+    Time.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LanCZLC25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.901
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.901
+  url: https://dblp.org/rec/conf/emnlp/LanCZLC25
+- author: Jiazheng Li 0002, Yuxiang Zhou, Junru Lu, Gladys Tyen, Lin Gui 0003, Cesare
+    Aloisi, Yulan He 0001
+  title: 'Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiZLTGAH25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.155
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.155
+  url: https://dblp.org/rec/conf/emnlp/LiZLTGAH25
+- author: Xuyang Liu, Yiyu Wang, Junpeng Ma, Linfeng Zhang
+  title: 'Video Compression Commander: Plug-and-Play Inference Acceleration for Video
+    Large Language Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/LiuWMZ25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.98
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.98
+  url: https://dblp.org/rec/conf/emnlp/LiuWMZ25
+- author: Aurick Qiao, Zhewei Yao, Samyam Rajbhandari, Yuxiong He
+  title: 'SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model
+    Transformation.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/QiaoYRH25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1306
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1306
+  url: https://dblp.org/rec/conf/emnlp/QiaoYRH25
+- author: Aida Ramezani, Yang Xu
+  title: The discordance between embedded ethics and cultural inference in large language
+    models.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/RamezaniX25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.743
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.743
+  url: https://dblp.org/rec/conf/emnlp/RamezaniX25
+- author: Tomohiro Sawada, Kartik Goyal
+  title: 'Train It and Forget It: Merge Lists are Unnecessary for BPE Inference in
+    Language Models.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/SawadaG25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1775
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1775
+  url: https://dblp.org/rec/conf/emnlp/SawadaG25
+- author: Yuebin Xu, Zhiyi Chen, Zeyi Wen
+  title: 'EcoTune: Token-Efficient Multi-Fidelity Hyperparameter Optimization for
+    Large Language Model Inference.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/XuCW25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.394
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.394
+  url: https://dblp.org/rec/conf/emnlp/XuCW25
 model%20inference%20venue%3ACOLING%3A:
 - &id5187
   author: Xu Sun 0001, Louis-Philippe Morency, Daisuke Okanohara, Yoshimasa Tsuruoka,
@@ -71510,6 +74267,28 @@ model%20inference%20venue%3AISCA%3A:
   doi: 10.1145/3695053.3730996
   ee: https://doi.org/10.1145/3695053.3730996
   url: https://dblp.org/rec/conf/isca/XuPZCLLWD25
+- author: Shiheng Cao, Junmin Wu, Junshi Chen 0003, Hong An, Zhibin Yu 0001
+  title: 'AMALI: An Analytical Model for Accurately Modeling LLM Inference on Modern
+    GPUs.'
+  venue: ISCA
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isca/CaoWCA025
+  doi: 10.1145/3695053.3731064
+  ee: https://doi.org/10.1145/3695053.3731064
+  url: https://dblp.org/rec/conf/isca/CaoWCA025
+- author: Youpeng Zhao 0002, Di Wu 0016, Jun Wang 0001
+  title: 'ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV
+    Caching.'
+  venue: ISCA
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/isca/ZhaoWW24
+  doi: 10.1109/ISCA59077.2024.00077
+  ee: https://doi.org/10.1109/ISCA59077.2024.00077
+  url: https://dblp.org/rec/conf/isca/ZhaoWW24
 model%20inference%20venue%3AMLSys%3A:
 - &id5256
   author: Ke Hong, Guohao Dai, Jiaming Xu, Qiuli Mao, Xiuhong Li, Jun Liu 0071, Kangdi
@@ -71577,6 +74356,18 @@ model%20inference%20venue%3AMLSys%3A:
   doi: ''
   ee: https://openreview.net/forum?id=YDksTjY3YY
   url: https://dblp.org/rec/conf/mlsys/Su0LAJZSGP25
+- author: Ke Hong, Guohao Dai 0002, Jiaming Xu, Qiuli Mao, Xiuhong Li, Jun Liu 0071,
+    Kangdi Chen, Yuhan Dong, Yu Wang 0002
+  title: 'FlashDecoding++: Faster Large Language Model Inference with Asynchronization,
+    Flat GEMM Optimization, and Heuristics.'
+  venue: MLSys
+  year: '2024'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/mlsys/HongDXMLLCD024
+  doi: ''
+  ee: https://proceedings.mlsys.org/paper_files/paper/2024/hash/5321b1dabcd2be188d796c21b733e8c7-Abstract-Conference.html
+  url: https://dblp.org/rec/conf/mlsys/HongDXMLLCD024
 model%20inference%20venue%3ADAC%3A:
 - &id5260
   author: Dancheng Liu, Chenhui Xu, Jiajie Li 0002, Amir Nassereldine, Jinjun Xiong
@@ -72124,6 +74915,28 @@ model%20inference%20streamid%3Aconf%2Fmm%3A:
   ee: https://doi.org/10.1145/3746027.3754894
   url: https://dblp.org/rec/conf/mm/Zhu0LLCXHG25
 - author: Yitong Zhu, Zhuowen Liang, Yiming Wu, Tangyao Li, Yuyang Wang
+  title: 'Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for
+    Real-Time Vision-Only Inference.'
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ZhuLWLW25
+  doi: 10.1145/3746027.3755115
+  ee: https://doi.org/10.1145/3746027.3755115
+  url: https://dblp.org/rec/conf/mm/ZhuLWLW25
+- author: Qiyuan Zhu, Lujun Li 0001, Dezhi Li, Jiacheng Liu 0001, Pengyu Cheng, Yucheng
+    Xu, Sirui Han, Yike Guo
+  title: Outlier-Aware Model Merging for Efficient Multitask Inference.
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/Zhu0LLCXHG25
+  doi: 10.1145/3746027.3754894
+  ee: https://doi.org/10.1145/3746027.3754894
+  url: https://dblp.org/rec/conf/mm/Zhu0LLCXHG25
+- author: Yitong Zhu, Zhuowen Liang, Yiming Wu, Tangyao Li, Yuyang Wang 0002
   title: 'Towards Consumer-Grade Cybersickness Prediction: Multi-Model Alignment for
     Real-Time Vision-Only Inference.'
   venue: ACM Multimedia
@@ -75251,6 +78064,17 @@ model%20inference%20streamid%3Ajournals%2Ftcad%3A:
 - *id5531
 - *id5532
 - *id5533
+- author: Guodong Zhang, Guoqi Xie, Wenyan Yan, Chenglai Xiong, Junjie Wen, Zhenli
+    He, Shaowen Yao 0001
+  title: 'Paddle Lite on Zephyr: Deploying AI Models in RTOS for Inference Acceleration.'
+  venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tcad/ZhangXYXWHY26
+  doi: 10.1109/TCAD.2025.3581867
+  ee: https://doi.org/10.1109/TCAD.2025.3581867
+  url: https://dblp.org/rec/journals/tcad/ZhangXYXWHY26
 model%20inference%20streamid%3Ajournals%2Ftc%3A:
 - &id5534
   author: "Guillermo Lloret-Talavera, Marc Jord\xE0, Harald Servat, Fabian Boemer,\
@@ -75727,6 +78551,18 @@ model%20inference%20streamid%3Ajournals%2Fkbs%3A:
   doi: 10.1016/J.KNOSYS.2025.114825
   ee: https://doi.org/10.1016/j.knosys.2025.114825
   url: https://dblp.org/rec/journals/kbs/TorresMorenoV25
+- author: Jie Ou, Jinyu Guo, Shuaihong Jiang, Xu Li, Ruini Xue, Wenhong Tian, Rajkumar
+    Buyya
+  title: Accelerating long-context inference of large language models via dynamic
+    attention load balancing.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/OuGJLXTB26
+  doi: 10.1016/J.KNOSYS.2025.115018
+  ee: https://doi.org/10.1016/j.knosys.2025.115018
+  url: https://dblp.org/rec/journals/kbs/OuGJLXTB26
 model%20inference%20streamid%3Ajournals%2Fisci%3A:
 - &id5569
   author: Qizheng Wang, Wenping Ma 0002, Weiwei Wang
@@ -76595,6 +79431,28 @@ model%20inference%20streamid%3Ajournals%2Fnn%3A:
 - *id5631
 - *id5632
 - *id5633
+- author: Jiaxuan Chen, Yancheng Xie, Hai Wang 0002
+  title: 'fastiSSM: Fast inference of state space model with online model approximation
+    in frequency-domain.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ChenXW26
+  doi: 10.1016/J.NEUNET.2025.108459
+  ee: https://doi.org/10.1016/j.neunet.2025.108459
+  url: https://dblp.org/rec/journals/nn/ChenXW26
+- author: Giacomo Arcieri, Konstantinos G. Papakonstantinou, Daniel Straub, Eleni
+    N. Chatzi
+  title: Deep belief Markov models for POMDP inference.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/ArcieriPSC26
+  doi: 10.1016/J.NEUNET.2025.108386
+  ee: https://doi.org/10.1016/j.neunet.2025.108386
+  url: https://dblp.org/rec/journals/nn/ArcieriPSC26
 model%20inference%20streamid%3Ajournals%2Fijon%3A:
 - &id5634
   author: Yuping Lai, Huirui Cao, Lijuan Luo, Yongmei Zhang, Fukun Bi, Xiaolin Gui,
@@ -77144,6 +80002,27 @@ model%20inference%20attack%20venue%3AICML%3A:
 - *id5673
 - *id5674
 - *id5675
+- author: Jingwei Li, Jing Dong 0008, Tianxing He, Jingzhao Zhang
+  title: Towards Black-Box Membership Inference Attack for Diffusion Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Li0HZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/li25k.html
+  url: https://dblp.org/rec/conf/icml/Li0HZ25
+- author: Quan Minh Nguyen, Minh N. Vu, Truc Nguyen, My T. Thai
+  title: Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in
+    Federated Vision Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/NguyenVNT25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/nguyen25j.html
+  url: https://dblp.org/rec/conf/icml/NguyenVNT25
 model%20inference%20attack%20venue%3AICLR%3A:
 - &id5676
   author: Khanh Nguyen, Raouf Kerkouche, Mario Fritz, Dimosthenis Karatzas
@@ -77454,6 +80333,18 @@ model%20inference%20attack%20venue%3AEMNLP%3A:
 - *id5696
 - *id5697
 - *id5698
+- author: Hongyan Chang, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi,
+    Reza Shokri
+  title: Context-Aware Membership Inference Attacks against Pre-trained Large Language
+    Models.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChangSKHS25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.370
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.370
+  url: https://dblp.org/rec/conf/emnlp/ChangSKHS25
 model%20inference%20attack%20venue%3AICDE%3A:
 - &id5699
   author: Xinjian Luo, Yuncheng Wu, Xiaokui Xiao, Beng Chin Ooi
@@ -78348,6 +81239,18 @@ model%20injection%20venue%3AEMNLP%3A:
 - *id5759
 - *id5760
 - *id5761
+- author: Guanyu Hou, Jiaming He, Yinhang Zhou, Ji Guo, Yitong Qiao, Rui Zhang, Wenbo
+    Jiang 0001
+  title: 'Evaluating Robustness of Large Audio Language Models to Audio Injection:
+    An Empirical Study.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/HouHZGQZJ25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1303
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1303
+  url: https://dblp.org/rec/conf/emnlp/HouHZGQZJ25
 model%20injection%20venue%3ACOLING%3A:
 - &id5762
   author: Reinald Kim Amplayo, Kang Min Yoo, Sang-Woo Lee 0001
@@ -79228,6 +82131,38 @@ inference%20attack%20venue%3AICML%3A:
   doi: ''
   ee: http://proceedings.mlr.press/v139/kaya21a.html
   url: https://dblp.org/rec/conf/icml/KayaD21
+- author: Jingwei Li, Jing Dong 0008, Tianxing He, Jingzhao Zhang
+  title: Towards Black-Box Membership Inference Attack for Diffusion Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Li0HZ25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/li25k.html
+  url: https://dblp.org/rec/conf/icml/Li0HZ25
+- author: Quan Minh Nguyen, Minh N. Vu, Truc Nguyen, My T. Thai
+  title: Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in
+    Federated Vision Models.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/NguyenVNT25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/nguyen25j.html
+  url: https://dblp.org/rec/conf/icml/NguyenVNT25
+- author: Rahul Krishna Thomas, Louai Zahran, Erica Choi, Akilesh Potti, Micah Goldblum,
+    Arka Pal
+  title: 'Hidden No More: Attacking and Defending Private Third-Party LLM Inference.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ThomasZCPGP25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/thomas25b.html
+  url: https://dblp.org/rec/conf/icml/ThomasZCPGP25
 inference%20attack%20venue%3AICLR%3A:
 - author: Khanh Nguyen, Raouf Kerkouche, Mario Fritz, Dimosthenis Karatzas
   title: 'DocMIA: Document-Level Membership Inference Attacks against DocVQA Models.'
@@ -79671,6 +82606,18 @@ inference%20attack%20venue%3AIJCAI%3A:
   doi: 10.24963/IJCAI.2021/432
   ee: https://doi.org/10.24963/ijcai.2021/432
   url: https://dblp.org/rec/conf/ijcai/WangWWZ0BDR21
+- author: Haiyang Chen, Xiaolong Xu 0001, Xiang Zhu, Xiaokang Zhou, Fei Dai 0002,
+    Yansong Gao 0001, Xiao Chen, Shuo Wang 0026, Hongsheng Hu
+  title: Where Does This Data Come From? Enhanced Source Inference Attacks in Federated
+    Learning.
+  venue: IJCAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenXZZDGCWH25
+  doi: 10.24963/IJCAI.2025/536
+  ee: https://doi.org/10.24963/ijcai.2025/536
+  url: https://dblp.org/rec/conf/ijcai/ChenXZZDGCWH25
 inference%20attack%20venue%3AAAAI%3A:
 - author: "Francesco Diana, Othmane Marfoq, Chuan Xu 0002, Giovanni Neglia, Fr\xE9\
     d\xE9ric Giroire, Eoin Thomas"
@@ -80350,6 +83297,28 @@ inference%20attack%20venue%3AEMNLP%3A:
   doi: 10.18653/V1/2022.EMNLP-MAIN.570
   ee: https://doi.org/10.18653/v1/2022.emnlp-main.570
   url: https://dblp.org/rec/conf/emnlp/MireshghallahGU22
+- author: Hongyan Chang, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi,
+    Reza Shokri
+  title: Context-Aware Membership Inference Attacks against Pre-trained Large Language
+    Models.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChangSKHS25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.370
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.370
+  url: https://dblp.org/rec/conf/emnlp/ChangSKHS25
+- author: Advit Deepak, Megan Mou, Jing Huang, Diyi Yang
+  title: Identifying Unlearned Data in LLMs via Membership Inference Attacks.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/DeepakMHY25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.551
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.551
+  url: https://dblp.org/rec/conf/emnlp/DeepakMHY25
 inference%20attack%20venue%3AICDE%3A:
 - author: Wenhan Wu, Yili Gong, Jiawei Jiang 0001, Chuang Hu, Xiaobo Zhou 0002, Dazhao
     Cheng
@@ -81232,6 +84201,18 @@ inference%20attack%20streamid%3Ajournals%2Ftkde%3A:
   doi: 10.1109/TKDE.2012.120
   ee: https://doi.org/10.1109/TKDE.2012.120
   url: https://dblp.org/rec/journals/tkde/HeatherlyKT13
+- author: Yudi Xiong, Yongxin Guo 0001, Weike Pan, Qiang Yang 0001, Zhong Ming 0001,
+    Xiaojin Zhang 0002, Han Yu 0001, Tao Lin 0004, Xiaoying Tang 0002
+  title: Camouflaged Variational Graph AutoEncoder Against Attribute Inference Attacks
+    for Cross-Domain Recommendation.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/XiongGPYMZYLT25
+  doi: 10.1109/TKDE.2025.3565793
+  ee: https://doi.org/10.1109/TKDE.2025.3565793
+  url: https://dblp.org/rec/journals/tkde/XiongGPYMZYLT25
 inference%20attack%20streamid%3Ajournals%2Ftbd%3A:
 - author: Faqian Guan, Tianqing Zhu, Wanlei Zhou 0001, Philip S. Yu
   title: Topology-Based Node-Level Membership Inference Attacks on Graph Neural Networks.
@@ -82390,6 +85371,18 @@ mamba%20segmentation%20streamid%3Aconf%2Fmm%3A:
   doi: 10.1145/3746027.3755147
   ee: https://doi.org/10.1145/3746027.3755147
   url: https://dblp.org/rec/conf/mm/ZhangSZLLAGY25
+- author: Ruicheng Zhang, Yu Sun, Zeyu Zhang 0006, Jinai Li, Xiaofan Liu, Hoi Fan
+    Au, Haowei Guo, Puxin Yan
+  title: 'MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for
+    Active Contour Optimization in Medical Image Segmentation.'
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ZhangSZLLAGY25
+  doi: 10.1145/3746027.3755147
+  ee: https://doi.org/10.1145/3746027.3755147
+  url: https://dblp.org/rec/conf/mm/ZhangSZLLAGY25
 mamba%20segmentation%20streamid%3Ajournals%2Ftmi%3A:
 - author: Zihan Cheng 0001, Jintao Guo, Jian Zhang 0090, Lei Qi 0001, Luping Zhou,
     Yinghuan Shi, Yang Gao 0001
@@ -82427,6 +85420,18 @@ mamba%20segmentation%20streamid%3Ajournals%2Ftmi%3A:
   doi: 10.1109/TMI.2025.3584468
   ee: https://doi.org/10.1109/TMI.2025.3584468
   url: https://dblp.org/rec/journals/tmi/WangCCXZSFYZ25
+- author: Zhaohu Xing, Tian Ye 0001, Yijun Yang, Du Cai, Baowen Gai, Xiao-Jian Wu,
+    Feng Gao, Lei Zhu 0003
+  title: 'SegMamba-V2: Long-Range Sequential Modeling Mamba for General 3-D Medical
+    Image Segmentation.'
+  venue: IEEE Trans. Medical Imaging
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/XingYYCGWGZ26
+  doi: 10.1109/TMI.2025.3589797
+  ee: https://doi.org/10.1109/TMI.2025.3589797
+  url: https://dblp.org/rec/journals/tmi/XingYYCGWGZ26
 mamba%20segmentation%20streamid%3Ajournals%2Ftitb%3A:
 - author: Pengchen Liang, Leijun Shi, Bin Pu, Renkai Wu, Jianguo Chen 0001, Lixin
     Zhou, Lite Xu, Zhuangzhuang Chen, Qing Chang 0004, Yiwei Li
@@ -82614,6 +85619,30 @@ mamba%20segmentation%20streamid%3Ajournals%2Fkbs%3A:
   doi: 10.1016/J.KNOSYS.2025.114130
   ee: https://doi.org/10.1016/j.knosys.2025.114130
   url: https://dblp.org/rec/journals/kbs/FengPWZKLZLQ25
+- author: Fan Chao 0002, Tianjia Zhao, Mengyang Yun, Li Chen, Huijun Zhao, Xueting
+    Wan, Ranyang Li, Xiaodong Guo
+  title: 'WMC-Net: Wavelet-enhanced mamba with contextual fusion network for medical
+    image segmentation.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChaoZYCZWLG26
+  doi: 10.1016/J.KNOSYS.2025.115134
+  ee: https://doi.org/10.1016/j.knosys.2025.115134
+  url: https://dblp.org/rec/journals/kbs/ChaoZYCZWLG26
+- author: Rongrong Ni, Yuanhui Guo, Biao Yang, Yi Liu 0038, Hai Wang 0003, Chuan Hu
+    0003
+  title: 'Mul-VMamba: Multimodal semantic segmentation using selection-fusion-based
+    vision-Mamba.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/NiGYLWH26
+  doi: 10.1016/J.KNOSYS.2025.115119
+  ee: https://doi.org/10.1016/j.knosys.2025.115119
+  url: https://dblp.org/rec/journals/kbs/NiGYLWH26
 mamba%20segmentation%20streamid%3Ajournals%2Feswa%3A:
 - author: Bingjie Guo, Wenhui Huang 0002, Xiaoyan Wang
   title: 'ABE-Mamba: Few-shot medical image segmentation via adversarial bidirectional
@@ -83134,6 +86163,60 @@ mamba%20venue%3AICML%3A:
   doi: ''
   ee: https://openreview.net/forum?id=YbHCqn4qF4
   url: https://dblp.org/rec/conf/icml/ZhuL0W0W24
+- author: Fengbin Guan, Xin Li 0082, Zihao Yu, Yiting Lu, Zhibo Chen 0001
+  title: 'QMamba: On First Exploration of Vision Mamba for Image Quality Assessment.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/Guan0YL025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/guan25d.html
+  url: https://dblp.org/rec/conf/icml/Guan0YL025
+- author: Zizheng Huang, Haoxing Chen, Jiaqi Li, Jun Lan, Huijia Zhu, Weiqiang Wang
+    0002, Limin Wang 0002
+  title: Stochastic Layer-Wise Shuffle for Improving Vision Mamba Training.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HuangCLLZ0W25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/huang25d.html
+  url: https://dblp.org/rec/conf/icml/HuangCLLZ0W25
+- author: "Ningyuan Teresa Huang, Miguel Sarabia, Abhinav Moudgil, Pau Rodr\xEDguez,\
+    \ Luca Zappella, Federico Danieli"
+  title: 'Understanding Input Selectivity in Mamba: Impact on Approximation Power,
+    Memorization, and Associative Recall Capacity.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/HuangSMRZD25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/huang25ab.html
+  url: https://dblp.org/rec/conf/icml/HuangSMRZD25
+- author: Karn Tiwari, Niladri Dutta, N. M. Anoop Krishnan, Prathosh A. P.
+  title: Latent Mamba Operator for Partial Differential Equations.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/TiwariDKP25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/tiwari25a.html
+  url: https://dblp.org/rec/conf/icml/TiwariDKP25
+- author: Yuhuan Yang, Chaofan Ma, Zhenjie Mao, Jiangchao Yao, Ya Zhang 0002, Yanfeng
+    Wang 0001
+  title: 'MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YangMMY0025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/yang25t.html
+  url: https://dblp.org/rec/conf/icml/YangMMY0025
 mamba%20venue%3AICLR%3A:
 - author: Seyedarmin Azizi, Souvik Kundu 0002, Mohammad Erfan Sadeghi, Massoud Pedram
   title: 'MambaExtend: A Training-Free Approach to Improve Long Context Extension
@@ -84302,6 +87385,28 @@ mamba%20venue%3AAAAI%3A:
   doi: 10.1609/AAAI.V39I9.33039
   ee: https://doi.org/10.1609/aaai.v39i9.33039
   url: https://dblp.org/rec/conf/aaai/YuLZWZL25
+- author: Wenbo Huang 0001, Jinghui Zhang 0001, Guang Li 0008, Lei Zhang 0130, Shuoyuan
+    Wang, Fang Dong 0001, Jiahui Jin, Takahiro Ogawa 0001, Miki Haseyama
+  title: 'Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/0001Z00WDJ0H25
+  doi: 10.1609/AAAI.V39I4.32391
+  ee: https://doi.org/10.1609/aaai.v39i4.32391
+  url: https://dblp.org/rec/conf/aaai/0001Z00WDJ0H25
+- author: Siran Chen, Yuxiao Luo 0001, Yue Ma 0016, Yu Qiao 0001, Yali Wang 0001
+  title: 'H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding
+    in Autonomous Driving.'
+  venue: AAAI
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/ChenLM0025
+  doi: 10.1609/AAAI.V39I2.32220
+  ee: https://doi.org/10.1609/aaai.v39i2.32220
+  url: https://dblp.org/rec/conf/aaai/ChenLM0025
 mamba%20venue%3AKDD%3A:
 - author: Ali Behrouz, Farnoosh Hashemi
   title: 'Graph Mamba: Towards Learning on Graphs with State Space Models.'
@@ -84378,6 +87483,39 @@ mamba%20venue%3AEMNLP%3A:
   doi: 10.18653/V1/2024.FINDINGS-EMNLP.827
   ee: https://doi.org/10.18653/v1/2024.findings-emnlp.827
   url: https://dblp.org/rec/conf/emnlp/EomSKNHKY24
+- author: Jun-Yu Ma, Tianqing Fang, Zhisong Zhang, Hongming Zhang 0009, Haitao Mi,
+    Dong Yu 0001
+  title: 'Recall with Reasoning: Chain-of-Thought Distillation for Mamba&apos;s Long-Context
+    Memory and Extrapolation.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/MaFZZMY25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.235
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.235
+  url: https://dblp.org/rec/conf/emnlp/MaFZZMY25
+- author: Ruifeng Ren, Zhicong Li, Yong Liu
+  title: Exploring the Limitations of Mamba in COPY and CoT Reasoning.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/RenLL25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.634
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.634
+  url: https://dblp.org/rec/conf/emnlp/RenLL25
+- author: Ibne Farabi Shihab, Sanjeda Akter, Anuj Sharma 0001
+  title: Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained
+    Environments.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ShihabAS25a
+  doi: 10.18653/V1/2025.EMNLP-MAIN.562
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.562
+  url: https://dblp.org/rec/conf/emnlp/ShihabAS25a
 mamba%20venue%3ACOLING%3A:
 - author: Zhenxuan Yu, Takeshi Kojima, Yutaka Matsuo, Yusuke Iwasawa
   title: 'Slender-Mamba: Fully Quantized Mamba in 1.58 Bits From Head to Toe.'
@@ -84907,6 +88045,41 @@ mamba%20streamid%3Aconf%2Fmm%3A:
   doi: 10.1145/3746027.3755147
   ee: https://doi.org/10.1145/3746027.3755147
   url: https://dblp.org/rec/conf/mm/ZhangSZLLAGY25
+- author: Yamiao Ding, Tianrui Liu 0001, Zhizhou Lu, Jun-Jie Huang 0001, Wentao Zhao,
+    Xinwang Liu 0002, Meng Wang 0001
+  title: 'VSumMamba: Mamba Empowered Efficient Video Summarization with Multi-Scale
+    Spatial-Temporal Modeling.'
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/Ding0LHZ0025
+  doi: 10.1145/3746027.3755644
+  ee: https://doi.org/10.1145/3746027.3755644
+  url: https://dblp.org/rec/conf/mm/Ding0LHZ0025
+- author: Sensen Wang, Yuehu Liu, Chi Zhang 0020
+  title: 'BiOMamba: Mamba-based Forward-Then-Backward Temporal Modeling for Online
+    Action Detection and Anticipation.'
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/WangLZ25
+  doi: 10.1145/3746027.3755847
+  ee: https://doi.org/10.1145/3746027.3755847
+  url: https://dblp.org/rec/conf/mm/WangLZ25
+- author: Ruicheng Zhang, Yu Sun, Zeyu Zhang 0006, Jinai Li, Xiaofan Liu, Hoi Fan
+    Au, Haowei Guo, Puxin Yan
+  title: 'MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for
+    Active Contour Optimization in Medical Image Segmentation.'
+  venue: ACM Multimedia
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mm/ZhangSZLLAGY25
+  doi: 10.1145/3746027.3755147
+  ee: https://doi.org/10.1145/3746027.3755147
+  url: https://dblp.org/rec/conf/mm/ZhangSZLLAGY25
 mamba%20streamid%3Aconf%2Fcikm%3A:
 - author: Zhangzhi Peng
   title: 'PTM-Mamba: A PTM-Aware Protein Language Model with Bidirectional Gated Mamba
@@ -85134,6 +88307,18 @@ mamba%20streamid%3Ajournals%2Ftmi%3A:
   doi: 10.1109/TMI.2025.3584468
   ee: https://doi.org/10.1109/TMI.2025.3584468
   url: https://dblp.org/rec/journals/tmi/WangCCXZSFYZ25
+- author: Zhaohu Xing, Tian Ye 0001, Yijun Yang, Du Cai, Baowen Gai, Xiao-Jian Wu,
+    Feng Gao, Lei Zhu 0003
+  title: 'SegMamba-V2: Long-Range Sequential Modeling Mamba for General 3-D Medical
+    Image Segmentation.'
+  venue: IEEE Trans. Medical Imaging
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/XingYYCGWGZ26
+  doi: 10.1109/TMI.2025.3589797
+  ee: https://doi.org/10.1109/TMI.2025.3589797
+  url: https://dblp.org/rec/journals/tmi/XingYYCGWGZ26
 mamba%20streamid%3Ajournals%2Ftsmc%3A:
 - author: Ting Huang, Guolian Hou, Congzhi Huang, Fan Zhang, Qingwei Li
   title: Intelligent Modeling for Deep Peak Shaving Oriented Thermal Power-Molten
@@ -85293,6 +88478,17 @@ mamba%20streamid%3Ajournals%2Fcviu%3A:
   doi: 10.1016/J.CVIU.2025.104617
   ee: https://doi.org/10.1016/j.cviu.2025.104617
   url: https://dblp.org/rec/journals/cviu/WangXYZPL26
+- author: Lulu Wang 0013, Ruiji Xue, Zhengtao Yu 0001, Ruoyu Zhang, Tongling Pan,
+    Yingna Li
+  title: A dynamic hybrid network with attention and mamba for image captioning.
+  venue: Comput. Vis. Image Underst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/cviu/WangXYZPL26
+  doi: 10.1016/J.CVIU.2025.104617
+  ee: https://doi.org/10.1016/j.cviu.2025.104617
+  url: https://dblp.org/rec/journals/cviu/WangXYZPL26
 mamba%20streamid%3Ajournals%2Fpr%3A:
 - author: Shaoxuan Suo, Jinxin Liu, Huihui Miao
   title: 'Mamba-Stereo: Mamba Regularization for Stereo matching.'
@@ -85434,6 +88630,27 @@ mamba%20streamid%3Ajournals%2Fpr%3A:
   doi: 10.1016/J.PATCOG.2025.112664
   ee: https://doi.org/10.1016/j.patcog.2025.112664
   url: https://dblp.org/rec/journals/pr/ChenWLWLYT26
+- author: Chengyan Deng, Kai Zhang 0008, Lieqiang Yang, Wang Zhang, Li Yu
+  title: 'IHMambaSR: An importance-guided hierarchical mamba with dynamic prompt for
+    single image super-resolution.'
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/DengZYZY26
+  doi: 10.1016/J.PATCOG.2026.113057
+  ee: https://doi.org/10.1016/j.patcog.2026.113057
+  url: https://dblp.org/rec/journals/pr/DengZYZY26
+- author: "Zexin Ji, Beiji Zou 0001, Xiaoyan Kui, S\xE9bastien Thureau, Su Ruan"
+  title: Global and local Mamba network for multi-modality medical image super-resolution.
+  venue: Pattern Recognit.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/JiZKTR26
+  doi: 10.1016/J.PATCOG.2025.112888
+  ee: https://doi.org/10.1016/j.patcog.2025.112888
+  url: https://dblp.org/rec/journals/pr/JiZKTR26
 mamba%20streamid%3Ajournals%2Fprl%3A:
 - author: Qian Chen 0033, Yiyang Tang, Haoming Liu
   title: Mamba-assisted modality subspace complementary fusion for multimodal sentiment
@@ -85892,6 +89109,98 @@ mamba%20streamid%3Ajournals%2Fkbs%3A:
   doi: 10.1016/J.KNOSYS.2025.114130
   ee: https://doi.org/10.1016/j.knosys.2025.114130
   url: https://dblp.org/rec/journals/kbs/FengPWZKLZLQ25
+- author: Deyu Meng, Ziheng Wang 0004, Wenhao Yan, Tshewang Phuntsho, Tad Gonsalves
+  title: 'Style Mamba-transformer: A hybrid Mamba-transformer unsupervised framework
+    for text style transfer.'
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/MengWYPG25
+  doi: 10.1016/J.KNOSYS.2025.114270
+  ee: https://doi.org/10.1016/j.knosys.2025.114270
+  url: https://dblp.org/rec/journals/kbs/MengWYPG25
+- author: Fan Chao 0002, Tianjia Zhao, Mengyang Yun, Li Chen, Huijun Zhao, Xueting
+    Wan, Ranyang Li, Xiaodong Guo
+  title: 'WMC-Net: Wavelet-enhanced mamba with contextual fusion network for medical
+    image segmentation.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChaoZYCZWLG26
+  doi: 10.1016/J.KNOSYS.2025.115134
+  ee: https://doi.org/10.1016/j.knosys.2025.115134
+  url: https://dblp.org/rec/journals/kbs/ChaoZYCZWLG26
+- author: Shiming Fan, Hua Wang 0012, Fan Zhang 0045
+  title: 'FSMamba: A dual-expert architecture with fast global attention and local-enhanced
+    state-space mamba for time series forecasting.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/FanWZ26
+  doi: 10.1016/J.KNOSYS.2025.115233
+  ee: https://doi.org/10.1016/j.knosys.2025.115233
+  url: https://dblp.org/rec/journals/kbs/FanWZ26
+- author: Fanchao Meng, Shuo Zhao, Zhongwen Guo, Yujun Lan, Bo Pang
+  title: 'Mamba -GTC: Cross-view contrastive learning with state space modeling for
+    heterogeneous graph representation.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/MengZGLP26
+  doi: 10.1016/J.KNOSYS.2025.115161
+  ee: https://doi.org/10.1016/j.knosys.2025.115161
+  url: https://dblp.org/rec/journals/kbs/MengZGLP26
+- author: Rongrong Ni, Yuanhui Guo, Biao Yang, Yi Liu 0038, Hai Wang 0003, Chuan Hu
+    0003
+  title: 'Mul-VMamba: Multimodal semantic segmentation using selection-fusion-based
+    vision-Mamba.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/NiGYLWH26
+  doi: 10.1016/J.KNOSYS.2025.115119
+  ee: https://doi.org/10.1016/j.knosys.2025.115119
+  url: https://dblp.org/rec/journals/kbs/NiGYLWH26
+- author: Qinghua Qi, Xiaowei Xu 0003, Mingxing Deng, Wei Liu 0183, Xin Xu 0007, Chen
+    Zeng
+  title: 'DSFMamba: Dual-state fusion mamba for long-short term motion-adaptive streaming
+    perception in autonomous driving.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/QiXDLXZ26
+  doi: 10.1016/J.KNOSYS.2025.115249
+  ee: https://doi.org/10.1016/j.knosys.2025.115249
+  url: https://dblp.org/rec/journals/kbs/QiXDLXZ26
+- author: Zhong Zhang 0012, Song Wang 0008, Huan Yan, Ming Xu, Guanghui Wang 0001
+  title: Mix-domain contrastive learning with Mamba generator for unpaired H&amp;E-to-IHC
+    stain translation.
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhangWYXW26
+  doi: 10.1016/J.KNOSYS.2025.115096
+  ee: https://doi.org/10.1016/j.knosys.2025.115096
+  url: https://dblp.org/rec/journals/kbs/ZhangWYXW26
+- author: Wenxie Lin, Zhe Zhang 0012, Gang Ren 0005, Yangzhen Zhao, Jingfeng Ma, Qi
+    Cao
+  title: 'MGCN: Mamba-integrated spatiotemporal graph convolutional network for long-term
+    traffic forecasting.'
+  venue: Knowl. Based Syst.
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/LinZRZMC25
+  doi: 10.1016/J.KNOSYS.2024.112875
+  ee: https://doi.org/10.1016/j.knosys.2024.112875
+  url: https://dblp.org/rec/journals/kbs/LinZRZMC25
 mamba%20streamid%3Ajournals%2Fisci%3A:
 - author: Xianlin Peng, Fangqing Fan, Lingjie Kong, Qiyao Hu, Gu Fang
   title: 'M2Emo: Fine-grained mamba transformer guided multi-task golden snub-nosed
@@ -86414,6 +89723,17 @@ mamba%20streamid%3Ajournals%2Feswa%3A:
   doi: 10.1016/J.ESWA.2025.130474
   ee: https://doi.org/10.1016/j.eswa.2025.130474
   url: https://dblp.org/rec/journals/eswa/ZhuXFZ26
+- author: Weijie Zhu, Liang Xie 0001, Hanyu Fu, Jiangling Zhang
+  title: 'GHOST: Sentiment-gated mamba and stock-wise tokenization attention for enhanced
+    stock prediction.'
+  venue: Expert Syst. Appl.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/ZhuXFZ26
+  doi: 10.1016/J.ESWA.2025.130474
+  ee: https://doi.org/10.1016/j.eswa.2025.130474
+  url: https://dblp.org/rec/journals/eswa/ZhuXFZ26
 mamba%20streamid%3Ajournals%2Fnn%3A:
 - author: Guanlin Li, Ke Zhang 0014, Ting Wang, Ming Li, Bin Zhao 0001, Xuelong Li
     0001
@@ -86492,6 +89812,28 @@ mamba%20streamid%3Ajournals%2Fnn%3A:
   doi: 10.1016/J.NEUNET.2025.108020
   ee: https://doi.org/10.1016/j.neunet.2025.108020
   url: https://dblp.org/rec/journals/nn/WangHZZGF26
+- author: Sheng Liu 0019, Ting Cao 0002, Lang Du, Yi Zhu
+  title: 'LU-mamba: LiDAR upsampling via bidirectional state space modeling on range
+    images.'
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/LiuCDZ26
+  doi: 10.1016/J.NEUNET.2025.108480
+  ee: https://doi.org/10.1016/j.neunet.2025.108480
+  url: https://dblp.org/rec/journals/nn/LiuCDZ26
+- author: Wenbo Yan, Hanzhong Cao, Ying Tan 0002
+  title: Repetitive contrastive learning enhances Mamba&apos;s selectivity in time
+    series prediction.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/YanCT26
+  doi: 10.1016/J.NEUNET.2025.108290
+  ee: https://doi.org/10.1016/j.neunet.2025.108290
+  url: https://dblp.org/rec/journals/nn/YanCT26
 mamba%20streamid%3Ajournals%2Fijon%3A:
 - author: Weilian Zhou, Sei-ichiro Kamata, Haipeng Wang 0002, Man Sing Wong, Huiying
     (cynthia) Hou
@@ -86834,6 +90176,27 @@ mamba%20streamid%3Ajournals%2Fijon%3A:
   doi: 10.1016/J.NEUCOM.2024.128104
   ee: https://doi.org/10.1016/j.neucom.2024.128104
   url: https://dblp.org/rec/journals/ijon/GeCYYYZ24
+- author: Sheng Kuang, Jie Shi 0006, Kiki van der Heijden, Siamak Mehrkanoon
+  title: 'BAST-Mamba: Binaural Audio Spectrogram Mamba Transformer for binaural sound
+    localization.'
+  venue: Neurocomputing
+  year: '2025'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/KuangSHM25
+  doi: 10.1016/J.NEUCOM.2025.130804
+  ee: https://doi.org/10.1016/j.neucom.2025.130804
+  url: https://dblp.org/rec/journals/ijon/KuangSHM25
+- author: Mingjie Gao, Caicai Gao, Zifeng Yao, Weina Zhu
+  title: 'FA-STTM: A hybrid Transformer-Mamba network for motor imagery EEG classification.'
+  venue: Neurocomputing
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/GaoGYZ26
+  doi: 10.1016/J.NEUCOM.2025.132481
+  ee: https://doi.org/10.1016/j.neucom.2025.132481
+  url: https://dblp.org/rec/journals/ijon/GaoGYZ26
 mamba%20segmentation%20streamid%3Ajournals%2Fprl%3A:
 - author: Yaya Huang, Litong Liu, Tianzhen Zhang, Sisi Wang, Chee-Ming Ting
   title: Multi-Modal masked autoencoder and parallel Mamba for 3D brain tumor segmentation.
@@ -86913,6 +90276,17 @@ data%20leakage%20venue%3AICML%3A:
   doi: ''
   ee: https://proceedings.mlr.press/v202/vero23a.html
   url: https://dblp.org/rec/conf/icml/VeroBDV23
+- author: Hyeong Kyu Choi, Maxim Khanov, Hongxin Wei, Yixuan Li 0001
+  title: How Contaminated Is Your Benchmark? Measuring Dataset Leakage in Large Language
+    Models with Kernel Divergence.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/ChoiKW025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/choi25b.html
+  url: https://dblp.org/rec/conf/icml/ChoiKW025
 data%20leakage%20venue%3ANDSS%3A:
 - author: Maryam Rostamipoor, Seyedhamed Ghavamnia, Michalis Polychronakis
   title: 'LeakLess: Selective Data Protection against Memory Leakage Attacks for Serverless
@@ -87150,6 +90524,17 @@ data%20leakage%20venue%3AEMNLP%3A:
   doi: 10.18653/V1/2023.FINDINGS-EMNLP.800
   ee: https://doi.org/10.18653/v1/2023.findings-emnlp.800
   url: https://dblp.org/rec/conf/emnlp/WangL023
+- author: Masahiro Kaneko, Timothy Baldwin
+  title: Investigating How Pre-training Data Leakage Affects Models&apos; Reproduction
+    and Detection Capabilities.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/KanekoB25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1201
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1201
+  url: https://dblp.org/rec/conf/emnlp/KanekoB25
 data%20leakage%20venue%3AICDE%3A:
 - author: Daren Fadolalkarim, Elisa Bertino, Asmaa Sallam
   title: An Anomaly Detection System for the Protection of Relational Database Systems
@@ -89934,6 +93319,50 @@ few%20shot%20segmentation%20venue%3AICML%3A:
   doi: ''
   ee: https://openreview.net/forum?id=uRz9GZN17X
   url: https://dblp.org/rec/conf/icml/LiuHY0CALK24
+- author: Changshuo Wang 0001, Xiang Fang, Prayag Tiwari
+  title: 'DyPolySeg: Taylor Series-Inspired Dynamic Polynomial Fitting Network for
+    Few-shot Point Cloud Semantic Segmentation.'
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/0001FT25
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/wang25aa.html
+  url: https://dblp.org/rec/conf/icml/0001FT25
+- author: Jintao Tong, Ran Ma, Yixiong Zou, Guangyao Chen, Yuhua Li 0003, Ruixuan
+    Li 0001
+  title: Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic
+    Segmentation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/TongMZC0025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/tong25b.html
+  url: https://dblp.org/rec/conf/icml/TongMZC0025
+- author: Jintao Tong, Yixiong Zou, Guangyao Chen, Yuhua Li 0003, Ruixuan Li 0001
+  title: Self-Disentanglement and Re-Composition for Cross-Domain Few-Shot Segmentation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/TongZC0025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/tong25d.html
+  url: https://dblp.org/rec/conf/icml/TongZC0025
+- author: Qianxiong Xu, Lanyun Zhu, Xuanyi Liu, Guosheng Lin, Cheng Long 0001, Ziyue
+    Li 0002, Rui Zhao 0001
+  title: Unlocking the Power of SAM 2 for Few-Shot Segmentation.
+  venue: ICML
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/XuZLL00025
+  doi: ''
+  ee: https://proceedings.mlr.press/v267/xu25an.html
+  url: https://dblp.org/rec/conf/icml/XuZLL00025
 few%20shot%20segmentation%20venue%3AICLR%3A:
 - author: Zhaochong An, Guolei Sun, Yun Liu 0011, Runjia Li, Min Wu 0008, Ming-Ming
     Cheng, Ender Konukoglu, Serge J. Belongie
@@ -92286,6 +95715,16 @@ few%20shot%20segmentation%20streamid%3Ajournals%2Fpr%3A:
   doi: 10.1016/J.PATCOG.2023.109726
   ee: https://doi.org/10.1016/j.patcog.2023.109726
   url: https://dblp.org/rec/journals/pr/SunLWYZSS23
+- author: Henghui Ding, Hui Zhang 0100, Xudong Jiang 0001
+  title: Self-regularized prototypical network for few-shot semantic segmentation.
+  venue: Pattern Recognit.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/pr/DingZJ23
+  doi: 10.1016/J.PATCOG.2022.109018
+  ee: https://doi.org/10.1016/j.patcog.2022.109018
+  url: https://dblp.org/rec/journals/pr/DingZJ23
 few%20shot%20segmentation%20streamid%3Ajournals%2Fprl%3A:
 - author: Jiwei Xiao, Ruiping Wang 0001, Chen He, Xilin Chen 0001
   title: Cross-Domain Few-Shot 3D Point Cloud Semantic Segmentation.
@@ -92341,6 +95780,18 @@ few%20shot%20segmentation%20streamid%3Ajournals%2Fprl%3A:
   doi: 10.1016/J.PATREC.2019.10.031
   ee: https://doi.org/10.1016/j.patrec.2019.10.031
   url: https://dblp.org/rec/journals/prl/DietlmeierMRWNO19
+- author: Feifan Song 0004, Yuntian Bo, Shidong Wang, Yang Long 0001, Haofeng Zhang
+    0001
+  title: Leveraging language to generalize natural images to few-shot medical image
+    segmentation.
+  venue: Pattern Recognit. Lett.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/prl/SongBWLZ26
+  doi: 10.1016/J.PATREC.2026.01.009
+  ee: https://doi.org/10.1016/j.patrec.2026.01.009
+  url: https://dblp.org/rec/journals/prl/SongBWLZ26
 few%20shot%20segmentation%20streamid%3Ajournals%2Fmia%3A:
 - author: "Julio Silva-Rodr\xEDguez, Jose Dolz, Ismail Ben Ayed"
   title: Towards Foundation Models and Few-Shot Parameter-Efficient Fine-Tuning for
@@ -92650,6 +96101,18 @@ few%20shot%20segmentation%20streamid%3Ajournals%2Fkbs%3A:
   doi: 10.1016/J.KNOSYS.2020.106647
   ee: https://doi.org/10.1016/j.knosys.2020.106647
   url: https://dblp.org/rec/journals/kbs/Abdel-BassetCHC21
+- author: Jiaqi Yang, Xiangjian He, Xin Chen 0003, Yaning Zhang, Jingxi Hu, Linlin
+    Shen, Guoping Qiu
+  title: 'UDG-Prom: A unified dense-guided semantic prompting for cross-domain few-shot
+    image segmentation.'
+  venue: Knowl. Based Syst.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/YangHCZHSQ26
+  doi: 10.1016/J.KNOSYS.2025.115207
+  ee: https://doi.org/10.1016/j.knosys.2025.115207
+  url: https://dblp.org/rec/journals/kbs/YangHCZHSQ26
 few%20shot%20segmentation%20streamid%3Ajournals%2Feswa%3A:
 - author: Qiang Chi, Fuzhi Wu, Yuhang Liu, Yue Zhang, Zidong Liu, Pascal Haigron,
     Huazhong Shu
@@ -92773,6 +96236,16 @@ few%20shot%20segmentation%20streamid%3Ajournals%2Fnn%3A:
   doi: 10.1016/J.NEUNET.2021.01.002
   ee: https://doi.org/10.1016/j.neunet.2021.01.002
   url: https://dblp.org/rec/journals/nn/ShiOO21
+- author: Guangqi Jiang, Zhengyao Li, Gengshen Wu, Yi Liu 0038, Shoukun Xu
+  title: Dynamic routing towards few-shot point cloud semantic segmentation.
+  venue: Neural Networks
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/nn/JiangLWLX26
+  doi: 10.1016/J.NEUNET.2025.108231
+  ee: https://doi.org/10.1016/j.neunet.2025.108231
+  url: https://dblp.org/rec/journals/nn/JiangLWLX26
 few%20shot%20segmentation%20streamid%3Ajournals%2Fijon%3A:
 - author: Yudong Liang, Pei An, Qiong Liu 0001, You Yang 0002, Ling Xu
   title: Density-aware few-parametric networks for robust few-shot point cloud semantic
@@ -93073,3 +96546,49 @@ prompt%20injection%20streamid%3Aconf%2Fmm%3A:
   doi: 10.1145/3746027.3755211
   ee: https://doi.org/10.1145/3746027.3755211
   url: https://dblp.org/rec/conf/mm/WangY00HZL025
+explainab%20transformer%20venue%3AEMNLP%3A:
+- author: Jean-Flavien Bussotti, Paolo Papotti
+  title: Refining Attention for Explainable and Noise-Robust Fact-Checking with Transformers.
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/BussottiP25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.1295
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.1295
+  url: https://dblp.org/rec/conf/emnlp/BussottiP25
+mamba%20streamid%3Ajournals%2Ftai%3A:
+- author: Xiaoyan Zhang, Yongqin Zhang, Xiangfu Meng
+  title: Spatio-Temporal Mamba Dynamic Graph Convolutional Recurrent Network for Traffic
+    Prediction.
+  venue: IEEE Trans. Artif. Intell.
+  year: '2026'
+  type: Journal Articles
+  access: closed
+  key: journals/tai/ZhangZM26
+  doi: 10.1109/TAI.2025.3571378
+  ee: https://doi.org/10.1109/TAI.2025.3571378
+  url: https://dblp.org/rec/journals/tai/ZhangZM26
+prompt%20injection%20attack%20venue%3AEMNLP%3A:
+- author: Yulin Chen, Haoran Li 0003, Yuexin Li, Yue Liu 0008, Yangqiu Song, Bryan
+    Hooi
+  title: 'TopicAttack: An Indirect Prompt Injection Attack via Topic Transition.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ChenLLLSH25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.372
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.372
+  url: https://dblp.org/rec/conf/emnlp/ChenLLLSH25
+- author: Xilong Wang, John Bloch, Zedian Shao, Yuepeng Hu, Shuyan Zhou, Neil Zhenqiang
+    Gong
+  title: 'WebInject: Prompt Injection Attack to Web Agents.'
+  venue: EMNLP
+  year: '2025'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/WangBSHZG25
+  doi: 10.18653/V1/2025.EMNLP-MAIN.104
+  ee: https://doi.org/10.18653/v1/2025.emnlp-main.104
+  url: https://dblp.org/rec/conf/emnlp/WangBSHZG25

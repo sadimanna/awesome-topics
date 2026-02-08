@@ -180,6 +180,23 @@ ACM Multimedia:
       year: 2024
       link: https://doi.org/10.1145/3664647.3680578
 IEEE Trans. Medical Imaging:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SegMamba-V2: Long-Range Sequential Modeling Mamba for General 3-D Medical
+        Image Segmentation.'
+      venue: IEEE Trans. Medical Imaging
+      year: 2026
+      link: https://doi.org/10.1109/TMI.2025.3589797
   '2025':
     header:
       title: Title
@@ -366,6 +383,16 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.114949
+    - title: 'Mul-VMamba: Multimodal semantic segmentation using selection-fusion-based
+        vision-Mamba.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115119
+    - title: 'WMC-Net: Wavelet-enhanced mamba with contextual fusion network for medical
+        image segmentation.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115134
   '2025':
     header:
       title: Title

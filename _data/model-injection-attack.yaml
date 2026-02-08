@@ -346,6 +346,23 @@ NAACL-HLT:
       year: 2024
       link: https://doi.org/10.18653/v1/2024.naacl-long.276
 EMNLP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Evaluating Robustness of Large Audio Language Models to Audio Injection:
+        An Empirical Study.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1303
   '2024':
     header:
       title: Title

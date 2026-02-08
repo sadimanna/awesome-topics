@@ -2015,6 +2015,23 @@ Pattern Recognit.:
       year: 2023
       link: https://doi.org/10.1016/j.patcog.2022.109292
 Pattern Recognit. Lett.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Leveraging language to generalize natural images to few-shot medical
+        image segmentation.
+      venue: Pattern Recognit. Lett.
+      year: 2026
+      link: https://doi.org/10.1016/j.patrec.2026.01.009
   '2025':
     header:
       title: Title
@@ -2262,6 +2279,23 @@ Comput. Medical Imaging Graph.:
       year: 2024
       link: https://doi.org/10.1016/j.compmedimag.2024.102406
 Knowl. Based Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'UDG-Prom: A unified dense-guided semantic prompting for cross-domain
+        few-shot image segmentation.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115207
   '2025':
     header:
       title: Title
@@ -2456,6 +2490,22 @@ Expert Syst. Appl.:
       year: 2024
       link: https://doi.org/10.1016/j.eswa.2023.122110
 Neural Networks:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Dynamic routing towards few-shot point cloud semantic segmentation.
+      venue: Neural Networks
+      year: 2026
+      link: https://doi.org/10.1016/j.neunet.2025.108231
   '2025':
     header:
       title: Title

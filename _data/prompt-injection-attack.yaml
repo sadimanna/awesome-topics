@@ -259,6 +259,35 @@ NAACL-HLT:
       year: 2024
       link: https://doi.org/10.18653/v1/2024.naacl-long.337
 EMNLP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect
+        Prompt Injection in LLM Agents.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.53
+    - title: 'TopicAttack: An Indirect Prompt Injection Attack via Topic Transition.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.372
+    - title: Transferable Direct Prompt Injection via Activation-Guided MCMC Sampling.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.102
+    - title: 'WebInject: Prompt Injection Attack to Web Agents.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.104
   '2024':
     header:
       title: Title

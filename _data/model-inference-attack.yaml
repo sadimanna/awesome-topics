@@ -699,6 +699,10 @@ ICML:
       venue: ICML
       year: 2025
       link: https://openreview.net/forum?id=5OLRHkzTYk
+    - title: 'Position: Probabilistic Modelling is Sufficient for Causal Inference.'
+      venue: ICML
+      year: 2025
+      link: https://proceedings.mlr.press/v267/mlodozeniec25a.html
     - title: Posterior Inference with Diffusion Models for High-dimensional Black-box
         Optimization.
       venue: ICML
@@ -5257,6 +5261,76 @@ NAACL-HLT:
       year: 2019
       link: https://doi.org/10.18653/v1/n19-1291
 EMNLP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Balcony: A Lightweight Approach to Dynamic Inference of Generative Language
+        Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1263
+    - title: Context-Aware Membership Inference Attacks against Pre-trained Large
+        Language Models.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.370
+    - title: Detecting Knowledge Boundary of Vision Large Language Models by Sampling-Based
+        Inference.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1458
+    - title: 'EcoTune: Token-Efficient Multi-Fidelity Hyperparameter Optimization
+        for Large Language Model Inference.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.394
+    - title: Identifying Unlearned Data in LLMs via Membership Inference Attacks.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.551
+    - title: 'Phi: Preference Hijacking in Multi-modal Large Language Models at Inference
+        Time.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.901
+    - title: 'SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving
+        Model Transformation.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1306
+    - title: The discordance between embedded ethics and cultural inference in large
+        language models.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.743
+    - title: 'Train It and Forget It: Merge Lists are Unnecessary for BPE Inference
+        in Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1775
+    - title: 'Two Heads Are Better Than One: Dual-Model Verbal Reflection at Inference-Time.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.155
+    - title: 'Unilaw-R1: A Large Language Model for Legal Reasoning with Reinforcement
+        Learning and Iterative Inference.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.915
+    - title: 'Video Compression Commander: Plug-and-Play Inference Acceleration for
+        Video Large Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.98
   '2024':
     header:
       title: Title
@@ -10815,6 +10889,22 @@ IEEE Trans. Parallel Distributed Syst.:
       year: 2019
       link: https://doi.org/10.1109/TPDS.2019.2892972
 IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Paddle Lite on Zephyr: Deploying AI Models in RTOS for Inference Acceleration.'
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TCAD.2025.3581867
   '2024':
     header:
       title: Title
@@ -11182,6 +11272,23 @@ Data Min. Knowl. Discov.:
       year: 2016
       link: https://doi.org/10.1007/s10618-016-0456-z
 Knowl. Based Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Accelerating long-context inference of large language models via dynamic
+        attention load balancing.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2025.115018
   '2025':
     header:
       title: Title
@@ -12066,6 +12173,27 @@ Trans. Assoc. Comput. Linguistics:
       year: 2020
       link: https://doi.org/10.1162/tacl_a_00299
 Neural Networks:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Deep belief Markov models for POMDP inference.
+      venue: Neural Networks
+      year: 2026
+      link: https://doi.org/10.1016/j.neunet.2025.108386
+    - title: 'fastiSSM: Fast inference of state space model with online model approximation
+        in frequency-domain.'
+      venue: Neural Networks
+      year: 2026
+      link: https://doi.org/10.1016/j.neunet.2025.108459
   '2025':
     header:
       title: Title

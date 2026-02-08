@@ -361,6 +361,50 @@ ACL:
       year: 2023
       link: https://doi.org/10.18653/v1/2023.findings-acl.375
 EMNLP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'A Fully Probabilistic Perspective on Large Language Model Unlearning:
+        Evaluation and Optimization.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.452
+    - title: Does Localization Inform Unlearning? A Rigorous Examination of Local
+        Parameter Attribution for Knowledge Unlearning in Language Models.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1109
+    - title: Mitigating Biases in Language Models via Bias Unlearning.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.208
+    - title: 'OBLIVIATE: Robust and Practical Machine Unlearning for Large Language
+        Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.183
+    - title: 'REVIVING YOUR MNEME: Predicting The Side Effects of LLM Unlearning and
+        Fine-Tuning via Sparse Model Diffing.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1641
+    - title: 'SEPS: A Separability Measure for Robust Unlearning in LLMs.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.283
+    - title: 'SUA: Stealthy Multimodal Large Language Model Unlearning Attack.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.565
   '2024':
     header:
       title: Title

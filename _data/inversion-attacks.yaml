@@ -2128,6 +2128,33 @@ ACL:
       year: 2023
       link: https://doi.org/10.18653/v1/2023.findings-acl.881
 EMNLP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Investigating How Pre-training Data Leakage Affects Models&apos; Reproduction
+        and Detection Capabilities.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1201
+    - title: 'Reverse Prompt Engineering: A Zero-Shot, Genetic Algorithm Approach
+        to Language Model Inversion.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1333
+    - title: 'Semantic Inversion, Identical Replies: Revisiting Negation Blindness
+        in Large Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1088
   '2024':
     header:
       title: Title

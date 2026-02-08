@@ -14,6 +14,7 @@ section:
 - title: Neural Comput. Appl.
 - title: Neurocomputing
 - title: Comput. Vis. Image Underst.
+- title: EMNLP
 ICLR:
   '2025':
     header:
@@ -435,3 +436,21 @@ Comput. Vis. Image Underst.:
       venue: Comput. Vis. Image Underst.
       year: 2026
       link: https://doi.org/10.1016/j.cviu.2025.104624
+EMNLP:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Refining Attention for Explainable and Noise-Robust Fact-Checking with
+        Transformers.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-main.1295
