@@ -148,6 +148,14 @@ permalink: /federated-unlearning/
 
 </details>
 
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2025](#arxiv-2025)
+  - [2024](#arxiv-2024)
+
+</details>
+
 </details>
 
 
@@ -924,6 +932,74 @@ permalink: /federated-unlearning/
 <td>Knowl. Based Syst.</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2024.111983">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Benchmarking Federated Machine Unlearning methods for Tabular Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.00921v1">Link</a></td>
+</tr>
+<tr>
+<td>Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via Selective Pruning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.01705v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Unlearning during Learning: An Efficient Federated Machine Unlearning Method</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.15474v2">Link</a></td>
+</tr>
+<tr>
+<td>Update Selective Parameters: Federated Machine Unlearning Based on Model Explanation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.12516v1">Link</a></td>
 </tr>
 </tbody></table>
 

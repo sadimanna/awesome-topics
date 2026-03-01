@@ -245,6 +245,21 @@ permalink: /model-poisoning-attack/
 
 </details>
 
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2026](#arxiv-2026)
+  - [2025](#arxiv-2025)
+  - [2024](#arxiv-2024)
+  - [2023](#arxiv-2023)
+  - [2022](#arxiv-2022)
+  - [2021](#arxiv-2021)
+  - [2020](#arxiv-2020)
+  - [2019](#arxiv-2019)
+  - [2018](#arxiv-2018)
+
+</details>
+
 </details>
 
 
@@ -1967,6 +1982,1046 @@ permalink: /model-poisoning-attack/
 <td>Neural Networks</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1016/j.neunet.2023.10.034">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Beyond Denial-of-Service: The Puppeteer's Attack for Fine-Grained Control in Ranking-Based Federated Learning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.14687v1">Link</a></td>
+</tr>
+<tr>
+<td>Byzantine-Robust Federated Learning Framework with Post-Quantum Secure Aggregation for Real-Time Threat Intelligence Sharing in Critical IoT Infrastructure</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.01053v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.12875v2">Link</a></td>
+</tr>
+<tr>
+<td>Backdoors in Conditional Diffusion: Threats to Responsible Synthetic Data Pipelines</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.04726v2">Link</a></td>
+</tr>
+<tr>
+<td>BlindFL: Segmented Federated Learning with Fully Homomorphic Encryption</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.11659v1">Link</a></td>
+</tr>
+<tr>
+<td>Byzantine-Robust Federated Learning Using Generative Adversarial Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.20884v3">Link</a></td>
+</tr>
+<tr>
+<td>DMPA: Model Poisoning Attacks on Decentralized Federated Learning for Model Differences</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.04771v1">Link</a></td>
+</tr>
+<tr>
+<td>DP2Guard: A Lightweight and Byzantine-Robust Privacy-Preserving Federated Learning Scheme for Industrial IoT</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.16134v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep Learning based Moving Target Defence for Federated Learning against Poisoning Attack in MEC Systems with a 6G Wireless Model</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.10914v1">Link</a></td>
+</tr>
+<tr>
+<td>Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.05547v1">Link</a></td>
+</tr>
+<tr>
+<td>EByFTVeS: Efficient Byzantine Fault Tolerant-based Verifiable Secret-sharing in Distributed Privacy-preserving Machine Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.12899v2">Link</a></td>
+</tr>
+<tr>
+<td>Fast, Private, and Protected: Safeguarding Data Privacy and Defending Against Model Poisoning Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.02797v1">Link</a></td>
+</tr>
+<tr>
+<td>FedGuard: A Diverse-Byzantine-Robust Mechanism for Federated Learning with Major Malicious Clients</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.00636v1">Link</a></td>
+</tr>
+<tr>
+<td>FedStrategist: A Meta-Learning Framework for Adaptive and Robust Aggregation in Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.14322v2">Link</a></td>
+</tr>
+<tr>
+<td>FedUP: Efficient Pruning-based Federated Unlearning for Model Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.13853v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated Learning-Based Data Collaboration Method for Enhancing Edge Cloud AI System Security Using Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.18087v1">Link</a></td>
+</tr>
+<tr>
+<td>GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.17471v1">Link</a></td>
+</tr>
+<tr>
+<td>Graph Representation-based Model Poisoning on Federated Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.01694v2">Link</a></td>
+</tr>
+<tr>
+<td>Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.07176v2">Link</a></td>
+</tr>
+<tr>
+<td>Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.18519v1">Link</a></td>
+</tr>
+<tr>
+<td>KeTS: Kernel-based Trust Segmentation against Model Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.06729v2">Link</a></td>
+</tr>
+<tr>
+<td>Maximizing Uncertainty for Federated learning via Bayesian Optimisation-based Model Poisoning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.08002v2">Link</a></td>
+</tr>
+<tr>
+<td>Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.08976v3">Link</a></td>
+</tr>
+<tr>
+<td>On Evaluating the Poisoning Robustness of Federated Learning under Local Differential Privacy</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.05265v1">Link</a></td>
+</tr>
+<tr>
+<td>Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding Mode Approach</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.16403v2">Link</a></td>
+</tr>
+<tr>
+<td>Poisoning Bayesian Inference via Data Deletion and Replication</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.04480v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.23622v2">Link</a></td>
+</tr>
+<tr>
+<td>REVERB-FL: Server-Side Adversarial and Reserve-Enhanced Federated Learning for Robust Audio Classification</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.13647v1">Link</a></td>
+</tr>
+<tr>
+<td>RF Sensing Security and Malicious Exploitation: A Comprehensive Survey</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.10969v1">Link</a></td>
+</tr>
+<tr>
+<td>RepuNet: A Reputation System for Mitigating Malicious Clients in DFL</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.19892v1">Link</a></td>
+</tr>
+<tr>
+<td>SLVR: Securely Leveraging Client Validation for Robust Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.08055v1">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection in Large-Scale Autonomous Vehicle Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.12648v1">Link</a></td>
+</tr>
+<tr>
+<td>SoK: Benchmarking Poisoning Attacks and Defenses in Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.03801v1">Link</a></td>
+</tr>
+<tr>
+<td>The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy Again</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.19774v1">Link</a></td>
+</tr>
+<tr>
+<td>The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.04106v2">Link</a></td>
+</tr>
+<tr>
+<td>Trojan Horse Hunt in Time Series Forecasting for Space Operations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.01849v1">Link</a></td>
+</tr>
+<tr>
+<td>Two Heads Are Better than One: Model-Weight and Latent-Space Analysis for Federated Learning on Non-iid Data against Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.23288v1">Link</a></td>
+</tr>
+<tr>
+<td>VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.04319v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Novel Defense Against Poisoning Attacks on Federated Learning: LayerCAM Augmented with Autoencoder</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.02605v1">Link</a></td>
+</tr>
+<tr>
+<td>ACE: A Model Poisoning Attack on Contribution Evaluation Methods in Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.20975v2">Link</a></td>
+</tr>
+<tr>
+<td>Concealing Backdoor Model Updates in Federated Learning by Trigger-Optimized Data Poisoning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.06206v2">Link</a></td>
+</tr>
+<tr>
+<td>DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.12220v2">Link</a></td>
+</tr>
+<tr>
+<td>Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.14217v2">Link</a></td>
+</tr>
+<tr>
+<td>Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.05130v1">Link</a></td>
+</tr>
+<tr>
+<td>FedRDF: A Robust and Dynamic Aggregation Function against Poisoning Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.10082v1">Link</a></td>
+</tr>
+<tr>
+<td>HYDRA-FL: Hybrid Knowledge Distillation for Robust and Accurate Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.19912v3">Link</a></td>
+</tr>
+<tr>
+<td>How to Defend Against Large-scale Model Poisoning Attacks in Federated Learning: A Vertical Solution</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.10673v1">Link</a></td>
+</tr>
+<tr>
+<td>Leverage Variational Graph Representation For Model Poisoning on Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.15042v2">Link</a></td>
+</tr>
+<tr>
+<td>Meta Stackelberg Game: Robust Federated Learning against Adaptive and Mixed Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.17431v1">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Malicious Attacks in Federated Learning via Confidence-aware Defense</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.02813v2">Link</a></td>
+</tr>
+<tr>
+<td>Model Poisoning Attacks to Federated Learning via Multi-Round Consistency</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.15611v3">Link</a></td>
+</tr>
+<tr>
+<td>Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.08237v1">Link</a></td>
+</tr>
+<tr>
+<td>No Vandalism: Privacy-Preserving and Byzantine-Robust Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.01080v1">Link</a></td>
+</tr>
+<tr>
+<td>On the Hardness of Decentralized Multi-Agent Policy Evaluation under Byzantine Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.12882v2">Link</a></td>
+</tr>
+<tr>
+<td>PFAttack: Stealthy Attack Bypassing Group Fairness in Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.06509v2">Link</a></td>
+</tr>
+<tr>
+<td>Partner in Crime: Boosting Targeted Poisoning Attacks against Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.09958v2">Link</a></td>
+</tr>
+<tr>
+<td>Poisoning Decentralized Collaborative Recommender System and Its Countermeasures</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.01177v1">Link</a></td>
+</tr>
+<tr>
+<td>Resilience in Online Federated Learning: Mitigating Model-Poisoning Attacks via Partial Sharing</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.13108v2">Link</a></td>
+</tr>
+<tr>
+<td>Robust Federated Contrastive Recommender System against Model Poisoning Attack</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.20107v1">Link</a></td>
+</tr>
+<tr>
+<td>Securing Distributed Network Digital Twin Systems Against Model Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.01917v2">Link</a></td>
+</tr>
+<tr>
+<td>Securing Federated Learning with Control-Flow Attestation: A Novel Framework for Enhanced Integrity and Resilience against Adversarial Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.10005v1">Link</a></td>
+</tr>
+<tr>
+<td>Securing Tomorrow's Smart Cities: Investigating Software Security in Internet of Vehicles and Deep Learning Technologies</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.16410v1">Link</a></td>
+</tr>
+<tr>
+<td>Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.07454v3">Link</a></td>
+</tr>
+<tr>
+<td>pFedGame -- Decentralized Federated Learning using Game Theory in Dynamic Topology</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.04058v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Data-Driven Defense against Edge-case Model Poisoning Attacks on Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.02022v2">Link</a></td>
+</tr>
+<tr>
+<td>A First Order Meta Stackelberg Method for Robust Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.13800v3">Link</a></td>
+</tr>
+<tr>
+<td>A First Order Meta Stackelberg Method for Robust Federated Learning (Technical Report)</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.13273v3">Link</a></td>
+</tr>
+<tr>
+<td>An Analysis of Untargeted Poisoning Attack and Defense Methods for Federated Online Learning to Rank Systems</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.01565v1">Link</a></td>
+</tr>
+<tr>
+<td>Anticipatory Thinking Challenges in Open Worlds: Risk Management</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.13157v1">Link</a></td>
+</tr>
+<tr>
+<td>CADeSH: Collaborative Anomaly Detection for Smart Homes</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.01021v1">Link</a></td>
+</tr>
+<tr>
+<td>CATFL: Certificateless Authentication-based Trustworthy Federated Learning for 6G Semantic Communications</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.00271v1">Link</a></td>
+</tr>
+<tr>
+<td>Can We Trust the Similarity Measurement in Federated Learning?</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.03369v1">Link</a></td>
+</tr>
+<tr>
+<td>Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.12961v2">Link</a></td>
+</tr>
+<tr>
+<td>DISBELIEVE: Distance Between Client Models is Very Essential for Effective Local Model Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.07387v1">Link</a></td>
+</tr>
+<tr>
+<td>Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning, and the Defense Mechanisms: A Comprehensive Survey</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.08667v1">Link</a></td>
+</tr>
+<tr>
+<td>Data-Agnostic Model Poisoning against Federated Learning: A Graph Autoencoder Approach</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.18498v1">Link</a></td>
+</tr>
+<tr>
+<td>Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning Attacks on Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.10783v3">Link</a></td>
+</tr>
+<tr>
+<td>Exploring the Limits of Model-Targeted Indiscriminate Data Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.03592v3">Link</a></td>
+</tr>
+<tr>
+<td>FLoW3 -- Web3 Empowered Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.05459v1">Link</a></td>
+</tr>
+<tr>
+<td>FedDefender: Client-Side Attack-Tolerant Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.09048v1">Link</a></td>
+</tr>
+<tr>
+<td>Honest Score Client Selection Scheme: Preventing Federated Learning Label Flipping Attacks in Non-IID Scenarios</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.05826v1">Link</a></td>
+</tr>
+<tr>
+<td>How Potent are Evasion Attacks for Poisoning Federated Learning-Based Signal Classifiers?</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.08866v1">Link</a></td>
+</tr>
+<tr>
+<td>Identifying the Truth of Global Model: A Generic Solution to Defend Against Byzantine and Backdoor Attacks in Federated Learning (full version)</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.10248v3">Link</a></td>
+</tr>
+<tr>
+<td>Kick Bad Guys Out! Conditionally Activated Anomaly Detection in Federated Learning with Zero-Knowledge Proof Verification</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.04055v6">Link</a></td>
+</tr>
+<tr>
+<td>Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.08183v2">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Evasion Attacks in Federated Learning-Based Signal Classifiers</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.04872v3">Link</a></td>
+</tr>
+<tr>
+<td>Poster: Sponge ML Model Attacks of Mobile Apps</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.01243v1">Link</a></td>
+</tr>
+<tr>
+<td>Protecting Federated Learning from Extreme Model Poisoning Attacks via Multidimensional Time Series Anomaly Detection</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.16668v3">Link</a></td>
+</tr>
+<tr>
+<td>RECESS Vaccine for Federated Learning: Proactive Defense Against Model Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.05431v1">Link</a></td>
+</tr>
+<tr>
+<td>Secure Federated Learning against Model Poisoning Attacks via Client Filtering</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.00160v2">Link</a></td>
+</tr>
+<tr>
+<td>SureFED: Robust Federated Learning via Uncertainty-Aware Inward and Outward Inspection</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.02747v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Streamlit-based Artificial Intelligence Trust Platform for Next-Generation Wireless Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.12851v1">Link</a></td>
+</tr>
+<tr>
+<td>Adversarial Analysis of the Differentially-Private Federated Learning in Cyber-Physical Critical Infrastructures</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.02654v2">Link</a></td>
+</tr>
+<tr>
+<td>BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.02817v1">Link</a></td>
+</tr>
+<tr>
+<td>Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient Ensembling</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.14017v2">Link</a></td>
+</tr>
+<tr>
+<td>Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.06414v1">Link</a></td>
+</tr>
+<tr>
+<td>FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.09209v4">Link</a></td>
+</tr>
+<tr>
+<td>FedCC: Robust Federated Learning against Model Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.01976v4">Link</a></td>
+</tr>
+<tr>
+<td>FedPerm: Private and Robust Federated Learning by Parameter Permutation</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.07922v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated Learning: Balancing the Thin Line Between Data Intelligence and Privacy</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.13697v1">Link</a></td>
+</tr>
+<tr>
+<td>Latency Optimization for Blockchain-Empowered Federated Learning in Multi-Server Edge Computing</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.09670v2">Link</a></td>
+</tr>
+<tr>
+<td>MPAF: Model Poisoning Attacks to Federated Learning based on Fake Clients</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.08669v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Against Semantic Segmentation Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.01082v1">Link</a></td>
+</tr>
+<tr>
+<td>Performance Weighting for Robust Federated Learning Against Corrupted Sources</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.01184v1">Link</a></td>
+</tr>
+<tr>
+<td>SPIN: Simulated Poisoning and Inversion Network for Federated Learning-Based 6G Vehicular Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.11321v1">Link</a></td>
+</tr>
+<tr>
+<td>Security Analysis of SplitFed Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.01716v1">Link</a></td>
+</tr>
+<tr>
+<td>Semi-Targeted Model Poisoning Attack on Federated Learning via Backward Error Analysis</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.11633v2">Link</a></td>
+</tr>
+<tr>
+<td>Studying the Robustness of Anti-adversarial Federated Learning Models Detecting Cyberattacks in IoT Spectrum Sensors</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.00137v1">Link</a></td>
+</tr>
+<tr>
+<td>Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.09305v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Understanding Quality Challenges of the Federated Learning for Neural Networks: A First Look from the Lens of Robustness</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.01409v2">Link</a></td>
+</tr>
+<tr>
+<td>Using Anomaly Detection to Detect Poisoning Attacks in Federated Learning Applications</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.08486v4">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2021"></a>
+<h3 class="year-heading">2021</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Synergetic Attack against Neural Network Classifiers combining Backdoor and Adversarial Examples</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.01275v1">Link</a></td>
+</tr>
+<tr>
+<td>ARFED: Attack-Resistant Federated averaging based on outlier elimination</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.04550v2">Link</a></td>
+</tr>
+<tr>
+<td>Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks on Production Federated Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.10241v2">Link</a></td>
+</tr>
+<tr>
+<td>Byzantine-Resilient Federated Machine Learning via Over-the-Air Computation</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.10883v1">Link</a></td>
+</tr>
+<tr>
+<td>Byzantine-robust Federated Learning through Collaborative Malicious Gradient Filtering</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.05872v2">Link</a></td>
+</tr>
+<tr>
+<td>Check Your Other Door! Creating Backdoor Attacks in the Frequency Domain</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.05507v3">Link</a></td>
+</tr>
+<tr>
+<td>Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.11799v1">Link</a></td>
+</tr>
+<tr>
+<td>DFL: High-Performance Blockchain-Based Federated Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.15457v2">Link</a></td>
+</tr>
+<tr>
+<td>DeSMP: Differential Privacy-exploited Stealthy Model Poisoning Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.09955v1">Link</a></td>
+</tr>
+<tr>
+<td>FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated Learning from a Client Perspective</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.13864v1">Link</a></td>
+</tr>
+<tr>
+<td>FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment for Federated Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.08020v1">Link</a></td>
+</tr>
+<tr>
+<td>FedRAD: Federated Robust Adaptive Distillation</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.01405v1">Link</a></td>
+</tr>
+<tr>
+<td>On the Security Risks of AutoML</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.06018v1">Link</a></td>
+</tr>
+<tr>
+<td>PRECAD: Privacy-Preserving and Robust Federated Learning via Crypto-Aided Differential Privacy</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.11578v1">Link</a></td>
+</tr>
+<tr>
+<td>PipAttack: Poisoning Federated Recommender Systems forManipulating Item Promotion</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.10926v1">Link</a></td>
+</tr>
+<tr>
+<td>Preventing Machine Learning Poisoning Attacks Using Authentication and Provenance</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.10051v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust Federated Learning with Attack-Adaptive Aggregation</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.05257v2">Link</a></td>
+</tr>
+<tr>
+<td>SAFELearning: Enable Backdoor Detectability In Federated Learning With Secure Aggregation</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.02402v2">Link</a></td>
+</tr>
+<tr>
+<td>SparseFed: Mitigating Model Poisoning Attacks in Federated Learning with Sparsification</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.06274v1">Link</a></td>
+</tr>
+<tr>
+<td>TESSERACT: Gradient Flip Score to Secure Federated Learning Against Model Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.10108v1">Link</a></td>
+</tr>
+<tr>
+<td>Turning Federated Learning Systems Into Covert Channels</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.10561v3">Link</a></td>
+</tr>
+<tr>
+<td>Untargeted Poisoning Attack Detection in Federated Learning via Behavior Attestation</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.10904v3">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2020"></a>
+<h3 class="year-heading">2020</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>2CP: Decentralized Protocols to Transparently Evaluate Contributivity in Blockchain Federated Learning Environments</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.07516v1">Link</a></td>
+</tr>
+<tr>
+<td>BaFFLe: Backdoor detection via Feedback-based Federated Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.02167v2">Link</a></td>
+</tr>
+<tr>
+<td>Ditto: Fair and Robust Federated Learning Through Personalization</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.04221v3">Link</a></td>
+</tr>
+<tr>
+<td>Exact Support Recovery in Federated Regression with One-shot Communication</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2006.12583v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning to Detect Malicious Clients for Robust Federated Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.00211v1">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Sybil Attacks on Differential Privacy based Federated Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.10572v1">Link</a></td>
+</tr>
+<tr>
+<td>You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.02220v3">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2019"></a>
+<h3 class="year-heading">2019</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Local Model Poisoning Attacks to Byzantine-Robust Federated Learning</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.11815v4">Link</a></td>
+</tr>
+<tr>
+<td>Mixed Strategy Game Model Against Data Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.02872v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2018"></a>
+<h3 class="year-heading">2018</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Analyzing Federated Learning through an Adversarial Lens</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.12470v4">Link</a></td>
+</tr>
+<tr>
+<td>How To Backdoor Federated Learning</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1807.00459v3">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Sybils in Federated Learning Poisoning</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1808.04866v5">Link</a></td>
 </tr>
 </tbody></table>
 

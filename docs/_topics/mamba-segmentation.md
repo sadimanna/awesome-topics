@@ -129,6 +129,13 @@ permalink: /mamba-segmentation/
 
 </details>
 
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2024](#arxiv-2024)
+
+</details>
+
 </details>
 
 
@@ -1007,6 +1014,44 @@ permalink: /mamba-segmentation/
 <td>Pattern Recognit. Lett.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.patrec.2025.10.020">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.12319v1">Link</a></td>
+</tr>
+<tr>
+<td>UNetMamba: An Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.11545v3">Link</a></td>
 </tr>
 </tbody></table>
 

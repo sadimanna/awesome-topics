@@ -112,6 +112,16 @@ permalink: /l-l-m-unlearning/
 
 </details>
 
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2026](#arxiv-2026)
+  - [2025](#arxiv-2025)
+  - [2024](#arxiv-2024)
+  - [2023](#arxiv-2023)
+
+</details>
+
 </details>
 
 
@@ -1082,6 +1092,872 @@ permalink: /l-l-m-unlearning/
 <td>Nat. Mac. Intell.</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1038/s42256-025-00985-0">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>$\textbf{AGT$^{AO}$}$: Robust and Stabilized LLM Unlearning via Adversarial Gating Training with Adaptive Orthogonality</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.01703v1">Link</a></td>
+</tr>
+<tr>
+<td>Auditing Language Model Unlearning via Information Decomposition</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.15111v1">Link</a></td>
+</tr>
+<tr>
+<td>BalDRO: A Distributionally Robust Optimization based Framework for Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.09172v2">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Forgetting: Machine Unlearning Elicits Controllable Side Behaviors and Capabilities</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.21702v2">Link</a></td>
+</tr>
+<tr>
+<td>CATNIP: LLM Unlearning via Calibrated and Tokenized Negative Preference Alignment</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.02824v1">Link</a></td>
+</tr>
+<tr>
+<td>DUET: Distilled LLM Unlearning from an Efficiently Contextualized Teacher</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.21283v1">Link</a></td>
+</tr>
+<tr>
+<td>FIT: Defying Catastrophic Forgetting in Continual LLM Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.21682v1">Link</a></td>
+</tr>
+<tr>
+<td>From Domains to Instances: Dual-Granularity Data Synthesis for LLM Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.04278v1">Link</a></td>
+</tr>
+<tr>
+<td>From Logits to Latents: Contrastive Representation Shaping for LLM Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.22028v1">Link</a></td>
+</tr>
+<tr>
+<td>Gauss-Newton Unlearning for the LLM Era</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.10568v1">Link</a></td>
+</tr>
+<tr>
+<td>KUDA: Knowledge Unlearning by Deviating Representation for Large Language Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.19275v2">Link</a></td>
+</tr>
+<tr>
+<td>Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.03190v2">Link</a></td>
+</tr>
+<tr>
+<td>Per-parameter Task Arithmetic for Unlearning in Large Language Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.22030v1">Link</a></td>
+</tr>
+<tr>
+<td>Quantization-Robust LLM Unlearning via Low-Rank Adaptation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.13151v1">Link</a></td>
+</tr>
+<tr>
+<td>Reinforcement Unlearning via Group Relative Policy Optimization</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.20568v2">Link</a></td>
+</tr>
+<tr>
+<td>STaR: Sensitive Trajectory Regulation for Unlearning in Large Reasoning Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.09281v1">Link</a></td>
+</tr>
+<tr>
+<td>Visual-Guided Key-Token Regularization for Multimodal Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.22020v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Comprehensive Survey of Machine Unlearning Techniques for Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.01854v2">Link</a></td>
+</tr>
+<tr>
+<td>A General Framework to Enhance Fine-tuning-based LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.17823v2">Link</a></td>
+</tr>
+<tr>
+<td>A Neuro-inspired Interpretation of Unlearning in Large Language Models through Sample-level Unlearning Difficulty</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.06658v1">Link</a></td>
+</tr>
+<tr>
+<td>A Survey on Unlearning in Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.25117v2">Link</a></td>
+</tr>
+<tr>
+<td>A mean teacher algorithm for unlearning of language models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.13388v1">Link</a></td>
+</tr>
+<tr>
+<td>Agents Are All You Need for LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.00406v2">Link</a></td>
+</tr>
+<tr>
+<td>Align-then-Unlearn: Embedding Alignment for LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.13181v1">Link</a></td>
+</tr>
+<tr>
+<td>BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.15699v1">Link</a></td>
+</tr>
+<tr>
+<td>BLUR: A Bi-Level Optimization Approach for LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.08164v2">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Sharp Minima: Robust LLM Unlearning via Feedback-Guided Multi-Point Optimization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.20230v3">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.13996v1">Link</a></td>
+</tr>
+<tr>
+<td>Bridging the Gap Between Preference Alignment and Machine Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.06659v1">Link</a></td>
+</tr>
+<tr>
+<td>CLUE: Conflict-guided Localization for LLM Unlearning Framework</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.20977v1">Link</a></td>
+</tr>
+<tr>
+<td>Collapse of Irrelevant Representations (CIR) Ensures Robust and Non-Disruptive LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.11816v2">Link</a></td>
+</tr>
+<tr>
+<td>Concept Unlearning in Large Language Models via Self-Constructed Knowledge Triplets</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.15621v1">Link</a></td>
+</tr>
+<tr>
+<td>Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.05314v2">Link</a></td>
+</tr>
+<tr>
+<td>Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The Balancing Act of Selective Unlearning in Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.04795v1">Link</a></td>
+</tr>
+<tr>
+<td>DRAGON: Guard LLM Unlearning in Context via Negative Detection and Reasoning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.05784v2">Link</a></td>
+</tr>
+<tr>
+<td>Direct Token Optimization: A Self-contained Approach to Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.00125v1">Link</a></td>
+</tr>
+<tr>
+<td>Distillation Robustifies Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.06278v3">Link</a></td>
+</tr>
+<tr>
+<td>Distribution Preference Optimization: A Fine-grained Perspective for LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.04773v1">Link</a></td>
+</tr>
+<tr>
+<td>Downgrade to Upgrade: Optimizer Simplification Enhances Robustness in LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.00761v4">Link</a></td>
+</tr>
+<tr>
+<td>Dual-Space Smoothness for Robust and Balanced LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.23362v1">Link</a></td>
+</tr>
+<tr>
+<td>Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.19855v1">Link</a></td>
+</tr>
+<tr>
+<td>Existing Large Language Model Unlearning Evaluations Are Inconclusive</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.00688v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.11953v2">Link</a></td>
+</tr>
+<tr>
+<td>Forgetting to Forget: Attention Sink as A Gateway for Backdooring LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.17021v1">Link</a></td>
+</tr>
+<tr>
+<td>Forgetting-MarI: LLM Unlearning via Marginal Information Regularization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.11914v3">Link</a></td>
+</tr>
+<tr>
+<td>From Learning to Unlearning: Biomedical Security Protection in Multimodal Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.04192v1">Link</a></td>
+</tr>
+<tr>
+<td>GRU: Mitigating the Trade-off between Unlearning and Retention for LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.09117v3">Link</a></td>
+</tr>
+<tr>
+<td>GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.13312v1">Link</a></td>
+</tr>
+<tr>
+<td>GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.10946v2">Link</a></td>
+</tr>
+<tr>
+<td>Geometric-disentangelment Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.17100v4">Link</a></td>
+</tr>
+<tr>
+<td>Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph Traversal and Redundancy Removal</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.18810v1">Link</a></td>
+</tr>
+<tr>
+<td>Improving Fisher Information Estimation and Efficiency for LoRA-based LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.21300v1">Link</a></td>
+</tr>
+<tr>
+<td>Improving LLM Unlearning Robustness via Random Perturbations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.19202v4">Link</a></td>
+</tr>
+<tr>
+<td>Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream Fine-Tuning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.01339v2">Link</a></td>
+</tr>
+<tr>
+<td>Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow Real Instructions?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.04292v1">Link</a></td>
+</tr>
+<tr>
+<td>Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.00359v1">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.10185v2">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning Should Be Form-Independent</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.07795v1">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning Under the Microscope: A Full-Stack View on Methods and Metrics</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.07626v1">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning Without an Expert Curated Dataset</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06595v3">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning on Noisy Forget Sets: A Study of Incomplete, Rewritten, and Watermarked Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.09007v1">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise Injection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06467v1">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning via Neural Activation Redirection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.07218v2">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning with LLM Beliefs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.19422v1">Link</a></td>
+</tr>
+<tr>
+<td>LUME: LLM Unlearning with Multitask Evaluations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.15097v3">Link</a></td>
+</tr>
+<tr>
+<td>LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.07375v1">Link</a></td>
+</tr>
+<tr>
+<td>Label Smoothing Improves Gradient Ascent in LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.22376v1">Link</a></td>
+</tr>
+<tr>
+<td>Large Language Model Unlearning for Source Code</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.17125v2">Link</a></td>
+</tr>
+<tr>
+<td>Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.04934v2">Link</a></td>
+</tr>
+<tr>
+<td>Not All Data Are Unlearned Equally</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.05058v6">Link</a></td>
+</tr>
+<tr>
+<td>Not Every Token Needs Forgetting: Selective Unlearning to Limit Change in Utility in Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.00876v1">Link</a></td>
+</tr>
+<tr>
+<td>Oblivionis: A Lightweight Learning and Unlearning Framework for Federated Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.08875v2">Link</a></td>
+</tr>
+<tr>
+<td>OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking of Methods and Metrics</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.12618v2">Link</a></td>
+</tr>
+<tr>
+<td>RULE: Reinforcement UnLEarning Achieves Forget-Retain Pareto Optimality</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.07171v1">Link</a></td>
+</tr>
+<tr>
+<td>RapidUn: Influence-Driven Parameter Reweighting for Efficient Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.04457v1">Link</a></td>
+</tr>
+<tr>
+<td>Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.07374v1">Link</a></td>
+</tr>
+<tr>
+<td>Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality Check</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.12981v1">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.19301v1">Link</a></td>
+</tr>
+<tr>
+<td>Reveal and Release: Iterative LLM Unlearning with Self-generated Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.14624v1">Link</a></td>
+</tr>
+<tr>
+<td>Reviving Your MNEME: Predicting The Side Effects of LLM Unlearning and Fine-Tuning via Sparse Model Diffing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.21084v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.12484v5">Link</a></td>
+</tr>
+<tr>
+<td>SUA: Stealthy Multimodal Large Language Model Unlearning Attack</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.17265v2">Link</a></td>
+</tr>
+<tr>
+<td>Scalable and Robust LLM Unlearning by Correcting Responses with Retrieved Exclusions</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.25973v1">Link</a></td>
+</tr>
+<tr>
+<td>SemEval-2025 Task 4: Unlearning sensitive content from Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.02883v1">Link</a></td>
+</tr>
+<tr>
+<td>SoK: Machine Unlearning for Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.09227v1">Link</a></td>
+</tr>
+<tr>
+<td>Sparse-Autoencoder-Guided Internal Representation Unlearning for Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.15631v1">Link</a></td>
+</tr>
+<tr>
+<td>Standard vs. Modular Sampling: Best Practices for Reliable LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.05316v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Benign Memory Forgetting for Selective Multimodal Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.20196v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Evaluation for Real-World LLM Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.01324v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.05374v4">Link</a></td>
+</tr>
+<tr>
+<td>Towards Mitigating Excessive Forgetting in LLM Unlearning via Entanglement-Guidance with Proxy Constraint</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.20443v2">Link</a></td>
+</tr>
+<tr>
+<td>UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.04693v1">Link</a></td>
+</tr>
+<tr>
+<td>UniErase: Towards Balanced and Precise Unlearning in Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.15674v2">Link</a></td>
+</tr>
+<tr>
+<td>Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from Model Outputs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.14003v3">Link</a></td>
+</tr>
+<tr>
+<td>WaterDrum: Watermarking for Data-centric Unlearning Metric</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.05064v2">Link</a></td>
+</tr>
+<tr>
+<td>When Forgetting Builds Reliability: LLM Unlearning for Reliable Hardware Code Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.05341v1">Link</a></td>
+</tr>
+<tr>
+<td>Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.11441v3">Link</a></td>
+</tr>
+<tr>
+<td>Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning via Attention Shifting</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.17210v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Closer Look at Machine Unlearning for Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.08109v5">Link</a></td>
+</tr>
+<tr>
+<td>Avoiding Copyright Infringement via Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.10952v3">Link</a></td>
+</tr>
+<tr>
+<td>Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.03554v3">Link</a></td>
+</tr>
+<tr>
+<td>Catastrophic Failure of LLM Unlearning via Quantization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.16454v3">Link</a></td>
+</tr>
+<tr>
+<td>Classifier-free guidance in LLMs Safety</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.06846v1">Link</a></td>
+</tr>
+<tr>
+<td>Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.12103v3">Link</a></td>
+</tr>
+<tr>
+<td>How Data Inter-connectivity Shapes LLMs Unlearning: A Structural Unlearning Perspective</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.16810v2">Link</a></td>
+</tr>
+<tr>
+<td>Investigating the Feasibility of Mitigating Potential Copyright Infringement via Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.18621v1">Link</a></td>
+</tr>
+<tr>
+<td>LLM Unlearning via Loss Adjustment with Only Forget Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.11143v1">Link</a></td>
+</tr>
+<tr>
+<td>Large Language Model Unlearning via Embedding-Corrupted Prompts</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.07933v2">Link</a></td>
+</tr>
+<tr>
+<td>MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.11844v1">Link</a></td>
+</tr>
+<tr>
+<td>Methods to Assess the UK Government's Current Role as a Data Provider for AI</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.09632v2">Link</a></td>
+</tr>
+<tr>
+<td>Multi-Objective Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.20412v2">Link</a></td>
+</tr>
+<tr>
+<td>Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.05868v2">Link</a></td>
+</tr>
+<tr>
+<td>On Effects of Steering Latent Representation for Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.06223v3">Link</a></td>
+</tr>
+<tr>
+<td>On Large Language Model Continual Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.10223v2">Link</a></td>
+</tr>
+<tr>
+<td>Position: LLM Unlearning Benchmarks are Weak Measures of Progress</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.02879v2">Link</a></td>
+</tr>
+<tr>
+<td>Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.22108v2">Link</a></td>
+</tr>
+<tr>
+<td>RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.10890v1">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking Machine Unlearning for Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.08787v6">Link</a></td>
+</tr>
+<tr>
+<td>Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.08607v1">Link</a></td>
+</tr>
+<tr>
+<td>Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.16997v2">Link</a></td>
+</tr>
+<tr>
+<td>SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs?</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.18797v2">Link</a></td>
+</tr>
+<tr>
+<td>SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.18239v4">Link</a></td>
+</tr>
+<tr>
+<td>Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.07163v4">Link</a></td>
+</tr>
+<tr>
+<td>Towards Effective Evaluations and Comparisons for LLM Unlearning Methods</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.09179v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.10682v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.06621v5">Link</a></td>
+</tr>
+<tr>
+<td>Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias Mitigation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.16951v1">Link</a></td>
+</tr>
+<tr>
+<td>Underestimated Privacy Risks for Minority Populations in Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.08559v3">Link</a></td>
+</tr>
+<tr>
+<td>Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive Analysis</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.15796v6">Link</a></td>
+</tr>
+<tr>
+<td>WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.17509v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Large Language Model Unlearning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.10683v2">Link</a></td>
 </tr>
 </tbody></table>
 

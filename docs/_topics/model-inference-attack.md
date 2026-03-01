@@ -1153,6 +1153,35 @@ permalink: /model-inference-attack/
 
 </details>
 
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2026](#arxiv-2026)
+  - [2025](#arxiv-2025)
+  - [2024](#arxiv-2024)
+  - [2023](#arxiv-2023)
+  - [2022](#arxiv-2022)
+  - [2021](#arxiv-2021)
+  - [2020](#arxiv-2020)
+  - [2019](#arxiv-2019)
+  - [2018](#arxiv-2018)
+  - [2017](#arxiv-2017)
+  - [2016](#arxiv-2016)
+  - [2015](#arxiv-2015)
+  - [2014](#arxiv-2014)
+  - [2013](#arxiv-2013)
+  - [2012](#arxiv-2012)
+  - [2011](#arxiv-2011)
+  - [2010](#arxiv-2010)
+  - [2009](#arxiv-2009)
+  - [2008](#arxiv-2008)
+  - [2007](#arxiv-2007)
+  - [2004](#arxiv-2004)
+  - [2002](#arxiv-2002)
+  - [2001](#arxiv-2001)
+
+</details>
+
 </details>
 
 
@@ -19821,6 +19850,13910 @@ permalink: /model-inference-attack/
 <td>ACM Trans. Priv. Secur.</td>
 <td>2017</td>
 <td><a href="https://doi.org/10.1145/3105760">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Machine Learning Framework for Off Ball Defensive Role and Performance Evaluation in Football</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.00748v1">Link</a></td>
+</tr>
+<tr>
+<td>A Universal Load Balancing Principle and Its Application to Large Language Model Serving</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.17855v2">Link</a></td>
+</tr>
+<tr>
+<td>AST-PAC: AST-guided Membership Inference for Code</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.13240v1">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive and Robust Cost-Aware Proof of Quality for Decentralized LLM Inference Networks</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.21189v1">Link</a></td>
+</tr>
+<tr>
+<td>Are More Tokens Rational? Inference-Time Scaling in Language Models as Adaptive Resource Rationality</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.10329v1">Link</a></td>
+</tr>
+<tr>
+<td>Are you going to finish that? A Practical Study of the Partial Token Problem</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.23223v2">Link</a></td>
+</tr>
+<tr>
+<td>Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.18378v2">Link</a></td>
+</tr>
+<tr>
+<td>AtPatch: Debugging Transformers via Hot-Fixing Over-Attention</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.21695v1">Link</a></td>
+</tr>
+<tr>
+<td>AttenMIA: LLM Membership Inference Attack through Attention Signals</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.18110v1">Link</a></td>
+</tr>
+<tr>
+<td>Bagging-Based Model Merging for Robust General Text Embeddings</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.05787v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Quadrature: Gaussian Processes for Integration</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.16218v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.20706v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.21496v1">Link</a></td>
+</tr>
+<tr>
+<td>Brazilian Portuguese Image Captioning with Transformers: A Study on Cross-Native-Translated Dataset</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.00393v1">Link</a></td>
+</tr>
+<tr>
+<td>COFFEE: COdesign Framework for Feature Enriched Embeddings in Ads-Ranking Systems</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.02807v1">Link</a></td>
+</tr>
+<tr>
+<td>Can Inherent Communication Noise Guarantee Privacy in Distributed Cooperative Control ?</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.07997v1">Link</a></td>
+</tr>
+<tr>
+<td>Challenges and Research Directions for Large Language Model Inference Hardware</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.05047v3">Link</a></td>
+</tr>
+<tr>
+<td>Constitutive parameter inference using physics-based data-driven modeling in full volume datasets of intact and torn rotator cuff tendons</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.09660v1">Link</a></td>
+</tr>
+<tr>
+<td>DPSQL+: A Differentially Private SQL Library with a Minimum Frequency Rule</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.22699v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep Kernel Fusion for Transformers</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.11808v1">Link</a></td>
+</tr>
+<tr>
+<td>DeepLeak: Privacy Enhancing Hardening of Model Explanations Against Membership Leakage</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.03429v1">Link</a></td>
+</tr>
+<tr>
+<td>DySL-VLA: Efficient Vision-Language-Action Model Inference via Dynamic-Static Layer-Skipping for Robot Manipulation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.22896v1">Link</a></td>
+</tr>
+<tr>
+<td>EPD-Serve: A Flexible Multimodal EPD Disaggregation Inference Serving System On Ascend</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.11590v1">Link</a></td>
+</tr>
+<tr>
+<td>Equivariant Evidential Deep Learning for Interatomic Potentials</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.10419v1">Link</a></td>
+</tr>
+<tr>
+<td>Exchangeable random permutations with an application to Bayesian graph matching</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.01993v1">Link</a></td>
+</tr>
+<tr>
+<td>FARTrack: Fast Autoregressive Visual Tracking with High Performance</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.03214v1">Link</a></td>
+</tr>
+<tr>
+<td>FUPareto: Bridging the Forgetting-Utility Gap in Federated Unlearning via Pareto Augmented Optimization</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.01852v1">Link</a></td>
+</tr>
+<tr>
+<td>FastAV: Efficient Token Pruning for Audio-Visual Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.13143v1">Link</a></td>
+</tr>
+<tr>
+<td>FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.10940v1">Link</a></td>
+</tr>
+<tr>
+<td>Fed-Listing: Federated Label Distribution Inference in Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.00407v1">Link</a></td>
+</tr>
+<tr>
+<td>Flatter Tokens are More Valuable for Speculative Draft Model Training</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.18902v2">Link</a></td>
+</tr>
+<tr>
+<td>Following the Diagnostic Trace: Visual Cognition-guided Cooperative Network for Chest X-Ray Diagnosis</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.21657v1">Link</a></td>
+</tr>
+<tr>
+<td>From shape to fate: making bacterial swarming expansion predictable</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.01056v1">Link</a></td>
+</tr>
+<tr>
+<td>Generalized Leverage Score for Scalable Assessment of Privacy Vulnerability</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.15919v1">Link</a></td>
+</tr>
+<tr>
+<td>Generating High-quality Privacy-preserving Synthetic Data</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.06390v1">Link</a></td>
+</tr>
+<tr>
+<td>Grad2Reward: From Sparse Judgment to Dense Rewards for Improving Open-Ended LLM Reasoning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.01791v1">Link</a></td>
+</tr>
+<tr>
+<td>HALO: Semantic-Aware Distributed LLM Inference in Lossy Edge Network</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.11676v1">Link</a></td>
+</tr>
+<tr>
+<td>HIPPO: Accelerating Video Large Language Models Inference via Holistic-aware Parallel Speculative Decoding</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.08273v1">Link</a></td>
+</tr>
+<tr>
+<td>HiFloat4 Format for Language Model Inference</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.11287v2">Link</a></td>
+</tr>
+<tr>
+<td>How to Train Your Filter: Should You Learn, Stack or Adapt?</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.13484v1">Link</a></td>
+</tr>
+<tr>
+<td>Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.17569v1">Link</a></td>
+</tr>
+<tr>
+<td>Interpreting and Controlling LLM Reasoning through Integrated Policy Gradient</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.02313v2">Link</a></td>
+</tr>
+<tr>
+<td>Jolt Atlas: Verifiable Inference via Lookup Arguments in Zero Knowledge</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.17452v1">Link</a></td>
+</tr>
+<tr>
+<td>Latent Objective Induction and Diversity-Constrained Selection: Algorithms for Multi-Locale Retrieval Pipelines</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.15921v1">Link</a></td>
+</tr>
+<tr>
+<td>LeakBoost: Perceptual-Loss-Based Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.05748v1">Link</a></td>
+</tr>
+<tr>
+<td>Leap+Verify: Regime-Adaptive Speculative Weight Prediction for Accelerating Neural Network Training</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.19580v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning to Detect Language Model Training Data via Active Reconstruction</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.19020v1">Link</a></td>
+</tr>
+<tr>
+<td>Leveraging Soft Prompts for Privacy Attacks in Federated Prompt Tuning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.06641v2">Link</a></td>
+</tr>
+<tr>
+<td>LoMime: Query-Efficient Membership Inference using Model Extraction in Label-Only Settings</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.18934v1">Link</a></td>
+</tr>
+<tr>
+<td>LoRA and Privacy: When Random Projections Help (and When They Don't)</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.21719v1">Link</a></td>
+</tr>
+<tr>
+<td>MXFormer: A Microscaling Floating-Point Charge-Trap Transistor Compute-in-Memory Transformer Accelerator</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.12480v1">Link</a></td>
+</tr>
+<tr>
+<td>MaRI: Accelerating Ranking Model Inference via Structural Re-parameterization in Large Scale Recommendation System</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.23105v1">Link</a></td>
+</tr>
+<tr>
+<td>MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.10518v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack Against Music Diffusion Models via Generative Manifold Perturbation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.01645v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks from Causal Principles</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.02819v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference on LLMs in the Wild</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.11314v1">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Membership Inference in Intermediate Representations via Layer-wise MIA-risk-aware DP-SGD</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.22611v1">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Timing-Based Attacks in Real-Time Cyber-Physical Systems</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.03757v1">Link</a></td>
+</tr>
+<tr>
+<td>Modeling Expert AI Diagnostic Alignment via Immutable Inference Snapshots</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.22973v1">Link</a></td>
+</tr>
+<tr>
+<td>Modular Foundation Model Inference at the Edge: Network-Aware Microservice Optimization</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.19563v1">Link</a></td>
+</tr>
+<tr>
+<td>Multi-Agentic AI for Fairness-Aware and Accelerated Multi-modal Large Model Inference in Real-world Mobile Edge Networks</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.07215v1">Link</a></td>
+</tr>
+<tr>
+<td>Multi-Token Prediction via Self-Distillation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.06019v1">Link</a></td>
+</tr>
+<tr>
+<td>NLP Privacy Risk Identification in Social Media (NLP-PRISM): A Survey</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.15866v1">Link</a></td>
+</tr>
+<tr>
+<td>NanoNet: Parameter-Efficient Learning with Label-Scarce Supervision for Lightweight Text Mining Model</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.06093v1">Link</a></td>
+</tr>
+<tr>
+<td>Neighborhood Blending: A Lightweight Inference-Time Defense Against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.12943v1">Link</a></td>
+</tr>
+<tr>
+<td>No Caption, No Problem: Caption-Free Membership Inference via Model-Fitted Embeddings</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.22689v1">Link</a></td>
+</tr>
+<tr>
+<td>Noise as a Probe: Membership Inference Attacks on Diffusion Models Leveraging Initial Noise</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.21628v1">Link</a></td>
+</tr>
+<tr>
+<td>On the Evidentiary Limits of Membership Inference for Copyright Auditing</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.12937v1">Link</a></td>
+</tr>
+<tr>
+<td>PAC-Private Responses with Adversarial Composition</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.14033v1">Link</a></td>
+</tr>
+<tr>
+<td>POP: Prefill-Only Pruning for Efficient Large Model Inference</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.03295v1">Link</a></td>
+</tr>
+<tr>
+<td>PRISM: Differentially Private Synthetic Data with Structure-Aware Budget Allocation for Prediction</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.10228v1">Link</a></td>
+</tr>
+<tr>
+<td>Parametric-Sensitivity Aware Retransmission for Efficient AI Downloading</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.13607v1">Link</a></td>
+</tr>
+<tr>
+<td>Powerful Training-Free Membership Inference Against Autoregressive Language Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.12104v1">Link</a></td>
+</tr>
+<tr>
+<td>Predicting Future Utility: Global Combinatorial Optimization for Task-Agnostic KV Cache Eviction</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.08585v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Enhanced PEFT: Tensor Train Decomposition Improves Privacy Utility Tradeoffs under DP-SGD</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.10045v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Federated Learning with Verifiable Fairness Guarantees</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.12447v2">Link</a></td>
+</tr>
+<tr>
+<td>Private and Robust Contribution Evaluation in Federated Learning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.21721v1">Link</a></td>
+</tr>
+<tr>
+<td>Protecting Private Code in IDE Autocomplete using Differential Privacy</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.22935v1">Link</a></td>
+</tr>
+<tr>
+<td>SALAAD: Sparse And Low-Rank Adaptation via ADMM for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.00942v2">Link</a></td>
+</tr>
+<tr>
+<td>SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.16480v1">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Explainability-as-a-Service (XaaS) for Edge AI Systems</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.04120v1">Link</a></td>
+</tr>
+<tr>
+<td>Scaling and tuning to criticality in resting-state human magnetoencephalography</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.17820v1">Link</a></td>
+</tr>
+<tr>
+<td>Secure Text Entry using a Virtual Radial Keyboard with Dynamically Resized Keys and Non-Intrusive Randomization</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.05516v1">Link</a></td>
+</tr>
+<tr>
+<td>Sequential Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.16596v1">Link</a></td>
+</tr>
+<tr>
+<td>Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.05134v1">Link</a></td>
+</tr>
+<tr>
+<td>Shadow Unlearning: A Neuro-Semantic Approach to Fidelity-Preserving Faceless Forgetting in LLMs</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.04275v1">Link</a></td>
+</tr>
+<tr>
+<td>SoK: Challenges in Tabular Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.15874v1">Link</a></td>
+</tr>
+<tr>
+<td>SoK: Enhancing Cryptographic Collaborative Learning with Differential Privacy</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.09460v1">Link</a></td>
+</tr>
+<tr>
+<td>Spherical Spatial Autoregressive Model for Spherically Embedded Spatial Data</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.16385v1">Link</a></td>
+</tr>
+<tr>
+<td>Statistical MIA: Rethinking Membership Inference Attack for Reliable Unlearning Auditing</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.01150v1">Link</a></td>
+</tr>
+<tr>
+<td>Stop Tracking Me! Proactive Defense Against Attribute Inference Attack in LLMs</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.11528v1">Link</a></td>
+</tr>
+<tr>
+<td>Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.06161v1">Link</a></td>
+</tr>
+<tr>
+<td>Structure-constrained Language-informed Diffusion Model for Unpaired Low-dose Computed Tomography Angiography Reconstruction</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.20304v1">Link</a></td>
+</tr>
+<tr>
+<td>SwiftVLM: Efficient Vision-Language Model Inference via Cross-Layer Token Bypass</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.03134v1">Link</a></td>
+</tr>
+<tr>
+<td>SynQP: A Framework and Metrics for Evaluating the Quality and Privacy Risk of Synthetic Data</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.12124v1">Link</a></td>
+</tr>
+<tr>
+<td>Synthesizing Realistic Test Data without Breaking Privacy</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.05833v1">Link</a></td>
+</tr>
+<tr>
+<td>TableCache: Primary Foreign Key Guided KV Cache Precomputation for Low Latency Text-to-SQL</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.08743v1">Link</a></td>
+</tr>
+<tr>
+<td>The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.21372v1">Link</a></td>
+</tr>
+<tr>
+<td>ViTCoP: Accelerating Large Vision-Language Models via Visual and Textual Semantic Collaborative Pruning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.17818v1">Link</a></td>
+</tr>
+<tr>
+<td>VidLeaks: Membership Inference Attacks Against Text-to-Video Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.11210v1">Link</a></td>
+</tr>
+<tr>
+<td>What Hard Tokens Reveal: Exploiting Low-confidence Tokens for Membership Inference Attacks against Large Language Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.20885v1">Link</a></td>
+</tr>
+<tr>
+<td>When Reasoning Leaks Membership: Membership Inference Attack on Black-box Large Reasoning Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.13607v1">Link</a></td>
+</tr>
+<tr>
+<td>Window-Diffusion: Accelerating Diffusion Language Model Inference with Windowed Token Pruning and Caching</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.20332v2">Link</a></td>
+</tr>
+<tr>
+<td>Window-based Membership Inference Attacks Against Fine-tuned Large Language Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.02751v1">Link</a></td>
+</tr>
+<tr>
+<td>iPDB -- Optimizing SQL Queries with ML and LLM Predicates</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.16432v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A BGe score for tied-covariance mixtures of Gaussian Bayesian networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.07050v1">Link</a></td>
+</tr>
+<tr>
+<td>A CFL-type Condition and Theoretical Insights for Discrete-Time Sparse Full-Order Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.01244v1">Link</a></td>
+</tr>
+<tr>
+<td>A Comparison of 1D and 3D Exoplanet Atmosphere Model Grids: ScCHIMERA and the SPARC/MITgcm</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.14882v1">Link</a></td>
+</tr>
+<tr>
+<td>A Comparison of Object Detection and Phrase Grounding Models in Chest X-ray Abnormality Localization using Eye-tracking Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.01037v1">Link</a></td>
+</tr>
+<tr>
+<td>A Computational Cognitive Model for Processing Repetitions of Hierarchical Relations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.10065v1">Link</a></td>
+</tr>
+<tr>
+<td>A Failure-Free and Efficient Discrete Laplace Distribution for Differential Privacy in MPC</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.07048v1">Link</a></td>
+</tr>
+<tr>
+<td>A Generative Re-ranking Model for List-level Multi-objective Optimization at Taobao</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.07197v1">Link</a></td>
+</tr>
+<tr>
+<td>A Lightweight and Secure Deep Learning Model for Privacy-Preserving Federated Learning in Intelligent Enterprises</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.02017v1">Link</a></td>
+</tr>
+<tr>
+<td>A Multi-Pass Large Language Model Framework for Precise and Efficient Radiology Report Error Detection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.20112v1">Link</a></td>
+</tr>
+<tr>
+<td>A Privacy-Preserving Federated Framework with Hybrid Quantum-Enhanced Learning for Financial Fraud Detection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.22908v1">Link</a></td>
+</tr>
+<tr>
+<td>A Reinforcement Learning Approach to Synthetic Data Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.21395v2">Link</a></td>
+</tr>
+<tr>
+<td>A Scalable Multi-GPU Framework for Encrypted Large-Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.11269v1">Link</a></td>
+</tr>
+<tr>
+<td>A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.01412v1">Link</a></td>
+</tr>
+<tr>
+<td>A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.10047v1">Link</a></td>
+</tr>
+<tr>
+<td>A Unified Transformer Architecture for Low-Latency and Scalable Wireless Signal Processing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.17960v2">Link</a></td>
+</tr>
+<tr>
+<td>A Volumetric Privacy Measure for Dynamical Systems With Bounded Disturbance</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.02893v5">Link</a></td>
+</tr>
+<tr>
+<td>A hierarchical approach for assessing the vulnerability of tree-based classification models to membership inference attack</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.09396v2">Link</a></td>
+</tr>
+<tr>
+<td>A new membership inference attack that spots memorization in generative and predictive models: Loss-Based with Reference Model algorithm (LBRM)</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.03490v1">Link</a></td>
+</tr>
+<tr>
+<td>A performance analysis of VM-based Trusted Execution Environments for Confidential Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.11558v1">Link</a></td>
+</tr>
+<tr>
+<td>A quadratic estimator view of the transfer function correction in intensity mapping surveys</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.13070v2">Link</a></td>
+</tr>
+<tr>
+<td>AI Accelerators for Large Language Model Inference: Architecture Analysis and Scaling Strategies</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.00008v1">Link</a></td>
+</tr>
+<tr>
+<td>AI Flow: Perspectives, Scenarios, and Approaches</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.12479v3">Link</a></td>
+</tr>
+<tr>
+<td>AI-driven Automation of End-to-end Assessment of Suturing Expertise</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.17391v1">Link</a></td>
+</tr>
+<tr>
+<td>AI-driven Dispensing of Coral Reseeding Devices for Broad-scale Restoration of the Great Barrier Reef</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.01019v1">Link</a></td>
+</tr>
+<tr>
+<td>AIBrix: Towards Scalable, Cost-Effective Large Language Model Inference Infrastructure</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.03648v1">Link</a></td>
+</tr>
+<tr>
+<td>AIF: Asynchronous Inference Framework for Cost-Effective Pre-Ranking</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.12934v2">Link</a></td>
+</tr>
+<tr>
+<td>AIvaluateXR: An Evaluation Framework for on-Device AI in XR with Benchmarking Results</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.15761v2">Link</a></td>
+</tr>
+<tr>
+<td>ALPINE: A Lightweight and Adaptive Privacy-Decision Agent Framework for Dynamic Edge Crowdsensing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.17162v1">Link</a></td>
+</tr>
+<tr>
+<td>AMUN: Adversarial Machine UNlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.00917v3">Link</a></td>
+</tr>
+<tr>
+<td>AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.05960v2">Link</a></td>
+</tr>
+<tr>
+<td>AR as an Evaluation Playground: Bridging Metrics and Visual Perception of Computer Vision Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.04102v2">Link</a></td>
+</tr>
+<tr>
+<td>Accelerate High-Quality Diffusion Models with Inner Loop Feedback</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.13107v3">Link</a></td>
+</tr>
+<tr>
+<td>Accelerate Speculative Decoding with Sparse Computation in Verification</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.21911v1">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating Large Language Model Inference via Early-Exiting Algorithms</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.05915v2">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.01278v1">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating MoE Model Inference with Expert Sharding</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.08467v1">Link</a></td>
+</tr>
+<tr>
+<td>Accounting for missing data when modelling block maxima</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.15429v1">Link</a></td>
+</tr>
+<tr>
+<td>AdaMixup: A Dynamic Defense Framework for Membership Inference Attack Mitigation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.02182v1">Link</a></td>
+</tr>
+<tr>
+<td>AdaSD: Adaptive Speculative Decoding for Efficient Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.11280v1">Link</a></td>
+</tr>
+<tr>
+<td>AdaSPEC: Selective Knowledge Distillation for Efficient Speculative Decoders</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.19779v1">Link</a></td>
+</tr>
+<tr>
+<td>AdaptInfer: Adaptive Token Pruning for Vision-Language Model Inference with Dynamical Text Guidance</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06084v2">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Cache Pollution Control for Large Language Model Inference Workloads Using Temporal CNN-Based Prediction and Priority-Aware Replacement</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.14151v1">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Configuration Selection for Multi-Model Inference Pipelines in Edge Computing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.02814v2">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.12769v2">Link</a></td>
+</tr>
+<tr>
+<td>AegisMCP: Online Graph Intrusion Detection for Tool-Augmented LLMs on Edge Devices</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.19462v2">Link</a></td>
+</tr>
+<tr>
+<td>Agentic AI framework for End-to-End Medical Data Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.18115v1">Link</a></td>
+</tr>
+<tr>
+<td>Agentic Surgical AI: Surgeon Style Fingerprinting and Privacy Risk Quantification via Discrete Diffusion in a Vision-Language-Action Framework</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.08185v2">Link</a></td>
+</tr>
+<tr>
+<td>AirCache: Activating Inter-modal Relevancy KV Cache Compression for Efficient Large Vision-Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.23956v3">Link</a></td>
+</tr>
+<tr>
+<td>Amplifying Machine Learning Attacks Through Strategic Compositions</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.18870v1">Link</a></td>
+</tr>
+<tr>
+<td>An Early Experience with Confidential Computing Architecture for On-Device Model Protection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.08508v1">Link</a></td>
+</tr>
+<tr>
+<td>An Efficient Gradient-Based Inference Attack for Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.15143v1">Link</a></td>
+</tr>
+<tr>
+<td>An Empirical Analysis of Secure Federated Learning for Autonomous Vehicle Applications</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.20223v1">Link</a></td>
+</tr>
+<tr>
+<td>An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.17772v4">Link</a></td>
+</tr>
+<tr>
+<td>Apollo: A Posteriori Label-Only Membership Inference Attack Towards Machine Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.09923v2">Link</a></td>
+</tr>
+<tr>
+<td>Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.21723v2">Link</a></td>
+</tr>
+<tr>
+<td>As If We've Met Before: LLMs Exhibit Certainty in Recognizing Seen Files</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.15192v2">Link</a></td>
+</tr>
+<tr>
+<td>Assessing systematic uncertainties from spectral re-analysis of Cyg X-1 with different coronal geometries</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.21230v1">Link</a></td>
+</tr>
+<tr>
+<td>Assessing the Effectiveness of Membership Inference on Generative Music</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.21762v1">Link</a></td>
+</tr>
+<tr>
+<td>Asteroseismic investigation of HD 140283: The Methuselah star</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.11532v1">Link</a></td>
+</tr>
+<tr>
+<td>AttackPilot: Autonomous Inference Attacks Against ML Services With LLM-Based Agents</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.19536v1">Link</a></td>
+</tr>
+<tr>
+<td>Auditing Approximate Machine Unlearning for Differentially Private Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.18671v1">Link</a></td>
+</tr>
+<tr>
+<td>AugServe: Adaptive Request Scheduling for Augmented Large Language Model Inference Serving</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.04013v2">Link</a></td>
+</tr>
+<tr>
+<td>Automatic Calibration for Membership Inference Attack on Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.03392v1">Link</a></td>
+</tr>
+<tr>
+<td>Automatic Generation of Aerobatic Flight in Complex Environments via Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.15138v1">Link</a></td>
+</tr>
+<tr>
+<td>BLIA: Detect model memorization in binary classification model through passive Label Inference attack</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.12801v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Inference of Training Dataset Membership</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.00701v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Joint Modeling of Zero-Inflated Longitudinal Data and Survival with a Cure Fraction: Application to AIDS Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.19001v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Perspective on Memorization and Reconstruction</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.23658v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian spatiotemporal modeling of passenger trip assignment in metro networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.22403v1">Link</a></td>
+</tr>
+<tr>
+<td>Better Prompt Compression Without Multi-Layer Perceptrons</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.06730v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Classification: Evaluating Diffusion Denoised Smoothing for Security-Utility Trade off</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.15594v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.16784v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.12702v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Public Access in LLM Pre-Training Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.00020v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Reproducibility: Advancing Zero-shot LLM Reranking Efficiency with Setwise Insertion</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.10509v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.15784v1">Link</a></td>
+</tr>
+<tr>
+<td>Biologically-Informed Hybrid Membership Inference Attacks on Generative Genomic Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.07503v3">Link</a></td>
+</tr>
+<tr>
+<td>Black-Box Membership Inference Attack for LVLMs via Prior Knowledge-Calibrated Memory Probing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.01952v1">Link</a></td>
+</tr>
+<tr>
+<td>Black-Box Privacy Attacks on Shared Representations in Multitask Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.16460v1">Link</a></td>
+</tr>
+<tr>
+<td>Blackbox Dataset Inference for LLM</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.03619v3">Link</a></td>
+</tr>
+<tr>
+<td>Break Out the Silverware -- Semantic Understanding of Stored Household Items</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.23739v1">Link</a></td>
+</tr>
+<tr>
+<td>Breaking the Myth: Can Small Models Infer Postconditions Too?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.10182v1">Link</a></td>
+</tr>
+<tr>
+<td>Bridging the Reality Gap in Digital Twins with Context-Aware, Physics-Guided Deep Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.11847v1">Link</a></td>
+</tr>
+<tr>
+<td>CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.14769v2">Link</a></td>
+</tr>
+<tr>
+<td>CE-LSLM: Efficient Large-Small Language Model Inference and Communication via Cloud-Edge Collaboration</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.14085v1">Link</a></td>
+</tr>
+<tr>
+<td>CIMR-V: An End-to-End SRAM-based CIM Accelerator with RISC-V for AI Edge Device</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.22072v1">Link</a></td>
+</tr>
+<tr>
+<td>CLEANet: Robust and Efficient Anomaly Detection in Contaminated Multivariate Time Series</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.22619v1">Link</a></td>
+</tr>
+<tr>
+<td>CLOAK: Contrastive Guidance for Latent Diffusion-Based Data Obfuscation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.12086v1">Link</a></td>
+</tr>
+<tr>
+<td>COMMET: A System for Human-Induced Conflicts in Mobile Manipulation of Everyday Tasks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.04836v1">Link</a></td>
+</tr>
+<tr>
+<td>CON-QA: Privacy-Preserving QA using cloud LLMs in Contract Domain</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.19925v1">Link</a></td>
+</tr>
+<tr>
+<td>CSV-Decode: Certifiable Sub-Vocabulary Decoding for Efficient Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.21702v1">Link</a></td>
+</tr>
+<tr>
+<td>Can Differentially Private Fine-tuning LLMs Protect Against Privacy Attacks?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.21036v2">Link</a></td>
+</tr>
+<tr>
+<td>Can LLMs Learn to Map the World from Local Descriptions?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.20874v1">Link</a></td>
+</tr>
+<tr>
+<td>Can Large Language Models Infer Causal Relationships from Real-World Text?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.18931v3">Link</a></td>
+</tr>
+<tr>
+<td>Can Multitask Learning Enhance Model Explainability?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06966v1">Link</a></td>
+</tr>
+<tr>
+<td>Can Vision Language Models Infer Human Gaze Direction? A Controlled Study</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.05412v2">Link</a></td>
+</tr>
+<tr>
+<td>Can Vision-Language Models Infer Speaker's Ignorance? The Role of Visual and Linguistic Cues</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.09120v3">Link</a></td>
+</tr>
+<tr>
+<td>Can We Infer Confidential Properties of Training Data from LLMs?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.10364v4">Link</a></td>
+</tr>
+<tr>
+<td>Cascading and Proxy Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.21412v3">Link</a></td>
+</tr>
+<tr>
+<td>CellARC: Measuring Intelligence with Cellular Automata</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.07908v1">Link</a></td>
+</tr>
+<tr>
+<td>ChameleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.04315v3">Link</a></td>
+</tr>
+<tr>
+<td>Characterizing Communication Patterns in Distributed Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.14392v1">Link</a></td>
+</tr>
+<tr>
+<td>ChemKANs for Combustion Chemistry Modeling and Acceleration</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.12580v2">Link</a></td>
+</tr>
+<tr>
+<td>ChunkLLM: A Lightweight Pluggable Framework for Accelerating LLMs Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.02361v1">Link</a></td>
+</tr>
+<tr>
+<td>CipherMind: The Longest Codebook in the World</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.15117v1">Link</a></td>
+</tr>
+<tr>
+<td>Clustering and Median Aggregation Improve Differentially Private Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.04566v1">Link</a></td>
+</tr>
+<tr>
+<td>Co-CoT: A Prompt-Based Framework for Collaborative Chain-of-Thought Reasoning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.17091v1">Link</a></td>
+</tr>
+<tr>
+<td>CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.13432v2">Link</a></td>
+</tr>
+<tr>
+<td>CoKV: Optimizing KV Cache Allocation via Cooperative Game</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.17501v1">Link</a></td>
+</tr>
+<tr>
+<td>CoSIFL: Collaborative Secure and Incentivized Federated Learning with Differential Privacy</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.23190v1">Link</a></td>
+</tr>
+<tr>
+<td>CoSMoEs: Compact Sparse Mixture of Experts</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.00245v1">Link</a></td>
+</tr>
+<tr>
+<td>CoServe: Efficient Collaboration-of-Experts (CoE) Model Inference with Limited Memory</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.02354v2">Link</a></td>
+</tr>
+<tr>
+<td>Cognitive maps are generative programs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.20628v1">Link</a></td>
+</tr>
+<tr>
+<td>Collaborative Large Language Model Inference via Resource-Aware Parallel Speculative Decoding</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.01695v4">Link</a></td>
+</tr>
+<tr>
+<td>Communication-Efficient and Differentially Private Vertical Federated Learning with Zeroth-Order Optimization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.20565v3">Link</a></td>
+</tr>
+<tr>
+<td>Comparative Analysis of FPGA and GPU Performance for Machine Learning-Based Track Reconstruction at LHCb</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.02304v4">Link</a></td>
+</tr>
+<tr>
+<td>Comparative Analysis of Large Language Model Inference Serving Systems: A Performance Study of vLLM and HuggingFace TGI</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.17593v1">Link</a></td>
+</tr>
+<tr>
+<td>Computation-Bandwidth-Memory Trade-offs: A Unified Paradigm for AI Infrastructure</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2601.11577v1">Link</a></td>
+</tr>
+<tr>
+<td>Computational Basis of LLM's Decision Making in Social Simulation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.11671v4">Link</a></td>
+</tr>
+<tr>
+<td>Contextualize-then-Aggregate: Circuits for In-Context Learning in Gemma-2 2B</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.00132v4">Link</a></td>
+</tr>
+<tr>
+<td>Correspondence of high-dimensional emotion structures elicited by video clips between humans and Multimodal LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.12746v2">Link</a></td>
+</tr>
+<tr>
+<td>DAIQ: Auditing Demographic Attribute Inference from Question in LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.15830v2">Link</a></td>
+</tr>
+<tr>
+<td>DAM: Dynamic Attention Mask for Long-Context Large Language Model Inference Acceleration</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.11104v1">Link</a></td>
+</tr>
+<tr>
+<td>DEFT-VTON: Efficient Virtual Try-On with Consistent Generalised H-Transform</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.13506v1">Link</a></td>
+</tr>
+<tr>
+<td>DP-FedPGN: Finding Global Flat Minima for Differentially Private Federated Learning via Penalizing Gradient Norm</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.27504v1">Link</a></td>
+</tr>
+<tr>
+<td>DP-GENG : Differentially Private Dataset Distillation Guided by DP-Generated Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.09876v1">Link</a></td>
+</tr>
+<tr>
+<td>DP-SNP-TIHMM: Differentially Private, Time-Inhomogeneous Hidden Markov Models for Synthesizing Genome-Wide Association Datasets</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.05777v1">Link</a></td>
+</tr>
+<tr>
+<td>DSDE: Dynamic Speculative Decoding with KLD Stability for Real-World Serving</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.01083v3">Link</a></td>
+</tr>
+<tr>
+<td>Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.04843v3">Link</a></td>
+</tr>
+<tr>
+<td>DeSIA: Attribute Inference Attacks Against Limited Fixed Aggregate Statistics</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.18497v1">Link</a></td>
+</tr>
+<tr>
+<td>Decentralized and Robust Privacy-Preserving Model Using Blockchain-Enabled Federated Deep Learning in Intelligent Enterprises</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.17485v1">Link</a></td>
+</tr>
+<tr>
+<td>Dedelayed: Deleting remote inference delay via on-device correction</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.13714v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep Recommender Models Inference: Automatic Asymmetric Data Flow Optimization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.01676v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep Unfolding with Kernel-based Quantization in MIMO Detection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.12736v1">Link</a></td>
+</tr>
+<tr>
+<td>Defending Diffusion Models Against Membership Inference Attacks via Higher-Order Langevin Dynamics</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.14225v2">Link</a></td>
+</tr>
+<tr>
+<td>DejAIvu: Identifying and Explaining AI Art on the Web in Real-Time with Saliency Maps</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.08821v2">Link</a></td>
+</tr>
+<tr>
+<td>Demystifying LLM-as-a-Judge: Analytically Tractable Model for Inference-Time Scaling</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.19905v2">Link</a></td>
+</tr>
+<tr>
+<td>Detecting Concept Drift in Neural Networks Using Chi-squared Goodness of Fit Testing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.04318v1">Link</a></td>
+</tr>
+<tr>
+<td>Differential Privacy for Secure Machine Learning in Healthcare IoT-Cloud Systems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.10426v2">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.20323v3">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private Steering for Large Language Model Alignment</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.18532v2">Link</a></td>
+</tr>
+<tr>
+<td>Differentially private fine-tuned NF-Net to predict GI cancer type</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.11329v1">Link</a></td>
+</tr>
+<tr>
+<td>Diffusion Generative Models Meet Compressed Sensing, with Applications to Imaging and Finance</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.03898v2">Link</a></td>
+</tr>
+<tr>
+<td>Diffusion Language Model Inference with Monte Carlo Tree Search</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.12168v2">Link</a></td>
+</tr>
+<tr>
+<td>Diffusion-Based Limited-Angle CT Reconstruction under Noisy Conditions</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.05647v1">Link</a></td>
+</tr>
+<tr>
+<td>Discovering Influential Neuron Path in Vision Transformers</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.09046v2">Link</a></td>
+</tr>
+<tr>
+<td>DistrEE: Distributed Early Exit of Deep Neural Network Inference on Edge Devices</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.15735v1">Link</a></td>
+</tr>
+<tr>
+<td>Distributional Multi-objective Black-box Optimization for Diffusion-model Inference-time Multi-Target Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.26278v1">Link</a></td>
+</tr>
+<tr>
+<td>DocMIA: Document-Level Membership Inference Attacks against DocVQA Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.03692v1">Link</a></td>
+</tr>
+<tr>
+<td>Dora: QoE-Aware Hybrid Parallelism for Distributed Edge AI</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.10990v1">Link</a></td>
+</tr>
+<tr>
+<td>Dynamic Probabilistic Noise Injection for Membership Inference Defense</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.13362v2">Link</a></td>
+</tr>
+<tr>
+<td>EC-LDA : Label Distribution Inference Attack against Federated Graph Learning with Embedding Compression</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.15140v3">Link</a></td>
+</tr>
+<tr>
+<td>EL-MIA: Quantifying Membership Inference Risks of Sensitive Entities in LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.00192v1">Link</a></td>
+</tr>
+<tr>
+<td>EPEE: Towards Efficient and Effective Foundation Models in Biomedicine</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.02053v1">Link</a></td>
+</tr>
+<tr>
+<td>EVolutionary Independent DEtermiNistiC Explanation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.16357v1">Link</a></td>
+</tr>
+<tr>
+<td>Edge-Based Speech Transcription and Synthesis for Kinyarwanda and Swahili Languages</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.16497v1">Link</a></td>
+</tr>
+<tr>
+<td>Edge-First Language Model Inference: Models, Metrics, and Tradeoffs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.16508v2">Link</a></td>
+</tr>
+<tr>
+<td>Effective Code Membership Inference for Code Completion Models via Adversarial Prompts</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.15107v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Correlation Volume Sampling for Ultra-High-Resolution Optical Flow Estimation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.16942v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Large Language Model Inference with Neural Block Linearization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.21077v2">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Membership Inference Attacks by Bayesian Neural Network</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.07482v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Mixed-Precision Large Language Model Inference with TurboMind</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.15601v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Privacy-Preserving Training of Quantum Neural Networks by Using Mixed States to Represent Input Data Ensembles</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.12465v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient and Asymptotically Unbiased Constrained Decoding for Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.09135v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient and Reuseable Cloud Configuration Search Using Discovery Spaces</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.21467v1">Link</a></td>
+</tr>
+<tr>
+<td>Embedding-Space Data Augmentation to Prevent Membership Inference Attacks in Clinical Time Series Forecasting</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.05289v1">Link</a></td>
+</tr>
+<tr>
+<td>Emission-line Stacking of 21cm Intensity Maps with MeerKLASS: Inference Pipeline and Application to the L-band Deep-field Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.03908v2">Link</a></td>
+</tr>
+<tr>
+<td>Empirical Calibration and Metric Differential Privacy in Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.13872v1">Link</a></td>
+</tr>
+<tr>
+<td>Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.15986v1">Link</a></td>
+</tr>
+<tr>
+<td>Enabling Low-Cost Secure Computing on Untrusted In-Memory Architectures</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.17292v2">Link</a></td>
+</tr>
+<tr>
+<td>Encoder-Decoder Diffusion Language Models for Efficient Training and Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.22852v1">Link</a></td>
+</tr>
+<tr>
+<td>Encrypted Large Model Inference: The Equivariant Encryption Paradigm</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.01013v1">Link</a></td>
+</tr>
+<tr>
+<td>End-to-End Efficiency in Keyword Spotting: A System-Level Approach for Embedded Microcontrollers</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.07051v1">Link</a></td>
+</tr>
+<tr>
+<td>Energy Considerations of Large Language Model Inference and Efficiency Optimizations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.17674v1">Link</a></td>
+</tr>
+<tr>
+<td>Energy Scaling Laws for Diffusion Models: Quantifying Compute and Carbon Emissions in Image Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.17031v1">Link</a></td>
+</tr>
+<tr>
+<td>English K_Quantization of LLMs Does Not Disproportionately Diminish Multilingual Performance</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.03592v4">Link</a></td>
+</tr>
+<tr>
+<td>Enhancing Leakage Attacks on Searchable Symmetric Encryption Using LLM-Based Synthetic Data Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.20414v1">Link</a></td>
+</tr>
+<tr>
+<td>Enhancing Membership Inference Attacks on Diffusion Models from a Frequency-Domain Perspective</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.20955v3">Link</a></td>
+</tr>
+<tr>
+<td>Enhancing One-run Privacy Auditing with Quantile Regression-Based Membership Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.15349v1">Link</a></td>
+</tr>
+<tr>
+<td>Enhancing Privacy in Decentralized Min-Max Optimization: A Differentially Private Approach</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.07505v1">Link</a></td>
+</tr>
+<tr>
+<td>Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.24152v1">Link</a></td>
+</tr>
+<tr>
+<td>Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.03100v1">Link</a></td>
+</tr>
+<tr>
+<td>EntroLLM: Entropy Encoded Weight Compression for Efficient Large Language Model Inference on Edge Devices</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.02380v4">Link</a></td>
+</tr>
+<tr>
+<td>Entropy Adaptive Decoding: Dynamic Model Switching for Efficient Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.06833v1">Link</a></td>
+</tr>
+<tr>
+<td>Epistemic-aware Vision-Language Foundation Model for Fetal Ultrasound Interpretation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.12953v3">Link</a></td>
+</tr>
+<tr>
+<td>Error Notebook-Guided, Training-Free Part Retrieval in 3D CAD Assemblies via Vision-Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.01350v3">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating Apple Intelligence's Writing Tools for Privacy Against Large Language Model-Based Inference Attacks: Insights from Early Datasets</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.03870v1">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating Membership Inference Attacks in heterogeneous-data setups</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.18986v2">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating the Defense Potential of Machine Unlearning against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.16150v4">Link</a></td>
+</tr>
+<tr>
+<td>EverTracer: Hunting Stolen Large Language Models via Stealthy and Robust Probabilistic Fingerprint</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.03058v1">Link</a></td>
+</tr>
+<tr>
+<td>Expected Attention: KV Cache Compression by Estimating Attention from Future Queries Distribution</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.00636v1">Link</a></td>
+</tr>
+<tr>
+<td>Experts are all you need: A Composable Framework for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.22955v1">Link</a></td>
+</tr>
+<tr>
+<td>Explaining Why Things Go Where They Go: Interpretable Constructs of Human Organizational Preferences</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.24829v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting Information Redundancy in Attention Maps for Extreme Quantization of Vision Transformers</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.16311v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.06766v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploring $\ell_0$ Sparsification for Inference-free Sparse Retrievers</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.14839v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploring Audio Editing Features as User-Centric Privacy Defenses Against Large Language Model(LLM) Based Emotion Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.18727v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploring the Impact of Temperature on Large Language Models:Hot or Cold?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.07295v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploring the limits of strong membership inference attacks on large language models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.18773v3">Link</a></td>
+</tr>
+<tr>
+<td>Exposing and Defending Membership Leakage in Vulnerability Prediction Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.08291v1">Link</a></td>
+</tr>
+<tr>
+<td>Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.09695v2">Link</a></td>
+</tr>
+<tr>
+<td>FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.15839v1">Link</a></td>
+</tr>
+<tr>
+<td>FASTRIC: Prompt Specification Language for Verifiable LLM Interactions</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.18940v1">Link</a></td>
+</tr>
+<tr>
+<td>FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.22771v1">Link</a></td>
+</tr>
+<tr>
+<td>FHE-SQL: Fully Homomorphic Encrypted SQL Database</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.15413v1">Link</a></td>
+</tr>
+<tr>
+<td>FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.24713v2">Link</a></td>
+</tr>
+<tr>
+<td>Fast and Accurate Causal Parallel Decoding using Jacobi Forcing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.14681v1">Link</a></td>
+</tr>
+<tr>
+<td>Fast-MIA: Efficient and Scalable Membership Inference for LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.23074v1">Link</a></td>
+</tr>
+<tr>
+<td>FastFHE: Packing-Scalable and Depthwise-Separable CNN Inference Over FHE</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.22434v1">Link</a></td>
+</tr>
+<tr>
+<td>FastPoint: Accelerating 3D Point Cloud Model Inference via Sample Point Distance Prediction</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.23480v1">Link</a></td>
+</tr>
+<tr>
+<td>FastVLM: Self-Speculative Decoding for Fast Vision-Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.22641v1">Link</a></td>
+</tr>
+<tr>
+<td>FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.07216v2">Link</a></td>
+</tr>
+<tr>
+<td>Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.04979v2">Link</a></td>
+</tr>
+<tr>
+<td>Federated Learning-based Semantic Segmentation for Lane and Object Detection in Autonomous Driving</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.18939v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated Learning: An approach with Hybrid Homomorphic Encryption</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.03427v1">Link</a></td>
+</tr>
+<tr>
+<td>FiMMIA: scaling semantic perturbation-based membership inference across modalities</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.02786v1">Link</a></td>
+</tr>
+<tr>
+<td>FinP: Fairness-in-Privacy in Federated Learning by Addressing Disparities in Privacy Risk</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.17748v3">Link</a></td>
+</tr>
+<tr>
+<td>Find a Scapegoat: Poisoning Membership Inference Attack and Defense to Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.00423v1">Link</a></td>
+</tr>
+<tr>
+<td>Finding Answers in Thought Matters: Revisiting Evaluation on Large Language Models with Reasoning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.14773v1">Link</a></td>
+</tr>
+<tr>
+<td>FlagEvalMM: A Flexible Framework for Comprehensive Multimodal Model Evaluation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.09081v3">Link</a></td>
+</tr>
+<tr>
+<td>FlashDLM: Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.21467v2">Link</a></td>
+</tr>
+<tr>
+<td>FlexOlmo: Open Language Models for Flexible Data Use</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.07024v4">Link</a></td>
+</tr>
+<tr>
+<td>FlowKV: A Disaggregated Inference Framework with Low-Latency KV Cache Transfer and Load-Aware Scheduling</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.03775v1">Link</a></td>
+</tr>
+<tr>
+<td>Forget-MI: Machine Unlearning for Forgetting Multimodal Information in Healthcare Settings</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.23145v1">Link</a></td>
+</tr>
+<tr>
+<td>Fragments to Facts: Partial-Information Fragment Inference from LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.13819v1">Link</a></td>
+</tr>
+<tr>
+<td>Frequency-Calibrated Membership Inference Attacks on Medical Image Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.14919v1">Link</a></td>
+</tr>
+<tr>
+<td>From Chaos to Clarity: Schema-Constrained AI for Auditable Biomedical Evidence Extraction from Full-Text PDFs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2601.14267v1">Link</a></td>
+</tr>
+<tr>
+<td>From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.03119v3">Link</a></td>
+</tr>
+<tr>
+<td>GATEBLEED: Exploiting On-Core Accelerator Power Gating for High Performance & Stealthy Attacks on AI</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.17033v3">Link</a></td>
+</tr>
+<tr>
+<td>GKNet: Graph Kalman Filtering and Model Inference via Model-based Deep Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.22004v1">Link</a></td>
+</tr>
+<tr>
+<td>GPT as a Monte Carlo Language Tree: A Probabilistic Perspective</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.07641v2">Link</a></td>
+</tr>
+<tr>
+<td>GPU Temperature Simulation-Based Testing for In-Vehicle Deep Learning Frameworks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.15815v2">Link</a></td>
+</tr>
+<tr>
+<td>Gaussian DP for Reporting Differential Privacy Guarantees in Machine Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.10945v2">Link</a></td>
+</tr>
+<tr>
+<td>Generative AI for Video Translation: A Scalable Architecture for Multilingual Video Conferencing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.13904v1">Link</a></td>
+</tr>
+<tr>
+<td>Generative Flexible Latent Structure Regression (GFLSR) model</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.04393v1">Link</a></td>
+</tr>
+<tr>
+<td>Generator Cost Coefficients Inference Attack via Exploitation of Locational Marginal Prices in Smart Grid</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.20976v1">Link</a></td>
+</tr>
+<tr>
+<td>Granulation signatures in 3D hydrodynamical simulations: evaluating background model performance using a Bayesian nested sampling framework</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.11699v1">Link</a></td>
+</tr>
+<tr>
+<td>Graphical Models and Efficient Inference Methods for Multivariate Phase Probability Distributions</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.00459v2">Link</a></td>
+</tr>
+<tr>
+<td>Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.10954v1">Link</a></td>
+</tr>
+<tr>
+<td>Guarding Against Malicious Biased Threats (GAMBiT): Experimental Design of Cognitive Sensors and Triggers with Behavioral Impact Analysis</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.00098v1">Link</a></td>
+</tr>
+<tr>
+<td>H1B-KV: Hybrid One-Bit Caches for Memory-Efficient Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.05529v1">Link</a></td>
+</tr>
+<tr>
+<td>HATA: Trainable and Hardware-Efficient Hash-Aware Top-k Attention for Scalable Large Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.02572v1">Link</a></td>
+</tr>
+<tr>
+<td>HPIM: Heterogeneous Processing-In-Memory-based Accelerator for Large Language Models Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.12993v2">Link</a></td>
+</tr>
+<tr>
+<td>Hardware-based Heterogeneous Memory Management for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.14893v1">Link</a></td>
+</tr>
+<tr>
+<td>Hi-SAFE: Hierarchical Secure Aggregation for Lightweight Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.18887v1">Link</a></td>
+</tr>
+<tr>
+<td>Hierarchical Verification of Speculative Beams for Accelerating LLM Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.03726v1">Link</a></td>
+</tr>
+<tr>
+<td>Highly Undersampled MRI Reconstruction via a Single Posterior Sampling of Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.08142v2">Link</a></td>
+</tr>
+<tr>
+<td>Hot Diggity Dog: Simultaneous CO and Dust Modeling of the Most Luminous WISE Hot Dust-Obscured Galaxy Unveils Extreme Molecular Gas Excitation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.17639v2">Link</a></td>
+</tr>
+<tr>
+<td>How Worrying Are Privacy Attacks Against Machine Learning?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.10516v1">Link</a></td>
+</tr>
+<tr>
+<td>Hybrid Offline-online Scheduling Method for Large Language Model Inference Optimization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.15763v1">Link</a></td>
+</tr>
+<tr>
+<td>Hybrid Systolic Array Accelerator with Optimized Dataflow for Edge Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.09010v1">Link</a></td>
+</tr>
+<tr>
+<td>I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.06738v3">Link</a></td>
+</tr>
+<tr>
+<td>ITERA-LLM: Boosting Sub-8-Bit Large Language Model Inference via Iterative Tensor Decomposition</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.08981v1">Link</a></td>
+</tr>
+<tr>
+<td>Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.07154v2">Link</a></td>
+</tr>
+<tr>
+<td>Image Corruption-Inspired Membership Inference Attacks against Large Vision-Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.12340v3">Link</a></td>
+</tr>
+<tr>
+<td>Imitative Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.06796v3">Link</a></td>
+</tr>
+<tr>
+<td>ImpMIA: Leveraging Implicit Bias for Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.10625v3">Link</a></td>
+</tr>
+<tr>
+<td>Impact of Fine-Tuning Methods on Memorization in Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.00258v1">Link</a></td>
+</tr>
+<tr>
+<td>Impact of Spectral Coverage on Parameter recovery in Blazar Modeling</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.20336v1">Link</a></td>
+</tr>
+<tr>
+<td>In-Context Probing for Membership Inference in Fine-Tuned Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.16292v2">Link</a></td>
+</tr>
+<tr>
+<td>Inference Attacks for X-Vector Speaker Anonymization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.08978v1">Link</a></td>
+</tr>
+<tr>
+<td>Inference Attacks on Encrypted Online Voting via Traffic Analysis</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.15694v1">Link</a></td>
+</tr>
+<tr>
+<td>Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.00294v1">Link</a></td>
+</tr>
+<tr>
+<td>Informed Mixing -- Improving Open Set Recognition via Attribution-based Augmentation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.12803v1">Link</a></td>
+</tr>
+<tr>
+<td>Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.20839v1">Link</a></td>
+</tr>
+<tr>
+<td>InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.20600v1">Link</a></td>
+</tr>
+<tr>
+<td>Intelligent Orchestration of Distributed Large Foundation Model Inference at the Edge</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.03668v3">Link</a></td>
+</tr>
+<tr>
+<td>Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.24360v3">Link</a></td>
+</tr>
+<tr>
+<td>Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.04034v1">Link</a></td>
+</tr>
+<tr>
+<td>JSTprove: Pioneering Verifiable AI for a Trustless Future</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.21024v1">Link</a></td>
+</tr>
+<tr>
+<td>Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.06282v1">Link</a></td>
+</tr>
+<tr>
+<td>Janus: Disaggregating Attention and Experts for Scalable MoE Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.13525v2">Link</a></td>
+</tr>
+<tr>
+<td>Joint Optimization of DNN Model Caching and Request Routing in Mobile Edge Computing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.03159v1">Link</a></td>
+</tr>
+<tr>
+<td>KCM: KAN-Based Collaboration Models Enhance Pretrained Large Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.20278v1">Link</a></td>
+</tr>
+<tr>
+<td>KVNAND: Efficient On-Device Large Language Model Inference Using DRAM-Free In-Flash Computing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.03608v1">Link</a></td>
+</tr>
+<tr>
+<td>Killing it with Zero-Shot: Adversarially Robust Novelty Detection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.15271v1">Link</a></td>
+</tr>
+<tr>
+<td>Kolmogorov-Arnold Chemical Reaction Neural Networks for learning pressure-dependent kinetic rate laws</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.07686v1">Link</a></td>
+</tr>
+<tr>
+<td>Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.09958v1">Link</a></td>
+</tr>
+<tr>
+<td>LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.07437v1">Link</a></td>
+</tr>
+<tr>
+<td>LExI: Layer-Adaptive Active Experts for Efficient MoE Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.02753v1">Link</a></td>
+</tr>
+<tr>
+<td>LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.05589v2">Link</a></td>
+</tr>
+<tr>
+<td>LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.21835v1">Link</a></td>
+</tr>
+<tr>
+<td>LLM Jailbreak Detection for (Almost) Free!</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.14558v2">Link</a></td>
+</tr>
+<tr>
+<td>LLM4Hint: Leveraging Large Language Models for Hint Recommendation in Offline Query Optimization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.03384v1">Link</a></td>
+</tr>
+<tr>
+<td>LLaMCAT: Optimizing Large Language Model Inference with Cache Arbitration and Throttling</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.00083v1">Link</a></td>
+</tr>
+<tr>
+<td>LUMIA: A Handheld Vision-to-Music System for Real-Time, Embodied Composition</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.17228v1">Link</a></td>
+</tr>
+<tr>
+<td>LUT-LLM: Efficient Large Language Model Inference with Memory-based Computations on FPGAs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.06174v1">Link</a></td>
+</tr>
+<tr>
+<td>LaMoSys3.5D: Enabling 3.5D-IC-Based Large Language Model Inference Serving Systems via Hardware/Software Co-Design</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.08731v1">Link</a></td>
+</tr>
+<tr>
+<td>Label Inference Attacks against Federated Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06789v1">Link</a></td>
+</tr>
+<tr>
+<td>Labels or Input? Rethinking Augmentation in Multimodal Hate Detection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.11808v2">Link</a></td>
+</tr>
+<tr>
+<td>Ladder-residual: parallelism-aware architecture for accelerating large model inference with communication overlapping</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.06589v5">Link</a></td>
+</tr>
+<tr>
+<td>Large Language Models Inference Engines based on Spiking Neural Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.00133v3">Link</a></td>
+</tr>
+<tr>
+<td>Latent Noise Injection for Private and Statistically Aligned Synthetic Data Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.16636v1">Link</a></td>
+</tr>
+<tr>
+<td>LayoutRAG: Retrieval-Augmented Model for Content-agnostic Conditional Layout Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.02697v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning Smooth State-Dependent Traversability from Dense Point Clouds</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.04362v2">Link</a></td>
+</tr>
+<tr>
+<td>Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.08752v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning to Integrate Diffusion ODEs by Averaging the Derivatives</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.14502v3">Link</a></td>
+</tr>
+<tr>
+<td>Leave No TRACE: Black-box Detection of Copyrighted Dataset Usage in Large Language Models via Watermarking</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.02962v1">Link</a></td>
+</tr>
+<tr>
+<td>Legal Rule Induction: Towards Generalizable Principle Discovery from Analogous Judicial Precedents</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.14104v1">Link</a></td>
+</tr>
+<tr>
+<td>Leveraging Compute-in-Memory for Efficient Generative Model Inference in TPUs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.00461v1">Link</a></td>
+</tr>
+<tr>
+<td>Lifelong Reinforcement Learning with Similarity-Driven Weighting by Large Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.12923v1">Link</a></td>
+</tr>
+<tr>
+<td>LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.05367v1">Link</a></td>
+</tr>
+<tr>
+<td>Lightweight Remote Sensing Scene Classification on Edge Devices via Knowledge Distillation and Early-exit</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.20623v1">Link</a></td>
+</tr>
+<tr>
+<td>LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.14493v1">Link</a></td>
+</tr>
+<tr>
+<td>LiteVLM: A Low-Latency Vision-Language Model Inference Pipeline for Resource-Constrained Environments</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.07416v2">Link</a></td>
+</tr>
+<tr>
+<td>Load Balancing with Network Latencies via Distributed Gradient Descent</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.10693v1">Link</a></td>
+</tr>
+<tr>
+<td>Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuracy</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.05177v3">Link</a></td>
+</tr>
+<tr>
+<td>Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.05402v3">Link</a></td>
+</tr>
+<tr>
+<td>Luxical: High-Speed Lexical-Dense Text Embeddings</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.09015v2">Link</a></td>
+</tr>
+<tr>
+<td>MACPruning: Dynamic Operation Pruning to Mitigate Side-Channel DNN Model Extraction</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.15020v1">Link</a></td>
+</tr>
+<tr>
+<td>MASIV: Toward Material-Agnostic System Identification from Videos</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.01112v1">Link</a></td>
+</tr>
+<tr>
+<td>MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.10526v2">Link</a></td>
+</tr>
+<tr>
+<td>MCMC for Bayesian estimation of Differential Privacy from Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.16683v1">Link</a></td>
+</tr>
+<tr>
+<td>MIA-EPT: Membership Inference Attack via Error Prediction for Tabular Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.13046v2">Link</a></td>
+</tr>
+<tr>
+<td>ML-SpecQD: Multi-Level Speculative Decoding with Quantized Drafts</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.13565v1">Link</a></td>
+</tr>
+<tr>
+<td>MONICA: Real-Time Monitoring and Calibration of Chain-of-Thought Sycophancy in Large Reasoning Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.06419v1">Link</a></td>
+</tr>
+<tr>
+<td>MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.10262v2">Link</a></td>
+</tr>
+<tr>
+<td>MVP-ORAM: a Wait-free Concurrent ORAM for Confidential BFT Storage</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.12006v2">Link</a></td>
+</tr>
+<tr>
+<td>Machine Learning with Privacy for Protected Attributes</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.19836v1">Link</a></td>
+</tr>
+<tr>
+<td>Machine Text Detectors are Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.19492v2">Link</a></td>
+</tr>
+<tr>
+<td>Machine-learned trends in mirror configurations in the Large Plasma Device</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.09868v2">Link</a></td>
+</tr>
+<tr>
+<td>MadaKV: Adaptive Modality-Perception KV Cache Eviction for Efficient Multimodal Long-Context Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.15724v1">Link</a></td>
+</tr>
+<tr>
+<td>Maestro: Learning to Collaborate via Conditional Listwise Policy Optimization for Multi-Agent LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.06134v1">Link</a></td>
+</tr>
+<tr>
+<td>Make me an Expert: Distilling from Generalist Black-Box Models into Specialized Models for Semantic Segmentation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.00509v1">Link</a></td>
+</tr>
+<tr>
+<td>Masked Symbol Modeling for Demodulation of Oversampled Baseband Communication Signals in Impulsive Noise-Dominated Channels</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.01428v1">Link</a></td>
+</tr>
+<tr>
+<td>Matrix-Driven Identification and Reconstruction of LLM Weight Homology</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06309v3">Link</a></td>
+</tr>
+<tr>
+<td>Maximum entropy models of neuronal populations at and off criticality</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.14872v2">Link</a></td>
+</tr>
+<tr>
+<td>Measuring Soft Biometric Leakage in Speaker De-Identification Systems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.14469v1">Link</a></td>
+</tr>
+<tr>
+<td>MediRound: Multi-Round Entity-Level Reasoning Segmentation in Medical Images</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.12110v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack Should Move On to Distributional Statistics for Distilled Generative Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.02970v4">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack against Large Language Model-based Recommendation Systems: A New Distillation-based Paradigm</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.14763v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack with Partial Features</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06244v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Against Vision-Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.18624v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Beyond Overfitting</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.16792v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks for Face Images Against Fine-Tuned Latent Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.11619v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks for Unseen Classes</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.06488v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on LLM-based Recommender Systems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.18665v5">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on Large-Scale Models: A Survey</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.19338v3">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on Recommender System: A Survey</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.11080v3">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on Tokenizers of Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.05699v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks with False Discovery Rate Control</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.07066v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Risks in Quantized Models: A Theoretical and Empirical Study</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.06567v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference over Diffusion-models-based Synthetic Tabular Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.16037v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership and Dataset Inference Attacks on Large Audio Generative Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.09654v2">Link</a></td>
+</tr>
+<tr>
+<td>Memorization in Fine-Tuned Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.21009v2">Link</a></td>
+</tr>
+<tr>
+<td>Memory Offloading for Large Language Model Inference with Latency SLO Guarantees</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.08182v1">Link</a></td>
+</tr>
+<tr>
+<td>Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.09194v1">Link</a></td>
+</tr>
+<tr>
+<td>Metric Privacy in Federated Learning for Medical Imaging: Improving Convergence and Preventing Client Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.01352v1">Link</a></td>
+</tr>
+<tr>
+<td>Metrics and evaluations for computational and sustainable AI efficiency</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.17885v1">Link</a></td>
+</tr>
+<tr>
+<td>Mirage Persistent Kernel: A Compiler and Runtime for Mega-Kernelizing Tensor Programs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.22219v1">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Membership Inference Vulnerability in Personalized Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.09414v1">Link</a></td>
+</tr>
+<tr>
+<td>MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.15036v1">Link</a></td>
+</tr>
+<tr>
+<td>MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.01843v2">Link</a></td>
+</tr>
+<tr>
+<td>Model inference for ranking from pairwise comparisons</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.15269v1">Link</a></td>
+</tr>
+<tr>
+<td>Modeling Neural Networks with Privacy Using Neural Stochastic Differential Equations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.06686v2">Link</a></td>
+</tr>
+<tr>
+<td>MrM: Black-Box Membership Inference Attacks against Multimodal RAG Systems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.07399v1">Link</a></td>
+</tr>
+<tr>
+<td>Multi-Robot Data-Free Continual Communicative Learning (CCL) from Black-Box Visual Place Recognition Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.02256v3">Link</a></td>
+</tr>
+<tr>
+<td>Multimodal Remote Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.07555v2">Link</a></td>
+</tr>
+<tr>
+<td>NOVO: Unlearning-Compliant Vision Transformers</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.03281v1">Link</a></td>
+</tr>
+<tr>
+<td>Native Fortran Implementation of TensorFlow-Trained Deep and Bayesian Neural Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.06853v1">Link</a></td>
+</tr>
+<tr>
+<td>NeCTAr: A Heterogeneous RISC-V SoC for Language Model Inference in Intel 16</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.14708v1">Link</a></td>
+</tr>
+<tr>
+<td>Network-Level Prompt and Trait Leakage in Local Research Agents</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.20282v3">Link</a></td>
+</tr>
+<tr>
+<td>Neuromorphic Intelligence</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.11940v4">Link</a></td>
+</tr>
+<tr>
+<td>New Machine Learning Approaches for Intrusion Detection in ADS-B</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.08333v1">Link</a></td>
+</tr>
+<tr>
+<td>NoEsis: Differentially Private Knowledge Transfer in Modular LLM Adaptation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.18147v1">Link</a></td>
+</tr>
+<tr>
+<td>Noise Aggregation Analysis Driven by Small-Noise Injection: Efficient Membership Inference for Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.21783v1">Link</a></td>
+</tr>
+<tr>
+<td>NuWa: Deriving Lightweight Task-Specific Vision Transformers for Edge Devices</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.03118v1">Link</a></td>
+</tr>
+<tr>
+<td>OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.04416v2">Link</a></td>
+</tr>
+<tr>
+<td>OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.15995v1">Link</a></td>
+</tr>
+<tr>
+<td>ObfusBFA: A Holistic Approach to Safeguarding DNNs from Different Types of Bit-Flip Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.10744v1">Link</a></td>
+</tr>
+<tr>
+<td>On Membership Inference Attacks in Knowledge Distillation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.11837v2">Link</a></td>
+</tr>
+<tr>
+<td>On Soft Clustering For Correlation Estimators</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.06174v3">Link</a></td>
+</tr>
+<tr>
+<td>On the Effectiveness of Membership Inference in Targeted Data Extraction from Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.13352v2">Link</a></td>
+</tr>
+<tr>
+<td>On the Fundamental Impossibility of Hallucination Control in Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.06382v7">Link</a></td>
+</tr>
+<tr>
+<td>On the Inference (In-)Security of Vertical Federated Learning: Efficient Auditing against Inference Tampering Attack</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.02376v2">Link</a></td>
+</tr>
+<tr>
+<td>On the Partitioning of GPU Power among Multi-Instances</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.17752v2">Link</a></td>
+</tr>
+<tr>
+<td>On the Privacy Risks of Spiking Neural Networks: A Membership Inference Analysis</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.13191v4">Link</a></td>
+</tr>
+<tr>
+<td>On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.23796v2">Link</a></td>
+</tr>
+<tr>
+<td>OpenLVLM-MIA: A Controlled Benchmark Revealing the Limits of Membership Inference Attacks on Large Vision-Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.16295v2">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing Agentic Language Model Inference via Speculative Tool Calls</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.15834v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing Canaries for Privacy Auditing with Metagradient Descent</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.15836v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.05313v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing Storage Overhead of User Behavior Log for ML-embedded Mobile Apps</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.13405v1">Link</a></td>
+</tr>
+<tr>
+<td>Overcoming Multi-step Complexity in Multimodal Theory-of-Mind Reasoning: A Scalable Bayesian Planner</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.01301v1">Link</a></td>
+</tr>
+<tr>
+<td>P-MIA: A Profiled-Based Membership Inference Attack on Cognitive Diagnosis Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.04716v1">Link</a></td>
+</tr>
+<tr>
+<td>PIM Is All You Need: A CXL-Enabled GPU-Free System for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.07578v3">Link</a></td>
+</tr>
+<tr>
+<td>PPipe: Efficient Video Analytics Serving on Heterogeneous GPU Clusters via Pool-Based Pipeline Parallelism</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.18748v1">Link</a></td>
+</tr>
+<tr>
+<td>PRIVEE: Privacy-Preserving Vertical Federated Learning Against Feature Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.12840v1">Link</a></td>
+</tr>
+<tr>
+<td>PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.04377v1">Link</a></td>
+</tr>
+<tr>
+<td>Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.21411v2">Link</a></td>
+</tr>
+<tr>
+<td>Parameter-Free Fine-tuning via Redundancy Elimination for Vision Foundation Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.08915v2">Link</a></td>
+</tr>
+<tr>
+<td>Permissioned LLMs: Enforcing Access Control in Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.22860v2">Link</a></td>
+</tr>
+<tr>
+<td>Personal Attribute Leakage in Federated Speech Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.13357v1">Link</a></td>
+</tr>
+<tr>
+<td>Personalized Language Models via Privacy-Preserving Evolutionary Model Merging</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.18008v2">Link</a></td>
+</tr>
+<tr>
+<td>PipeSpec: Breaking Stage Dependencies in Hierarchical LLM Decoding</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.01572v1">Link</a></td>
+</tr>
+<tr>
+<td>Planned Diffusion</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.18087v1">Link</a></td>
+</tr>
+<tr>
+<td>Position-Aware Depth Decay Decoding ($D^3$): Boosting Large Language Model Inference Efficiency</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.08524v2">Link</a></td>
+</tr>
+<tr>
+<td>Position: Privacy Is Not Just Memorization!</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.01645v1">Link</a></td>
+</tr>
+<tr>
+<td>Practical Bayes-Optimal Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.24089v2">Link</a></td>
+</tr>
+<tr>
+<td>Practical Framework for Privacy-Preserving and Byzantine-robust Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.17254v1">Link</a></td>
+</tr>
+<tr>
+<td>Pre-Forgettable Models: Prompt Learning as a Native Mechanism for Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.15230v1">Link</a></td>
+</tr>
+<tr>
+<td>Predictive posteriors under hidden confounding</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.05170v2">Link</a></td>
+</tr>
+<tr>
+<td>Preserving Privacy Without Compromising Accuracy: Machine Unlearning for Handwritten Text Recognition</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.08616v2">Link</a></td>
+</tr>
+<tr>
+<td>Prior-based Noisy Text Data Filtering: Fast and Strong Alternative For Perplexity</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.18577v2">Link</a></td>
+</tr>
+<tr>
+<td>PrivSpike: Employing Homomorphic Encryption for Private Inference of Deep Spiking Neural Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.03995v1">Link</a></td>
+</tr>
+<tr>
+<td>PrivaDE: Privacy-preserving Data Evaluation for Blockchain-based Data Marketplaces</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.18109v3">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.17989v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.04169v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Anonymization of System and Network Event Logs Using Salt-Based Hashing and Temporal Noise</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.21904v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Federated Learning from Partial Decryption Verifiable Threshold Multi-Client Functional Encryption</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.12936v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Inference for Quantized BERT Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.01636v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Tabular Synthetic Data Generation Using TabularARGN</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06647v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Utility Trade-off in Data Publication: A Bilevel Optimization Framework with Curvature-Guided Perturbation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.02048v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.22447v1">Link</a></td>
+</tr>
+<tr>
+<td>PrivacyGo: Privacy-Preserving Ad Measurement with Multidimensional Intersection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.20981v1">Link</a></td>
+</tr>
+<tr>
+<td>PrivacyGuard: A Modular Framework for Privacy Auditing in Machine Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.23427v1">Link</a></td>
+</tr>
+<tr>
+<td>PrivateXR: Defending Privacy Attacks in Extended Reality Through Explainable AI-Guided Differential Privacy</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.16851v1">Link</a></td>
+</tr>
+<tr>
+<td>Probing forced responses and causality in data-driven climate emulators: conceptual limitations and the role of reduced-order models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.22552v8">Link</a></td>
+</tr>
+<tr>
+<td>Probing the origins. I. Generalised Additive Model inference of birth radii for Milky Way stars in the solar vicinity</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.20441v2">Link</a></td>
+</tr>
+<tr>
+<td>Processing of synthetic data in AI development for healthcare and the definition of personal data in EU law</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.08353v1">Link</a></td>
+</tr>
+<tr>
+<td>Profiling Large Language Model Inference on Apple Silicon: A Quantization Perspective</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.08531v1">Link</a></td>
+</tr>
+<tr>
+<td>Prompt Inference Attack on Distributed Large Language Model Inference Frameworks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.09291v2">Link</a></td>
+</tr>
+<tr>
+<td>PromptDistill: Query-based Selective Token Retention in Intermediate Layers for Efficient Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.23274v1">Link</a></td>
+</tr>
+<tr>
+<td>ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.17495v2">Link</a></td>
+</tr>
+<tr>
+<td>Pruning as a Defense: Reducing Memorization in Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.15796v1">Link</a></td>
+</tr>
+<tr>
+<td>Pseudo-Label Enhanced Cascaded Framework: 2nd Technical Report for LSVOS 2025 VOS Track</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.14901v1">Link</a></td>
+</tr>
+<tr>
+<td>Psi-Sampler: Initial Particle Sampling for SMC-Based Inference-Time Reward Alignment in Score Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.01320v3">Link</a></td>
+</tr>
+<tr>
+<td>Pushing the Envelope of LLM Inference on AI-PC and Intel GPUs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.06753v2">Link</a></td>
+</tr>
+<tr>
+<td>QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.02584v1">Link</a></td>
+</tr>
+<tr>
+<td>QLENS: Towards A Quantum Perspective of Language Transformers</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.11963v2">Link</a></td>
+</tr>
+<tr>
+<td>R.R.: Unveiling LLM Training Privacy through Recollection and Ranking</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.12658v2">Link</a></td>
+</tr>
+<tr>
+<td>RADAR: Accelerating Large Language Model Inference With RL-Based Dynamic Draft Trees</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.14069v1">Link</a></td>
+</tr>
+<tr>
+<td>RAID: An In-Training Defense against Attribute Inference Attacks in Recommender Systems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.11510v1">Link</a></td>
+</tr>
+<tr>
+<td>RAM-NAS: Resource-aware Multiobjective Neural Architecture Search Method for Robot Vision Tasks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.20688v1">Link</a></td>
+</tr>
+<tr>
+<td>RETENTION: Resource-Efficient Tree-Based Ensemble Model Acceleration with Content-Addressable Memory</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.05994v2">Link</a></td>
+</tr>
+<tr>
+<td>RL-Finetuned LLMs for Privacy-Preserving Synthetic Rewriting</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.19286v1">Link</a></td>
+</tr>
+<tr>
+<td>RRTO: A High-Performance Transparent Offloading System for Model Inference in Mobile Edge Computing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.21739v1">Link</a></td>
+</tr>
+<tr>
+<td>RainFusion2.0: Temporal-Spatial Awareness and Hardware-Efficient Block-wise Sparse Attention</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.24086v1">Link</a></td>
+</tr>
+<tr>
+<td>ReaLM: Reliable and Efficient Large Language Model Inference with Statistical Algorithm-Based Fault Tolerance</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.24053v2">Link</a></td>
+</tr>
+<tr>
+<td>Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.14512v1">Link</a></td>
+</tr>
+<tr>
+<td>Reasoning Language Model Inference Serving Unveiled: An Empirical Study</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.18672v1">Link</a></td>
+</tr>
+<tr>
+<td>RecPS: Privacy Risk Scoring for Recommender Systems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.18365v4">Link</a></td>
+</tr>
+<tr>
+<td>Rectifying Privacy and Efficacy Measurements in Machine Unlearning: A New Inference Attack Perspective</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.13009v1">Link</a></td>
+</tr>
+<tr>
+<td>RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.12428v1">Link</a></td>
+</tr>
+<tr>
+<td>Redefining Machine Unlearning: A Conformal Prediction-Motivated Approach</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.19403v2">Link</a></td>
+</tr>
+<tr>
+<td>Reference Recommendation based Membership Inference Attack against Hybrid-based Recommender Systems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.09442v1">Link</a></td>
+</tr>
+<tr>
+<td>RepSNet: A Nucleus Instance Segmentation model based on Boundary Regression and Structural Re-parameterization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.05073v1">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking Membership Inference Attacks Against Transfer Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.11577v1">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking the Chain-of-Thought: The Roles of In-Context Learning and Pre-trained Priors</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.01236v1">Link</a></td>
+</tr>
+<tr>
+<td>Retrieval Augmented Anomaly Detection (RAAD): Nimble Model Adjustment Without Retraining</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.19534v1">Link</a></td>
+</tr>
+<tr>
+<td>Retrieval-Augmented Few-Shot Prompting Versus Fine-Tuning for Code Vulnerability Detection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.04106v1">Link</a></td>
+</tr>
+<tr>
+<td>Reuse, Don't Recompute: Efficient Large Reasoning Model Inference via Memory Orchestration</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.12987v2">Link</a></td>
+</tr>
+<tr>
+<td>Revisiting the attacker's knowledge in inference attacks against Searchable Symmetric Encryption</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.09879v1">Link</a></td>
+</tr>
+<tr>
+<td>Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.00306v2">Link</a></td>
+</tr>
+<tr>
+<td>RoTO: Robust Topology Obfuscation Against Tomography Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.12852v1">Link</a></td>
+</tr>
+<tr>
+<td>Running VLAs at Real-time Speed</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.26742v1">Link</a></td>
+</tr>
+<tr>
+<td>SCI-Reason: A Dataset with Chain-of-Thought Rationales for Complex Multimodal Reasoning in Academic Areas</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.06637v2">Link</a></td>
+</tr>
+<tr>
+<td>SHARP: Accelerating Language Model Inference by SHaring Adjacent layers with Recovery Parameters</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.07832v1">Link</a></td>
+</tr>
+<tr>
+<td>SLO-Aware Scheduling for Large Language Model Inferences</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.14966v2">Link</a></td>
+</tr>
+<tr>
+<td>SP-MoE: Speculative Decoding and Prefetching for Accelerating MoE-based Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.10302v2">Link</a></td>
+</tr>
+<tr>
+<td>SPIN: Accelerating Large Language Model Inference with Heterogeneous Speculative Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.15921v1">Link</a></td>
+</tr>
+<tr>
+<td>SQ-DM: Accelerating Diffusion Models with Aggressive Quantization and Temporal Sparsity</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.15448v1">Link</a></td>
+</tr>
+<tr>
+<td>SR-LLM: Rethinking the Structured Representation in Large Language Model</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.14352v1">Link</a></td>
+</tr>
+<tr>
+<td>STADI: Fine-Grained Step-Patch Diffusion Parallelism for Heterogeneous GPUs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.04719v2">Link</a></td>
+</tr>
+<tr>
+<td>STAR: Stage-Wise Attention-Guided Token Reduction for Efficient Large Vision-Language Models Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.12359v1">Link</a></td>
+</tr>
+<tr>
+<td>STree: Speculative Tree Decoding for Hybrid State-Space Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.14969v2">Link</a></td>
+</tr>
+<tr>
+<td>SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.13319v2">Link</a></td>
+</tr>
+<tr>
+<td>SafeSteer: Adaptive Subspace Steering for Efficient Jailbreak Defense in Vision-Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.21400v1">Link</a></td>
+</tr>
+<tr>
+<td>Safeguarding Federated Learning-based Road Condition Classification</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.12568v1">Link</a></td>
+</tr>
+<tr>
+<td>Safeguarding Privacy of Retrieval Data against Membership Inference Attacks: Is This Query Too Close to Home?</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.22061v3">Link</a></td>
+</tr>
+<tr>
+<td>Sample Complexity of Branch-length Estimation by Maximum Likelihood</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.22038v1">Link</a></td>
+</tr>
+<tr>
+<td>Scaling LLM Speculative Decoding: Non-Autoregressive Forecasting in Large-Batch Scenarios</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.20340v1">Link</a></td>
+</tr>
+<tr>
+<td>Scaling Laws for Energy Efficiency of Local LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.16531v4">Link</a></td>
+</tr>
+<tr>
+<td>Score-based Membership Inference on Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.25003v1">Link</a></td>
+</tr>
+<tr>
+<td>SeaLLM: Service-Aware and Latency-Optimized Resource Sharing for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.15720v1">Link</a></td>
+</tr>
+<tr>
+<td>Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.07894v1">Link</a></td>
+</tr>
+<tr>
+<td>Secure Federated Data Distillation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.13728v2">Link</a></td>
+</tr>
+<tr>
+<td>Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.21866v1">Link</a></td>
+</tr>
+<tr>
+<td>SecureInfer: Heterogeneous TEE-GPU Architecture for Privacy-Critical Tensors for Large Language Model Deployment</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.19979v1">Link</a></td>
+</tr>
+<tr>
+<td>Securing Genomic Data Against Inference Attacks in Federated Learning Environments</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.07188v1">Link</a></td>
+</tr>
+<tr>
+<td>Securing Transformer-based AI Execution via Unified TEEs and Crypto-protected Accelerators</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.03278v2">Link</a></td>
+</tr>
+<tr>
+<td>Security Logs to ATT&CK Insights: Leveraging LLMs for High-Level Threat Understanding and Cognitive Trait Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.20930v1">Link</a></td>
+</tr>
+<tr>
+<td>Set Block Decoding is a Language Model Inference Accelerator</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.04185v1">Link</a></td>
+</tr>
+<tr>
+<td>Sharpness-Aware Machine Unlearning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.13715v2">Link</a></td>
+</tr>
+<tr>
+<td>Simple Radiology VLLM Test-time Scaling with Thought Graph Traversal</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.11989v2">Link</a></td>
+</tr>
+<tr>
+<td>Simulating Cyberattacks through a Breach Attack Simulation (BAS) Platform empowered by Security Chaos Engineering (SCE)</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.03882v2">Link</a></td>
+</tr>
+<tr>
+<td>Simulations in Statistical Workflows</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.24011v2">Link</a></td>
+</tr>
+<tr>
+<td>Single-Trajectory Bayesian Modeling Reveals Multi-State Diffusion of the MSH Sliding Clamp</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.21943v2">Link</a></td>
+</tr>
+<tr>
+<td>SlicerNNInteractive: A 3D Slicer extension for nnInteractive</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.07991v2">Link</a></td>
+</tr>
+<tr>
+<td>SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.19360v2">Link</a></td>
+</tr>
+<tr>
+<td>Social World Model-Augmented Mechanism Design Policy Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.19270v1">Link</a></td>
+</tr>
+<tr>
+<td>Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of Language Model Inference at the Edge</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.09114v2">Link</a></td>
+</tr>
+<tr>
+<td>Sparse-to-Sparse Training of Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.21380v2">Link</a></td>
+</tr>
+<tr>
+<td>Spatiotemporal graph neural process for reconstruction, extrapolation, and classification of cardiac trajectories</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.12953v1">Link</a></td>
+</tr>
+<tr>
+<td>SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.11628v1">Link</a></td>
+</tr>
+<tr>
+<td>SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.13848v2">Link</a></td>
+</tr>
+<tr>
+<td>SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.08850v1">Link</a></td>
+</tr>
+<tr>
+<td>SpecMemo: Speculative Decoding is in Your Pocket</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.01986v1">Link</a></td>
+</tr>
+<tr>
+<td>SpecPipe: Accelerating Pipeline Parallelism-based LLM Inference with Speculative Decoding</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.04104v2">Link</a></td>
+</tr>
+<tr>
+<td>SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.05614v2">Link</a></td>
+</tr>
+<tr>
+<td>Spectra 1.1: Scaling Laws and Efficient Inference for Ternary Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.23025v1">Link</a></td>
+</tr>
+<tr>
+<td>Speculative Sampling via Exponential Races</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.15475v1">Link</a></td>
+</tr>
+<tr>
+<td>SpeedLLM: An FPGA Co-design of Large Language Model Inference Accelerator</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.14139v1">Link</a></td>
+</tr>
+<tr>
+<td>Sphinx: Efficiently Serving Novel View Synthesis using Regression-Guided Selective Refinement</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.18672v1">Link</a></td>
+</tr>
+<tr>
+<td>Starting Positions Matter: A Study on Better Weight Initialization for Neural Network Quantization</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.10463v1">Link</a></td>
+</tr>
+<tr>
+<td>Static Batching of Irregular Workloads on GPUs: Framework and Application to Efficient MoE Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.16103v1">Link</a></td>
+</tr>
+<tr>
+<td>Steering Pretrained Drafters during Speculative Decoding</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.09844v1">Link</a></td>
+</tr>
+<tr>
+<td>Structural Embedding Projection for Contextual Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.18826v2">Link</a></td>
+</tr>
+<tr>
+<td>Suboptimal Shapley Value Explanations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.12209v1">Link</a></td>
+</tr>
+<tr>
+<td>Surprise Calibration for Better In-Context Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.12796v2">Link</a></td>
+</tr>
+<tr>
+<td>SynBench: A Benchmark for Differentially Private Text Generation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.14594v1">Link</a></td>
+</tr>
+<tr>
+<td>T-REX: A 68-567 μs/token, 0.41-3.95 μJ/token Transformer Accelerator with Reduced External Memory Access and Enhanced Hardware Utilization in 16nm FinFET</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.00322v1">Link</a></td>
+</tr>
+<tr>
+<td>TAMIS: Tailored Membership Inference Attacks on Synthetic Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.00758v2">Link</a></td>
+</tr>
+<tr>
+<td>TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.05053v1">Link</a></td>
+</tr>
+<tr>
+<td>TCM-5CEval: Extended Deep Evaluation Benchmark for LLM's Comprehensive Clinical Research Competence in Traditional Chinese Medicine</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.13169v1">Link</a></td>
+</tr>
+<tr>
+<td>THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.23748v1">Link</a></td>
+</tr>
+<tr>
+<td>TROLL: Trust Regions improve Reinforcement Learning for Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.03817v3">Link</a></td>
+</tr>
+<tr>
+<td>TVineSynth: A Truncated C-Vine Copula Generator of Synthetic Tabular Data to Balance Privacy and Utility</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.15972v1">Link</a></td>
+</tr>
+<tr>
+<td>Tab-MIA: A Benchmark Dataset for Membership Inference Attacks on Tabular Data in LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.17259v1">Link</a></td>
+</tr>
+<tr>
+<td>Targeted Manipulation: Slope-Based Attacks on Financial Time-Series Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.19330v1">Link</a></td>
+</tr>
+<tr>
+<td>Technical Report for the Forgotten-by-Design Project: Targeted Obfuscation for Machine Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.11525v1">Link</a></td>
+</tr>
+<tr>
+<td>TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.19274v2">Link</a></td>
+</tr>
+<tr>
+<td>Tensor State Space-based Dynamic Multilayer Network Modeling</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.02413v2">Link</a></td>
+</tr>
+<tr>
+<td>TensorShield: Safeguarding On-Device Inference by Shielding Critical DNN Tensors with TEE</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.22735v1">Link</a></td>
+</tr>
+<tr>
+<td>The Canary's Echo: Auditing Privacy Risks of LLM-Generated Synthetic Text</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.14921v2">Link</a></td>
+</tr>
+<tr>
+<td>The Dead Salmons of AI Interpretability</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.18792v1">Link</a></td>
+</tr>
+<tr>
+<td>The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.02173v1">Link</a></td>
+</tr>
+<tr>
+<td>The Epistemic Support-Point Filter (ESPF): A Bounded Possibilistic Framework for Ordinal State Estimation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.20806v1">Link</a></td>
+</tr>
+<tr>
+<td>The Hidden Cost of Modeling P(X): Vulnerability to Membership Inference Attacks in Generative Text Classifiers</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.16122v1">Link</a></td>
+</tr>
+<tr>
+<td>The Impact of Orbital Anisotropy Assumptions in Lensing-Dynamics Modeling</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.12013v1">Link</a></td>
+</tr>
+<tr>
+<td>The Importance of Being Discrete: Measuring the Impact of Discretization in End-to-End Differentially Private Synthetic Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.06923v4">Link</a></td>
+</tr>
+<tr>
+<td>The Larger the Merrier? Efficient Large AI Model Inference in Wireless Edge Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.09214v1">Link</a></td>
+</tr>
+<tr>
+<td>The Right to be Forgotten in Pruning: Unveil Machine Unlearning on Sparse Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.18725v2">Link</a></td>
+</tr>
+<tr>
+<td>The Sample Complexity of Membership Inference and Privacy Auditing</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.19458v1">Link</a></td>
+</tr>
+<tr>
+<td>The Tail Tells All: Estimating Model-Level Membership Inference Vulnerability Without Reference Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.19773v1">Link</a></td>
+</tr>
+<tr>
+<td>The Two-Zone Temperature Distribution Model: Inferences on the Structure and Composition of Dusty Protoplanetary Disks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.12025v1">Link</a></td>
+</tr>
+<tr>
+<td>The Use of Variational Inference for Lifetime Data with Spatial Correlations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.09559v1">Link</a></td>
+</tr>
+<tr>
+<td>The slope and scatter of the star forming main sequence at z~5 : reconciling observations with simulations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.19044v2">Link</a></td>
+</tr>
+<tr>
+<td>Theoretically Unmasking Inference Attacks Against LDP-Protected Clients in Federated Vision Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.17292v2">Link</a></td>
+</tr>
+<tr>
+<td>Tight and Practical Privacy Auditing for Differentially Private In-Context Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.13502v2">Link</a></td>
+</tr>
+<tr>
+<td>TokenSim: Enabling Hardware and Software Exploration for Large Language Model Inference Systems</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.08415v2">Link</a></td>
+</tr>
+<tr>
+<td>Tokens for Learning, Tokens for Unlearning: Mitigating Membership Inference Attacks in Large Language Models via Dual-Purpose Training</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.19726v2">Link</a></td>
+</tr>
+<tr>
+<td>Tool Unlearning for Tool-Augmented LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.01083v2">Link</a></td>
+</tr>
+<tr>
+<td>Tortoise and Hare Guidance: Accelerating Diffusion Model Inference with Multirate Integration</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.04117v1">Link</a></td>
+</tr>
+<tr>
+<td>Toward Efficient Inference Attacks: Shadow Model Sharing via Mixture-of-Experts</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.13451v1">Link</a></td>
+</tr>
+<tr>
+<td>Toward Informed AV Decision-Making: Computational Model of Well-being and Trust in Mobility</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.14983v1">Link</a></td>
+</tr>
+<tr>
+<td>Toward Reliable Machine Unlearning: Theory, Algorithms, and Evaluation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.06993v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Confidential and Efficient LLM Inference with Dual Privacy Protection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.09091v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Efficient Agents: A Co-Design of Inference Architecture and System</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.18337v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Intelligent Systems for Battery Management: A Five-Tier Digital Twin Architecture</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.02366v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.18943v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.06112v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Repository-Level Program Verification with Large Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.25197v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Robust Universal Information Extraction: Benchmark, Evaluation, and Solution</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.03201v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Theoretical Understanding of Transformer Test-Time Computing: Investigation on In-Context Linear Regression</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.07571v2">Link</a></td>
+</tr>
+<tr>
+<td>TraceHiding: Scalable Machine Unlearning for Mobility Data</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.17241v1">Link</a></td>
+</tr>
+<tr>
+<td>Training and Evaluation of Guideline-Based Medical Reasoning in LLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.03838v1">Link</a></td>
+</tr>
+<tr>
+<td>Training data membership inference via Gaussian process meta-modeling: a post-hoc analysis approach</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.21846v1">Link</a></td>
+</tr>
+<tr>
+<td>Trinity: Disaggregating Vector Search from Prefill-Decode Disaggregation in LLM Serving</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.02281v1">Link</a></td>
+</tr>
+<tr>
+<td>Trustworthy AI: Safety, Bias, and Privacy -- A Survey</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.10450v2">Link</a></td>
+</tr>
+<tr>
+<td>Trustworthy Tree-based Machine Learning by $MoS_2$ Flash-based Analog CAM with Inherent Soft Boundaries</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.12384v1">Link</a></td>
+</tr>
+<tr>
+<td>Tuning without Peeking: Provable Generalization Bounds and Robust LLM Post-Training</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.01752v3">Link</a></td>
+</tr>
+<tr>
+<td>Ultrafast Pulse Retrieval from Partial FROG Traces Using Implicit Diffusion Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.08764v1">Link</a></td>
+</tr>
+<tr>
+<td>Uncertainties in Physics-informed Inverse Problems: The Hidden Risk in Scientific AI</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.04564v1">Link</a></td>
+</tr>
+<tr>
+<td>Uncovering Pretraining Code in LLMs: A Syntax-Aware Attribution Approach</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.07033v1">Link</a></td>
+</tr>
+<tr>
+<td>Understanding the Impact of Data Domain Extraction on Synthetic Data Privacy</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.08254v2">Link</a></td>
+</tr>
+<tr>
+<td>Unifying Two Types of Scaling Laws from the Perspective of Conditional Kolmogorov Complexity</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.06802v2">Link</a></td>
+</tr>
+<tr>
+<td>Unlearning Clients, Features and Samples in Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.13683v1">Link</a></td>
+</tr>
+<tr>
+<td>Unlearning Comparator: A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.12730v3">Link</a></td>
+</tr>
+<tr>
+<td>Unraveling the temporal dependence of ecological interaction measures</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.19197v1">Link</a></td>
+</tr>
+<tr>
+<td>Unsupervised full-field Bayesian inference of orthotropic hyperelasticity from a single biaxial test: a myocardial case study</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2510.09498v2">Link</a></td>
+</tr>
+<tr>
+<td>VACoT: Rethinking Visual Data Augmentation with VLMs</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.02361v1">Link</a></td>
+</tr>
+<tr>
+<td>VDOT: Efficient Unified Video Creation via Optimal Transport Distillation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.06802v3">Link</a></td>
+</tr>
+<tr>
+<td>VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.24673v1">Link</a></td>
+</tr>
+<tr>
+<td>VMask: Tunable Label Privacy Protection for Vertical Federated Learning via Layer Masking</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.14629v2">Link</a></td>
+</tr>
+<tr>
+<td>Validating the 1D-3D coupling stellar models via Asteroseismology of 18 Kepler main-sequence stars</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.00291v1">Link</a></td>
+</tr>
+<tr>
+<td>Verifying LLM Inference to Detect Model Weight Exfiltration</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.02620v2">Link</a></td>
+</tr>
+<tr>
+<td>Vid-SME: Membership Inference Attacks against Large Video Understanding Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.03179v1">Link</a></td>
+</tr>
+<tr>
+<td>Vision-based 3D Semantic Scene Completion via Capture Dynamic Representations</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.06222v2">Link</a></td>
+</tr>
+<tr>
+<td>Visual hallucination detection in large vision-language models via evidential conflict</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.19513v1">Link</a></td>
+</tr>
+<tr>
+<td>Voice Privacy Preservation with Multiple Random Orthogonal Secret Keys: Attack Resistance Analysis</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.19906v1">Link</a></td>
+</tr>
+<tr>
+<td>WINA: Weight Informed Neuron Activation for Accelerating Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.19427v2">Link</a></td>
+</tr>
+<tr>
+<td>WIND: Accelerated RNN-T Decoding with Windowed Inference for Non-blank Detection</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.13765v1">Link</a></td>
+</tr>
+<tr>
+<td>WaferLLM: Large Language Model Inference at Wafer Scale</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.04563v3">Link</a></td>
+</tr>
+<tr>
+<td>Waging a Campaign: Results from an Injection-Recovery Study involving 35 numerical Relativity Simulations and three Waveform Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.19990v2">Link</a></td>
+</tr>
+<tr>
+<td>Weight-based Analysis of Detokenization in Language Models: Understanding the First Stage of Inference Without Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2501.15754v3">Link</a></td>
+</tr>
+<tr>
+<td>Whispers of Data: Unveiling Label Distributions in Federated Learning Through Virtual Client Simulation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.21436v1">Link</a></td>
+</tr>
+<tr>
+<td>Who Can See Through You? Adversarial Shielding Against VLM-Based Attribute Inference Attacks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.18264v1">Link</a></td>
+</tr>
+<tr>
+<td>Who Owns This Sample: Cross-Client Membership Inference Attack in Federated Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.19964v1">Link</a></td>
+</tr>
+<tr>
+<td>WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.03151v2">Link</a></td>
+</tr>
+<tr>
+<td>Win-k: Improved Membership Inference Attacks on Small Language Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.01268v1">Link</a></td>
+</tr>
+<tr>
+<td>Winning the MIDST Challenge: New Membership Inference Attacks on Diffusion Models for Tabular Data Synthesis</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.12008v1">Link</a></td>
+</tr>
+<tr>
+<td>Winter Soldier: Backdooring Language Models at Pre-Training with Indirect Data Poisoning</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.14913v1">Link</a></td>
+</tr>
+<tr>
+<td>Your Image Generator Is Your New Private Dataset</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.04582v2">Link</a></td>
+</tr>
+<tr>
+<td>ZAPS: A Zero-Knowledge Proof Protocol for Secure UAV Authentication with Flight Path Privacy</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.17043v1">Link</a></td>
+</tr>
+<tr>
+<td>ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2507.07031v2">Link</a></td>
+</tr>
+<tr>
+<td>Zero-Knowledge Proof Based Verifiable Inference of Models</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2511.19902v1">Link</a></td>
+</tr>
+<tr>
+<td>eMoE: Task-aware Memory Efficient Mixture-of-Experts-Based (MoE) Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.06823v1">Link</a></td>
+</tr>
+<tr>
+<td>λScale: Enabling Fast Scaling for Serverless Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2502.09922v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>$\nabla τ$: Gradient-based and Task-Agnostic machine Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.14339v1">Link</a></td>
+</tr>
+<tr>
+<td>$ε$-Policy Gradient for Online Pricing</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.03624v1">Link</a></td>
+</tr>
+<tr>
+<td>A Differentially Private Kaplan-Meier Estimator for Privacy-Preserving Survival Analysis</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.05164v1">Link</a></td>
+</tr>
+<tr>
+<td>A Federated Parameter Aggregation Method for Node Classification Tasks with Different Graph Network Structures</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.16004v1">Link</a></td>
+</tr>
+<tr>
+<td>A Game-Theoretic Approach to Privacy-Utility Tradeoff in Sharing Genomic Summary Statistics</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.01811v1">Link</a></td>
+</tr>
+<tr>
+<td>A Method for Building Large Language Models with Predefined KV Cache Capacity</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.15785v2">Link</a></td>
+</tr>
+<tr>
+<td>A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.08722v1">Link</a></td>
+</tr>
+<tr>
+<td>A Reliable Cryptographic Framework for Empirical Machine Unlearning Evaluation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.11577v4">Link</a></td>
+</tr>
+<tr>
+<td>A Scene-aware Models Adaptation Scheme for Cross-scene Online Inference on Mobile Devices</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.03331v2">Link</a></td>
+</tr>
+<tr>
+<td>A Statistical and Multi-Perspective Revisiting of the Membership Inference Attack in Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.13475v1">Link</a></td>
+</tr>
+<tr>
+<td>A Survey on Private Transformer Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.08145v1">Link</a></td>
+</tr>
+<tr>
+<td>A Theoretical Perspective for Speculative Decoding Algorithm</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.00841v1">Link</a></td>
+</tr>
+<tr>
+<td>A Training Rate and Survival Heuristic for Inference and Robustness Evaluation (TRASHFIRE)</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.13751v2">Link</a></td>
+</tr>
+<tr>
+<td>A Unified Hallucination Mitigation Framework for Large Vision-Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.16494v1">Link</a></td>
+</tr>
+<tr>
+<td>A Wearable Multi-Modal Edge-Computing System for Real-Time Kitchen Activity Recognition</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.06341v1">Link</a></td>
+</tr>
+<tr>
+<td>A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.18671v1">Link</a></td>
+</tr>
+<tr>
+<td>A feature refinement module for light-weight semantic segmentation network</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.08670v1">Link</a></td>
+</tr>
+<tr>
+<td>A hybrid iterative method based on MIONet for PDEs: Theory and numerical examples</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.07156v1">Link</a></td>
+</tr>
+<tr>
+<td>A parallel framework for graphical optimal transport</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.10849v2">Link</a></td>
+</tr>
+<tr>
+<td>A spatial-correlated multitask linear mixed-effects model for imaging genetics</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.04530v3">Link</a></td>
+</tr>
+<tr>
+<td>A sub-Earth-mass planet orbiting Barnard's star: No evidence of transits in TESS photometry</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.00577v3">Link</a></td>
+</tr>
+<tr>
+<td>AERO: Entropy-Guided Framework for Private LLM Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.13060v3">Link</a></td>
+</tr>
+<tr>
+<td>AI Flow at the Network Edge</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.12469v4">Link</a></td>
+</tr>
+<tr>
+<td>ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.17312v1">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating Large Language Model Inference with Self-Supervised Early Exits</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.21082v2">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating a Triton Fused Kernel for W4A16 Quantized Inference with SplitK work decomposition</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.00025v2">Link</a></td>
+</tr>
+<tr>
+<td>Accuracy-Privacy Trade-off in the Mitigation of Membership Inference Attack in Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.19119v1">Link</a></td>
+</tr>
+<tr>
+<td>Achieving Faster and More Accurate Operation of Deep Predictive Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.10231v1">Link</a></td>
+</tr>
+<tr>
+<td>Activations and Gradients Compression for Model-Parallel Training</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.07788v2">Link</a></td>
+</tr>
+<tr>
+<td>Active-Passive Federated Learning for Vertically Partitioned Multi-view Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.04111v1">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Interactive Segmentation for Multimodal Medical Imaging via Selection Engine</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.19447v1">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Pre-training Data Detection for Large Language Models via Surprising Tokens</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.21248v1">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Query Prompting for Multi-Domain Landmark Detection</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.01194v2">Link</a></td>
+</tr>
+<tr>
+<td>Adversarial Attacks on Data Attribution</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.05657v4">Link</a></td>
+</tr>
+<tr>
+<td>Adversarial Machine Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.07687v1">Link</a></td>
+</tr>
+<tr>
+<td>AlignedKV: Reducing Memory Access of KV-Cache with Precision-Aligned Quantization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.16546v2">Link</a></td>
+</tr>
+<tr>
+<td>Always-Sparse Training by Growing Connections with Guided Stochastic Exploration</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.06898v2">Link</a></td>
+</tr>
+<tr>
+<td>An Efficient Rehearsal Scheme for Catastrophic Forgetting Mitigation during Multi-stage Fine-tuning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.08096v3">Link</a></td>
+</tr>
+<tr>
+<td>An Empirical Study on Cross-lingual Vocabulary Adaptation for Efficient Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.10712v3">Link</a></td>
+</tr>
+<tr>
+<td>An Information Theoretic Evaluation Metric For Strong Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.17878v3">Link</a></td>
+</tr>
+<tr>
+<td>An Integrated Artificial Intelligence Operating System for Advanced Low-Altitude Aviation Applications</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.18845v2">Link</a></td>
+</tr>
+<tr>
+<td>Assisting humans in complex comparisons: automated information comparison at scale</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.04351v2">Link</a></td>
+</tr>
+<tr>
+<td>Attack End-to-End Autonomous Driving through Module-Wise Noise</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.07706v1">Link</a></td>
+</tr>
+<tr>
+<td>Auditing Privacy Mechanisms via Label Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.02797v1">Link</a></td>
+</tr>
+<tr>
+<td>Automated Inference of Graph Transformation Rules</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.02692v2">Link</a></td>
+</tr>
+<tr>
+<td>Automated Multi-Language to English Machine Translation Using Generative Pre-Trained Transformers</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.14680v1">Link</a></td>
+</tr>
+<tr>
+<td>Automated Test-Case Generation for REST APIs Using Model Inference Search Heuristic</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.03420v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayes-Nash Generative Privacy Against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.07414v5">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Inference of Time-Varying Origin-Destination Matrices from Boarding/Alighting Counts for Transit Services</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.04742v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian optimal design accelerates discovery of material properties from bubble dynamics</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.00011v2">Link</a></td>
+</tr>
+<tr>
+<td>BeniFul: Backdoor Defense via Middle Feature Analysis for Deep Neural Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.14723v1">Link</a></td>
+</tr>
+<tr>
+<td>Bifurcated Attention: Accelerating Massively Parallel Decoding with Shared Prefixes in LLMs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.08845v2">Link</a></td>
+</tr>
+<tr>
+<td>Blind Baselines Beat Membership Inference Attacks for Foundation Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.16201v2">Link</a></td>
+</tr>
+<tr>
+<td>BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large Language Models on Mobile Devices</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.10640v1">Link</a></td>
+</tr>
+<tr>
+<td>Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.01044v1">Link</a></td>
+</tr>
+<tr>
+<td>Building a Domain-specific Guardrail Model in Production</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.01452v1">Link</a></td>
+</tr>
+<tr>
+<td>ByteEdit: Boost, Comply and Accelerate Generative Image Editing</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.04860v1">Link</a></td>
+</tr>
+<tr>
+<td>CATP: Cross-Attention Token Pruning for Accuracy Preserved Multimodal Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.08567v2">Link</a></td>
+</tr>
+<tr>
+<td>CDI: Copyrighted Data Identification in Diffusion Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.12858v3">Link</a></td>
+</tr>
+<tr>
+<td>CI-Bench: Benchmarking Contextual Integrity of AI Assistants on Synthetic Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.13903v1">Link</a></td>
+</tr>
+<tr>
+<td>CLMIA: Membership Inference Attacks via Unsupervised Contrastive Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.11144v1">Link</a></td>
+</tr>
+<tr>
+<td>CORM: Cache Optimization with Recent Message for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.15949v2">Link</a></td>
+</tr>
+<tr>
+<td>CPSample: Classifier Protected Sampling for Guarding Training Data During Diffusion</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.07025v1">Link</a></td>
+</tr>
+<tr>
+<td>CTC Blank Triggered Dynamic Layer-Skipping for Efficient CTC-based Speech Recognition</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.02046v1">Link</a></td>
+</tr>
+<tr>
+<td>CUPID: A Real-Time Session-Based Reciprocal Recommendation System for a One-on-One Social Discovery Platform</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.18087v1">Link</a></td>
+</tr>
+<tr>
+<td>Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.17417v3">Link</a></td>
+</tr>
+<tr>
+<td>Cascaded Prediction and Asynchronous Execution of Iterative Algorithms on Heterogeneous Platforms</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.10143v1">Link</a></td>
+</tr>
+<tr>
+<td>Center-Based Relaxed Learning Against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.17674v2">Link</a></td>
+</tr>
+<tr>
+<td>Characterizing and Efficiently Accelerating Multimodal Generation Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.00215v3">Link</a></td>
+</tr>
+<tr>
+<td>Chernoff Information as a Privacy Constraint for Adversarial Classification and Membership Advantage</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.10307v4">Link</a></td>
+</tr>
+<tr>
+<td>Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.15758v2">Link</a></td>
+</tr>
+<tr>
+<td>Clinical Validation of a Real-Time Machine Learning-based System for the Detection of Acute Myeloid Leukemia by Flow Cytometry</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.11350v1">Link</a></td>
+</tr>
+<tr>
+<td>Cluster-robust jackknife and bootstrap inference for logistic regression models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.00650v2">Link</a></td>
+</tr>
+<tr>
+<td>Comprehensive Evaluation of Multimodal AI Models in Medical Imaging Diagnosis: From Data Augmentation to Preference-Based Comparison</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.05536v1">Link</a></td>
+</tr>
+<tr>
+<td>ConDa: Fast Federated Unlearning with Contribution Dampening</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.04144v1">Link</a></td>
+</tr>
+<tr>
+<td>Constraining the physical properties of large-scale jets from black hole X-ray binaries and their impact on the local environment with blast-wave dynamical models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.16624v2">Link</a></td>
+</tr>
+<tr>
+<td>Context Parallelism for Scalable Million-Token Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.01783v3">Link</a></td>
+</tr>
+<tr>
+<td>Context-Aware Membership Inference Attacks against Pre-trained Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.13745v2">Link</a></td>
+</tr>
+<tr>
+<td>Contextualizing Security and Privacy of Software-Defined Vehicles: State of the Art and Industry Perspectives</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.10612v2">Link</a></td>
+</tr>
+<tr>
+<td>Continuous Speculative Decoding for Autoregressive Image Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.11925v2">Link</a></td>
+</tr>
+<tr>
+<td>Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.08659v2">Link</a></td>
+</tr>
+<tr>
+<td>CoreInfer: Accelerating Large Language Model Inference with Semantics-Inspired Adaptive Sparse Activation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.18311v1">Link</a></td>
+</tr>
+<tr>
+<td>Correlation Clustering of Organoid Images</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.13376v1">Link</a></td>
+</tr>
+<tr>
+<td>Curvature Clues: Decoding Deep Learning Privacy with Input Loss Curvature</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.02747v1">Link</a></td>
+</tr>
+<tr>
+<td>DP-TLDM: Differentially Private Tabular Latent Diffusion Model</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.07842v2">Link</a></td>
+</tr>
+<tr>
+<td>Data Contamination Calibration for Black-box LLMs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.11930v2">Link</a></td>
+</tr>
+<tr>
+<td>Data Plagiarism Index: Characterizing the Privacy Risk of Data-Copying in Tabular Generative Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.13012v1">Link</a></td>
+</tr>
+<tr>
+<td>De-identification is not enough: a comparison between de-identified and synthetic clinical notes</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.00179v2">Link</a></td>
+</tr>
+<tr>
+<td>DePrompt: Desensitization and Evaluation of Personal Identifiable Information in Large Language Model Prompts</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.08930v1">Link</a></td>
+</tr>
+<tr>
+<td>Declarative Privacy-Preserving Inference Queries</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.12393v3">Link</a></td>
+</tr>
+<tr>
+<td>Deep Feature Surgery: Towards Accurate and Efficient Multi-Exit Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.13986v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep Learning Models in Speech Recognition: Measuring GPU Energy Consumption, Impact of Noise and Model Quantization for Edge Deployment</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.01004v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep Unlearn: Benchmarking Machine Unlearning for Image Classification</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.01276v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep hybrid models: infer and plan in a dynamic world</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.10088v4">Link</a></td>
+</tr>
+<tr>
+<td>Defining 'Good': Evaluation Framework for Synthetic Smart Meter Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.11785v1">Link</a></td>
+</tr>
+<tr>
+<td>Defining and Evaluating Decision and Composite Risk in Language Models Applied to Natural Language Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.01935v1">Link</a></td>
+</tr>
+<tr>
+<td>Delay Embedding Theory of Neural Sequence Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.11993v1">Link</a></td>
+</tr>
+<tr>
+<td>Denoising OCT Images Using Steered Mixture of Experts with Multi-Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.12735v2">Link</a></td>
+</tr>
+<tr>
+<td>Detecting Training Data of Large Language Models via Expectation Maximization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.07582v3">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.02099v2">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private and Adversarially Robust Machine Learning: An Empirical Evaluation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.10405v1">Link</a></td>
+</tr>
+<tr>
+<td>Discriminative Adversarial Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.06864v2">Link</a></td>
+</tr>
+<tr>
+<td>Disentangled Neural Relational Inference for Interpretable Motion Prediction</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.03599v1">Link</a></td>
+</tr>
+<tr>
+<td>Disentangling the Roles of Target-Side Transfer and Regularization in Multilingual Machine Translation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.01772v1">Link</a></td>
+</tr>
+<tr>
+<td>Distilling Semantic Priors from SAM to Efficient Image Restoration Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.16368v2">Link</a></td>
+</tr>
+<tr>
+<td>Distributed Speculative Inference (DSI): Speculation Parallelism for Provably Faster Lossless Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.14105v5">Link</a></td>
+</tr>
+<tr>
+<td>Do Membership Inference Attacks Work on Large Language Models?</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.07841v2">Link</a></td>
+</tr>
+<tr>
+<td>Do Parameters Reveal More than Loss for Membership Inference?</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.11544v4">Link</a></td>
+</tr>
+<tr>
+<td>Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.18966v3">Link</a></td>
+</tr>
+<tr>
+<td>Does Faithfulness Conflict with Plausibility? An Empirical Study in Explainable AI across NLP Tasks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.00140v1">Link</a></td>
+</tr>
+<tr>
+<td>Don't Look Twice: Faster Video Transformers with Run-Length Tokenization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.05222v1">Link</a></td>
+</tr>
+<tr>
+<td>Double-Dip: Thwarting Label-Only Membership Inference Attacks with Transfer Learning and Randomization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.01114v1">Link</a></td>
+</tr>
+<tr>
+<td>Dual-Criterion Model Aggregation in Federated Learning: Balancing Data Quantity and Quality</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.07816v1">Link</a></td>
+</tr>
+<tr>
+<td>Dual-Model Defense: Safeguarding Diffusion Models from Membership Inference Attacks through Disjoint Data Splitting</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.16657v1">Link</a></td>
+</tr>
+<tr>
+<td>DynaMo: Accelerating Language Model Inference with Dynamic Multi-Token Sampling</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.00888v1">Link</a></td>
+</tr>
+<tr>
+<td>Dynamic Stochastic Decoding Strategy for Open-Domain Dialogue Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.07850v1">Link</a></td>
+</tr>
+<tr>
+<td>EFCM: Efficient Fine-tuning on Compressed Models for deployment of large models in medical image analysis</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.11817v1">Link</a></td>
+</tr>
+<tr>
+<td>EOV-Seg: Efficient Open-Vocabulary Panoptic Segmentation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.08628v2">Link</a></td>
+</tr>
+<tr>
+<td>ERCache: An Efficient and Reliable Caching Framework for Large-Scale User Representations in Meta's Ads System</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.06497v1">Link</a></td>
+</tr>
+<tr>
+<td>EasyJudge: an Easy-to-use Tool for Comprehensive Response Evaluation of LLMs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.09775v1">Link</a></td>
+</tr>
+<tr>
+<td>Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.07140v1">Link</a></td>
+</tr>
+<tr>
+<td>Edge-Enabled Real-time Railway Track Segmentation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.11492v1">Link</a></td>
+</tr>
+<tr>
+<td>EdgeRL: Reinforcement Learning-driven Deep Learning Model Inference Optimization at Edge</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.12221v1">Link</a></td>
+</tr>
+<tr>
+<td>Effectiveness of L2 Regularization in Privacy-Preserving Machine Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.01541v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.22980v3">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Expert Pruning for Sparse Mixture-of-Experts Language Models: Enhancing Performance and Reducing Inference Costs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.00945v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.09992v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient LLM Context Distillation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.01930v2">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.04158v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient and Accurate Explanation Estimation with Distribution Compression</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.18334v2">Link</a></td>
+</tr>
+<tr>
+<td>Eliciting Textual Descriptions from Representations of Continuous Prompts</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.11660v1">Link</a></td>
+</tr>
+<tr>
+<td>Embedding Attack Project (Work Report)</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.13854v1">Link</a></td>
+</tr>
+<tr>
+<td>Embedding-Informed Adaptive Retrieval-Augmented Generation of Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.03514v2">Link</a></td>
+</tr>
+<tr>
+<td>EmojiPrompt: Generative Prompt Obfuscation for Privacy-Preserving Communication with Cloud-based LLMs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.05868v3">Link</a></td>
+</tr>
+<tr>
+<td>EncCluster: Scalable Functional Encryption in Federated Learning through Weight Clustering and Probabilistic Filters</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.09152v1">Link</a></td>
+</tr>
+<tr>
+<td>Enhancing Attack Resilience in Real-Time Systems through Variable Control Task Sampling Rates</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.00341v2">Link</a></td>
+</tr>
+<tr>
+<td>Enhancing the Power of Gaussian Graphical Model Inference by Modeling the Graph Structure</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.19021v1">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating of Machine Unlearning: Robustness Verification Without Prior Modifications</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.10120v1">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating the Data Model Robustness of Text-to-SQL Systems Based on Real User Queries</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.08349v3">Link</a></td>
+</tr>
+<tr>
+<td>Explainability Paths for Sustained Artistic Practice with AI</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.15216v1">Link</a></td>
+</tr>
+<tr>
+<td>Explaining the Model, Protecting Your Data: Revealing and Mitigating the Data Privacy Risks of Post-Hoc Model Explanations via Membership Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.17663v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.08383v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploring Differences between Human Perception and Model Inference in Audio Event Recognition</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.06580v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.18607v3">Link</a></td>
+</tr>
+<tr>
+<td>Exploring the Limits of Fine-grained LLM-based Physics Inference via Premise Removal Interventions</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.18384v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploring the Nature of Little Red Dots: Constraints on AGN and Stellar Contributions from PRIMER MIRI Imaging</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.12005v2">Link</a></td>
+</tr>
+<tr>
+<td>Exponential rate of epidemic spreading on complex networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.15449v4">Link</a></td>
+</tr>
+<tr>
+<td>Exposing Privacy Gaps: Membership Inference Attack on Preference Data for LLM Alignment</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.06443v2">Link</a></td>
+</tr>
+<tr>
+<td>Exposing the Vulnerability of Decentralized Learning to Membership Inference Attacks Through the Lens of Graph Mixing</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.12837v4">Link</a></td>
+</tr>
+<tr>
+<td>FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.04927v2">Link</a></td>
+</tr>
+<tr>
+<td>FFSplit: Split Feed-Forward Network For Optimizing Accuracy-Efficiency Trade-off in Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.04044v1">Link</a></td>
+</tr>
+<tr>
+<td>FRIDA: Free-Rider Detection using Privacy Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.05020v2">Link</a></td>
+</tr>
+<tr>
+<td>FTP: A Fine-grained Token-wise Pruner for Large Language Models via Token Routing</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.11494v1">Link</a></td>
+</tr>
+<tr>
+<td>Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.14798v1">Link</a></td>
+</tr>
+<tr>
+<td>Fast Adversarial Attacks on Language Models In One GPU Minute</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.15570v1">Link</a></td>
+</tr>
+<tr>
+<td>FastDraft: How to Train Your Draft</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.11055v3">Link</a></td>
+</tr>
+<tr>
+<td>Faster Cascades via Speculative Decoding</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.19261v2">Link</a></td>
+</tr>
+<tr>
+<td>Faster Diffusion Sampling with Randomized Midpoints: Sequential and Parallel</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.00924v2">Link</a></td>
+</tr>
+<tr>
+<td>Feature Inference Attack on Shapley Values</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.11359v1">Link</a></td>
+</tr>
+<tr>
+<td>FedMIA: An Effective Membership Inference Attack Exploiting "All for One" Principle in Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.06289v3">Link</a></td>
+</tr>
+<tr>
+<td>FedMPQ: Secure and Communication-Efficient Federated Learning with Multi-codebook Product Quantization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.13575v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated Automatic Latent Variable Selection in Multi-output Gaussian Processes</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.16935v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated Graph Condensation with Information Bottleneck Principles</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.03911v4">Link</a></td>
+</tr>
+<tr>
+<td>Federated Hypergraph Learning with Local Differential Privacy: Toward Privacy-Aware Hypergraph Structure Completion</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.05160v3">Link</a></td>
+</tr>
+<tr>
+<td>Feedback-regulated Seed Black Hole Growth in Star-Forming Molecular Clouds and Galactic Nuclei</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.12164v2">Link</a></td>
+</tr>
+<tr>
+<td>FineGates: LLMs Finetuning with Compression using Stochastic Gates</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.12951v1">Link</a></td>
+</tr>
+<tr>
+<td>Fingerprint Membership and Identity Inference Against Generative Adversarial Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.15253v1">Link</a></td>
+</tr>
+<tr>
+<td>First Ly$α$ 1D Bispectrum Measurement in eBOSS</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.09150v1">Link</a></td>
+</tr>
+<tr>
+<td>Flash Communication: Reducing Tensor Parallelization Bottleneck for Fast Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.04964v2">Link</a></td>
+</tr>
+<tr>
+<td>FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.03868v2">Link</a></td>
+</tr>
+<tr>
+<td>Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.22304v1">Link</a></td>
+</tr>
+<tr>
+<td>Following the Human Thread in Social Navigation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.11327v2">Link</a></td>
+</tr>
+<tr>
+<td>Free Record-Level Privacy Risk Evaluation Through Artifact-Based Methods</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.05743v3">Link</a></td>
+</tr>
+<tr>
+<td>From PEFT to DEFT: Parameter Efficient Finetuning for Reducing Activation Density in Transformers</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.01911v2">Link</a></td>
+</tr>
+<tr>
+<td>From chiral EFT to perturbative QCD: a Bayesian model mixing approach to symmetric nuclear matter</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.06323v3">Link</a></td>
+</tr>
+<tr>
+<td>Fully-inductive Node Classification on Arbitrary Graphs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.20445v5">Link</a></td>
+</tr>
+<tr>
+<td>Functional-Edged Network Modeling</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.00218v2">Link</a></td>
+</tr>
+<tr>
+<td>GAZEploit: Remote Keystroke Inference Attack by Gaze Estimation from Avatar Views in VR/MR Devices</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.08122v1">Link</a></td>
+</tr>
+<tr>
+<td>GLiRA: Black-Box Membership Inference Attack via Knowledge Distillation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.07562v1">Link</a></td>
+</tr>
+<tr>
+<td>GQSA: Group Quantization and Sparsity for Accelerating Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.17560v4">Link</a></td>
+</tr>
+<tr>
+<td>Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.11423v2">Link</a></td>
+</tr>
+<tr>
+<td>Generating Is Believing: Membership Inference Attacks against Retrieval-Augmented Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.19234v2">Link</a></td>
+</tr>
+<tr>
+<td>Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.11809v3">Link</a></td>
+</tr>
+<tr>
+<td>Gone but Not Forgotten: Improved Benchmarks for Machine Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.19211v1">Link</a></td>
+</tr>
+<tr>
+<td>Governing the Commons: Code Ownership and Code-Clones in Large-Scale Software Development</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.15866v3">Link</a></td>
+</tr>
+<tr>
+<td>Granularity is crucial when applying differential privacy to text: An investigation for neural machine translation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.18789v2">Link</a></td>
+</tr>
+<tr>
+<td>Graph Neural Network for Neutrino Physics Event Reconstruction</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.11872v2">Link</a></td>
+</tr>
+<tr>
+<td>Graph Transductive Defense: a Two-Stage Defense for Graph Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.07917v1">Link</a></td>
+</tr>
+<tr>
+<td>HM3: Heterogeneous Multi-Class Model Merging</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.19173v1">Link</a></td>
+</tr>
+<tr>
+<td>HPAC-ML: A Programming Model for Embedding ML Surrogates in Scientific Applications</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.18352v2">Link</a></td>
+</tr>
+<tr>
+<td>HSTFL: A Heterogeneous Federated Learning Framework for Misaligned Spatiotemporal Forecasting</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.18482v1">Link</a></td>
+</tr>
+<tr>
+<td>Hardware and Software Platform Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.05197v2">Link</a></td>
+</tr>
+<tr>
+<td>Hash3D: Training-free Acceleration for 3D Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.06091v1">Link</a></td>
+</tr>
+<tr>
+<td>Hermes: Memory-Efficient Pipeline Inference for Large Models on Edge Devices</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.04249v2">Link</a></td>
+</tr>
+<tr>
+<td>Heterogeneous Clinical Trial Outcomes via Multi-Output Gaussian Processes</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.13283v2">Link</a></td>
+</tr>
+<tr>
+<td>Hide in Plain Sight: Clean-Label Backdoor for Auditing Membership Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.16763v1">Link</a></td>
+</tr>
+<tr>
+<td>I Still See You: Why Existing IoT Traffic Reshaping Fails</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.10358v1">Link</a></td>
+</tr>
+<tr>
+<td>IDT: Dual-Task Adversarial Attacks for Privacy Protection</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.19642v1">Link</a></td>
+</tr>
+<tr>
+<td>Identification of Settling Velocity with Physics Informed Neural Networks For Sediment Laden Flows</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.06802v1">Link</a></td>
+</tr>
+<tr>
+<td>Identity-Focused Inference and Extraction Attacks on Diffusion Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.10177v1">Link</a></td>
+</tr>
+<tr>
+<td>Impact of Dataset Properties on Membership Inference Vulnerability of Deep Transfer Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.06674v6">Link</a></td>
+</tr>
+<tr>
+<td>Impact of ML Optimization Tactics on Greener Pre-Trained ML Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.12878v1">Link</a></td>
+</tr>
+<tr>
+<td>Implicit Personalization in Language Models: A Systematic Study</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.14808v2">Link</a></td>
+</tr>
+<tr>
+<td>Incorporating additional evidence as prior information to resolve non-identifiability in Bayesian disease model calibration. A tutorial</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.13451v2">Link</a></td>
+</tr>
+<tr>
+<td>Inducing Semi-Structured Sparsity by Masking for Efficient Model Inference in Convolutional Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.00288v1">Link</a></td>
+</tr>
+<tr>
+<td>Inductive Learning of Logical Theories with LLMs: An Expressivity-Graded Analysis</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.16779v2">Link</a></td>
+</tr>
+<tr>
+<td>Inexact Unlearning Needs More Careful Evaluations to Avoid a False Sense of Privacy</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.01218v3">Link</a></td>
+</tr>
+<tr>
+<td>InferCept: Efficient Intercept Support for Augmented Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.01869v2">Link</a></td>
+</tr>
+<tr>
+<td>Inference Attacks: A Taxonomy, Survey, and Promising Directions</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.02027v2">Link</a></td>
+</tr>
+<tr>
+<td>Inferring stability properties of chaotic systems on autoencoders' latent spaces</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.18003v1">Link</a></td>
+</tr>
+<tr>
+<td>Inline AI: Open-source Deep Learning Inference for Cardiac MR</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.02384v1">Link</a></td>
+</tr>
+<tr>
+<td>Insights into resource utilization of code small language models serving with runtime engines and execution providers</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.15441v2">Link</a></td>
+</tr>
+<tr>
+<td>InstantSplat: Sparse-view Gaussian Splatting in Seconds</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.20309v6">Link</a></td>
+</tr>
+<tr>
+<td>Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.11300v1">Link</a></td>
+</tr>
+<tr>
+<td>Introducing Ensemble Machine Learning Algorithms for Automatic Test Case Generation using Learning Based Testing</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.04651v1">Link</a></td>
+</tr>
+<tr>
+<td>Investigating Effective Speaker Property Privacy Protection in Federated Learning for Speech Emotion Recognition</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.13221v1">Link</a></td>
+</tr>
+<tr>
+<td>Is Difficulty Calibration All We Need? Towards More Practical Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.00426v2">Link</a></td>
+</tr>
+<tr>
+<td>Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.20446v3">Link</a></td>
+</tr>
+<tr>
+<td>JORA: JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.11366v2">Link</a></td>
+</tr>
+<tr>
+<td>KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.12369v1">Link</a></td>
+</tr>
+<tr>
+<td>KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.03893v1">Link</a></td>
+</tr>
+<tr>
+<td>KV Cache is 1 Bit Per Channel: Efficient Large Language Model Inference with Coupled Quantization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.03917v1">Link</a></td>
+</tr>
+<tr>
+<td>Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.18588v1">Link</a></td>
+</tr>
+<tr>
+<td>LLM Dataset Inference: Did you train on my dataset?</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.06443v1">Link</a></td>
+</tr>
+<tr>
+<td>LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.07326v1">Link</a></td>
+</tr>
+<tr>
+<td>LUMIA: Linear probing for Unimodal and MultiModal Membership Inference Attacks leveraging internal LLM states</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.19876v3">Link</a></td>
+</tr>
+<tr>
+<td>LanguaShrink: Reducing Token Overhead with Psycholinguistics</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.00855v1">Link</a></td>
+</tr>
+<tr>
+<td>Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.04466v4">Link</a></td>
+</tr>
+<tr>
+<td>Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.04929v3">Link</a></td>
+</tr>
+<tr>
+<td>Let Me DeCode You: Decoder Conditioning with Tabular Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.09437v1">Link</a></td>
+</tr>
+<tr>
+<td>Lie Algebra Canonicalization: Equivariant Neural Operators under arbitrary Lie Groups</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.02698v2">Link</a></td>
+</tr>
+<tr>
+<td>Lightweight Deep Learning Based Channel Estimation for Extremely Large-Scale Massive MIMO Systems</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.08916v1">Link</a></td>
+</tr>
+<tr>
+<td>Lightweight Federated Learning with Differential Privacy and Straggler Resilience</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.06120v2">Link</a></td>
+</tr>
+<tr>
+<td>Locally Differentially Private In-Context Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.04032v2">Link</a></td>
+</tr>
+<tr>
+<td>Low Degree Hardness for Broadcasting on Trees</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.13359v1">Link</a></td>
+</tr>
+<tr>
+<td>Low-Cost Privacy-Preserving Decentralized Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.11795v3">Link</a></td>
+</tr>
+<tr>
+<td>Lumos : Empowering Multimodal LLMs with Scene Text Recognition</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.08017v2">Link</a></td>
+</tr>
+<tr>
+<td>MGMD-GAN: Generalization Improvement of Generative Adversarial Networks with Multiple Generator Multiple Discriminator Framework Against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.07803v1">Link</a></td>
+</tr>
+<tr>
+<td>MIA-Tuner: Adapting Large Language Models as Pre-training Text Detector</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.08661v1">Link</a></td>
+</tr>
+<tr>
+<td>ML2SC: Deploying Machine Learning Models as Smart Contracts on the Blockchain</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.16967v1">Link</a></td>
+</tr>
+<tr>
+<td>MLOPS in a multicloud environment: Typical Network Topology</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.20494v1">Link</a></td>
+</tr>
+<tr>
+<td>MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.07838v1">Link</a></td>
+</tr>
+<tr>
+<td>Machine Unlearning for Uplink Interference Cancellation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.05945v2">Link</a></td>
+</tr>
+<tr>
+<td>Machine Unlearning using Forgetting Neural Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.22374v2">Link</a></td>
+</tr>
+<tr>
+<td>Machine Unlearning using a Multi-GAN based Model</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.18467v1">Link</a></td>
+</tr>
+<tr>
+<td>Machine Unlearning with Minimal Gradient Dependence for High Unlearning Ratios</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.16986v1">Link</a></td>
+</tr>
+<tr>
+<td>Manipulating hidden-Markov-model inferences by corrupting batch data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.13287v1">Link</a></td>
+</tr>
+<tr>
+<td>Many-Shot Regurgitation (MSR) Prompting</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.08134v1">Link</a></td>
+</tr>
+<tr>
+<td>Mask-based Membership Inference Attacks for Retrieval-Augmented Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.20142v2">Link</a></td>
+</tr>
+<tr>
+<td>MemWarp: Discontinuity-Preserving Cardiac Registration with Memorized Anatomical Filters</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.08093v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack Against Masked Image Modeling</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.06825v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack against Long-Context Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.11424v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Against Time-Series Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.02870v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.19798v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks against Large Vision-Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.02902v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks and Defenses in Federated Learning: A Survey</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.06157v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks and Privacy in Topic Modeling</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.04451v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Privacy Evaluation in Deep Spiking Neural Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.19413v1">Link</a></td>
+</tr>
+<tr>
+<td>Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.08413v1">Link</a></td>
+</tr>
+<tr>
+<td>Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.12568v1">Link</a></td>
+</tr>
+<tr>
+<td>Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.21340v1">Link</a></td>
+</tr>
+<tr>
+<td>Minions: Accelerating Large Language Model Inference with Aggregated Speculative Execution</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.15678v2">Link</a></td>
+</tr>
+<tr>
+<td>Mitigating Privacy Risk in Membership Inference by Convex-Concave Loss</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.05453v3">Link</a></td>
+</tr>
+<tr>
+<td>MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.17699v3">Link</a></td>
+</tr>
+<tr>
+<td>Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.16479v2">Link</a></td>
+</tr>
+<tr>
+<td>Modeling, Inference, and Prediction in Mobility-Based Compartmental Models for Epidemiology</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.12002v2">Link</a></td>
+</tr>
+<tr>
+<td>Multi-student Diffusion Distillation for Better One-step Generators</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.23274v2">Link</a></td>
+</tr>
+<tr>
+<td>Multimodal Contextual Dialogue Breakdown Detection for Conversational AI Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.08156v1">Link</a></td>
+</tr>
+<tr>
+<td>Multimodal Representation Loss Between Timed Text and Audio for Regularized Speech Separation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.08328v1">Link</a></td>
+</tr>
+<tr>
+<td>NITRO: LLM Inference on Intel Laptop NPUs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.11053v1">Link</a></td>
+</tr>
+<tr>
+<td>Near-Optimal Reinforcement Learning with Shuffle Differential Privacy</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.11647v3">Link</a></td>
+</tr>
+<tr>
+<td>Networks of Networks: Complexity Class Principles Applied to Compound AI Systems Design</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.16831v1">Link</a></td>
+</tr>
+<tr>
+<td>Neural Networks with (Low-Precision) Polynomial Approximations: New Insights and Techniques for Accuracy Improvement</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.11224v2">Link</a></td>
+</tr>
+<tr>
+<td>Neural Port-Hamiltonian Differential Algebraic Equations for Compositional Learning of Electrical Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.11215v3">Link</a></td>
+</tr>
+<tr>
+<td>Neutrino mass experiments: current and future</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.08542v1">Link</a></td>
+</tr>
+<tr>
+<td>NoMAD-Attention: Efficient LLM Inference on CPUs Through Multiply-add-free Attention</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.01273v1">Link</a></td>
+</tr>
+<tr>
+<td>Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large Language Models with Ex-Post Dataset Construction</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.05968v2">Link</a></td>
+</tr>
+<tr>
+<td>Noisy Neighbors: Efficient membership inference attacks against LLMs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.16565v1">Link</a></td>
+</tr>
+<tr>
+<td>Non-intrusive and Unconstrained Keystroke Inference in VR Platforms via Infrared Side Channel</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.14815v1">Link</a></td>
+</tr>
+<tr>
+<td>Nonequilibrium fluctuation-response relations for state observables</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.10233v4">Link</a></td>
+</tr>
+<tr>
+<td>Normalized Narrow Jump To Conclusions: Normalized Narrow Shortcuts for Parameter Efficient Early Exit Transformer Prediction</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.14091v2">Link</a></td>
+</tr>
+<tr>
+<td>OSLO: One-Shot Label-Only Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.16978v3">Link</a></td>
+</tr>
+<tr>
+<td>Offline Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.04014v1">Link</a></td>
+</tr>
+<tr>
+<td>On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.06262v2">Link</a></td>
+</tr>
+<tr>
+<td>On the Impact of Uncertainty and Calibration on Likelihood-Ratio Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.10686v5">Link</a></td>
+</tr>
+<tr>
+<td>On the Privacy Risk of In-context Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.10512v1">Link</a></td>
+</tr>
+<tr>
+<td>OnePath: Efficient and Privacy-Preserving Decision Tree Inference in the Cloud</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.19334v2">Link</a></td>
+</tr>
+<tr>
+<td>Online Resource Allocation for Edge Intelligence with Colocated Model Retraining and Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.16029v1">Link</a></td>
+</tr>
+<tr>
+<td>Open-World Task and Motion Planning via Vision-Language Model Inferred Constraints</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.08253v2">Link</a></td>
+</tr>
+<tr>
+<td>Optimal ablation for interpretability</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.09951v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimization of Armv9 architecture general large language model inference performance based on Llama.cpp</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.10816v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing Foundation Model Inference on a Many-tiny-core Open-source RISC-V Platform</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.19284v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing Tensor Computation Graphs with Equality Saturation and Monte Carlo Tree Search</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.05534v1">Link</a></td>
+</tr>
+<tr>
+<td>Order of Magnitude Speedups for LLM Membership Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.14513v2">Link</a></td>
+</tr>
+<tr>
+<td>PPBFL: A Privacy Protected Blockchain-based Federated Learning Model</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.01204v2">Link</a></td>
+</tr>
+<tr>
+<td>PSBD: Prediction Shift Uncertainty Unlocks Backdoor Detection</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.05826v2">Link</a></td>
+</tr>
+<tr>
+<td>Pandora's White-Box: Precise Training Data Detection and Extraction in Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.17012v4">Link</a></td>
+</tr>
+<tr>
+<td>Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.12022v1">Link</a></td>
+</tr>
+<tr>
+<td>Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.18165v1">Link</a></td>
+</tr>
+<tr>
+<td>Partially Conditioned Patch Parallelism for Accelerated Diffusion Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.02962v1">Link</a></td>
+</tr>
+<tr>
+<td>Pathway to Secure and Trustworthy ZSM for LLMs: Attacks, Defense, and Opportunities</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.00722v2">Link</a></td>
+</tr>
+<tr>
+<td>Perturbation-Robust Predictive Modeling of Social Effects by Network Subspace Generalized Linear Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.01163v6">Link</a></td>
+</tr>
+<tr>
+<td>Phaedrus: Predicting Dynamic Application Behavior with Lightweight Generative Models and LLMs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.06994v5">Link</a></td>
+</tr>
+<tr>
+<td>Phase Diagram of Vision Large Language Models Inference: A Perspective from Interaction across Image and Instruction</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.00646v2">Link</a></td>
+</tr>
+<tr>
+<td>Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.14583v1">Link</a></td>
+</tr>
+<tr>
+<td>Plato: Plan to Efficiently Decode for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.12280v2">Link</a></td>
+</tr>
+<tr>
+<td>Pochhammer Priors for Sparse Count Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.09583v3">Link</a></td>
+</tr>
+<tr>
+<td>Power Grid Parameter Estimation Without Phase Measurements: Theory and Empirical Validation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.09989v1">Link</a></td>
+</tr>
+<tr>
+<td>Power spectrum multipoles and clustering wedges during the Epoch of Reionization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.05414v2">Link</a></td>
+</tr>
+<tr>
+<td>PowerInfer-2: Fast Large Language Model Inference on a Smartphone</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.06282v3">Link</a></td>
+</tr>
+<tr>
+<td>PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.09562v3">Link</a></td>
+</tr>
+<tr>
+<td>Predicting ionic conductivity in solids from the machine-learned potential energy landscape</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.06804v2">Link</a></td>
+</tr>
+<tr>
+<td>Predictors of disease outbreaks at continentalscale in the African region: Insights and predictions with geospatial artificial intelligence using earth observations and routine disease surveillance data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.06436v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Drift: Evolving Privacy Concerns in Incremental Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.05183v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Threats and Countermeasures in Federated Learning for Internet of Things: A Systematic Review</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.18096v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Vulnerabilities in Marginals-based Synthetic Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.05506v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Aggregation for Decentralized Learning with Byzantine-Robustness</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.17970v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Debiasing using Data Augmentation and Machine Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.13194v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Dynamic Assortment Selection</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.22488v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Face Recognition in Hybrid Frequency-Color Domain</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.13386v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Federated Learning via Dataset Distillation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.19548v3">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Language Model Inference with Instance Obfuscation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.08227v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Optimal Parameter Selection for Collaborative Clustering</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.05545v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.01040v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving, Dropout-Resilient Aggregation in Decentralized Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.17984v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-preserving Universal Adversarial Defense for Black-box Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.10647v1">Link</a></td>
+</tr>
+<tr>
+<td>ProSparse: Introducing and Enhancing Intrinsic Activation Sparsity within Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.13516v7">Link</a></td>
+</tr>
+<tr>
+<td>Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.17546v1">Link</a></td>
+</tr>
+<tr>
+<td>Prompting Continual Person Search</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.19239v1">Link</a></td>
+</tr>
+<tr>
+<td>Proof of Quality: A Costless Paradigm for Trustless Generative AI Model Inference on Blockchains</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.17934v2">Link</a></td>
+</tr>
+<tr>
+<td>Protecting Vehicle Location Privacy with Contextually-Driven Synthetic Location Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.09495v1">Link</a></td>
+</tr>
+<tr>
+<td>Protection against Source Inference Attacks in Federated Learning using Unary Encoding and Shuffling</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.06458v1">Link</a></td>
+</tr>
+<tr>
+<td>Provable Privacy Attacks on Trained Shallow Neural Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.07632v2">Link</a></td>
+</tr>
+<tr>
+<td>Pruned Convolutional Attention Network Based Wideband Spectrum Sensing with Sub-Nyquist Sampling</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.00562v1">Link</a></td>
+</tr>
+<tr>
+<td>Pseudo-Probability Unlearning: Towards Efficient and Privacy-Preserving Machine Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.02622v1">Link</a></td>
+</tr>
+<tr>
+<td>Publishing Neural Networks in Drug Discovery Might Compromise Training Data Privacy</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.16975v1">Link</a></td>
+</tr>
+<tr>
+<td>QuAKE: Speeding up Model Inference Using Quick and Approximate Kernels for Exponential Non-Linearities</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.00408v1">Link</a></td>
+</tr>
+<tr>
+<td>Quantifying Memorization and Detecting Training Data of Pre-trained Language Models using Japanese Newspaper</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.17143v2">Link</a></td>
+</tr>
+<tr>
+<td>Quantum Transformer: Accelerating model inference via quantum linear algebra</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.16714v3">Link</a></td>
+</tr>
+<tr>
+<td>Quantum-activated neural reservoirs on-chip open up large hardware security models for resilient authentication</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.14188v1">Link</a></td>
+</tr>
+<tr>
+<td>RAEE: A Robust Retrieval-Augmented Early Exiting Framework for Efficient Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.15198v2">Link</a></td>
+</tr>
+<tr>
+<td>Range Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.05131v3">Link</a></td>
+</tr>
+<tr>
+<td>ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.15968v2">Link</a></td>
+</tr>
+<tr>
+<td>Real-World Benchmarks Make Membership Inference Attacks Fail on Diffusion Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.03640v1">Link</a></td>
+</tr>
+<tr>
+<td>Real-time Event Recognition of Long-distance Distributed Vibration Sensing with Knowledge Distillation and Hardware Acceleration</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.03647v2">Link</a></td>
+</tr>
+<tr>
+<td>Real-time and Downtime-tolerant Fault Diagnosis for Railway Turnout Machines (RTMs) Empowered with Cloud-Edge Pipeline Parallelism</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.02086v1">Link</a></td>
+</tr>
+<tr>
+<td>Really Unlearned? Verifying Machine Unlearning via Influential Sample Pairs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.10953v1">Link</a></td>
+</tr>
+<tr>
+<td>Reconstructing training data from document understanding models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.03182v1">Link</a></td>
+</tr>
+<tr>
+<td>Reducing Events to Augment Log-based Anomaly Detection Models: An Empirical Study</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.04834v2">Link</a></td>
+</tr>
+<tr>
+<td>Reducing Model Error Using Optimised Galaxy Selection: Weak Lensing Cluster Mass Estimation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.11950v1">Link</a></td>
+</tr>
+<tr>
+<td>Reducing Reasoning Costs: The Path of Optimization for Chain of Thought via Sparse Attention Mechanism</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.09111v8">Link</a></td>
+</tr>
+<tr>
+<td>Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.02054v3">Link</a></td>
+</tr>
+<tr>
+<td>Reinforcement Learning from Human Feedback without Reward Inference: Model-Free Algorithm and Instance-Dependent Analysis</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.07455v2">Link</a></td>
+</tr>
+<tr>
+<td>Remote Timing Attacks on Efficient Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.17175v1">Link</a></td>
+</tr>
+<tr>
+<td>Research on LLM Acceleration Using the High-Performance RISC-V Processor "Xiangshan" (Nanhu Version) Based on the Open-Source Matrix Instruction Set Extension (Vector Dot Product)</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.00661v1">Link</a></td>
+</tr>
+<tr>
+<td>Respect the model: Fine-grained and Robust Explanation with Sharing Ratio Decomposition</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.03348v2">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking the impact of noisy labels in graph classification: A utility and privacy perspective</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.07314v1">Link</a></td>
+</tr>
+<tr>
+<td>Retrosynthesis prediction enhanced by in-silico reaction data augmentation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.00086v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust Bond Risk Premia Predictability Test in the Quantiles</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.03557v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.03149v2">Link</a></td>
+</tr>
+<tr>
+<td>SAFELOC: Overcoming Data Poisoning Attacks in Heterogeneous Federated Machine Learning for Indoor Localization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.09055v1">Link</a></td>
+</tr>
+<tr>
+<td>SEBA: Strong Evaluation of Biometric Anonymizations</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.06648v1">Link</a></td>
+</tr>
+<tr>
+<td>SN 2019nyk: A rapidly declining Type II supernova with early interaction signatures</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.00927v1">Link</a></td>
+</tr>
+<tr>
+<td>SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.20641v1">Link</a></td>
+</tr>
+<tr>
+<td>Safety and Performance, Why Not Both? Bi-Objective Optimized Model Compression against Heterogeneous Attacks Toward AI Software Deployment</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.00996v1">Link</a></td>
+</tr>
+<tr>
+<td>SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.02367v9">Link</a></td>
+</tr>
+<tr>
+<td>Sampling-based Pseudo-Likelihood for Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.11262v1">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Federated Unlearning via Isolated and Coded Sharding</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.15957v1">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Weibull Graph Attention Autoencoder for Modeling Document Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.09696v1">Link</a></td>
+</tr>
+<tr>
+<td>Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.00154v2">Link</a></td>
+</tr>
+<tr>
+<td>Scenario of Use Scheme: Threat Model Specification for Speaker Privacy Protection in the Medical Domain</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.16106v2">Link</a></td>
+</tr>
+<tr>
+<td>SeSeMI: Secure Serverless Model Inference on Sensitive Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.11640v1">Link</a></td>
+</tr>
+<tr>
+<td>Secure Aggregation is Not Private Against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.17775v3">Link</a></td>
+</tr>
+<tr>
+<td>Self-Comparison for Dataset-Level Membership Inference in Large (Vision-)Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.13088v1">Link</a></td>
+</tr>
+<tr>
+<td>Self-Selected Attention Span for Accelerating Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.09336v1">Link</a></td>
+</tr>
+<tr>
+<td>Semantic Membership Inference Attack against Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.10218v1">Link</a></td>
+</tr>
+<tr>
+<td>Semirings for Probabilistic and Neuro-Symbolic Logic Programming</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.13782v1">Link</a></td>
+</tr>
+<tr>
+<td>SeqMIA: Sequential-Metric Based Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.15098v1">Link</a></td>
+</tr>
+<tr>
+<td>ServeFlow: A Fast-Slow Model Architecture for Network Traffic Analysis</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.03694v2">Link</a></td>
+</tr>
+<tr>
+<td>Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.07018v1">Link</a></td>
+</tr>
+<tr>
+<td>Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.09450v2">Link</a></td>
+</tr>
+<tr>
+<td>Siamese Machine Unlearning with Knowledge Vaporization and Concentration</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.01207v1">Link</a></td>
+</tr>
+<tr>
+<td>Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.12523v3">Link</a></td>
+</tr>
+<tr>
+<td>Smartphone-based Eye Tracking System using Edge Intelligence and Model Optimisation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.12463v2">Link</a></td>
+</tr>
+<tr>
+<td>Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.15298v2">Link</a></td>
+</tr>
+<tr>
+<td>SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.12692v2">Link</a></td>
+</tr>
+<tr>
+<td>SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.04417v4">Link</a></td>
+</tr>
+<tr>
+<td>SpecstatOR: Speckle statistics-based iOCT Segmentation Network for Ophthalmic Surgery</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.19481v1">Link</a></td>
+</tr>
+<tr>
+<td>Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.05636v4">Link</a></td>
+</tr>
+<tr>
+<td>Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.14895v1">Link</a></td>
+</tr>
+<tr>
+<td>Stealing the Invisible: Unveiling Pre-Trained CNN Models through Adversarial Examples and Timing Side-Channels</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.11953v1">Link</a></td>
+</tr>
+<tr>
+<td>StraightLine: An End-to-End Resource-Aware Scheduler for Machine Learning Application Requests</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.18148v2">Link</a></td>
+</tr>
+<tr>
+<td>Structurally Aware Robust Model Selection for Mixtures</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.00687v1">Link</a></td>
+</tr>
+<tr>
+<td>Sub-optimal Learning in Meta-Classifier Attacks: A Study of Membership Inference on Differentially Private Location Aggregates</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.20456v1">Link</a></td>
+</tr>
+<tr>
+<td>Subconscious Robotic Imitation Learning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.20368v1">Link</a></td>
+</tr>
+<tr>
+<td>Successive Refinement in Large-Scale Computation: Advancing Model Inference Applications</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.07229v1">Link</a></td>
+</tr>
+<tr>
+<td>Survey of Security and Data Attacks on Machine Unlearning In Financial and E-Commerce</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.00055v1">Link</a></td>
+</tr>
+<tr>
+<td>Synthetic Image Learning: Preserving Performance and Preventing Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.15526v2">Link</a></td>
+</tr>
+<tr>
+<td>TDDBench: A Benchmark for Training data detection</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.03363v2">Link</a></td>
+</tr>
+<tr>
+<td>TP-Aware Dequantization</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.04925v1">Link</a></td>
+</tr>
+<tr>
+<td>TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.00531v1">Link</a></td>
+</tr>
+<tr>
+<td>TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.11047v2">Link</a></td>
+</tr>
+<tr>
+<td>Temporal Decisions: Leveraging Temporal Correlation for Efficient Decisions in Early Exit Neural Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.07958v1">Link</a></td>
+</tr>
+<tr>
+<td>Temporal Test-Time Adaptation with State-Space Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.12492v3">Link</a></td>
+</tr>
+<tr>
+<td>The Impact of Generalization Techniques on the Interplay Among Privacy, Utility, and Fairness in Image Classification</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.11951v1">Link</a></td>
+</tr>
+<tr>
+<td>The Impact of Hyperparameters on Large Language Model Inference Performance: An Evaluation of vLLM and HuggingFace Pipelines</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.01050v1">Link</a></td>
+</tr>
+<tr>
+<td>The Origin of the X-ray Emission from the Non-Starburst Gas-Rich Luminous Infrared Galaxies Arp 302</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.03117v1">Link</a></td>
+</tr>
+<tr>
+<td>The Price of Prompting: Profiling Energy Use in Large Language Models Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.16893v1">Link</a></td>
+</tr>
+<tr>
+<td>The Unreasonable Effectiveness of Solving Inverse Problems with Neural Networks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.08119v1">Link</a></td>
+</tr>
+<tr>
+<td>The neutron star mass, distance, and inclination from precision timing of the brilliant millisecond pulsar J0437$-$4715</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.07132v2">Link</a></td>
+</tr>
+<tr>
+<td>Too Good to be True? Turn Any Model Differentially Private With DP-Weights</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.19507v2">Link</a></td>
+</tr>
+<tr>
+<td>Toward Real-Time Edge AI: Model-Agnostic Task-Oriented Communication with Visual Feature Alignment</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.00862v1">Link</a></td>
+</tr>
+<tr>
+<td>Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.12900v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Black-Box Membership Inference Attack for Diffusion Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.20771v5">Link</a></td>
+</tr>
+<tr>
+<td>Towards Competitive Search Relevance For Inference-Free Learned Sparse Retrievers</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.04403v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Dense and Accurate Radar Perception Via Efficient Cross-Modal Diffusion Model</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.08460v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Performance-Aware Allocation for Accelerated Machine Learning on GPU-SSD Systems</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.04569v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Understanding Systems Trade-offs in Retrieval-Augmented Generation Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.11854v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards a Game-theoretic Understanding of Explanation-based Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.07139v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards more accurate and useful data anonymity vulnerability measures</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.06595v1">Link</a></td>
+</tr>
+<tr>
+<td>Transformer-Lite: High-efficiency Deployment of Large Language Models on Mobile Phone GPUs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.20041v3">Link</a></td>
+</tr>
+<tr>
+<td>TriOS Schwarzschild Orbit Modeling: Robustness of Parameter Inference for Masses and Shapes of Triaxial Galaxies with Supermassive Black Holes</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.07996v1">Link</a></td>
+</tr>
+<tr>
+<td>Trustworthy Distributed AI Systems: Robustness, Privacy, and Governance</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.01096v1">Link</a></td>
+</tr>
+<tr>
+<td>Truthful Text Sanitization Guided by Inference Attacks</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.12928v2">Link</a></td>
+</tr>
+<tr>
+<td>UELLM: A Unified and Efficient Approach for LLM Inference Serving</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.14961v2">Link</a></td>
+</tr>
+<tr>
+<td>UNCOVER: 404 Error -- Models Not Found for the Triply Imaged Little Red Dot A2744-QSO1</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.06257v2">Link</a></td>
+</tr>
+<tr>
+<td>UR2M: Uncertainty and Resource-Aware Event Detection on Microcontrollers</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.09264v3">Link</a></td>
+</tr>
+<tr>
+<td>Uncertainty Propagation within Chained Models for Machine Learning Reconstruction of Neutrino-LAr Interactions</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.09864v3">Link</a></td>
+</tr>
+<tr>
+<td>Unified Low-rank Compression Framework for Click-through Rate Prediction</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2405.18146v2">Link</a></td>
+</tr>
+<tr>
+<td>Universally Harmonizing Differential Privacy Mechanisms for Federated Learning: Boosting Accuracy and Convergence</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.14710v2">Link</a></td>
+</tr>
+<tr>
+<td>Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.08045v1">Link</a></td>
+</tr>
+<tr>
+<td>Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.07851v3">Link</a></td>
+</tr>
+<tr>
+<td>Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.14545v3">Link</a></td>
+</tr>
+<tr>
+<td>Unscrambling disease progression at scale: fast inference of event permutations with optimal transport</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.14388v3">Link</a></td>
+</tr>
+<tr>
+<td>Unveiling Structural Memorization: Structural Membership Inference Attack for Text-to-Image Diffusion Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.13252v1">Link</a></td>
+</tr>
+<tr>
+<td>Unveiling Synthetic Faces: How Synthetic Datasets Can Expose Real Identities</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.24015v1">Link</a></td>
+</tr>
+<tr>
+<td>Unveiling the Unseen: Exploring Whitebox Membership Inference through the Lens of Explainability</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.01306v1">Link</a></td>
+</tr>
+<tr>
+<td>Upcycling Noise for Federated Unlearning</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.05529v1">Link</a></td>
+</tr>
+<tr>
+<td>VARX Granger Analysis: Modeling, Inference, and Applications</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.10834v2">Link</a></td>
+</tr>
+<tr>
+<td>VL-Cache: Sparsity and Modality-Aware KV Cache Compression for Vision-Language Model Inference Acceleration</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.23317v1">Link</a></td>
+</tr>
+<tr>
+<td>Verifiable evaluations of machine learning models using zkSNARKs</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.02675v2">Link</a></td>
+</tr>
+<tr>
+<td>Virtual Staining of Label-Free Tissue in Imaging Mass Spectrometry</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.13120v1">Link</a></td>
+</tr>
+<tr>
+<td>VisionZip: Longer is Better but Not Necessary in Vision Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.04467v1">Link</a></td>
+</tr>
+<tr>
+<td>WaKA: Data Attribution using K-Nearest Neighbors and Membership Privacy Principles</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.01357v3">Link</a></td>
+</tr>
+<tr>
+<td>Watch Out for Your Guidance on Generation! Exploring Conditional Backdoor Attacks against Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.14795v5">Link</a></td>
+</tr>
+<tr>
+<td>WcDT: World-centric Diffusion Transformer for Traffic Scene Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.02082v4">Link</a></td>
+</tr>
+<tr>
+<td>When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.09964v1">Link</a></td>
+</tr>
+<tr>
+<td>Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.19103v1">Link</a></td>
+</tr>
+<tr>
+<td>Why Does Differential Privacy with Large Epsilon Defend Against Practical Membership Inference Attacks?</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2402.09540v1">Link</a></td>
+</tr>
+<tr>
+<td>Wireless Environment Information Sensing, Feature, Semantic, and Knowledge: Four Steps Towards 6G AI-Enabled Air Interface</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.19331v1">Link</a></td>
+</tr>
+<tr>
+<td>X-ray view of dissipative warm corona in active galactic nuclei</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.14378v3">Link</a></td>
+</tr>
+<tr>
+<td>Your Car Tells Me Where You Drove: A Novel Path Inference Attack via CAN Bus and OBD-II Data</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.00585v1">Link</a></td>
+</tr>
+<tr>
+<td>Zero-Space Cost Fault Tolerance for Transformer-based Language Models on ReRAM</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.11664v1">Link</a></td>
+</tr>
+<tr>
+<td>iToT: An Interactive System for Customized Tree-of-Thought Generation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2409.00413v1">Link</a></td>
+</tr>
+<tr>
+<td>opML: Optimistic Machine Learning on Blockchain</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2401.17555v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>3D detection of roof sections from a single satellite image and application to LOD2-building reconstruction</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.05409v1">Link</a></td>
+</tr>
+<tr>
+<td>A Cautionary Tale: On the Role of Reference Data in Empirical Privacy Defenses</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.12112v1">Link</a></td>
+</tr>
+<tr>
+<td>A Comprehensive Study on Dataset Distillation: Performance, Privacy, Robustness and Fairness</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.03355v3">Link</a></td>
+</tr>
+<tr>
+<td>A Hardware Evaluation Framework for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.03134v1">Link</a></td>
+</tr>
+<tr>
+<td>A Lite Fireworks Algorithm with Fractal Dimension Constraint for Feature Selection</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.05516v1">Link</a></td>
+</tr>
+<tr>
+<td>A Note On Interpreting Canary Exposure</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.00133v2">Link</a></td>
+</tr>
+<tr>
+<td>A Privacy-Preserving Energy Theft Detection Model for Effective Demand-Response Management in Smart Grids</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.13204v1">Link</a></td>
+</tr>
+<tr>
+<td>A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.12143v5">Link</a></td>
+</tr>
+<tr>
+<td>A Spatial-Temporal Dual-Mode Mixed Flow Network for Panoramic Video Salient Object Detection</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.09016v1">Link</a></td>
+</tr>
+<tr>
+<td>A Survey of Serverless Machine Learning Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.13587v1">Link</a></td>
+</tr>
+<tr>
+<td>A Unified Framework of Graph Information Bottleneck for Robustness and Membership Privacy</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.08604v1">Link</a></td>
+</tr>
+<tr>
+<td>A Unified Hardware-based Threat Detector for AI Accelerators</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.16684v1">Link</a></td>
+</tr>
+<tr>
+<td>AI Security Threats against Pervasive Robotic Systems: A Course for Next Generation Cybersecurity Workforce</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.07953v1">Link</a></td>
+</tr>
+<tr>
+<td>ALI-DPFL: Differentially Private Federated Learning with Adaptive Local Iterations</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.10457v9">Link</a></td>
+</tr>
+<tr>
+<td>ALT: An Automatic System for Long Tail Scenario Modeling</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.11390v1">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.17423v3">Link</a></td>
+</tr>
+<tr>
+<td>Accelerator-driven Data Arrangement to Minimize Transformers Run-time on Multi-core Architectures</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.13000v1">Link</a></td>
+</tr>
+<tr>
+<td>Achilles' Heels: Vulnerable Record Identification in Synthetic Data Publishing</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.10308v2">Link</a></td>
+</tr>
+<tr>
+<td>Adapter Learning in Pretrained Feature Extractor for Continual Learning of Diseases</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.09042v2">Link</a></td>
+</tr>
+<tr>
+<td>Adapting Pre-trained Language Models to Vision-Language Tasks via Dynamic Visual Prompting</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.00409v2">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Sparse Gaussian Process</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.10325v2">Link</a></td>
+</tr>
+<tr>
+<td>Advancing Direct Convolution using Convolution Slicing Optimization and ISA Extensions</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.04739v1">Link</a></td>
+</tr>
+<tr>
+<td>Adversary for Social Good: Leveraging Adversarial Attacks to Protect Personal Attribute Privacy</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.02488v1">Link</a></td>
+</tr>
+<tr>
+<td>Age of FGK Dwarfs Observed with LAMOST and GALAH: Considering the Oxygen Enhancement</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.04086v1">Link</a></td>
+</tr>
+<tr>
+<td>Agentività e telicità in GilBERTo: implicazioni cognitive</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.02910v1">Link</a></td>
+</tr>
+<tr>
+<td>An Efficient Algorithm for Clustered Multi-Task Compressive Sensing</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.00420v1">Link</a></td>
+</tr>
+<tr>
+<td>An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.18355v2">Link</a></td>
+</tr>
+<tr>
+<td>An Empirical reionization history model inferred from the low-redshift Lyman continuum survey and the star-forming galaxies at $z>8$</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.04572v3">Link</a></td>
+</tr>
+<tr>
+<td>An End-to-End Framework For Universal Lesion Detection With Missing Annotations</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.15024v1">Link</a></td>
+</tr>
+<tr>
+<td>An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.04063v3">Link</a></td>
+</tr>
+<tr>
+<td>Analyzing the Shuffle Model through the Lens of Quantitative Information Flow</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.13075v1">Link</a></td>
+</tr>
+<tr>
+<td>Approximation of Intractable Likelihood Functions in Systems Biology via Normalizing Flows</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.02391v1">Link</a></td>
+</tr>
+<tr>
+<td>Are Diffusion Models Vulnerable to Membership Inference Attacks?</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.01316v2">Link</a></td>
+</tr>
+<tr>
+<td>Are Normalizing Flows the Key to Unlocking the Exponential Mechanism?</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.09200v4">Link</a></td>
+</tr>
+<tr>
+<td>AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.08110v6">Link</a></td>
+</tr>
+<tr>
+<td>Attention, Distillation, and Tabularization: Towards Practical Neural Network-Based Prefetching</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2401.06362v3">Link</a></td>
+</tr>
+<tr>
+<td>AutoDroid: LLM-powered Task Automation in Android</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.15272v4">Link</a></td>
+</tr>
+<tr>
+<td>Autoencoders for Real-Time SUEP Detection</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.13595v3">Link</a></td>
+</tr>
+<tr>
+<td>BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.12439v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Non-linear Latent Variable Modeling via Random Fourier Features</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.08352v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian mixed model inference for genetic association under related samples with brain network phenotype</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.09099v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Classical Attention: Quantum Attention for Scalable Computation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.08045v2">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Memorization: Violating Privacy Via Inference with Large Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.07298v2">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Neural-on-Neural Approaches to Speaker Gender Protection</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.17700v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Two-Tower Matching: Learning Sparse Retrievable Cross-Interactions for Recommendation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.18213v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond the Model: Data Pre-processing Attack to Deep Learning Models in Android Apps</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.03963v2">Link</a></td>
+</tr>
+<tr>
+<td>Biases in Inverse Ising Estimates of Near-Critical Behaviour</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.05556v1">Link</a></td>
+</tr>
+<tr>
+<td>Black-Box Training Data Identification in GANs via Detector Networks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.12063v1">Link</a></td>
+</tr>
+<tr>
+<td>Blockchain-based Optimized Client Selection and Privacy Preserved Framework for Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.04442v1">Link</a></td>
+</tr>
+<tr>
+<td>Bounding Training Data Reconstruction in DP-SGD</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.07225v3">Link</a></td>
+</tr>
+<tr>
+<td>CORAL: Expert-Curated medical Oncology Reports to Advance Language Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.03853v3">Link</a></td>
+</tr>
+<tr>
+<td>Camera-Incremental Object Re-Identification with Identity Knowledge Evolution</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.15909v1">Link</a></td>
+</tr>
+<tr>
+<td>Can Large Language Models Infer Causation from Correlation?</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.05836v3">Link</a></td>
+</tr>
+<tr>
+<td>Can Virtual Reality Protect Users from Keystroke Inference Attacks?</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.16191v1">Link</a></td>
+</tr>
+<tr>
+<td>ClickSeg: 3D Instance Segmentation with Click-Level Weak Annotations</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.09732v1">Link</a></td>
+</tr>
+<tr>
+<td>Comparative Knowledge Distillation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.02253v1">Link</a></td>
+</tr>
+<tr>
+<td>Compressed Context Memory For Online Language Model Interaction</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.03414v2">Link</a></td>
+</tr>
+<tr>
+<td>Concise and Organized Perception Facilitates Reasoning in Large Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.03309v5">Link</a></td>
+</tr>
+<tr>
+<td>Confidence Is All You Need for MI Attacks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.15373v2">Link</a></td>
+</tr>
+<tr>
+<td>Confirmation of TiO absorption and tentative detection of MgH and CrH in the atmosphere of HAT-P-41b</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.13840v1">Link</a></td>
+</tr>
+<tr>
+<td>ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.11882v2">Link</a></td>
+</tr>
+<tr>
+<td>Context Perception Parallel Decoder for Scene Text Recognition</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.12270v2">Link</a></td>
+</tr>
+<tr>
+<td>Cox model inference for relative hazard and pure risk from stratified weight-calibrated case-cohort data</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.03396v1">Link</a></td>
+</tr>
+<tr>
+<td>Data Forensics in Diffusion Models: A Systematic Analysis of Membership Privacy</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.07801v2">Link</a></td>
+</tr>
+<tr>
+<td>Declarative Probabilistic Logic Programming in Discrete-Continuous Domains</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.10674v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep Unlearning: Fast and Efficient Gradient-free Approach to Class Forgetting</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.00761v4">Link</a></td>
+</tr>
+<tr>
+<td>Did the Neurons Read your Book? Document-level Membership Inference for Large Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.15007v2">Link</a></td>
+</tr>
+<tr>
+<td>Diffence: Fencing Membership Privacy With Diffusion Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.04692v3">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private Diffusion Auction: The Single-unit Case</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.07072v2">Link</a></td>
+</tr>
+<tr>
+<td>Discriminative Adversarial Privacy: Balancing Accuracy and Membership Privacy in Neural Networks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.03054v1">Link</a></td>
+</tr>
+<tr>
+<td>DistillSpec: Improving Speculative Decoding via Knowledge Distillation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.08461v2">Link</a></td>
+</tr>
+<tr>
+<td>Does Black-box Attribute Inference Attacks on Graph Neural Networks Constitute Privacy Risk?</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.00578v1">Link</a></td>
+</tr>
+<tr>
+<td>Domain Private Transformers for Multi-Domain Dialog Systems</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.14208v2">Link</a></td>
+</tr>
+<tr>
+<td>Domain constraints improve risk prediction when outcome data is missing</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.03878v3">Link</a></td>
+</tr>
+<tr>
+<td>E-Sparse: Boosting the Large Language Model Inference through Entropy-based N:M Sparsity</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.15929v2">Link</a></td>
+</tr>
+<tr>
+<td>EMShepherd: Detecting Adversarial Samples via Side-channel Leakage</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.15571v1">Link</a></td>
+</tr>
+<tr>
+<td>EWT: Efficient Wavelet-Transformer for Single Image Denoising</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.06274v1">Link</a></td>
+</tr>
+<tr>
+<td>Edge Learning for 6G-enabled Internet of Things: A Comprehensive Survey of Vulnerabilities, Datasets, and Defenses</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.10309v2">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Skip Connections Realization for Secure Inference on Encrypted Data</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.06736v1">Link</a></td>
+</tr>
+<tr>
+<td>EfficientBioAI: Making Bioimaging AI Models Efficient in Energy, Latency and Representation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.06152v1">Link</a></td>
+</tr>
+<tr>
+<td>Eliminating Label Leakage in Tree-Based Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.10318v2">Link</a></td>
+</tr>
+<tr>
+<td>Emulator-based Bayesian Inference on Non-Proportional Scintillation Models by Compton-Edge Probing</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.05641v3">Link</a></td>
+</tr>
+<tr>
+<td>Enabling Trade-offs in Privacy and Utility in Genomic Data Beacons and Summary Statistics</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.01763v1">Link</a></td>
+</tr>
+<tr>
+<td>Epsilon*: Privacy Metric for Machine Learning Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.11280v3">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating Trade-offs in Computer Vision Between Attribute Privacy, Fairness and Utility</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.07917v1">Link</a></td>
+</tr>
+<tr>
+<td>Event Temporal Relation Extraction with Bayesian Translational Model</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.04985v1">Link</a></td>
+</tr>
+<tr>
+<td>Evidence Networks: simple losses for fast, amortized, neural Bayesian model comparison</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.11241v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploring Lip Segmentation Techniques in Computer Vision: A Comparative Analysis</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.11992v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploring the Potential of Flexible 8-bit Format: Design and Algorithm</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.13513v2">Link</a></td>
+</tr>
+<tr>
+<td>FLAIRS: FPGA-Accelerated Inference-Resistant & Secure Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.00553v1">Link</a></td>
+</tr>
+<tr>
+<td>Fast emulation of cosmological density fields based on dimensionality reduction and supervised machine-learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.06099v1">Link</a></td>
+</tr>
+<tr>
+<td>Fast model inference and training on-board of Satellites</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.08700v1">Link</a></td>
+</tr>
+<tr>
+<td>Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.09608v2">Link</a></td>
+</tr>
+<tr>
+<td>FedCIP: Federated Client Intellectual Property Protection with Traitor Tracking</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.01356v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated Topic Model and Model Pruning Based on Variational Autoencoder</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.00314v1">Link</a></td>
+</tr>
+<tr>
+<td>Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.10285v1">Link</a></td>
+</tr>
+<tr>
+<td>FlashDecoding++: Faster Large Language Model Inference on GPUs</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.01282v4">Link</a></td>
+</tr>
+<tr>
+<td>Flocks of Stochastic Parrots: Differentially Private Prompt Learning for Large Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.15594v1">Link</a></td>
+</tr>
+<tr>
+<td>Frameless Graph Knowledge Distillation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.06631v1">Link</a></td>
+</tr>
+<tr>
+<td>Framing the News:From Human Perception to Large Language Model Inferences</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.14456v1">Link</a></td>
+</tr>
+<tr>
+<td>From Static to Dynamic: A Continual Learning Framework for Large Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.14248v1">Link</a></td>
+</tr>
+<tr>
+<td>From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.03003v1">Link</a></td>
+</tr>
+<tr>
+<td>Frugal Prompting for Dialog Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.14919v2">Link</a></td>
+</tr>
+<tr>
+<td>Fundamental Limits of Membership Inference Attacks on Machine Learning Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.13786v6">Link</a></td>
+</tr>
+<tr>
+<td>GNNBleed: Inference Attacks to Unveil Private Edges in Graphs with Realistic Access to GNN Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.16139v2">Link</a></td>
+</tr>
+<tr>
+<td>GPU-enabled Function-as-a-Service for Machine Learning Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.05601v1">Link</a></td>
+</tr>
+<tr>
+<td>Gaussian Membership Inference Privacy</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.07273v2">Link</a></td>
+</tr>
+<tr>
+<td>Generalizing Differentially Private Decentralized Deep Learning with Multi-Agent Consensus</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.13892v2">Link</a></td>
+</tr>
+<tr>
+<td>Generating Personas for Games with Multimodal Adversarial Imitation Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.07598v1">Link</a></td>
+</tr>
+<tr>
+<td>Generative AI Beyond LLMs: System Implications of Multi-Modal Generation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.14385v2">Link</a></td>
+</tr>
+<tr>
+<td>Gradient Leakage Defense with Key-Lock Module for Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.04095v3">Link</a></td>
+</tr>
+<tr>
+<td>Gradient-Based Automated Iterative Recovery for Parameter-Efficient Tuning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.06598v1">Link</a></td>
+</tr>
+<tr>
+<td>Gradient-Free Textual Inversion</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.05818v1">Link</a></td>
+</tr>
+<tr>
+<td>Graph Denoising Diffusion for Inverse Protein Folding</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.16819v2">Link</a></td>
+</tr>
+<tr>
+<td>Guided Cooperation in Hierarchical Reinforcement Learning via Model-based Rollout</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.13508v2">Link</a></td>
+</tr>
+<tr>
+<td>HYBRIDFORMER: improving SqueezeFormer with hybrid attention and NSR mechanism</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.08636v1">Link</a></td>
+</tr>
+<tr>
+<td>HeteroEdge: Addressing Asymmetry in Heterogeneous Collaborative Autonomous Systems</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.03252v1">Link</a></td>
+</tr>
+<tr>
+<td>High Efficiency Inference Accelerating Algorithm for NOMA-based Mobile Edge Computing</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.15850v1">Link</a></td>
+</tr>
+<tr>
+<td>IPA: Inference Pipeline Adaptation to Achieve High Accuracy and Cost-Efficiency</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.12871v3">Link</a></td>
+</tr>
+<tr>
+<td>I^3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.02371v3">Link</a></td>
+</tr>
+<tr>
+<td>Improved Membership Inference Attacks Against Language Classification Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.07219v2">Link</a></td>
+</tr>
+<tr>
+<td>Improving Post-Training Quantization on Object Detection with Task Loss-Guided Lp Metric</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.09785v3">Link</a></td>
+</tr>
+<tr>
+<td>Incentive Mechanism for Uncertain Tasks under Differential Privacy</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.16793v2">Link</a></td>
+</tr>
+<tr>
+<td>Independent Distribution Regularization for Private Graph Embedding</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.08360v1">Link</a></td>
+</tr>
+<tr>
+<td>Inferring Communities of Interest in Collaborative Learning-based Recommender Systems</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.08929v3">Link</a></td>
+</tr>
+<tr>
+<td>Inferring the Goals of Communicating Agents from Actions and Instructions</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.16207v1">Link</a></td>
+</tr>
+<tr>
+<td>InfoFlowNet: A Multi-head Attention-based Self-supervised Learning Model with Surrogate Approach for Uncovering Brain Effective Connectivity</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.18527v1">Link</a></td>
+</tr>
+<tr>
+<td>Informing clinical assessment by contextualizing post-hoc explanations of risk prediction models in type-2 diabetes</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.05752v1">Link</a></td>
+</tr>
+<tr>
+<td>InkStream: Real-time GNN Inference on Streaming Graphs via Incremental Update</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.11071v1">Link</a></td>
+</tr>
+<tr>
+<td>Instance Segmentation Based Graph Extraction for Handwritten Circuit Diagram Images</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.03155v2">Link</a></td>
+</tr>
+<tr>
+<td>Integrity and Junkiness Failure Handling for Embedding-based Retrieval: A Case Study in Social Network Search</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.09287v1">Link</a></td>
+</tr>
+<tr>
+<td>Inter-Layer Scheduling Space Exploration for Multi-model Inference on Heterogeneous Chiplets</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.09401v1">Link</a></td>
+</tr>
+<tr>
+<td>Interaction-level Membership Inference Attack Against Federated Recommender Systems</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.10964v2">Link</a></td>
+</tr>
+<tr>
+<td>Introducing Competition to Boost the Transferability of Targeted Adversarial Examples through Clean Feature Mixup</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.14846v1">Link</a></td>
+</tr>
+<tr>
+<td>Inverse modeling of time-delayed interactions via the dynamic-entropy formalism</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.01229v2">Link</a></td>
+</tr>
+<tr>
+<td>Investigating the Effect of Misalignment on Membership Privacy in the White-box Setting</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.05093v2">Link</a></td>
+</tr>
+<tr>
+<td>JDLL: A library to run Deep Learning models on Java bioimage informatics platforms</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.04796v2">Link</a></td>
+</tr>
+<tr>
+<td>LGL-BCI: A Motor-Imagery-Based Brain-Computer Interface with Geometric Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.08051v5">Link</a></td>
+</tr>
+<tr>
+<td>LLM in a flash: Efficient Large Language Model Inference with Limited Memory</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.11514v3">Link</a></td>
+</tr>
+<tr>
+<td>LLMCad: Fast and Scalable On-device Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.04255v1">Link</a></td>
+</tr>
+<tr>
+<td>LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.05736v2">Link</a></td>
+</tr>
+<tr>
+<td>LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformers</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.18396v3">Link</a></td>
+</tr>
+<tr>
+<td>LOIS: Looking Out of Instance Semantics for Visual Question Answering</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.14142v1">Link</a></td>
+</tr>
+<tr>
+<td>Label Inference Attack against Split Learning under Regression Setting</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.07284v2">Link</a></td>
+</tr>
+<tr>
+<td>Label Inference Attacks against Node-level Vertical Federated GNNs</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.02465v2">Link</a></td>
+</tr>
+<tr>
+<td>Leakage-Abuse Attacks Against Forward and Backward Private Searchable Symmetric Encryption</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.04697v2">Link</a></td>
+</tr>
+<tr>
+<td>Learning Internal Representations of 3D Transformations from 2D Projected Inputs</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.17776v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning Semantic Role Labeling from Compatible Label Sequences</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.14600v3">Link</a></td>
+</tr>
+<tr>
+<td>Let's reward step by step: Step-Level reward model as the Navigators for Reasoning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.10080v1">Link</a></td>
+</tr>
+<tr>
+<td>LinguaLinked: A Distributed Large Language Model Inference System for Mobile Devices</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.00388v1">Link</a></td>
+</tr>
+<tr>
+<td>Location Privacy Protection Game against Adversary through Multi-user Cooperative Obfuscation</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.10477v1">Link</a></td>
+</tr>
+<tr>
+<td>Low-Cost High-Power Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.03262v3">Link</a></td>
+</tr>
+<tr>
+<td>MIA-BAD: An Approach for Enhancing Membership Inference Attack and its Mitigation with Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.00051v1">Link</a></td>
+</tr>
+<tr>
+<td>MIST: Defending Against Membership Inference Attacks Through Membership-Invariant Subspace Training</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.00919v2">Link</a></td>
+</tr>
+<tr>
+<td>MTD: Multi-Timestep Detector for Delayed Streaming Perception</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.06742v1">Link</a></td>
+</tr>
+<tr>
+<td>MalIoT: Scalable and Real-time Malware Traffic Detection for IoT Networks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.00623v1">Link</a></td>
+</tr>
+<tr>
+<td>Manipulating Transfer Learning for Property Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.11643v1">Link</a></td>
+</tr>
+<tr>
+<td>Marich: A Query-efficient Distributionally Equivalent Model Extraction Attack using Public Data</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.08466v2">Link</a></td>
+</tr>
+<tr>
+<td>Matrix GARCH Model: Inference and Application</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.05169v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack for Beluga Whales Discrimination</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.14769v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks against Language Models via Neighbourhood Comparison</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.18462v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks against Synthetic Data through Overfitting Detection</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.12580v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on DNNs using Adversarial Perturbations</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.05193v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on Diffusion Models via Quantile Regression</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.05140v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference of Diffusion Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.09956v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Privacy Risks of Sharpness Aware Minimization</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.00488v4">Link</a></td>
+</tr>
+<tr>
+<td>Membership inference attack with relative decision boundary distance</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.04109v1">Link</a></td>
+</tr>
+<tr>
+<td>Mercury: An Automated Remote Side-channel Attack to Nvidia Deep Learning Accelerator</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.01193v1">Link</a></td>
+</tr>
+<tr>
+<td>Mobile-Cloud Inference for Collaborative Intelligence</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.13982v1">Link</a></td>
+</tr>
+<tr>
+<td>Mobility and Cost Aware Inference Accelerating Algorithm for Edge Intelligence</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.16497v1">Link</a></td>
+</tr>
+<tr>
+<td>Multi-annotator Deep Learning: A Probabilistic Framework for Classification</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.02539v2">Link</a></td>
+</tr>
+<tr>
+<td>Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.13508v2">Link</a></td>
+</tr>
+<tr>
+<td>Mutual Information Regularization for Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.01142v2">Link</a></td>
+</tr>
+<tr>
+<td>Neighborhood Homophily-based Graph Convolutional Network</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.09851v3">Link</a></td>
+</tr>
+<tr>
+<td>No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.07152v1">Link</a></td>
+</tr>
+<tr>
+<td>OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.07493v1">Link</a></td>
+</tr>
+<tr>
+<td>On Feasibility of Server-side Backdoor Attacks on Split Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.09578v2">Link</a></td>
+</tr>
+<tr>
+<td>On Mitigating the Utility-Loss in Differentially Private Learning: A new Perspective by a Geometrically Inspired Kernel Approach</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.01300v4">Link</a></td>
+</tr>
+<tr>
+<td>On Optimal Caching and Model Multiplexing for Large Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.02003v2">Link</a></td>
+</tr>
+<tr>
+<td>On-device Real-time Custom Hand Gesture Recognition</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.10858v1">Link</a></td>
+</tr>
+<tr>
+<td>One-Step Knowledge Distillation and Fine-Tuning in Using Large Pre-Trained Self-Supervised Learning Models for Speaker Verification</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.17394v2">Link</a></td>
+</tr>
+<tr>
+<td>One-stage Modality Distillation for Incomplete Multimodal Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.08204v2">Link</a></td>
+</tr>
+<tr>
+<td>Over-the-Air Federated Learning In Broadband Communication</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.01963v1">Link</a></td>
+</tr>
+<tr>
+<td>Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.01610v1">Link</a></td>
+</tr>
+<tr>
+<td>PUMA: Secure Inference of LLaMA-7B in Five Minutes</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.12533v3">Link</a></td>
+</tr>
+<tr>
+<td>Passive Inference Attacks on Split Learning via Adversarial Regularization</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.10483v6">Link</a></td>
+</tr>
+<tr>
+<td>Photovoltaic Panel Defect Detection Based on Ghost Convolution with BottleneckCSP and Tiny Target Prediction Head Incorporating YOLOv5</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.00886v1">Link</a></td>
+</tr>
+<tr>
+<td>Pool Inference Attacks on Local Differential Privacy: Quantifying the Privacy Guarantees of Apple's Count Mean Sketch in Practice</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.07134v1">Link</a></td>
+</tr>
+<tr>
+<td>Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.00108v1">Link</a></td>
+</tr>
+<tr>
+<td>Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.06062v4">Link</a></td>
+</tr>
+<tr>
+<td>Predicting a Protein's Stability under a Million Mutations</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.12979v2">Link</a></td>
+</tr>
+<tr>
+<td>Preserving Node-level Privacy in Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.06888v2">Link</a></td>
+</tr>
+<tr>
+<td>Preserving Privacy in GANs Against Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.03172v1">Link</a></td>
+</tr>
+<tr>
+<td>PriSampler: Mitigating Property Inference of Diffusion Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.05208v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Against Agnostic Inference Attacks in Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.05545v3">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Inference-Empowered Stealthy Backdoor Attack on Federated Learning under Non-IID Scenarios</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.08011v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Risk for anisotropic Langevin dynamics using relative entropy bounds</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.00766v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Threats in Stable Diffusion Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.09355v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy and Efficiency of Communications in Federated Split Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.01824v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Representation Learning for Text-Attributed Networks with Simplicial Complexes</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.04383v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Utility Trade-offs in Neural Networks for Medical Population Graphs: Insights from Differential Privacy and Graph Structure</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.06760v1">Link</a></td>
+</tr>
+<tr>
+<td>Prototype Helps Federated Learning: Towards Faster Convergence</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.12296v1">Link</a></td>
+</tr>
+<tr>
+<td>PuMer: Pruning and Merging Tokens for Efficient Vision Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.17530v1">Link</a></td>
+</tr>
+<tr>
+<td>PyVBMC: Efficient Bayesian inference in Python</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.09519v2">Link</a></td>
+</tr>
+<tr>
+<td>Quantifying Privacy Risks of Prompts in Visual Prompt Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.11970v1">Link</a></td>
+</tr>
+<tr>
+<td>Quantum Solutions to the Privacy vs. Utility Tradeoff</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.03118v1">Link</a></td>
+</tr>
+<tr>
+<td>Random-effects substitution models for phylogenetics via scalable gradient approximations</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.13642v2">Link</a></td>
+</tr>
+<tr>
+<td>Rank-Minimizing and Structured Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.09521v1">Link</a></td>
+</tr>
+<tr>
+<td>Ranking Differential Privacy</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.00841v1">Link</a></td>
+</tr>
+<tr>
+<td>ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.02285v2">Link</a></td>
+</tr>
+<tr>
+<td>Real-Time Probabilistic Programming</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.06788v2">Link</a></td>
+</tr>
+<tr>
+<td>Reinforcement Unlearning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.15910v5">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking Soft Label in Label Distribution Learning Perspective</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.13444v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust Mixture-of-Expert Training for Convolutional Neural Networks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.10110v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust and IP-Protecting Vertical Federated Learning against Unexpected Quitting of Parties</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.18178v1">Link</a></td>
+</tr>
+<tr>
+<td>Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.02820v1">Link</a></td>
+</tr>
+<tr>
+<td>SEAM: An Integrated Activation-Coupled Model of Sentence Processing and Eye Movements in Reading</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.05221v4">Link</a></td>
+</tr>
+<tr>
+<td>SLMIA-SR: Speaker-Level Membership Inference Attacks against Speaker Recognition Systems</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.07983v2">Link</a></td>
+</tr>
+<tr>
+<td>STEP: Learning N:M Structured Sparsity Masks from Scratch with Precondition</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.01172v1">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Membership Inference Attacks via Quantile Regression</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.03694v1">Link</a></td>
+</tr>
+<tr>
+<td>Schema Inference for Interpretable Image Classification</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.06635v2">Link</a></td>
+</tr>
+<tr>
+<td>Security and Privacy Issues of Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.12181v1">Link</a></td>
+</tr>
+<tr>
+<td>SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.12665v1">Link</a></td>
+</tr>
+<tr>
+<td>Set-Membership Inference Attacks using Data Watermarking</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.15067v1">Link</a></td>
+</tr>
+<tr>
+<td>Shedding the Bits: Pushing the Boundaries of Quantization with Minifloats on FPGAs</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.12359v3">Link</a></td>
+</tr>
+<tr>
+<td>SimLM: Can Language Models Infer Parameters of Physical Systems?</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.14215v2">Link</a></td>
+</tr>
+<tr>
+<td>Simultaneous identification of models and parameters of scientific simulators</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.15174v3">Link</a></td>
+</tr>
+<tr>
+<td>SoK: A Data-driven View on Methods to Detect Reflective Amplification DDoS Attacks Using Honeypots</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.04614v2">Link</a></td>
+</tr>
+<tr>
+<td>SoK: Comparing Different Membership Inference Attacks with a Comprehensive Benchmark</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.06123v1">Link</a></td>
+</tr>
+<tr>
+<td>Source Inference Attacks: Beyond Membership Inference Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.00222v1">Link</a></td>
+</tr>
+<tr>
+<td>SparseCoder: Advancing Source Code Analysis with Sparse Attention and Learned Token Pruning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.07109v2">Link</a></td>
+</tr>
+<tr>
+<td>Sparsified Model Zoo Twins: Investigating Populations of Sparsified Neural Network Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.13718v1">Link</a></td>
+</tr>
+<tr>
+<td>Sparsity in neural networks can improve their privacy</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.10553v2">Link</a></td>
+</tr>
+<tr>
+<td>SpeeChain: A Speech Toolkit for Large-Scale Machine Speech Chain</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.02966v1">Link</a></td>
+</tr>
+<tr>
+<td>SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.13939v5">Link</a></td>
+</tr>
+<tr>
+<td>Steered Mixture of Experts Regression for Image Denoising with Multi-Model-Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.17409v1">Link</a></td>
+</tr>
+<tr>
+<td>Symphony: Optimized DNN Model Serving using Deferred Batch Scheduling</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.07470v2">Link</a></td>
+</tr>
+<tr>
+<td>Synthetic is all you need: removing the auxiliary data assumption for membership inference attacks against synthetic data</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.01701v2">Link</a></td>
+</tr>
+<tr>
+<td>Targeted Attack on GPT-Neo for the SATML Language Model Data Extraction Challenge</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.07735v1">Link</a></td>
+</tr>
+<tr>
+<td>Task Contamination: Language Models May Not Be Few-Shot Anymore</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.16337v1">Link</a></td>
+</tr>
+<tr>
+<td>Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning Against Attribute Inference Attacks</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.06989v1">Link</a></td>
+</tr>
+<tr>
+<td>Temporal Causal Mediation through a Point Process: Direct and Indirect Effects of Healthcare Interventions</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.09656v1">Link</a></td>
+</tr>
+<tr>
+<td>Test Generation Strategies for Building Failure Models and Explaining Spurious Failures</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.05631v1">Link</a></td>
+</tr>
+<tr>
+<td>The Inadequacy of Similarity-based Privacy Metrics: Privacy Attacks against "Truly Anonymous" Synthetic Datasets</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.05114v5">Link</a></td>
+</tr>
+<tr>
+<td>The Integer Linear Programming Inference Cookbook</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.00171v1">Link</a></td>
+</tr>
+<tr>
+<td>The Ups and Downs of Large Language Model Inference with Vocabulary Trimming by Language Heuristics</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.09709v2">Link</a></td>
+</tr>
+<tr>
+<td>The true fraction of repeating fast radio bursts revealed through CHIME source count evolution</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.14337v2">Link</a></td>
+</tr>
+<tr>
+<td>Tight Concentration Inequality for Sub-Weibull Random Variables with Generalized Bernstien Orlicz norm</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.03850v2">Link</a></td>
+</tr>
+<tr>
+<td>TorchBench: Benchmarking PyTorch with High API Surface Coverage</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.14226v3">Link</a></td>
+</tr>
+<tr>
+<td>Towards Environmentally Equitable AI via Geographical Load Balancing</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.05494v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards More Realistic Membership Inference Attacks on Large Diffusion Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2306.12983v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Trustable Skin Cancer Diagnosis via Rewriting Model's Decision</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.00885v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Unbounded Machine Unlearning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.09880v3">Link</a></td>
+</tr>
+<tr>
+<td>TransCODE: Co-design of Transformers and Accelerators for Efficient Training and Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.14882v1">Link</a></td>
+</tr>
+<tr>
+<td>TransFace++: Rethinking the Face Recognition Paradigm with a Focus on Accuracy, Efficiency, and Security</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.10133v2">Link</a></td>
+</tr>
+<tr>
+<td>Tree of Thoughts: Deliberate Problem Solving with Large Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2305.10601v2">Link</a></td>
+</tr>
+<tr>
+<td>Two-Stage Hybrid Supervision Framework for Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.05405v2">Link</a></td>
+</tr>
+<tr>
+<td>USDC: Unified Static and Dynamic Compression for Visual Transformer</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.11117v1">Link</a></td>
+</tr>
+<tr>
+<td>Ultrafast-and-Ultralight ConvNet-Based Intelligent Monitoring System for Diagnosing Early-Stage Mpox Anytime and Anywhere</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.13492v3">Link</a></td>
+</tr>
+<tr>
+<td>Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.15159v2">Link</a></td>
+</tr>
+<tr>
+<td>User Inference Attacks on Large Language Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.09266v2">Link</a></td>
+</tr>
+<tr>
+<td>User-Controlled Knowledge Fusion in Large Language Models: Balancing Creativity and Hallucination</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.16139v1">Link</a></td>
+</tr>
+<tr>
+<td>Using Decentralized Aggregation for Federated Learning with Differential Privacy</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2311.16008v1">Link</a></td>
+</tr>
+<tr>
+<td>Using infinite server queues with partial information for occupancy prediction</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.11395v1">Link</a></td>
+</tr>
+<tr>
+<td>VT-GAN: Cooperative Tabular Data Synthesis using Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.01706v2">Link</a></td>
+</tr>
+<tr>
+<td>VertexSerum: Poisoning Graph Neural Networks for Link Inference</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.01469v1">Link</a></td>
+</tr>
+<tr>
+<td>What Is Near?: Room Locality Learning for Enhanced Robot Vision-Language-Navigation in Indoor Living Environments</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.05036v1">Link</a></td>
+</tr>
+<tr>
+<td>White-box Membership Inference Attacks against Diffusion Models</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2308.06405v3">Link</a></td>
+</tr>
+<tr>
+<td>Why Train More? Effective and Efficient Membership Inference via Memorization</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.08015v1">Link</a></td>
+</tr>
+<tr>
+<td>World Modeling for Autonomous Wheel Loaders</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2309.12016v4">Link</a></td>
+</tr>
+<tr>
+<td>X-TIME: An in-memory engine for accelerating machine learning on tabular data with CAMs</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.01285v4">Link</a></td>
+</tr>
+<tr>
+<td>Xenos: Dataflow-Centric Optimization to Accelerate Model Inference on Edge Devices</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2302.00282v1">Link</a></td>
+</tr>
+<tr>
+<td>Zero-shot Sound Event Classification Using a Sound Attribute Vector with Global and Local Feature Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.10316v1">Link</a></td>
+</tr>
+<tr>
+<td>k-Means SubClustering: A Differentially Private Algorithm with Improved Clustering Quality</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2301.02896v1">Link</a></td>
+</tr>
+<tr>
+<td>k-SALSA: k-anonymous synthetic averaging of retinal images via local style alignment</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2303.10824v1">Link</a></td>
+</tr>
+<tr>
+<td>nerblackbox: A High-level Library for Named Entity Recognition in Python</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2312.04306v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Blessing of Dimensionality in Membership Inference through Regularization</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.14055v2">Link</a></td>
+</tr>
+<tr>
+<td>A Disc Reflection Model for Ultra-Soft Narrow-Line Seyfert 1 Galaxies</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.08236v1">Link</a></td>
+</tr>
+<tr>
+<td>A GPU-specialized Inference Parameter Server for Large-Scale Deep Recommendation Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.08804v1">Link</a></td>
+</tr>
+<tr>
+<td>A Hybrid Self-Supervised Learning Framework for Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.08934v2">Link</a></td>
+</tr>
+<tr>
+<td>A Masked Image Reconstruction Network for Document-level Relation Extraction</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.09851v2">Link</a></td>
+</tr>
+<tr>
+<td>A New Implementation of Federated Learning for Privacy and Security Enhancement</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.01826v1">Link</a></td>
+</tr>
+<tr>
+<td>A Novel Membership Inference Attack against Dynamic Neural Networks by Utilizing Policy Networks Information</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.08956v1">Link</a></td>
+</tr>
+<tr>
+<td>A Privacy-Preserving Unsupervised Domain Adaptation Framework for Clinical Text Analysis</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.07317v1">Link</a></td>
+</tr>
+<tr>
+<td>A Probabilistic-Logic based Commonsense Representation Framework for Modelling Inferences with Multiple Antecedents and Varying Likelihoods</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.16822v2">Link</a></td>
+</tr>
+<tr>
+<td>A probabilistic latent variable model for detecting structure in binary data</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.11108v1">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating Deep Learning Model Inference on Arm CPUs with Ultra-Low Bit Quantization and Runtime</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.08820v1">Link</a></td>
+</tr>
+<tr>
+<td>Additive Logistic Mechanism for Privacy-Preserving Self-Supervised Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.12430v1">Link</a></td>
+</tr>
+<tr>
+<td>Adversarial Machine Learning-Based Anticipation of Threats Against Vehicle-to-Microgrid Services</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.05073v1">Link</a></td>
+</tr>
+<tr>
+<td>AiM: Taking Answers in Mind to Correct Chinese Cloze Tests in Educational Applications</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.12505v2">Link</a></td>
+</tr>
+<tr>
+<td>An Efficient Subpopulation-based Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.02080v1">Link</a></td>
+</tr>
+<tr>
+<td>An Empirical Study of Low Precision Quantization for TinyML</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.05492v1">Link</a></td>
+</tr>
+<tr>
+<td>Analytical Engines With Context-Rich Processing: Towards Efficient Next-Generation Analytics</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.07517v1">Link</a></td>
+</tr>
+<tr>
+<td>Analyzing Semantic Faithfulness of Language Models via Input Intervention on Question Answering</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.10696v2">Link</a></td>
+</tr>
+<tr>
+<td>Approximate Bayesian Inference for the Interaction Types 1, 2, 3 and 4 with Application in Disease Mapping</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.09287v1">Link</a></td>
+</tr>
+<tr>
+<td>Approximate Message Passing for Multi-Layer Estimation in Rotationally Invariant Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.01572v1">Link</a></td>
+</tr>
+<tr>
+<td>Are Attribute Inference Attacks Just Imputation?</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.01292v1">Link</a></td>
+</tr>
+<tr>
+<td>Asteroseismology of 3,642 Kepler Red Giants: Correcting the Scaling Relations based on Detailed Modeling</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.09577v1">Link</a></td>
+</tr>
+<tr>
+<td>Attacking Compressed Vision Transformers</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.13785v1">Link</a></td>
+</tr>
+<tr>
+<td>Attribute Inference Attacks in Online Multiplayer Video Games: a Case Study on Dota2</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.09028v5">Link</a></td>
+</tr>
+<tr>
+<td>Auditing Membership Leakages of Multi-Exit Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.11180v1">Link</a></td>
+</tr>
+<tr>
+<td>AutoDiCE: Fully Automated Distributed CNN Inference at the Edge</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.12113v1">Link</a></td>
+</tr>
+<tr>
+<td>BRIGHT -- Graph Neural Networks in Real-Time Fraud Detection</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.13084v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Complementary Kernelized Learning for Multidimensional Spatiotemporal Data</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.09978v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Estimation of Differential Privacy</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.05199v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian inference for discretely observed continuous time multi-state models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.12447v1">Link</a></td>
+</tr>
+<tr>
+<td>Benchmark of DNN Model Search at Deployment Time</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.00188v1">Link</a></td>
+</tr>
+<tr>
+<td>Benchmark tests of transmission spectroscopy using transiting white dwarfs</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.05969v1">Link</a></td>
+</tr>
+<tr>
+<td>Big Earth Data and Machine Learning for Sustainable and Resilient Agriculture</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.12584v1">Link</a></td>
+</tr>
+<tr>
+<td>Black-Box Audits for Group Distribution Shifts</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.03620v1">Link</a></td>
+</tr>
+<tr>
+<td>Black-Box Tuning for Language-Model-as-a-Service</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.03514v4">Link</a></td>
+</tr>
+<tr>
+<td>CPGNet: Cascade Point-Grid Fusion Network for Real-Time LiDAR Semantic Segmentation</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.09914v3">Link</a></td>
+</tr>
+<tr>
+<td>CausalDialogue: Modeling Utterance-level Causality in Conversations</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.10515v2">Link</a></td>
+</tr>
+<tr>
+<td>Clip-Tuning: Towards Derivative-free Prompt Learning with a Mixture of Rewards</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.12050v1">Link</a></td>
+</tr>
+<tr>
+<td>Collaborative Drug Discovery: Inference-level Data Protection Perspective</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.06506v2">Link</a></td>
+</tr>
+<tr>
+<td>Combining Self-Training and Hybrid Architecture for Semi-supervised Abdominal Organ Segmentation</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.11512v4">Link</a></td>
+</tr>
+<tr>
+<td>Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.04950v1">Link</a></td>
+</tr>
+<tr>
+<td>Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.11857v2">Link</a></td>
+</tr>
+<tr>
+<td>Contrastive Adapters for Foundation Model Group Robustness</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.07180v1">Link</a></td>
+</tr>
+<tr>
+<td>Cross-Network Social User Embedding with Hybrid Differential Privacy Guarantees</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.01539v1">Link</a></td>
+</tr>
+<tr>
+<td>CrowdGuard: Federated Backdoor Detection in Federated Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.07714v3">Link</a></td>
+</tr>
+<tr>
+<td>Cutting feedback and modularized analyses in generalized Bayesian inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.09968v4">Link</a></td>
+</tr>
+<tr>
+<td>DATE: Dual Assignment for End-to-End Fully Convolutional Object Detection</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.13859v2">Link</a></td>
+</tr>
+<tr>
+<td>DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.10797v1">Link</a></td>
+</tr>
+<tr>
+<td>DGI: Easy and Efficient Inference for GNNs</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.15082v1">Link</a></td>
+</tr>
+<tr>
+<td>Data aggregation can lead to biased inferences in Bayesian linear mixed models and Bayesian ANOVA: A simulation study</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.02361v4">Link</a></td>
+</tr>
+<tr>
+<td>Data-driven quadratic modeling in the Loewner framework from input-output time-domain measurements</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.10635v2">Link</a></td>
+</tr>
+<tr>
+<td>DeTrust-FL: Privacy-Preserving Federated Learning in Decentralized Trust Setting</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.07779v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep Active Learning with Noise Stability</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.13340v2">Link</a></td>
+</tr>
+<tr>
+<td>DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.00032v1">Link</a></td>
+</tr>
+<tr>
+<td>DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.05596v2">Link</a></td>
+</tr>
+<tr>
+<td>Demystify Self-Attention in Vision Transformers from a Semantic Perspective: Analysis and Application</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.08543v1">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private Counterfactuals via Functional Mechanism</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.02878v1">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private Federated Learning via Inexact ADMM with Multiple Local Updates</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.09409v1">Link</a></td>
+</tr>
+<tr>
+<td>Dikaios: Privacy Auditing of Algorithmic Fairness via Attribute Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.02242v2">Link</a></td>
+</tr>
+<tr>
+<td>Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.11159v2">Link</a></td>
+</tr>
+<tr>
+<td>Dissecting Distribution Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.07591v2">Link</a></td>
+</tr>
+<tr>
+<td>Does CLIP Know My Face?</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.07341v4">Link</a></td>
+</tr>
+<tr>
+<td>Does Label Differential Privacy Prevent Label Inference Attacks?</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.12968v2">Link</a></td>
+</tr>
+<tr>
+<td>Driver Locations Harvesting Attack on pRide</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.13263v3">Link</a></td>
+</tr>
+<tr>
+<td>ELSR: Extreme Low-Power Super Resolution Network For Mobile Devices</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.14600v1">Link</a></td>
+</tr>
+<tr>
+<td>Electra: Conditional Generative Model based Predicate-Aware Query Approximation</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.12420v1">Link</a></td>
+</tr>
+<tr>
+<td>End-To-End Audiovisual Feature Fusion for Active Speaker Detection</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.13434v1">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating Membership Inference Through Adversarial Robustness</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.06986v1">Link</a></td>
+</tr>
+<tr>
+<td>Explainable AI via Learning to Optimize</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.14174v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting Digital Surface Models for Inferring Super-Resolution for Remotely Sensed Images</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.04056v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploring Effects of Computational Parameter Changes to Image Recognition Systems</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.00471v4">Link</a></td>
+</tr>
+<tr>
+<td>Fact-Saboteurs: A Taxonomy of Evidence Manipulation Attacks against Fact-Verification Systems</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.03755v4">Link</a></td>
+</tr>
+<tr>
+<td>Faithful learning with sure data for lung nodule diagnosis</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.12515v1">Link</a></td>
+</tr>
+<tr>
+<td>Fast Community Detection based on Graph Autoencoder Reconstruction</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.03151v1">Link</a></td>
+</tr>
+<tr>
+<td>Fast predicting the complex nonlinear dynamics of mode-locked fiber laser by a recurrent neural network with prior information feeding</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.05425v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated Geometric Monte Carlo Clustering to Counter Non-IID Datasets</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.11017v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated and Privacy-Preserving Learning of Accounting Data in Financial Statement Audits</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.12708v1">Link</a></td>
+</tr>
+<tr>
+<td>FxP-QNet: A Post-Training Quantizer for the Design of Mixed Low-Precision DNNs with Dynamic Fixed-Point Representation</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.12091v1">Link</a></td>
+</tr>
+<tr>
+<td>GASCN: Graph Attention Shape Completion Network</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.07937v1">Link</a></td>
+</tr>
+<tr>
+<td>Generating gender-ambiguous voices for privacy-preserving speech recognition</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.01052v1">Link</a></td>
+</tr>
+<tr>
+<td>Generative Models with Information-Theoretic Protection Against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.00071v1">Link</a></td>
+</tr>
+<tr>
+<td>Graphical Model Inference with Erosely Measured Data</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.11625v2">Link</a></td>
+</tr>
+<tr>
+<td>Graphical model inference with external network data</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.11107v2">Link</a></td>
+</tr>
+<tr>
+<td>Group Property Inference Attacks Against Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.01100v1">Link</a></td>
+</tr>
+<tr>
+<td>Hardening DNNs against Transfer Attacks during Network Compression using Greedy Adversarial Pruning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.07406v1">Link</a></td>
+</tr>
+<tr>
+<td>Hidden Schema Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.03777v2">Link</a></td>
+</tr>
+<tr>
+<td>Hidet: Task-Mapping Programming Paradigm for Deep Learning Tensor Programs</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.09603v2">Link</a></td>
+</tr>
+<tr>
+<td>Holistic risk assessment of inference attacks in machine learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.10628v1">Link</a></td>
+</tr>
+<tr>
+<td>How to Combine Membership-Inference Attacks on Multiple Updated Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.06369v1">Link</a></td>
+</tr>
+<tr>
+<td>I Can Read Your Mind: Control Mechanism Secrecy of Networked Dynamical Systems under Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.03556v1">Link</a></td>
+</tr>
+<tr>
+<td>I-GWAS: Privacy-Preserving Interdependent Genome-Wide Association Studies</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.08361v2">Link</a></td>
+</tr>
+<tr>
+<td>ICSML: Industrial Control Systems ML Framework for native inference using IEC 61131-3 code</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.10075v3">Link</a></td>
+</tr>
+<tr>
+<td>IR2Net: Information Restriction and Information Recovery for Accurate Binary Neural Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.02637v1">Link</a></td>
+</tr>
+<tr>
+<td>Identity Preserving Loss for Learned Image Compression</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.10869v3">Link</a></td>
+</tr>
+<tr>
+<td>Impact of L1 Batch Normalization on Analog Noise Resistant Property of Deep Learning Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.04886v1">Link</a></td>
+</tr>
+<tr>
+<td>Improving the Robustness of Summarization Models by Detecting and Removing Input Noise</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.09928v2">Link</a></td>
+</tr>
+<tr>
+<td>InFi: End-to-End Learning to Filter Input for Resource-Efficiency in Mobile-Centric Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.13873v3">Link</a></td>
+</tr>
+<tr>
+<td>Inferring Attack Relations for Gradual Semantics</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.16118v2">Link</a></td>
+</tr>
+<tr>
+<td>Inferring Class Label Distribution of Training Data from Classifiers: An Accuracy-Augmented Meta-Classifier Attack</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.04157v1">Link</a></td>
+</tr>
+<tr>
+<td>Inferring Sensitive Attributes from Model Explanations</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.09967v2">Link</a></td>
+</tr>
+<tr>
+<td>Interactive Segmentation and Visualization for Tiny Objects in Multi-megapixel Images</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.10356v1">Link</a></td>
+</tr>
+<tr>
+<td>Investigations of Performance and Bias in Human-AI Teamwork in Hiring</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.11812v1">Link</a></td>
+</tr>
+<tr>
+<td>Joint Protection Scheme for Deep Neural Network Hardware Accelerators and Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.03249v1">Link</a></td>
+</tr>
+<tr>
+<td>LDL: A Defense for Label-Based Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.01688v2">Link</a></td>
+</tr>
+<tr>
+<td>LPGNet: Link Private Graph Networks for Node Classification</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.03105v2">Link</a></td>
+</tr>
+<tr>
+<td>LTU Attacker for Membership Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.02278v1">Link</a></td>
+</tr>
+<tr>
+<td>Label-Only Membership Inference Attack against Node-Level Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.13766v1">Link</a></td>
+</tr>
+<tr>
+<td>Large-Scale Privacy-Preserving Network Embedding against Private Link Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.14440v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning Interacting Dynamical Systems with Latent Gaussian Process ODEs</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.11894v3">Link</a></td>
+</tr>
+<tr>
+<td>Learning Multi-Task Gaussian Process Over Heterogeneous Input Domains</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.12636v3">Link</a></td>
+</tr>
+<tr>
+<td>Lessons Learned: Defending Against Property Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.08821v4">Link</a></td>
+</tr>
+<tr>
+<td>Leveraging Disentangled Representations to Improve Vision-Based Keystroke Inference Attacks Under Low Data</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.02494v1">Link</a></td>
+</tr>
+<tr>
+<td>Local Model Reconstruction Attacks in Federated Learning and their Uses</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.16205v3">Link</a></td>
+</tr>
+<tr>
+<td>Long Document Summarization with Top-down and Bottom-up Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.07586v1">Link</a></td>
+</tr>
+<tr>
+<td>MIAShield: Defending Membership Inference Attacks via Preemptive Exclusion of Members</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.00915v1">Link</a></td>
+</tr>
+<tr>
+<td>MLink: Linking Black-Box Models from Multiple Domains for Collaborative Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.13883v3">Link</a></td>
+</tr>
+<tr>
+<td>MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.09080v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack Using Self Influence Functions</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.13680v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Against Latent Factor Model</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2301.03596v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Against Text-to-image Generation Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.00968v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks and Defenses in Neural Network Pruning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.03335v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks by Exploiting Loss Trajectory</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.14933v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks via Adversarial Examples</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.13572v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Privacy Protection for Image Translation Models via Adversarial Knowledge Distillation</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.05212v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership-Doctor: Comprehensive Assessment of Membership Inference Against Machine Learning Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.10445v1">Link</a></td>
+</tr>
+<tr>
+<td>Merlin HugeCTR: GPU-accelerated Recommender System Training and Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.08803v1">Link</a></td>
+</tr>
+<tr>
+<td>Mixed Precision Quantization to Tackle Gradient Leakage Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.13457v1">Link</a></td>
+</tr>
+<tr>
+<td>Motion-related Artefact Classification Using Patch-based Ensemble and Transfer Learning in Cardiac MRI</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.07717v1">Link</a></td>
+</tr>
+<tr>
+<td>Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.08734v2">Link</a></td>
+</tr>
+<tr>
+<td>Multi-Wavelength Observations Of A New Redback Millisecond Pulsar 4FGL J1910.7-5320</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.11618v2">Link</a></td>
+</tr>
+<tr>
+<td>Multi-blank Transducers for Speech Recognition</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.03541v2">Link</a></td>
+</tr>
+<tr>
+<td>NEDMP: Neural Enhanced Dynamic Message Passing</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.06496v1">Link</a></td>
+</tr>
+<tr>
+<td>NeuGuard: Lightweight Neuron-Guided Defense against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.05565v2">Link</a></td>
+</tr>
+<tr>
+<td>NeuralVDB: High-resolution Sparse Volume Representation using Hierarchical Neural Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.04448v2">Link</a></td>
+</tr>
+<tr>
+<td>No Free Lunch in "Privacy for Free: How does Dataset Condensation Help Privacy"</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.14987v1">Link</a></td>
+</tr>
+<tr>
+<td>Nonequilibrium Statistical Mechanics and Optimal Prediction of Partially-Observed Complex Systems</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.16048v1">Link</a></td>
+</tr>
+<tr>
+<td>Nonparametric Embeddings of Sparse High-Order Interaction Events</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.03639v1">Link</a></td>
+</tr>
+<tr>
+<td>Normalized additional velocity distribution: testing the radial profile of dark matter halos and MOND</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.03762v2">Link</a></td>
+</tr>
+<tr>
+<td>Numerical Stability of DeepGOPlus Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.06361v4">Link</a></td>
+</tr>
+<tr>
+<td>OLIVE: Oblivious Federated Learning on Trusted Execution Environment against the risk of sparsification</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.07165v5">Link</a></td>
+</tr>
+<tr>
+<td>ORCA: A Network and Architecture Co-design for Offloading us-scale Datacenter Applications</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.08906v2">Link</a></td>
+</tr>
+<tr>
+<td>On Conditioning the Input Noise for Controlled Image Generation with Diffusion Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.03859v1">Link</a></td>
+</tr>
+<tr>
+<td>On the Alignment of Group Fairness with Attribute Privacy</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.10209v3">Link</a></td>
+</tr>
+<tr>
+<td>On the Evaluation of User Privacy in Deep Neural Networks using Timing Side Channel</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.01113v3">Link</a></td>
+</tr>
+<tr>
+<td>On the Privacy Properties of GAN-generated Samples</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.01349v1">Link</a></td>
+</tr>
+<tr>
+<td>On the Risks of Collecting Multidimensional Data Under Local Differential Privacy</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.01684v3">Link</a></td>
+</tr>
+<tr>
+<td>On the Vulnerability of Data Points under Multiple Membership Inference Attacks and Target Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.16258v1">Link</a></td>
+</tr>
+<tr>
+<td>PIE: a Parameter and Inference Efficient Solution for Large Scale Knowledge Graph Embedding Reasoning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.13957v2">Link</a></td>
+</tr>
+<tr>
+<td>PROVGEN: A Privacy-Preserving Approach for Outcome Validation in Genomic Research</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.06327v7">Link</a></td>
+</tr>
+<tr>
+<td>Parameters or Privacy: A Provable Tradeoff Between Overparameterization and Membership Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.01243v2">Link</a></td>
+</tr>
+<tr>
+<td>Perfectly Accurate Membership Inference by a Dishonest Central Server in Federated Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.16463v2">Link</a></td>
+</tr>
+<tr>
+<td>Play It Cool: Dynamic Shifting Prevents Thermal Throttling</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.10849v2">Link</a></td>
+</tr>
+<tr>
+<td>Post-Training Quantization for Cross-Platform Learned Image Compression</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.07513v2">Link</a></td>
+</tr>
+<tr>
+<td>Power priors for replication studies</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.14720v3">Link</a></td>
+</tr>
+<tr>
+<td>Pre-trained Encoders in Self-Supervised Learning Improve Secure and Privacy-preserving Supervised Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.03334v1">Link</a></td>
+</tr>
+<tr>
+<td>PressureVision: Estimating Hand Pressure from a Single RGB Image</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.10385v3">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Against Inference Attacks in Vertical Federated Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.11788v3">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-preserving Generative Framework Against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2202.05469v1">Link</a></td>
+</tr>
+<tr>
+<td>Probabilistic Inverse Modeling: An Application in Hydrology</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.06213v1">Link</a></td>
+</tr>
+<tr>
+<td>Probabilistic forecasting of bus travel time with a Bayesian Gaussian mixture model</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.06915v1">Link</a></td>
+</tr>
+<tr>
+<td>PromptEHR: Conditional Electronic Healthcare Records Generation with Prompt Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.01761v1">Link</a></td>
+</tr>
+<tr>
+<td>Protecting Global Properties of Datasets with Distribution Privacy Mechanisms</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.08367v2">Link</a></td>
+</tr>
+<tr>
+<td>Provable Membership Inference Privacy</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.06582v1">Link</a></td>
+</tr>
+<tr>
+<td>Psychiatric Scale Guided Risky Post Screening for Early Detection of Depression</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.09497v1">Link</a></td>
+</tr>
+<tr>
+<td>Quantifying Privacy Risks of Masked Language Models Using Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.03929v2">Link</a></td>
+</tr>
+<tr>
+<td>Quantifying Uncertainty with Probabilistic Machine Learning Modeling in Wireless Sensing</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.06416v1">Link</a></td>
+</tr>
+<tr>
+<td>RIBBON: Cost-Effective and QoS-Aware Deep Learning Model Inference using a Diverse Pool of Cloud Computing Instances</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.11434v2">Link</a></td>
+</tr>
+<tr>
+<td>Recent dark matter results from the GAMBIT collaboration</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.06431v1">Link</a></td>
+</tr>
+<tr>
+<td>Reconstruction-guided attention improves the robustness and shape processing of neural networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.13620v2">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking with Retrieval: Faithful Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2301.00303v1">Link</a></td>
+</tr>
+<tr>
+<td>Revisiting Distance Metric Learning for Few-Shot Natural Language Classification</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.15202v1">Link</a></td>
+</tr>
+<tr>
+<td>Rigorous Assessment of Model Inference Accuracy using Language Cardinality</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.16587v3">Link</a></td>
+</tr>
+<tr>
+<td>S2RL: Do We Really Need to Perceive All States in Deep Multi-Agent Reinforcement Learning?</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.11054v1">Link</a></td>
+</tr>
+<tr>
+<td>SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.09130v2">Link</a></td>
+</tr>
+<tr>
+<td>SNAP: Efficient Extraction of Private Properties with Poisoning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.12348v2">Link</a></td>
+</tr>
+<tr>
+<td>Safety and Performance, Why not Both? Bi-Objective Optimized Model Compression toward AI Software Deployment</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.05969v2">Link</a></td>
+</tr>
+<tr>
+<td>Scaling up Trustless DNN Inference with Zero-Knowledge Proofs</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.08674v1">Link</a></td>
+</tr>
+<tr>
+<td>Schrodinger dynamics and Berry phase of undulatory locomotion</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.10725v3">Link</a></td>
+</tr>
+<tr>
+<td>Secure Forward Aggregation for Vertical Federated Neural Networks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.00165v1">Link</a></td>
+</tr>
+<tr>
+<td>Semantic Segmentation of Fruits on Multi-sensor Fused Data in Natural Orchards</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.02483v1">Link</a></td>
+</tr>
+<tr>
+<td>Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.12535v1">Link</a></td>
+</tr>
+<tr>
+<td>Sequential Importance Sampling for Hybrid Model Bayesian Inference to Support Bioprocess Mechanism Learning and Robust Control</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.02410v4">Link</a></td>
+</tr>
+<tr>
+<td>Sequential Recommendation with Causal Behavior Discovery</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.00216v2">Link</a></td>
+</tr>
+<tr>
+<td>Serving Deep Learning Models with Deduplication from Relational Databases</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2201.10442v2">Link</a></td>
+</tr>
+<tr>
+<td>Shfl-BW: Accelerating Deep Neural Network Inference with Tensor-Core Aware Weight Pruning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.05016v2">Link</a></td>
+</tr>
+<tr>
+<td>Shielding Federated Learning Systems against Inference Attacks with ARM TrustZone</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.05895v4">Link</a></td>
+</tr>
+<tr>
+<td>SimSCOOD: Systematic Analysis of Out-of-Distribution Generalization in Fine-tuned Source Code Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.04802v2">Link</a></td>
+</tr>
+<tr>
+<td>Similarity Distribution based Membership Inference Attack on Person Re-identification</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.15918v1">Link</a></td>
+</tr>
+<tr>
+<td>Similarity-based Label Inference Attack against Training and Inference of Split Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.05222v2">Link</a></td>
+</tr>
+<tr>
+<td>Slim: interoperable slide microscopy viewer and annotation tool for imaging data science and computational pathology</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.09122v2">Link</a></td>
+</tr>
+<tr>
+<td>Smart App Attack: Hacking Deep Learning Models in Android Apps</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.11075v1">Link</a></td>
+</tr>
+<tr>
+<td>Solving Price Per Unit Problem Around the World: Formulating Fact Extraction as Question Answering</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.05555v1">Link</a></td>
+</tr>
+<tr>
+<td>Subject Membership Inference Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.03317v3">Link</a></td>
+</tr>
+<tr>
+<td>Supporting Vision-Language Model Inference with Confounder-pruning Knowledge Prompt</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.11100v2">Link</a></td>
+</tr>
+<tr>
+<td>Symbolic analysis meets federated learning to enhance malware identifier</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.14159v1">Link</a></td>
+</tr>
+<tr>
+<td>THE-X: Privacy-Preserving Transformer Inference with Homomorphic Encryption</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.00216v2">Link</a></td>
+</tr>
+<tr>
+<td>Task-Oriented Sensing, Computation, and Communication Integration for Multi-Device Edge AI</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.00969v1">Link</a></td>
+</tr>
+<tr>
+<td>The Effects of Partitioning Strategies on Energy Consumption in Distributed CNN Inference at The Edge</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.08392v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Global-Scale Crowd+AI Techniques to Map and Assess Sidewalks for People with Disabilities</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.13677v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Hard-pose Virtual Try-on via 3D-aware Global Correspondence Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.14052v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Sparsified Federated Neuroimaging Models via Weight Pruning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.11669v1">Link</a></td>
+</tr>
+<tr>
+<td>Truth Serum: Poisoning Machine Learning Models to Reveal Their Secrets</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2204.00032v2">Link</a></td>
+</tr>
+<tr>
+<td>Ultron: An Ultimate Retriever on Corpus with a Model-based Indexer</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2208.09257v1">Link</a></td>
+</tr>
+<tr>
+<td>Understanding the Tricks of Deep Learning in Medical Image Segmentation: Challenges and Future Directions</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2209.10307v2">Link</a></td>
+</tr>
+<tr>
+<td>Unintended Memorization and Timing Attacks in Named Entity Recognition Models</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.02245v1">Link</a></td>
+</tr>
+<tr>
+<td>User-Level Membership Inference Attack against Metric Embedding Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.02077v2">Link</a></td>
+</tr>
+<tr>
+<td>Using Machine Learning to Link Black Hole Accretion Flows with Spatially Resolved Polarimetric Observables</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2212.04852v2">Link</a></td>
+</tr>
+<tr>
+<td>VDL-Surrogate: A View-Dependent Latent-based Model for Parameter Space Exploration of Ensemble Simulations</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2207.13091v3">Link</a></td>
+</tr>
+<tr>
+<td>VFLens: Co-design the Modeling Process for Efficient Vertical Federated Learning via Visualization</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2210.00472v1">Link</a></td>
+</tr>
+<tr>
+<td>VSA: Reconfigurable Vectorwise Spiking Neural Network Accelerator</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.00780v1">Link</a></td>
+</tr>
+<tr>
+<td>White-box Membership Attack Against Machine Learning Based Retinopathy Classification</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.03584v1">Link</a></td>
+</tr>
+<tr>
+<td>l-Leaks: Membership Inference Attacks with Logits</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.06469v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2021"></a>
+<h3 class="year-heading">2021</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>"How Does It Detect A Malicious App?" Explaining the Predictions of AI-based Android Malware Detector</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.05108v1">Link</a></td>
+</tr>
+<tr>
+<td>A Generic Approach for Enhancing GANs by Regularized Latent Optimization</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.03502v1">Link</a></td>
+</tr>
+<tr>
+<td>A Serverless Cloud-Fog Platform for DNN-Based Video Analytics with Incremental Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.03012v1">Link</a></td>
+</tr>
+<tr>
+<td>A Shuffling Framework for Local Differential Privacy</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.06603v2">Link</a></td>
+</tr>
+<tr>
+<td>A Taxonomy for Inference in Causal Model Families</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.12052v2">Link</a></td>
+</tr>
+<tr>
+<td>ARM-Net: Adaptive Relation Modeling Network for Structured Data</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.01830v1">Link</a></td>
+</tr>
+<tr>
+<td>Accounting for not-at-random missingness through imputation stacking</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.07954v1">Link</a></td>
+</tr>
+<tr>
+<td>Accuracy-Privacy Trade-off in Deep Ensemble: A Membership Inference Perspective</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.05381v4">Link</a></td>
+</tr>
+<tr>
+<td>Adapting Membership Inference Attacks to GNN for Graph Classification: Approaches and Implications</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.08760v1">Link</a></td>
+</tr>
+<tr>
+<td>All-You-Can-Fit 8-Bit Flexible Floating-Point Format for Accurate and Memory-Efficient Inference of Deep Neural Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.07329v3">Link</a></td>
+</tr>
+<tr>
+<td>An Analytics Framework for Heuristic Inference Attacks against Industrial Control Systems</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.11866v1">Link</a></td>
+</tr>
+<tr>
+<td>An Efficient DP-SGD Mechanism for Large Scale NLP Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.14586v3">Link</a></td>
+</tr>
+<tr>
+<td>An Optimal Algorithm for Finding Champions in Tournament Graphs</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.13621v4">Link</a></td>
+</tr>
+<tr>
+<td>Approximate Latent Force Model Inference</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.11851v3">Link</a></td>
+</tr>
+<tr>
+<td>Artificial intelligence for detection and quantification of rust and leaf miner in coffee crop</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.11241v2">Link</a></td>
+</tr>
+<tr>
+<td>Auto-Split: A General Framework of Collaborative Edge-Cloud AI</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.13041v1">Link</a></td>
+</tr>
+<tr>
+<td>B-SMALL: A Bayesian Neural Network approach to Sparse Model-Agnostic Meta-Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.00203v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Logistic Shape Model Inference: application to cochlea image segmentation</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.02045v1">Link</a></td>
+</tr>
+<tr>
+<td>Bias Loss for Mobile Neural Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.11170v3">Link</a></td>
+</tr>
+<tr>
+<td>Boosting Mobile CNN Inference through Semantic Memory</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.02644v1">Link</a></td>
+</tr>
+<tr>
+<td>CATRO: Channel Pruning via Class-Aware Trace Ratio Optimization</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.10921v2">Link</a></td>
+</tr>
+<tr>
+<td>Cardiovascular Disease Prediction using Recursive Feature Elimination and Gradient Boosting Classification Techniques</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.08889v1">Link</a></td>
+</tr>
+<tr>
+<td>Change-point Detection for Piecewise Exponential Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.03962v1">Link</a></td>
+</tr>
+<tr>
+<td>Characterizing and Taming Resolution in Convolutional Neural Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.14819v1">Link</a></td>
+</tr>
+<tr>
+<td>CoCoNets: Continuous Contrastive 3D Scene Representations</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.03851v1">Link</a></td>
+</tr>
+<tr>
+<td>Cognitive factor forming an individual constituent in a driver model inferred from multiplicatory relationships between cognitive sub-factors</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.06397v1">Link</a></td>
+</tr>
+<tr>
+<td>Combinatorial Resources Auction in Decentralized Edge-Thing Systems Using Blockchain and Differential Privacy</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.05567v1">Link</a></td>
+</tr>
+<tr>
+<td>Correlation inference attacks against machine learning models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.08806v4">Link</a></td>
+</tr>
+<tr>
+<td>DISSECT: Disentangled Simultaneous Explanations via Concept Traversals</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.15164v4">Link</a></td>
+</tr>
+<tr>
+<td>DRAGON: Determining Regulatory Associations using Graphical models on multi-Omic Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.01690v2">Link</a></td>
+</tr>
+<tr>
+<td>Data-Driven Inference of High-Accuracy Isostable-Based Dynamical Models in Response to External Inputs</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.04526v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep State Inference: Toward Behavioral Model Inference of Black-box Software Systems</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.04948v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep Switching State Space Model (DS$^3$M) for Nonlinear Time Series Forecasting with Regime Switching</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.02329v3">Link</a></td>
+</tr>
+<tr>
+<td>Defending Against Membership Inference Attacks on Beacon Services</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.13301v1">Link</a></td>
+</tr>
+<tr>
+<td>Defending Medical Image Diagnostics against Privacy Attacks using Generative Methods</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.03078v2">Link</a></td>
+</tr>
+<tr>
+<td>Deprojection of external barred galaxies from photometry</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.06955v1">Link</a></td>
+</tr>
+<tr>
+<td>Differential Privacy for Text Analytics via Natural Text Sanitization</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.01221v1">Link</a></td>
+</tr>
+<tr>
+<td>Differential Privacy in Aggregated Mobility Networks: Balancing Privacy and Utility</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.08487v2">Link</a></td>
+</tr>
+<tr>
+<td>Differential Privacy-Based Online Allocations towards Integrating Blockchain and Edge Computing</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.02834v1">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private Federated Learning via Inexact ADMM</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.06127v2">Link</a></td>
+</tr>
+<tr>
+<td>Domain Adaptation without Model Transferring</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.10174v4">Link</a></td>
+</tr>
+<tr>
+<td>Dual-side Sparse Tensor Core</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.09564v1">Link</a></td>
+</tr>
+<tr>
+<td>Effective and Privacy preserving Tabular Data Synthesizing</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.10064v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient passive membership inference attack in federated learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.00430v1">Link</a></td>
+</tr>
+<tr>
+<td>Enhanced Membership Inference Attacks against Machine Learning Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.09679v4">Link</a></td>
+</tr>
+<tr>
+<td>Exploring Imitation Learning for Autonomous Driving with Feedback Synthesizer and Differentiable Rasterization</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.01882v2">Link</a></td>
+</tr>
+<tr>
+<td>FADNet++: Real-Time and Accurate Disparity Estimation with Configurable Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.02582v1">Link</a></td>
+</tr>
+<tr>
+<td>FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.13824v4">Link</a></td>
+</tr>
+<tr>
+<td>Fair Active Learning: Solving the Labeling Problem in Insurance</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.09466v4">Link</a></td>
+</tr>
+<tr>
+<td>Fast Multi-Step Critiquing for VAE-based Recommender Systems</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.00774v2">Link</a></td>
+</tr>
+<tr>
+<td>Fast and Flexible Human Pose Estimation with HyperPose</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.11826v2">Link</a></td>
+</tr>
+<tr>
+<td>Fast query-by-example speech search using separable model</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.08870v1">Link</a></td>
+</tr>
+<tr>
+<td>FaxPlainAC: A Fact-Checking Tool Based on EXPLAINable Models with HumAn Correction in the Loop</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.10144v1">Link</a></td>
+</tr>
+<tr>
+<td>Formalizing Distribution Inference Risks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.03699v4">Link</a></td>
+</tr>
+<tr>
+<td>Formalizing and Estimating Distribution Inference Risks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.06024v6">Link</a></td>
+</tr>
+<tr>
+<td>Fragment-Based Test Generation For Web Apps</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.14043v2">Link</a></td>
+</tr>
+<tr>
+<td>GRIM: A General, Real-Time Deep Learning Inference Framework for Mobile Devices based on Fine-Grained Structured Weight Sparsity</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.11033v1">Link</a></td>
+</tr>
+<tr>
+<td>Generalization Techniques Empirically Outperform Differential Privacy against Membership Inference</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.05524v1">Link</a></td>
+</tr>
+<tr>
+<td>Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.06089v1">Link</a></td>
+</tr>
+<tr>
+<td>Graph Embedding for Recommendation against Attribute Inference Attacks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.12549v1">Link</a></td>
+</tr>
+<tr>
+<td>Guiding Neural Story Generation with Reader Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.08596v2">Link</a></td>
+</tr>
+<tr>
+<td>How BPE Affects Memorization in Transformers</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.02782v2">Link</a></td>
+</tr>
+<tr>
+<td>IFBiD: Inference-Free Bias Detection</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.04374v4">Link</a></td>
+</tr>
+<tr>
+<td>Imprecise Subset Simulation</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.11955v1">Link</a></td>
+</tr>
+<tr>
+<td>Inference of cell dynamics on perturbation data using adjoint sensitivity</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.06467v1">Link</a></td>
+</tr>
+<tr>
+<td>Inference of stochastic time series with missing data</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.11816v2">Link</a></td>
+</tr>
+<tr>
+<td>Inferring couplings in networks across order-disorder phase transitions</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.02349v2">Link</a></td>
+</tr>
+<tr>
+<td>Knowledge Cross-Distillation for Membership Privacy</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.01363v3">Link</a></td>
+</tr>
+<tr>
+<td>Label Inference Attacks from Log-loss Scores</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.08266v2">Link</a></td>
+</tr>
+<tr>
+<td>Leveraging Clinical Context for User-Centered Explainability: A Diabetes Use Case</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.02359v3">Link</a></td>
+</tr>
+<tr>
+<td>LightSeq2: Accelerated Training for Transformer-based Models on GPUs</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.05722v3">Link</a></td>
+</tr>
+<tr>
+<td>Low Pass Filter for Anti-aliasing in Temporal Action Localization</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.11403v1">Link</a></td>
+</tr>
+<tr>
+<td>Low-Precision Hardware Architectures Meet Recommendation Model Inference at Scale</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.12676v1">Link</a></td>
+</tr>
+<tr>
+<td>Mean-Squared Accuracy of Good-Turing Estimator</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.07029v1">Link</a></td>
+</tr>
+<tr>
+<td>Medical Aegis: Robust adversarial protectors for medical images</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.10969v4">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack on Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2101.06570v3">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks From First Principles</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.03570v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks are Easier on Difficult Problems</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.07762v3">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on Deep Regression Models for Neuroimaging</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.02866v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on Lottery Ticket Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.03506v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on Machine Learning: A Survey</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.07853v4">Link</a></td>
+</tr>
+<tr>
+<td>Modelling Extremes of Spatial Aggregates of Precipitation using Conditional Methods</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.10906v4">Link</a></td>
+</tr>
+<tr>
+<td>Multi-institution encrypted medical imaging AI validation without data sharing</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.10230v4">Link</a></td>
+</tr>
+<tr>
+<td>Multimodal Data Fusion in High-Dimensional Heterogeneous Datasets via Generative Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.12445v2">Link</a></td>
+</tr>
+<tr>
+<td>Near-Optimal Privacy-Utility Tradeoff in Genomic Studies Using Selective SNP Hiding</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.05211v1">Link</a></td>
+</tr>
+<tr>
+<td>Network Compression for Machine-Learnt Fluid Simulations</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.00754v1">Link</a></td>
+</tr>
+<tr>
+<td>Network Traffic Shaping for Enhancing Privacy in IoT Systems</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.14992v1">Link</a></td>
+</tr>
+<tr>
+<td>NeuroBack: Improving CDCL SAT Solving using Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.14053v7">Link</a></td>
+</tr>
+<tr>
+<td>Node-Level Membership Inference Attacks Against Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.05429v1">Link</a></td>
+</tr>
+<tr>
+<td>Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.14826v2">Link</a></td>
+</tr>
+<tr>
+<td>On Preference Learning Based on Sequential Bayesian Optimization with Pairwise Comparison</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.13192v3">Link</a></td>
+</tr>
+<tr>
+<td>On Utility and Privacy in Synthetic Genomic Data</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.03314v3">Link</a></td>
+</tr>
+<tr>
+<td>On the (In)Feasibility of Attribute Inference Attacks on Machine Learning Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.07101v1">Link</a></td>
+</tr>
+<tr>
+<td>On the Importance of Difficulty Calibration in Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.08440v2">Link</a></td>
+</tr>
+<tr>
+<td>On the Privacy Risks of Deploying Recurrent Neural Networks in Machine Learning Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.03054v3">Link</a></td>
+</tr>
+<tr>
+<td>Ortho-Shot: Low Displacement Rank Regularization with Data Augmentation for Few-Shot Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.09374v1">Link</a></td>
+</tr>
+<tr>
+<td>Outlier detection in multivariate functional data through a contaminated mixture model</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.07222v2">Link</a></td>
+</tr>
+<tr>
+<td>PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.09751v1">Link</a></td>
+</tr>
+<tr>
+<td>PRINS: Scalable Model Inference for Component-based System Logs</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.01987v4">Link</a></td>
+</tr>
+<tr>
+<td>Pair Lines of Sight Observations of Multiphase Gas Bearing O VI in a Galaxy Environment</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.05065v1">Link</a></td>
+</tr>
+<tr>
+<td>ParaFold: Paralleling AlphaFold for Large-Scale Predictions</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.06340v2">Link</a></td>
+</tr>
+<tr>
+<td>Pareto-Frontier-aware Neural Architecture Generation for Diverse Budgets</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.00219v1">Link</a></td>
+</tr>
+<tr>
+<td>Partially Hidden Markov Chain Linear Autoregressive model: inference and forecasting</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.12584v1">Link</a></td>
+</tr>
+<tr>
+<td>Prediction and Prevention of Pandemics via Graphical Model Inference and Convex Programming</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.04517v2">Link</a></td>
+</tr>
+<tr>
+<td>Pretrained Cost Model for Distributed Constraint Optimization Problems</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.04187v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Assessment of Federated Learning using Private Personalized Layers</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.08060v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Inference Attacks and Defenses in Cloud-based Deep Neural Network: A Survey</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.06300v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Eye-tracking Using Deep Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.09621v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Synthetic Location Data in the Real World</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.02089v1">Link</a></td>
+</tr>
+<tr>
+<td>Product Partition Dynamic Generalized Linear Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.02470v1">Link</a></td>
+</tr>
+<tr>
+<td>Proof of concept of a fast surrogate model of the VMEC code via neural networks in Wendelstein 7-X scenarios</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.08467v2">Link</a></td>
+</tr>
+<tr>
+<td>Property Inference Attacks Against GANs</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.07608v1">Link</a></td>
+</tr>
+<tr>
+<td>Quantifying and Mitigating Privacy Risks of Contrastive Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.04140v2">Link</a></td>
+</tr>
+<tr>
+<td>Quantization Backdoors to Deep Learning Commercial Frameworks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.09187v3">Link</a></td>
+</tr>
+<tr>
+<td>Real-time 3D Object Detection using Feature Map Flow</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.14101v1">Link</a></td>
+</tr>
+<tr>
+<td>RecSSD: Near Data Processing for Solid State Drive Based Recommendation Inference</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.00075v1">Link</a></td>
+</tr>
+<tr>
+<td>Recent Advances in Data-Driven Wireless Communication Using Gaussian Processes: A Comprehensive Survey</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.10134v3">Link</a></td>
+</tr>
+<tr>
+<td>Reconstructing Test Labels from Noisy Loss Functions</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.03022v2">Link</a></td>
+</tr>
+<tr>
+<td>Releasing Graph Neural Networks with Differential Privacy Guarantees</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.08907v2">Link</a></td>
+</tr>
+<tr>
+<td>Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.07873v3">Link</a></td>
+</tr>
+<tr>
+<td>SG-PALM: a Fast Physically Interpretable Tensor Graphical Model</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.12271v1">Link</a></td>
+</tr>
+<tr>
+<td>SHAPr: An Efficient and Versatile Membership Privacy Risk Metric for Machine Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.02230v2">Link</a></td>
+</tr>
+<tr>
+<td>SPATL: Salient Parameter Aggregation and Transfer Learning for Heterogeneous Clients in Federated Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.14345v2">Link</a></td>
+</tr>
+<tr>
+<td>SSA: Semantic Structure Aware Inference for Weakly Pixel-Wise Dense Predictions without Cost</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.03392v1">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Multi-Task Gaussian Processes with Neural Embedding of Coregionalization</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.09261v1">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Spatiotemporally Varying Coefficient Modelling with Bayesian Kernelized Tensor Regression</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.00046v4">Link</a></td>
+</tr>
+<tr>
+<td>SchedGuard: Protecting against Schedule Leaks Using Linux Containers</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.04528v1">Link</a></td>
+</tr>
+<tr>
+<td>Secure k-Anonymization over Encrypted Databases</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.04780v1">Link</a></td>
+</tr>
+<tr>
+<td>Securing Federated Learning: A Covert Communication-based Approach</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.02221v1">Link</a></td>
+</tr>
+<tr>
+<td>Security Analysis of Capsule Network Inference using Horizontal Collaboration</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.11041v1">Link</a></td>
+</tr>
+<tr>
+<td>Selective Feature Compression for Efficient Activity Recognition Inference</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.00179v2">Link</a></td>
+</tr>
+<tr>
+<td>Semantic data discovery from Social Big Data</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.03239v1">Link</a></td>
+</tr>
+<tr>
+<td>Simultaneously Localize, Segment and Rank the Camouflaged Objects</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.04011v2">Link</a></td>
+</tr>
+<tr>
+<td>Single frequency CMB B-mode inference with realistic foregrounds from a single training image</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.01138v1">Link</a></td>
+</tr>
+<tr>
+<td>SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.01006v3">Link</a></td>
+</tr>
+<tr>
+<td>Source Inference Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.05659v1">Link</a></td>
+</tr>
+<tr>
+<td>SpeakerStew: Scaling to Many Languages with a Triaged Multilingual Text-Dependent and Text-Independent Speaker Verification System</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.02125v3">Link</a></td>
+</tr>
+<tr>
+<td>Strong lensing signatures of self-interacting dark matter in low-mass halos</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.05259v3">Link</a></td>
+</tr>
+<tr>
+<td>The Efficiency Misnomer</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.12894v2">Link</a></td>
+</tr>
+<tr>
+<td>The Far Side of DNS Amplification: Tracing the DDoS Attack Ecosystem from the Internet Core</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2109.01104v3">Link</a></td>
+</tr>
+<tr>
+<td>The HARPS search for southern extra-solar planets XLV. Two Neptune mass planets orbiting HD 13808: a study of stellar activity modelling's impact on planet detection</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.03387v1">Link</a></td>
+</tr>
+<tr>
+<td>The Influence of Dropout on Membership Inference in Differentially Private Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.09008v1">Link</a></td>
+</tr>
+<tr>
+<td>To Trust or Not To Trust Prediction Scores for Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.09076v3">Link</a></td>
+</tr>
+<tr>
+<td>Towards Fast and Accurate Multi-Person Pose Estimation on Mobile Devices</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.15304v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Interpretability of Speech Pause in Dementia Detection using Adversarial Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.07454v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Reducing Aleatoric Uncertainty for Medical Imaging Tasks</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.11012v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Unbiased and Accurate Deferral to Multiple Experts</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2102.13004v2">Link</a></td>
+</tr>
+<tr>
+<td>Triple-level Model Inferred Collaborative Network Architecture for Video Deraining</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.04459v1">Link</a></td>
+</tr>
+<tr>
+<td>Under the Microscope: Interpreting Readability Assessment Models for Filipino</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.00157v1">Link</a></td>
+</tr>
+<tr>
+<td>Understanding the Spread of COVID-19 Epidemic: A Spatio-Temporal Point Process View</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.13097v1">Link</a></td>
+</tr>
+<tr>
+<td>Using Python for Model Inference in Deep Learning</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2104.00254v1">Link</a></td>
+</tr>
+<tr>
+<td>VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2110.14363v1">Link</a></td>
+</tr>
+<tr>
+<td>Variable Selection Using Nearest Neighbor Gaussian Processes</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2103.14315v2">Link</a></td>
+</tr>
+<tr>
+<td>View Generalization for Single Image Textured 3D Models</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2106.06533v1">Link</a></td>
+</tr>
+<tr>
+<td>Web Application Testing: Using Tree Kernels to Detect Near-duplicate States in Automated Model Inference</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2108.13322v1">Link</a></td>
+</tr>
+<tr>
+<td>When Are Learned Models Better Than Hash Functions?</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.01464v1">Link</a></td>
+</tr>
+<tr>
+<td>Who's Afraid of Thomas Bayes?</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.14601v1">Link</a></td>
+</tr>
+<tr>
+<td>ZLeaks: Passive Inference Attacks on Zigbee based Smart Homes</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2107.10830v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2020"></a>
+<h3 class="year-heading">2020</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>$R^*$: A robust MCMC convergence diagnostic with uncertainty using decision tree classifiers</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2003.07900v5">Link</a></td>
+</tr>
+<tr>
+<td>A Bayesian Fisher-EM algorithm for discriminative Gaussian subspace clustering</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.04620v1">Link</a></td>
+</tr>
+<tr>
+<td>A Computational Approach to Packet Classification</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.07584v2">Link</a></td>
+</tr>
+<tr>
+<td>A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.02053v1">Link</a></td>
+</tr>
+<tr>
+<td>A comparative study of convolutional neural network models for wind field downscaling</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.12257v2">Link</a></td>
+</tr>
+<tr>
+<td>APAN: Asynchronous Propagation Attention Network for Real-time Temporal Graph Embedding</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.11545v4">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating Multi-Model Inference by Merging DNNs of Different Weights</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.13062v1">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating Neural Network Inference by Overflow Aware Quantization</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.13297v1">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Dense-to-Sparse Paradigm for Pruning Online Recommendation System with Non-Stationary Data</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.08655v2">Link</a></td>
+</tr>
+<tr>
+<td>Addressing Class-Imbalance Problem in Personalized Ranking</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.09272v2">Link</a></td>
+</tr>
+<tr>
+<td>Adversarial Privacy Preserving Graph Embedding against Inference Attack</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.13072v1">Link</a></td>
+</tr>
+<tr>
+<td>Amodal Segmentation Based on Visible Region Segmentation and Shape Prior</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.05598v2">Link</a></td>
+</tr>
+<tr>
+<td>An Accuracy-Lossless Perturbation Method for Defending Privacy Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.09843v5">Link</a></td>
+</tr>
+<tr>
+<td>An Efficient Model Inference Algorithm for Learning-based Testing of Reactive Systems</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.06268v1">Link</a></td>
+</tr>
+<tr>
+<td>An Extension of Fano's Inequality for Characterizing Model Susceptibility to Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.08097v1">Link</a></td>
+</tr>
+<tr>
+<td>Anonymizing Machine Learning Models</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.13086v3">Link</a></td>
+</tr>
+<tr>
+<td>BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.03007v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Inference for Polycrystalline Materials</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.04765v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian estimation of trend components within Markovian regime-switching models for wholesale electricity prices: an application to the South Australian wholesale electricity market</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.07471v1">Link</a></td>
+</tr>
+<tr>
+<td>BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.02147v1">Link</a></td>
+</tr>
+<tr>
+<td>Bootstrap Aggregation for Point-based Generalized Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.08738v1">Link</a></td>
+</tr>
+<tr>
+<td>BraggNN: Fast X-ray Bragg Peak Analysis Using Deep Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.08198v2">Link</a></td>
+</tr>
+<tr>
+<td>Breaking and Fixing Destructive Code Read Defenses</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.03548v1">Link</a></td>
+</tr>
+<tr>
+<td>COol Companions ON Ultrawide orbiTS (COCONUTS). I. A High-Gravity T4 Benchmark around an Old White Dwarf and A Re-Examination of the Surface-Gravity Dependence of the L/T Transition</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.05723v1">Link</a></td>
+</tr>
+<tr>
+<td>CSB-RNN: A Faster-than-Realtime RNN Acceleration Framework with Compressed Structured Blocks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.05758v1">Link</a></td>
+</tr>
+<tr>
+<td>Can We Learn Heuristics For Graphical Model Inference Using Reinforcement Learning?</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.01508v2">Link</a></td>
+</tr>
+<tr>
+<td>Class Clown: Data Redaction in Machine Unlearning at Enterprise Scale</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.04699v1">Link</a></td>
+</tr>
+<tr>
+<td>Climbing the WOL: Training for Cheaper Inference</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.01230v2">Link</a></td>
+</tr>
+<tr>
+<td>Communication-Efficient Edge AI Inference Over Wireless Networks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.13351v1">Link</a></td>
+</tr>
+<tr>
+<td>Competing Models: Inferring Exploration Patterns and Information Relevance via Bayesian Model Selection</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.06042v2">Link</a></td>
+</tr>
+<tr>
+<td>Complaint-driven Training Data Debugging for Query 2.0</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.05722v1">Link</a></td>
+</tr>
+<tr>
+<td>Compressing Deep Convolutional Neural Networks by Stacking Low-dimensional Binary Convolution Filters</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.02778v1">Link</a></td>
+</tr>
+<tr>
+<td>Compression Boosts Differentially Private Federated Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.05578v1">Link</a></td>
+</tr>
+<tr>
+<td>Constraints on circum-galactic media from Sunyaev-Zel'dovich effects and X-ray data</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.05664v2">Link</a></td>
+</tr>
+<tr>
+<td>Cooperative Location Privacy in Vehicular Networks: Why Simple Mix-zones are not Enough</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.06666v1">Link</a></td>
+</tr>
+<tr>
+<td>DAMIA: Leveraging Domain Adaptation as a Defense against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.08016v1">Link</a></td>
+</tr>
+<tr>
+<td>DarkneTZ: Towards Model Privacy at the Edge using Trusted Execution Environments</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.05703v1">Link</a></td>
+</tr>
+<tr>
+<td>Data Inference from Encrypted Databases: A Multi-dimensional Order-Preserving Matching Approach</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2001.08773v1">Link</a></td>
+</tr>
+<tr>
+<td>Data and Model Dependencies of Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.06856v5">Link</a></td>
+</tr>
+<tr>
+<td>Data-driven Thermal Model Inference with ARMAX, in Smart Environments, based on Normalized Mutual Information</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2006.06088v1">Link</a></td>
+</tr>
+<tr>
+<td>Data-driven model order reduction for granular media</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.03349v2">Link</a></td>
+</tr>
+<tr>
+<td>DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.06987v3">Link</a></td>
+</tr>
+<tr>
+<td>Differentially Private k-Means Clustering with Guaranteed Convergence</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.01043v1">Link</a></td>
+</tr>
+<tr>
+<td>Disentangling Drift- and Control- Vector Fields for Interpretable Inference of Control-affine Systems</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.10954v1">Link</a></td>
+</tr>
+<tr>
+<td>ELMV: an Ensemble-Learning Approach for Analyzing Electrical Health Records with Significant Missing Values</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2006.14942v2">Link</a></td>
+</tr>
+<tr>
+<td>Effective Removal of Operational Log Messages: an Application to Model Inference</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.07194v2">Link</a></td>
+</tr>
+<tr>
+<td>Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in European countries: technical description update</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.11342v1">Link</a></td>
+</tr>
+<tr>
+<td>Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.10710v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting Defenses against GAN-Based Feature Inference Attacks in Federated Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.12571v5">Link</a></td>
+</tr>
+<tr>
+<td>FastPathology: An open-source platform for deep learning-based research and decision support in digital pathology</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.06033v1">Link</a></td>
+</tr>
+<tr>
+<td>FedServing: A Federated Prediction Serving Framework Based on Incentive Mechanism</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.10566v1">Link</a></td>
+</tr>
+<tr>
+<td>Federated Model Distillation with Noise-Free Differential Privacy</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.05537v2">Link</a></td>
+</tr>
+<tr>
+<td>Finite-Time Model Inference From A Single Noisy Trajectory</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.06616v2">Link</a></td>
+</tr>
+<tr>
+<td>Fragmentation Coagulation Based Mixed Membership Stochastic Blockmodel</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.00901v1">Link</a></td>
+</tr>
+<tr>
+<td>Free Energy Minimization: A Unified Framework for Modelling, Inference, Learning,and Optimization</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.14963v1">Link</a></td>
+</tr>
+<tr>
+<td>GECKO: Reconciling Privacy, Accuracy and Efficiency in Embedded Deep Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.00912v3">Link</a></td>
+</tr>
+<tr>
+<td>GP-ETAS: Semiparametric Bayesian inference for the spatio-temporal Epidemic Type Aftershock Sequence model</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.12857v1">Link</a></td>
+</tr>
+<tr>
+<td>Genome Reconstruction Attacks Against Genomic Data-Sharing Beacons</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2001.08852v2">Link</a></td>
+</tr>
+<tr>
+<td>Guess First to Enable Better Compression and Adversarial Robustness</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2001.03311v1">Link</a></td>
+</tr>
+<tr>
+<td>Hamiltonian Modeling of Macro-Economic Urban Dynamics</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2001.05725v4">Link</a></td>
+</tr>
+<tr>
+<td>Hawkes Processes Modeling, Inference and Control: An Overview</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.13073v2">Link</a></td>
+</tr>
+<tr>
+<td>Heuristic-based Mining of Service Behavioral Models from Interaction Traces</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.00431v1">Link</a></td>
+</tr>
+<tr>
+<td>Hey Alexa what did I just type? Decoding smartphone sounds with a voice assistant</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.00687v1">Link</a></td>
+</tr>
+<tr>
+<td>Hide-and-Seek Privacy Challenge</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.12087v2">Link</a></td>
+</tr>
+<tr>
+<td>Hybrid Deep Neural Networks to Infer State Models of Black-Box Systems</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.11856v1">Link</a></td>
+</tr>
+<tr>
+<td>INeRF: Inverting Neural Radiance Fields for Pose Estimation</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.05877v3">Link</a></td>
+</tr>
+<tr>
+<td>Influencers and the Giant Component: the Fundamental Hardness in Privacy Protection for Socially Contagious Attributes</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.11877v1">Link</a></td>
+</tr>
+<tr>
+<td>Investigating Membership Inference Attacks under Data Dependencies</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.12112v4">Link</a></td>
+</tr>
+<tr>
+<td>Is the PPG signal chaotic?</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.01054v1">Link</a></td>
+</tr>
+<tr>
+<td>Knowledge Distillation for Mobile Edge Computation Offloading</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.04366v1">Link</a></td>
+</tr>
+<tr>
+<td>Landmark detection in Cardiac Magnetic Resonance Imaging Using A Convolutional Neural Network</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.06142v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning the Associations of MITRE ATT&CK Adversarial Techniques</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.01654v2">Link</a></td>
+</tr>
+<tr>
+<td>Less is More: A privacy-respecting Android malware classifier using Federated Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.08319v3">Link</a></td>
+</tr>
+<tr>
+<td>Local and Central Differential Privacy for Robustness and Privacy in Federated Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.03561v5">Link</a></td>
+</tr>
+<tr>
+<td>MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.02897v2">Link</a></td>
+</tr>
+<tr>
+<td>ML Privacy Meter: Aiding Regulatory Compliance by Quantifying the Privacy Risks of Machine Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.09339v1">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks Against Object Detection Models</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2001.04011v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks and Defenses in Classification Models</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.12062v3">Link</a></td>
+</tr>
+<tr>
+<td>Membership Leakage in Label-Only Exposures</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.15528v3">Link</a></td>
+</tr>
+<tr>
+<td>Memory and Computation-Efficient Kernel SVM via Binary Embedding and Ternary Model Coefficients</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.02577v1">Link</a></td>
+</tr>
+<tr>
+<td>Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.07687v2">Link</a></td>
+</tr>
+<tr>
+<td>Moving-Resting Process with Measurement Error in Animal Movement Modeling</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.00160v3">Link</a></td>
+</tr>
+<tr>
+<td>Nearly Optimal Variational Inference for High Dimensional Regression with Shrinkage Priors</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.12887v1">Link</a></td>
+</tr>
+<tr>
+<td>Neural Network Compression Framework for fast model inference</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.08679v4">Link</a></td>
+</tr>
+<tr>
+<td>Neural Topic Modeling with Bidirectional Adversarial Training</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.12331v1">Link</a></td>
+</tr>
+<tr>
+<td>Nimble: Efficiently Compiling Dynamic Neural Networks for Model Inference</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2006.03031v2">Link</a></td>
+</tr>
+<tr>
+<td>Non-Parametric Graph Learning for Bayesian Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2006.13335v1">Link</a></td>
+</tr>
+<tr>
+<td>Non-Volatile Memory Array Based Quantization- and Noise-Resilient LSTM Neural Networks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.10636v1">Link</a></td>
+</tr>
+<tr>
+<td>On the Difficulty of Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.13702v3">Link</a></td>
+</tr>
+<tr>
+<td>On the spatial and temporal shift in the archetypal seasonal temperature cycle as driven by annual and semi-annual harmonics</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2003.06924v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing Prediction Serving on Low-Latency Serverless Dataflow</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.05832v1">Link</a></td>
+</tr>
+<tr>
+<td>Performance evaluation and application of computation based low-cost homogeneous machine learning model algorithm for image classification</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.08087v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Analysis of Deep Learning in the Wild: Membership Inference Attacks against Transfer Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.04872v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy and Robustness in Federated Learning: Attacks and Defenses</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.06337v3">Link</a></td>
+</tr>
+<tr>
+<td>Privacy for All: Demystify Vulnerability Disparity of Differential Privacy against Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2001.08855v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy in Deep Learning: A Survey</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.12254v5">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Preserving Synthetic Smart Meters Data</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.04475v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-preserving Voice Analysis via Disentangled Representations</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.15064v2">Link</a></td>
+</tr>
+<tr>
+<td>Progressive Local Filter Pruning for Image Retrieval Acceleration</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2001.08878v1">Link</a></td>
+</tr>
+<tr>
+<td>Quantifying Membership Inference Vulnerability via Generalization Gap and Other Model Metrics</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.05669v1">Link</a></td>
+</tr>
+<tr>
+<td>RAICC: Revealing Atypical Inter-Component Communication in Android Apps</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.09916v2">Link</a></td>
+</tr>
+<tr>
+<td>Region-based Energy Neural Network for Approximate Inference</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2006.09927v1">Link</a></td>
+</tr>
+<tr>
+<td>Revisiting Membership Inference Under Realistic Assumptions</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.10881v5">Link</a></td>
+</tr>
+<tr>
+<td>Revisiting the Threat Space for Vision-based Keystroke Inference Attacks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.05796v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust Bayesian Inference for Discrete Outcomes with the Total Variation Distance</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.13456v1">Link</a></td>
+</tr>
+<tr>
+<td>Sampling Attacks: Amplification of Membership Inference Attacks by Repeated Queries</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.00395v1">Link</a></td>
+</tr>
+<tr>
+<td>Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.10026v1">Link</a></td>
+</tr>
+<tr>
+<td>Security and Privacy Preserving Deep Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2006.12698v2">Link</a></td>
+</tr>
+<tr>
+<td>Semi-Modular Inference: enhanced learning in multi-modular models by tempering the influence of components</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2003.06804v1">Link</a></td>
+</tr>
+<tr>
+<td>ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.05905v4">Link</a></td>
+</tr>
+<tr>
+<td>Shared Mobile-Cloud Inference for Collaborative Intelligence</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.00157v1">Link</a></td>
+</tr>
+<tr>
+<td>Sharing Models or Coresets: A Study based on Membership Inference Attack</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.02977v1">Link</a></td>
+</tr>
+<tr>
+<td>Sketch2CAD: Sequential CAD Modeling by Sketching in Context</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.04927v1">Link</a></td>
+</tr>
+<tr>
+<td>Stochastic Epidemic Models inference and diagnosis with Poisson Random Measure Data Augmentation</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.10264v1">Link</a></td>
+</tr>
+<tr>
+<td>Stochastic L-system Inference from Multiple String Sequence Inputs</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2001.10922v1">Link</a></td>
+</tr>
+<tr>
+<td>Stochastic Variational Bayesian Inference for a Nonlinear Forward Model</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.01675v1">Link</a></td>
+</tr>
+<tr>
+<td>Strengthening Order Preserving Encryption with Differential Privacy</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.05679v5">Link</a></td>
+</tr>
+<tr>
+<td>Synthetic Data -- Anonymisation Groundhog Day</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.07018v6">Link</a></td>
+</tr>
+<tr>
+<td>Systematic Evaluation of Privacy Risks of Machine Learning Models</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2003.10595v2">Link</a></td>
+</tr>
+<tr>
+<td>Technologies for Trustworthy Machine Learning: A Survey in a Socio-Technical Context</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.08911v3">Link</a></td>
+</tr>
+<tr>
+<td>Test and Visualization of Covariance Properties for Multivariate Spatio-Temporal Random Fields</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.03689v3">Link</a></td>
+</tr>
+<tr>
+<td>Testing the Quasar Hubble Diagram with LISA Standard Sirens</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.09049v2">Link</a></td>
+</tr>
+<tr>
+<td>The photometric and polarimetric variability of magnetic O-type stars</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.13594v1">Link</a></td>
+</tr>
+<tr>
+<td>Threats to Federated Learning: A Survey</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2003.02133v1">Link</a></td>
+</tr>
+<tr>
+<td>To what extent do human explanations of model behavior align with actual model behavior?</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.13354v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Question-based Recommender Systems</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.14255v1">Link</a></td>
+</tr>
+<tr>
+<td>TransMIA: Membership Inference Attacks Using Transfer Shadow Training</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.14661v3">Link</a></td>
+</tr>
+<tr>
+<td>Tree-AMP: Compositional Inference with Tree Approximate Message Passing</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2004.01571v3">Link</a></td>
+</tr>
+<tr>
+<td>Unleashing the Tiger: Inference Attacks on Split Learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2012.02670v5">Link</a></td>
+</tr>
+<tr>
+<td>Unsupervised Learning of Lagrangian Dynamics from Images for Prediction and Control</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2007.01926v3">Link</a></td>
+</tr>
+<tr>
+<td>Unsupervised Part Discovery by Unsupervised Disentanglement</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.04264v2">Link</a></td>
+</tr>
+<tr>
+<td>Use the Spear as a Shield: A Novel Adversarial Example based Privacy-Preserving Technique against Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.13696v1">Link</a></td>
+</tr>
+<tr>
+<td>Visually-Grounded Planning without Vision: Language Models Infer Detailed Plans from High-level Instructions</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2009.14259v2">Link</a></td>
+</tr>
+<tr>
+<td>Wavesplit: End-to-End Speech Separation by Speaker Clustering</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.08933v2">Link</a></td>
+</tr>
+<tr>
+<td>WeiPS: a symmetric fusion model framework for large-scale online learning</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2011.11983v1">Link</a></td>
+</tr>
+<tr>
+<td>When Ensembling Smaller Models is More Efficient than Single Large Models</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2005.00570v1">Link</a></td>
+</tr>
+<tr>
+<td>Woodpecker-DL: Accelerating Deep Neural Networks via Hardware-Aware Multifaceted Optimizations</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2008.04567v1">Link</a></td>
+</tr>
+<tr>
+<td>ZipPhone: Protecting user location privacy from cellular service providers</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2002.04731v1">Link</a></td>
+</tr>
+<tr>
+<td>Zoom on the Keystrokes: Exploiting Video Calls for Keystroke Inference Attacks</td>
+<td>arXiv</td>
+<td>2020</td>
+<td><a href="http://arxiv.org/abs/2010.12078v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2019"></a>
+<h3 class="year-heading">2019</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Bi-Directional Co-Design Approach to Enable Deep Learning on IoT Devices</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1905.08369v1">Link</a></td>
+</tr>
+<tr>
+<td>A Stochastic Block Model Approach for the Analysis of Multilevel Networks: an Application to the Sociology of Organizations</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.10512v3">Link</a></td>
+</tr>
+<tr>
+<td>A Unified Optimization Approach for CNN Model Inference on Integrated GPUs</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1907.02154v1">Link</a></td>
+</tr>
+<tr>
+<td>A frequentist analysis of three right-handed neutrinos with GAMBIT</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1908.02302v2">Link</a></td>
+</tr>
+<tr>
+<td>A new method for flow-based network intrusion detection using the inverse Potts model</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.07266v6">Link</a></td>
+</tr>
+<tr>
+<td>A new perspective from a Dirichlet model for forecasting outstanding liabilities of nonlife insurers</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.04609v1">Link</a></td>
+</tr>
+<tr>
+<td>Accelerating Proposal Generation Network for \\Fast Face Detection on Mobile Devices</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.12094v1">Link</a></td>
+</tr>
+<tr>
+<td>Active Learning for Decision-Making from Imbalanced Observational Data</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.05268v2">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Graphical Model Network for 2D Handpose Estimation</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.08205v2">Link</a></td>
+</tr>
+<tr>
+<td>Alleviating Privacy Attacks via Causal Learning</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.12732v4">Link</a></td>
+</tr>
+<tr>
+<td>An Empirical Study on Practicality of Specification Mining Algorithms on a Real-world Application</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1903.11242v2">Link</a></td>
+</tr>
+<tr>
+<td>An Empirical Study on the Intrinsic Privacy of SGD</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.02919v4">Link</a></td>
+</tr>
+<tr>
+<td>Assessing differentially private deep learning with Membership Inference</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.11328v4">Link</a></td>
+</tr>
+<tr>
+<td>Attacking Graph-based Classification via Manipulating the Graph Structure</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1903.00553v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Allocation Model: Inference by Sequential Monte Carlo for Nonnegative Tensor Factorizations and Topic Models using Polya Urns</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1903.04478v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Gamma-Negative Binomial Modeling of Single-Cell RNA Sequencing Data</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1908.00650v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Temporal Factorization for Multidimensional Time Series Prediction</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.06366v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian leave-one-out cross-validation for large data</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.10679v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Similarity: Relation Embedding with Dual Attentions for Item-based Recommendation</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.04099v1">Link</a></td>
+</tr>
+<tr>
+<td>Channel-by-Channel Demosaicking Networks with Embedded Spectral Correlation</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.09884v3">Link</a></td>
+</tr>
+<tr>
+<td>Computational landscape of user behavior on social media</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1901.08941v1">Link</a></td>
+</tr>
+<tr>
+<td>Consensus Monte Carlo for Random Subsets using Shared Anchors</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.12309v2">Link</a></td>
+</tr>
+<tr>
+<td>Content Enhanced BERT-based Text-to-SQL Generation</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.07179v5">Link</a></td>
+</tr>
+<tr>
+<td>Cross-Channel Intragroup Sparsity Neural Network</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.11971v2">Link</a></td>
+</tr>
+<tr>
+<td>Cyber-Social Systems: Modeling, Inference, and Optimal Design</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1903.12371v1">Link</a></td>
+</tr>
+<tr>
+<td>Data-driven inference of hidden nodes in networks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1901.04122v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep Gamblers: Learning to Abstain with Portfolio Theory</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1907.00208v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep Generative Models for Reject Inference in Credit Scoring</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.11376v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep Variational Koopman Models: Inferring Koopman Observations for Uncertainty-Aware Dynamics Modeling and Control</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1902.09742v3">Link</a></td>
+</tr>
+<tr>
+<td>Deep learning-enabled image quality control in tomographic reconstruction: Robust optical diffraction tomography</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1903.02097v1">Link</a></td>
+</tr>
+<tr>
+<td>Defending against Machine Learning based Inference Attacks via Adversarial Examples: Opportunities and Challenges</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.08526v2">Link</a></td>
+</tr>
+<tr>
+<td>Disparate Vulnerability to Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.00389v4">Link</a></td>
+</tr>
+<tr>
+<td>Eavesdrop the Composition Proportion of Training Labels in Federated Learning</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.06044v2">Link</a></td>
+</tr>
+<tr>
+<td>Effects of Differential Privacy and Data Skewness on Membership Inference Vulnerability</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.09777v1">Link</a></td>
+</tr>
+<tr>
+<td>Enhanced Seismic Imaging with Predictive Neural Networks for Geophysics</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1908.03973v2">Link</a></td>
+</tr>
+<tr>
+<td>Enhancing Multi-model Inference with Natural Selection</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.02389v1">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating Differentially Private Machine Learning in Practice</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1902.08874v4">Link</a></td>
+</tr>
+<tr>
+<td>FPGA-accelerated machine learning inference as a service for particle physics computing</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.08986v2">Link</a></td>
+</tr>
+<tr>
+<td>Fast Parameter Inference in a Biomechanical Model of the Left Ventricle using Statistical Emulation</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1905.06310v1">Link</a></td>
+</tr>
+<tr>
+<td>Functional probabilistic programming for scalable Bayesian modelling</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1908.02062v1">Link</a></td>
+</tr>
+<tr>
+<td>GAMBIT and its Application in the Search for Physics Beyond the Standard Model</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.04079v3">Link</a></td>
+</tr>
+<tr>
+<td>GAN-Leaks: A Taxonomy of Membership Inference Attacks against Generative Models</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.03935v3">Link</a></td>
+</tr>
+<tr>
+<td>Generative Adversarial Networks for Black-Box API Attacks with Limited Training Data</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1901.09113v1">Link</a></td>
+</tr>
+<tr>
+<td>Graphical model inference: Sequential Monte Carlo meets deterministic approximations</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1901.02374v1">Link</a></td>
+</tr>
+<tr>
+<td>Grounded Human-Object Interaction Hotspots from Video (Extended Abstract)</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.01963v1">Link</a></td>
+</tr>
+<tr>
+<td>Harnessing the linguistic signal to predict scalar inferences</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.14254v2">Link</a></td>
+</tr>
+<tr>
+<td>Inferring HIV incidence trends and transmission dynamics with a spatio-temporal HIV epidemic model</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.01590v1">Link</a></td>
+</tr>
+<tr>
+<td>Informative Visual Storytelling with Cross-modal Rules</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1907.03240v2">Link</a></td>
+</tr>
+<tr>
+<td>Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.07882v1">Link</a></td>
+</tr>
+<tr>
+<td>Joint state-parameter estimation of a nonlinear stochastic energy balance model from sparse noisy data</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.05310v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning Elastic Constitutive Material and Damping Models</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.01875v2">Link</a></td>
+</tr>
+<tr>
+<td>Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.03659v1">Link</a></td>
+</tr>
+<tr>
+<td>Measuring Membership Privacy on Aggregate Location Time-Series</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1902.07456v2">Link</a></td>
+</tr>
+<tr>
+<td>MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.10594v3">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.05506v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Privacy for Machine Learning Models Through Knowledge Transfer</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.06589v3">Link</a></td>
+</tr>
+<tr>
+<td>MetaGrasp: Data Efficient Grasping by Affordance Interpreter Network</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1902.06554v2">Link</a></td>
+</tr>
+<tr>
+<td>Mixed-Precision Quantized Neural Network with Progressively Decreasing Bitwidth For Image Classification and Object Detection</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.12656v1">Link</a></td>
+</tr>
+<tr>
+<td>Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.09636v1">Link</a></td>
+</tr>
+<tr>
+<td>Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.08381v1">Link</a></td>
+</tr>
+<tr>
+<td>Model inference for Ordinary Differential Equations by parametric polynomial kernel regression</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1908.02105v1">Link</a></td>
+</tr>
+<tr>
+<td>Modeling Hierarchical Usage Context for Software Exceptions based on Interaction Data</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.07072v2">Link</a></td>
+</tr>
+<tr>
+<td>Multi-Objective Hyperparameter Tuning and Feature Selection using Filter Ensembles</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.12912v2">Link</a></td>
+</tr>
+<tr>
+<td>Multivariate mixed membership modeling: Inferring domain-specific risk profiles</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1901.05191v3">Link</a></td>
+</tr>
+<tr>
+<td>New Physics Interpretations with GAMBIT</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.05906v1">Link</a></td>
+</tr>
+<tr>
+<td>NormGrad: Finding the Pixels that Matter for Training</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.08823v1">Link</a></td>
+</tr>
+<tr>
+<td>On Inferring Training Data Attributes in Machine Learning Models</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1908.10558v2">Link</a></td>
+</tr>
+<tr>
+<td>On the Expressiveness of Approximate Inference in Bayesian Neural Networks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.00719v4">Link</a></td>
+</tr>
+<tr>
+<td>On the Privacy Risks of Model Explanations</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1907.00164v6">Link</a></td>
+</tr>
+<tr>
+<td>PingPong: Packet-Level Signatures for Smart Home Device Events</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1907.11797v3">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.09872v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy-preserving Searchable Databases with Controllable Leakage</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.11624v2">Link</a></td>
+</tr>
+<tr>
+<td>Quantum approximate Bayesian computation for NMR model inference</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.14221v2">Link</a></td>
+</tr>
+<tr>
+<td>Query-efficient Meta Attack to Deep Neural Networks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.02398v3">Link</a></td>
+</tr>
+<tr>
+<td>Reducing audio membership inference attack accuracy to chance: 4 defenses</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.01888v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust Membership Encoding: Inference Attacks and Copyright Protection for Deep Learning</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.12982v2">Link</a></td>
+</tr>
+<tr>
+<td>SNDCNN: Self-normalizing deep CNNs with scaled exponential linear units for speech recognition</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.01992v3">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Inference of System-level Models from Component Logs</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1908.02329v3">Link</a></td>
+</tr>
+<tr>
+<td>Scalable optimal Bayesian classification of single-cell trajectories under regulatory model uncertainty</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1902.03188v1">Link</a></td>
+</tr>
+<tr>
+<td>Scientific Image Restoration Anywhere</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.05878v1">Link</a></td>
+</tr>
+<tr>
+<td>Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic Image Segmentation</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.09685v2">Link</a></td>
+</tr>
+<tr>
+<td>Smoothed Inference for Adversarially-Trained Models</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.07198v2">Link</a></td>
+</tr>
+<tr>
+<td>SuRF: a New Method for Sparse Variable Selection, with Application in Microbiome Data Analysis</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.06439v1">Link</a></td>
+</tr>
+<tr>
+<td>Synthesis of Realistic ECG using Generative Adversarial Networks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.09150v1">Link</a></td>
+</tr>
+<tr>
+<td>TEINet: Towards an Efficient Architecture for Video Recognition</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.09435v1">Link</a></td>
+</tr>
+<tr>
+<td>TaskShuffler++: Real-Time Schedule Randomization for Reducing Worst-Case Vulnerability to Timing Inference Attacks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1911.07726v1">Link</a></td>
+</tr>
+<tr>
+<td>Techniques for Inferring Context-Free Lindenmayer Systems With Genetic Algorithm</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1906.08860v2">Link</a></td>
+</tr>
+<tr>
+<td>Temporal and Aspectual Entailment</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1904.01297v1">Link</a></td>
+</tr>
+<tr>
+<td>The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 LRG sample: structure growth rate measurement from the anisotropic LRG correlation function in the redshift range 0.6 < z < 1.0</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.07742v3">Link</a></td>
+</tr>
+<tr>
+<td>Topic-Guided Variational Autoencoders for Text Generation</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1903.07137v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Characterizing and Limiting Information Exposure in DNN Layers</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1907.06034v1">Link</a></td>
+</tr>
+<tr>
+<td>Un modèle Bayésien de co-clustering de données mixtes</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1902.02056v1">Link</a></td>
+</tr>
+<tr>
+<td>Wasserstein $F$-tests and Confidence Bands for the Frèchet Regression of Density Response Curves</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1910.13418v2">Link</a></td>
+</tr>
+<tr>
+<td>[Extended version] Rethinking Deep Neural Network Ownership Verification: Embedding Passports to Defeat Ambiguity Attacks</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1909.07830v3">Link</a></td>
+</tr>
+<tr>
+<td>fbSAT: Automatic Inference of Minimal Finite-State Models of Function Blocks Using SAT Solver</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1907.03285v3">Link</a></td>
+</tr>
+<tr>
+<td>privGAN: Protecting GANs from membership inference attacks at low cost</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/2001.00071v4">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2018"></a>
+<h3 class="year-heading">2018</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>"Bilingual Expert" Can Find Translation Errors</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1807.09433v3">Link</a></td>
+</tr>
+<tr>
+<td>A Kernel Embedding-based Approach for Nonstationary Causal Model Inference</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1809.08560v1">Link</a></td>
+</tr>
+<tr>
+<td>A Poisson Gamma Probabilistic Model for Latent Node-group Memberships in Dynamic Networks</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1805.11054v1">Link</a></td>
+</tr>
+<tr>
+<td>A note on Inflation and the Swampland</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1807.05445v1">Link</a></td>
+</tr>
+<tr>
+<td>A note on strong axiomatization of Gödel Justification Logic</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1809.09608v3">Link</a></td>
+</tr>
+<tr>
+<td>Active Deep Learning Attacks under Strict Rate Limitations for Online API Calls</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.01811v1">Link</a></td>
+</tr>
+<tr>
+<td>Arena Model: Inference About Competitions</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.11019v1">Link</a></td>
+</tr>
+<tr>
+<td>AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1805.04810v2">Link</a></td>
+</tr>
+<tr>
+<td>AutoPruner: An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1805.08941v3">Link</a></td>
+</tr>
+<tr>
+<td>Balanced Sparsity for Efficient DNN Inference on GPU</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.00206v4">Link</a></td>
+</tr>
+<tr>
+<td>Bootstrap Based Inference for Sparse High-Dimensional Time Series Models</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1806.11083v3">Link</a></td>
+</tr>
+<tr>
+<td>Composable Planning with Attributes</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1803.00512v2">Link</a></td>
+</tr>
+<tr>
+<td>DP-GP-LVM: A Bayesian Non-Parametric Model for Learning Multivariate Dependency Structures</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1807.04833v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep Bayesian regression models</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1806.02160v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep Structure Inference Network for Facial Action Unit Recognition</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1803.05873v2">Link</a></td>
+</tr>
+<tr>
+<td>Deep Structured Prediction with Nonlinear Output Transformations</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.00539v1">Link</a></td>
+</tr>
+<tr>
+<td>DeepKey: Towards End-to-End Physical Key Replication From a Single Photograph</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.01405v1">Link</a></td>
+</tr>
+<tr>
+<td>Document Informed Neural Autoregressive Topic Models</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1808.03793v1">Link</a></td>
+</tr>
+<tr>
+<td>Document Informed Neural Autoregressive Topic Models with Distributional Prior</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1809.06709v2">Link</a></td>
+</tr>
+<tr>
+<td>Dynamically Hierarchy Revolution: DirNet for Compressing Recurrent Neural Network on Mobile Devices</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1806.01248v2">Link</a></td>
+</tr>
+<tr>
+<td>Evolution of the quantum Hall bulk spectrum into chiral edge states</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1802.03847v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting Unintended Feature Leakage in Collaborative Learning</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1805.04049v3">Link</a></td>
+</tr>
+<tr>
+<td>Fisher Efficient Inference of Intractable Models</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1805.07454v5">Link</a></td>
+</tr>
+<tr>
+<td>Generative Models for Simulating Mobility Trajectories</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.12801v1">Link</a></td>
+</tr>
+<tr>
+<td>Geostatistical Rock Physics AVA Inversion</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1810.06552v1">Link</a></td>
+</tr>
+<tr>
+<td>Graph Convolutional Neural Networks for Web-Scale Recommender Systems</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1806.01973v1">Link</a></td>
+</tr>
+<tr>
+<td>Graph-based Security and Privacy Analytics via Collective Classification with Joint Weight Learning and Propagation</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1812.01661v3">Link</a></td>
+</tr>
+<tr>
+<td>Grounded Human-Object Interaction Hotspots from Video</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1812.04558v2">Link</a></td>
+</tr>
+<tr>
+<td>Hierarchical Adversarially Learned Inference</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1802.01071v1">Link</a></td>
+</tr>
+<tr>
+<td>Iterative Amortized Inference</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1807.09356v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning Latent Fractional dynamics with Unknown Unknowns</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.00703v2">Link</a></td>
+</tr>
+<tr>
+<td>ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1806.01246v2">Link</a></td>
+</tr>
+<tr>
+<td>Machine Learning with Membership Privacy using Adversarial Regularization</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1807.05852v1">Link</a></td>
+</tr>
+<tr>
+<td>Monitoring through many eyes: Integrating disparate datasets to improve monitoring of the Great Barrier Reef</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1808.05298v2">Link</a></td>
+</tr>
+<tr>
+<td>Multi-model inference through projections in model space</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1805.08765v1">Link</a></td>
+</tr>
+<tr>
+<td>On Probability and Cosmology: Inference Beyond Data?</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1812.04149v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing CNN Model Inference on CPUs</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1809.02697v3">Link</a></td>
+</tr>
+<tr>
+<td>Probabilistic Bisection with Spatial Metamodels</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1807.00095v1">Link</a></td>
+</tr>
+<tr>
+<td>Probabilistic Inference on Noisy Time Series (PINTS)</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1812.07388v1">Link</a></td>
+</tr>
+<tr>
+<td>Reliable mass calculation in spherical gravitating systems</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1810.11375v1">Link</a></td>
+</tr>
+<tr>
+<td>STTM: A Tool for Short Text Topic Modeling</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1808.02215v1">Link</a></td>
+</tr>
+<tr>
+<td>Selective Sampling and Mixture Models in Generative Adversarial Networks</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1802.01568v1">Link</a></td>
+</tr>
+<tr>
+<td>Statistical Inference Attack Against PHY-layer Key Extraction and Countermeasures</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1810.00200v1">Link</a></td>
+</tr>
+<tr>
+<td>TernaryNet: Faster Deep Model Inference without GPUs for Medical 3D Segmentation using Sparse and Binary Convolutions</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1801.09449v1">Link</a></td>
+</tr>
+<tr>
+<td>Tevatron Run II combination of the effective leptonic electroweak mixing angle</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1801.06283v2">Link</a></td>
+</tr>
+<tr>
+<td>The Milky Way's total satellite population and constraining the mass of the warm dark matter particle</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1809.09625v1">Link</a></td>
+</tr>
+<tr>
+<td>The clustering of the SDSS-IV extended Baryon Oscillation Spectroscopic Survey DR14 quasar sample: structure growth rate measurement from the anisotropic quasar power spectrum in the redshift range $0.8<z<2.2$</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1801.02689v1">Link</a></td>
+</tr>
+<tr>
+<td>Thermodynamics of network model fitting with spectral entropies</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1801.06009v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Demystifying Membership Inference Attacks</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1807.09173v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards generalized noise-level dependent crystallographic symmetry classifications of more or less periodic crystal patterns</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1801.01202v1">Link</a></td>
+</tr>
+<tr>
+<td>TrISec: Training Data-Unaware Imperceptible Security Attacks on Deep Neural Networks</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.01031v3">Link</a></td>
+</tr>
+<tr>
+<td>Undermining User Privacy on Mobile Devices Using AI</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1811.11218v2">Link</a></td>
+</tr>
+<tr>
+<td>Understanding Membership Inferences on Well-Generalized Learning Models</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1802.04889v1">Link</a></td>
+</tr>
+<tr>
+<td>Variational Bayesian Monte Carlo</td>
+<td>arXiv</td>
+<td>2018</td>
+<td><a href="http://arxiv.org/abs/1810.05558v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2017"></a>
+<h3 class="year-heading">2017</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Message-Passing Algorithm for Graph Isomorphism</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1704.00395v1">Link</a></td>
+</tr>
+<tr>
+<td>A novel JEAnS analysis of the Fornax dwarf using evolutionary algorithms: mass follows light with signs of an off-centre merger</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.05724v1">Link</a></td>
+</tr>
+<tr>
+<td>A statistical model for aggregating judgments by incorporating peer predictions</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1703.04778v1">Link</a></td>
+</tr>
+<tr>
+<td>A warm or a cold early Earth? New insights from a 3-D climate-carbon model</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1706.06842v1">Link</a></td>
+</tr>
+<tr>
+<td>Accelerated Parallel Non-conjugate Sampling for Bayesian Non-parametric Models</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.07178v7">Link</a></td>
+</tr>
+<tr>
+<td>Adaptive Inferential Method for Monotone Graph Invariants</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1707.09114v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Inference in the Presence of Intractable Normalizing Functions</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1701.06619v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Item Response model: a generalised approach for the abilities' distribution using mixtures</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1708.03975v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Pairwise Estimation Under Dependent Informative Sampling</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1710.10102v1">Link</a></td>
+</tr>
+<tr>
+<td>Causality inference in stochastic systems from neurons to currencies: Profiting from small sample size</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.06384v2">Link</a></td>
+</tr>
+<tr>
+<td>Constrained Factor Models for High-Dimensional Matrix-Variate Time Series</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1710.06075v3">Link</a></td>
+</tr>
+<tr>
+<td>Construction of Latent Descriptor Space and Inference Model of Hand-Object Interactions</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1709.03739v1">Link</a></td>
+</tr>
+<tr>
+<td>Context-Aware Generative Adversarial Privacy</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1710.09549v3">Link</a></td>
+</tr>
+<tr>
+<td>Cooperative Hierarchical Dirichlet Processes: Superposition vs. Maximization</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1707.05420v1">Link</a></td>
+</tr>
+<tr>
+<td>DarkBit: A GAMBIT module for computing dark matter observables and likelihoods</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.07920v2">Link</a></td>
+</tr>
+<tr>
+<td>Decision making and uncertainty quantification for individualized treatments</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1709.07498v1">Link</a></td>
+</tr>
+<tr>
+<td>Detecting Drivable Area for Self-driving Cars: An Unsupervised Approach</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.00451v1">Link</a></td>
+</tr>
+<tr>
+<td>Discovery of statistical equivalence classes using computer algebra</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.09457v1">Link</a></td>
+</tr>
+<tr>
+<td>Dynamic Word Embeddings</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1702.08359v2">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting network topology for large-scale inference of nonlinear reaction models</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.04678v5">Link</a></td>
+</tr>
+<tr>
+<td>First SUSY results with GAMBIT</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1710.02503v1">Link</a></td>
+</tr>
+<tr>
+<td>GAMBIT: The Global and Modular Beyond-the-Standard-Model Inference Tool</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.07908v2">Link</a></td>
+</tr>
+<tr>
+<td>Higher-Order Minimum Cost Lifted Multicuts for Motion Segmentation</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1704.01811v2">Link</a></td>
+</tr>
+<tr>
+<td>How Professional Hackers Understand Protected Code while Performing Attack Tasks</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1704.02774v2">Link</a></td>
+</tr>
+<tr>
+<td>Improving Gibbs Sampler Scan Quality with DoGS</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1707.05807v1">Link</a></td>
+</tr>
+<tr>
+<td>Incomplete graphical model inference via latent tree aggregation</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.09464v2">Link</a></td>
+</tr>
+<tr>
+<td>Intermolecular correlations are necessary to explain diffuse scattering from protein crystals</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1707.05433v3">Link</a></td>
+</tr>
+<tr>
+<td>Juggling Functions Inside a Database</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1703.03147v1">Link</a></td>
+</tr>
+<tr>
+<td>Knock Knock, Who's There? Membership Inference on Aggregate Location Data</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1708.06145v2">Link</a></td>
+</tr>
+<tr>
+<td>LOGAN: Membership Inference Attacks Against Generative Models</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.07663v4">Link</a></td>
+</tr>
+<tr>
+<td>Low-dimensional Embeddings for Interpretable Anchor-based Topic Inference</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1711.06826v1">Link</a></td>
+</tr>
+<tr>
+<td>Measuring the Physical Conditions in High-Redshift Star-Forming Galaxies: Insights from KBSS-MOSFIRE</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1711.08820v2">Link</a></td>
+</tr>
+<tr>
+<td>MeshCloak: A Map-Based Approach for Personalized Location Privacy</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1709.03642v1">Link</a></td>
+</tr>
+<tr>
+<td>Missing Data and Prediction</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1704.08192v1">Link</a></td>
+</tr>
+<tr>
+<td>Modeling Cooperative Navigation in Dense Human Crowds</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.06201v1">Link</a></td>
+</tr>
+<tr>
+<td>New Techniques for Inferring L-Systems Using Genetic Algorithm</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1712.00180v2">Link</a></td>
+</tr>
+<tr>
+<td>Nudging the particle filter</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1708.07801v4">Link</a></td>
+</tr>
+<tr>
+<td>Optimizing noise level for perturbing geo-location data</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1705.02108v1">Link</a></td>
+</tr>
+<tr>
+<td>Potential Conditional Mutual Information: Estimators, Properties and Applications</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1710.05012v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1709.01604v5">Link</a></td>
+</tr>
+<tr>
+<td>Robust Hypothesis Test for Nonlinear Effect with Gaussian Processes</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1710.01406v2">Link</a></td>
+</tr>
+<tr>
+<td>SUSY Global Fits</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1708.07594v2">Link</a></td>
+</tr>
+<tr>
+<td>Scalable Inference of Ordinary Differential Equation Models of Biochemical Processes</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1711.08079v3">Link</a></td>
+</tr>
+<tr>
+<td>Side-Channel Inference Attacks on Mobile Keypads using Smartwatches</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1710.03656v1">Link</a></td>
+</tr>
+<tr>
+<td>Stacco: Differentially Analyzing Side-Channel Traces for Detecting SSL/TLS Vulnerabilities in Secure Enclaves</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1707.03473v2">Link</a></td>
+</tr>
+<tr>
+<td>Switching and Data Injection Attacks on Stochastic Cyber-Physical Systems: Modeling, Resilient Estimation and Attack Mitigation</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1707.07112v1">Link</a></td>
+</tr>
+<tr>
+<td>The p-convolution forest: a method for solving graphical models with additive probabilistic equations</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1708.06448v1">Link</a></td>
+</tr>
+<tr>
+<td>Zero-Shot Learning via Class-Conditioned Deep Generative Models</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1711.05820v2">Link</a></td>
+</tr>
+<tr>
+<td>walk2friends: Inferring Social Links from Mobility Profiles</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1708.08221v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2016"></a>
+<h3 class="year-heading">2016</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Disk-based Dynamical Constraint on the Mass of the Young Binary DQ Tau</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1601.03806v1">Link</a></td>
+</tr>
+<tr>
+<td>A Fused Latent and Graphical Model for Multivariate Binary Data</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1606.08925v1">Link</a></td>
+</tr>
+<tr>
+<td>A Model of Selective Advantage for the Efficient Inference of Cancer Clonal Evolution</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1602.07614v1">Link</a></td>
+</tr>
+<tr>
+<td>Automated deconvolution of structured mixtures from bulk tumor genomic data</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1604.02487v1">Link</a></td>
+</tr>
+<tr>
+<td>C-mix: a high dimensional mixture model for censored durations, with applications to genetic data</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1610.07407v5">Link</a></td>
+</tr>
+<tr>
+<td>Combining Random Walks and Nonparametric Bayesian Topic Model for Community Detection</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1607.05573v2">Link</a></td>
+</tr>
+<tr>
+<td>Discriminative Embeddings of Latent Variable Models for Structured Data</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1603.05629v5">Link</a></td>
+</tr>
+<tr>
+<td>Edward: A library for probabilistic modeling, inference, and criticism</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1610.09787v3">Link</a></td>
+</tr>
+<tr>
+<td>Enhanced LSTM for Natural Language Inference</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1609.06038v3">Link</a></td>
+</tr>
+<tr>
+<td>Fitting log-linear models in sparse contingency tables using the eMLEloglin R package</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1611.07505v2">Link</a></td>
+</tr>
+<tr>
+<td>Heterogeneity Adjustment with Applications to Graphical Model Inference</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1602.05455v1">Link</a></td>
+</tr>
+<tr>
+<td>Inference for log Gaussian Cox processes using an approximate marginal posterior</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1611.10359v1">Link</a></td>
+</tr>
+<tr>
+<td>Learning Dynamic Hierarchical Models for Anytime Scene Labeling</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1608.03474v1">Link</a></td>
+</tr>
+<tr>
+<td>Likelihood-based Parameter Estimation and Comparison of Dynamical Cognitive Models</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1606.07309v2">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attacks against Machine Learning Models</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1610.05820v2">Link</a></td>
+</tr>
+<tr>
+<td>Minimax Filter: Learning to Preserve Privacy from Inference Attacks</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1610.03577v3">Link</a></td>
+</tr>
+<tr>
+<td>Model distinguishability and inference robustness in mechanisms of cholera transmission and loss of immunity</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1605.06790v1">Link</a></td>
+</tr>
+<tr>
+<td>Modeling Scalability of Distributed Machine Learning</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1610.06276v2">Link</a></td>
+</tr>
+<tr>
+<td>Multivariate peaks over thresholds models</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1603.06619v3">Link</a></td>
+</tr>
+<tr>
+<td>Posterior Dispersion Indices</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1605.07604v1">Link</a></td>
+</tr>
+<tr>
+<td>Spectral entropies as information-theoretic tools for complex network comparison</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1609.01214v1">Link</a></td>
+</tr>
+<tr>
+<td>The Crossover Process: Learnability and Data Protection from Inference Attacks</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1606.04160v2">Link</a></td>
+</tr>
+<tr>
+<td>Uncertainty-Driven Black-Box Test Data Generation</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1608.03181v1">Link</a></td>
+</tr>
+<tr>
+<td>You are Who You Know and How You Behave: Attribute Inference Attacks via Users' Social Friends and Behaviors</td>
+<td>arXiv</td>
+<td>2016</td>
+<td><a href="http://arxiv.org/abs/1606.05893v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2015"></a>
+<h3 class="year-heading">2015</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Generative Word Embedding Model and its Low Rank Positive Semidefinite Solution</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1508.03826v1">Link</a></td>
+</tr>
+<tr>
+<td>Algorithmic Methods to Infer the Evolutionary Trajectories in Cancer Progression</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1509.07918v4">Link</a></td>
+</tr>
+<tr>
+<td>An End-to-End Neural Network for Polyphonic Piano Music Transcription</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1508.01774v2">Link</a></td>
+</tr>
+<tr>
+<td>An Inference Attack Model for Flow Table Capacity and Usage: Exploiting the Vulnerability of Flow Table Overflow in Software-Defined Network</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1504.03095v1">Link</a></td>
+</tr>
+<tr>
+<td>An eclipsing binary black hole candidate system in the blazar Mrk 421</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1512.01219v2">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian Estimation Under Informative Sampling</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1507.07050v4">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian mixtures of spatial spline regressions</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1508.00635v1">Link</a></td>
+</tr>
+<tr>
+<td>Deep-Spying: Spying using Smartwatch and Deep Learning</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1512.05616v1">Link</a></td>
+</tr>
+<tr>
+<td>Derivative-free optimization of rate parameters of capsid assembly models from bulk in vitro data</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1507.02148v1">Link</a></td>
+</tr>
+<tr>
+<td>FAQ: Questions Asked Frequently</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1504.04044v7">Link</a></td>
+</tr>
+<tr>
+<td>Grand canonical Peierls transition in In/Si(111)</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1509.08296v2">Link</a></td>
+</tr>
+<tr>
+<td>MOOCs Meet Measurement Theory: A Topic-Modelling Approach</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1511.07961v1">Link</a></td>
+</tr>
+<tr>
+<td>Modeling User Exposure in Recommendation</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1510.07025v2">Link</a></td>
+</tr>
+<tr>
+<td>Privacy through Fake yet Semantically Real Traces</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1505.07499v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust Bayesian model selection for heavy-tailed linear regression using finite mixtures</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1509.00331v2">Link</a></td>
+</tr>
+<tr>
+<td>SEPIA: Search for Proofs Using Inferred Automata</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1505.07987v1">Link</a></td>
+</tr>
+<tr>
+<td>Sparse Representation for 3D Shape Estimation: A Convex Relaxation Approach</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1509.04309v3">Link</a></td>
+</tr>
+<tr>
+<td>Synthesising Executable Gene Regulatory Networks from Single-cell Gene Expression Data</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1505.05193v2">Link</a></td>
+</tr>
+<tr>
+<td>The Globular Cluster System of NGC 6822</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1506.00951v1">Link</a></td>
+</tr>
+<tr>
+<td>Tree-Cut for Probabilistic Image Segmentation</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1506.03852v1">Link</a></td>
+</tr>
+<tr>
+<td>Variational Auto-encoded Deep Gaussian Processes</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1511.06455v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2014"></a>
+<h3 class="year-heading">2014</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Concept-oriented model: inference in hierarchical multidimensional space</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1409.3530v1">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Exploration of Multi-Modal Posterior Distributions</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1408.3969v1">Link</a></td>
+</tr>
+<tr>
+<td>Model Selection for Topic Models via Spectral Decomposition</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1410.6466v2">Link</a></td>
+</tr>
+<tr>
+<td>Nonparametric Latent Tree Graphical Models: Inference, Estimation, and Structure Learning</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1401.3940v1">Link</a></td>
+</tr>
+<tr>
+<td>Probabilistic inference in discrete spaces can be implemented into networks of LIF neurons</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1410.5212v2">Link</a></td>
+</tr>
+<tr>
+<td>Prolonging the Hide-and-Seek Game: Optimal Trajectory Privacy for Location-Based Services</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1409.1716v1">Link</a></td>
+</tr>
+<tr>
+<td>Protecting Locations with Differential Privacy under Temporal Correlations</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1410.5919v5">Link</a></td>
+</tr>
+<tr>
+<td>SAME but Different: Fast and High-Quality Gibbs Parameter Estimation</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1409.5402v1">Link</a></td>
+</tr>
+<tr>
+<td>Sparse and compositionally robust inference of microbial ecological networks</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1408.4158v3">Link</a></td>
+</tr>
+<tr>
+<td>Tracing the Cosmic Metal Evolution in the Low-Redshift Intergalactic Medium</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1409.6720v1">Link</a></td>
+</tr>
+<tr>
+<td>Two Novel Defenses against Motion-Based Keystroke Inference Attacks</td>
+<td>arXiv</td>
+<td>2014</td>
+<td><a href="http://arxiv.org/abs/1410.7746v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2013"></a>
+<h3 class="year-heading">2013</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Backreaction and continuum limit in a closed universe filled with black holes</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1312.0494v3">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian State-Space Modelling on High-Performance Hardware Using LibBi</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1306.3277v1">Link</a></td>
+</tr>
+<tr>
+<td>Bayesian analysis of measurement error models using INLA</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1302.3065v2">Link</a></td>
+</tr>
+<tr>
+<td>Causal Mechanism-based Model Construction</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1301.3872v1">Link</a></td>
+</tr>
+<tr>
+<td>Inference for population dynamics in the Neolithic period</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1301.1525v1">Link</a></td>
+</tr>
+<tr>
+<td>Intelligent Hybrid Man-Machine Translation Quality Estimation</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1307.1872v1">Link</a></td>
+</tr>
+<tr>
+<td>Non-parametric Bayesian modeling of complex networks</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1312.5889v1">Link</a></td>
+</tr>
+<tr>
+<td>Spin models inferred from patient data faithfully describe HIV fitness landscapes and enable rational vaccine design</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1306.2029v1">Link</a></td>
+</tr>
+<tr>
+<td>Toward Security Verification against Inference Attacks on Data Trees</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1312.4833v1">Link</a></td>
+</tr>
+<tr>
+<td>Towards Connected Enterprises: The Business Network System</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1312.7542v1">Link</a></td>
+</tr>
+<tr>
+<td>Transdimensional Approximate Bayesian Computation for Inference on Invasive Species Models with Latent Variables of Unknown Dimension</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1310.2888v3">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2012"></a>
+<h3 class="year-heading">2012</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Copula Based Bayesian Approach for Paid-Incurred Claims Models for Non-Life Insurance Reserving</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1210.3849v4">Link</a></td>
+</tr>
+<tr>
+<td>A Practical Algorithm for Topic Modeling with Provable Guarantees</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1212.4777v1">Link</a></td>
+</tr>
+<tr>
+<td>Comparing compact binary parameter distributions I: Methods</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1204.3117v1">Link</a></td>
+</tr>
+<tr>
+<td>Dependent Hierarchical Normalized Random Measures for Dynamic Topic Modeling</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1206.4671v1">Link</a></td>
+</tr>
+<tr>
+<td>Distribution of the heavy elements throughout the extended narrow line region of the Seyfert galaxy NGC 7212</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1207.1562v1">Link</a></td>
+</tr>
+<tr>
+<td>Fast Accelerated Failure Time Modeling for Case-Cohort Data</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1206.0190v1">Link</a></td>
+</tr>
+<tr>
+<td>IDS: An Incremental Learning Algorithm for Finite Automata</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1206.2691v1">Link</a></td>
+</tr>
+<tr>
+<td>Inferring Latent Structure From Mixed Real and Categorical Relational Data</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1206.6469v1">Link</a></td>
+</tr>
+<tr>
+<td>Probabilistic Theorem Proving</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1202.3724v1">Link</a></td>
+</tr>
+<tr>
+<td>Role Mining with Probabilistic Models</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1212.4775v3">Link</a></td>
+</tr>
+<tr>
+<td>Stochastic Optimal Control in Continuous Space-Time Multi-Agent Systems</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1206.6866v1">Link</a></td>
+</tr>
+<tr>
+<td>Sum-Product Networks: A New Deep Architecture</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1202.3732v1">Link</a></td>
+</tr>
+<tr>
+<td>Symbolic Planning and Control Using Game Theory and Grammatical Inference</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1210.1630v1">Link</a></td>
+</tr>
+<tr>
+<td>The Effect of Nonstationarity on Models Inferred from Neural Data</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1203.5673v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2011"></a>
+<h3 class="year-heading">2011</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Bayesian inference of galaxy formation from the K-band luminosity function of galaxies: tensions between theory and observation</td>
+<td>arXiv</td>
+<td>2011</td>
+<td><a href="http://arxiv.org/abs/1109.6658v2">Link</a></td>
+</tr>
+<tr>
+<td>Model Inference with Reference Priors</td>
+<td>arXiv</td>
+<td>2011</td>
+<td><a href="http://arxiv.org/abs/1107.2877v1">Link</a></td>
+</tr>
+<tr>
+<td>Robust estimation of latent tree graphical models: Inferring hidden states with inexact parameters</td>
+<td>arXiv</td>
+<td>2011</td>
+<td><a href="http://arxiv.org/abs/1109.4668v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2010"></a>
+<h3 class="year-heading">2010</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Conan: a platform for complex network analysis</td>
+<td>arXiv</td>
+<td>2010</td>
+<td><a href="http://arxiv.org/abs/1012.0091v1">Link</a></td>
+</tr>
+<tr>
+<td>Constraining the shape of a gravity anomalous body using reversible jump Markov chain Monte Carlo</td>
+<td>arXiv</td>
+<td>2010</td>
+<td><a href="http://arxiv.org/abs/1002.1113v3">Link</a></td>
+</tr>
+<tr>
+<td>Learning sparse representations of depth</td>
+<td>arXiv</td>
+<td>2010</td>
+<td><a href="http://arxiv.org/abs/1011.6656v2">Link</a></td>
+</tr>
+<tr>
+<td>Sparse Linear Identifiable Multivariate Modeling</td>
+<td>arXiv</td>
+<td>2010</td>
+<td><a href="http://arxiv.org/abs/1004.5265v3">Link</a></td>
+</tr>
+<tr>
+<td>Substructure lensing in galaxy clusters as a constraint on low-mass sterile neutrinos in tensor-vector-scalar theory: The straight arc of Abell 2390</td>
+<td>arXiv</td>
+<td>2010</td>
+<td><a href="http://arxiv.org/abs/1008.1963v2">Link</a></td>
+</tr>
+<tr>
+<td>The survival of dynamical fossils in dwarf spheroidal galaxies in conventional and modified dynamics</td>
+<td>arXiv</td>
+<td>2010</td>
+<td><a href="http://arxiv.org/abs/1005.2964v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2009"></a>
+<h3 class="year-heading">2009</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Collaborative Training in Sensor Networks: A graphical model approach</td>
+<td>arXiv</td>
+<td>2009</td>
+<td><a href="http://arxiv.org/abs/0907.5168v1">Link</a></td>
+</tr>
+<tr>
+<td>Estimating infectious disease parameters from data on social contacts and serological status</td>
+<td>arXiv</td>
+<td>2009</td>
+<td><a href="http://arxiv.org/abs/0907.4000v2">Link</a></td>
+</tr>
+<tr>
+<td>Fractal Characterizations of MAX Statistical Distribution in Genetic Association Studies</td>
+<td>arXiv</td>
+<td>2009</td>
+<td><a href="http://arxiv.org/abs/0909.2688v1">Link</a></td>
+</tr>
+<tr>
+<td>Optimal control as a graphical model inference problem</td>
+<td>arXiv</td>
+<td>2009</td>
+<td><a href="http://arxiv.org/abs/0901.0633v3">Link</a></td>
+</tr>
+<tr>
+<td>Statistical methods for cosmological parameter selection and estimation</td>
+<td>arXiv</td>
+<td>2009</td>
+<td><a href="http://arxiv.org/abs/0903.4210v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2008"></a>
+<h3 class="year-heading">2008</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A comparison of the Benjamini-Hochberg procedure with some Bayesian rules for multiple testing</td>
+<td>arXiv</td>
+<td>2008</td>
+<td><a href="http://arxiv.org/abs/0805.2479v1">Link</a></td>
+</tr>
+<tr>
+<td>A robust correlation between growth rate and amplitude of solar cycles: consequences for prediction methods</td>
+<td>arXiv</td>
+<td>2008</td>
+<td><a href="http://arxiv.org/abs/0806.2833v1">Link</a></td>
+</tr>
+<tr>
+<td>Approximate Bayesian computation (ABC) gives exact results under the assumption of model error</td>
+<td>arXiv</td>
+<td>2008</td>
+<td><a href="http://arxiv.org/abs/0811.3355v2">Link</a></td>
+</tr>
+<tr>
+<td>Knowledge Acquisition by Networks of Interacting Agents in the Presence of Observation Errors</td>
+<td>arXiv</td>
+<td>2008</td>
+<td><a href="http://arxiv.org/abs/0807.2031v2">Link</a></td>
+</tr>
+<tr>
+<td>Relative Entropy and Statistics</td>
+<td>arXiv</td>
+<td>2008</td>
+<td><a href="http://arxiv.org/abs/0808.4111v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2007"></a>
+<h3 class="year-heading">2007</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Is WMAP3 normalization compatible with the X-Ray cluster abundance?</td>
+<td>arXiv</td>
+<td>2007</td>
+<td><a href="http://arxiv.org/abs/0707.3230v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2004"></a>
+<h3 class="year-heading">2004</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Optimization of Bound Disjunctive Queries with Constraints</td>
+<td>arXiv</td>
+<td>2004</td>
+<td><a href="http://arxiv.org/abs/cs/0406013v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2002"></a>
+<h3 class="year-heading">2002</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Facets of confinement and dynamical chiral symmetry breaking</td>
+<td>arXiv</td>
+<td>2002</td>
+<td><a href="http://arxiv.org/abs/nucl-th/0208071v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2001"></a>
+<h3 class="year-heading">2001</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>The Physical Foundation of the Quark Model: the Quark Model as an approximation of the BCC Model</td>
+<td>arXiv</td>
+<td>2001</td>
+<td><a href="http://arxiv.org/abs/hep-ph/0106340v1">Link</a></td>
 </tr>
 </tbody></table>
 

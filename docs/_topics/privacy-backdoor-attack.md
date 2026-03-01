@@ -46,6 +46,14 @@ permalink: /privacy-backdoor-attack/
 
 </details>
 
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2024](#arxiv-2024)
+  - [2023](#arxiv-2023)
+
+</details>
+
 </details>
 
 
@@ -260,6 +268,74 @@ permalink: /privacy-backdoor-attack/
 <td>IEEE Trans. Inf. Forensics Secur.</td>
 <td>2024</td>
 <td><a href="https://doi.org/10.1109/TIFS.2023.3326983">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>ExpShield: Safeguarding Web Text from Unauthorized Crawling and LLM Exploitation</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2412.21123v3">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.01231v1">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Backdoors: Stealing Data with Corrupted Pretrained Models</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2404.00473v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2310.11397v1">Link</a></td>
 </tr>
 </tbody></table>
 

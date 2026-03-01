@@ -231,6 +231,24 @@ permalink: /model-injection-attack/
 
 </details>
 
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2026](#arxiv-2026)
+  - [2025](#arxiv-2025)
+  - [2024](#arxiv-2024)
+  - [2023](#arxiv-2023)
+  - [2022](#arxiv-2022)
+  - [2021](#arxiv-2021)
+  - [2019](#arxiv-2019)
+  - [2017](#arxiv-2017)
+  - [2015](#arxiv-2015)
+  - [2013](#arxiv-2013)
+  - [2012](#arxiv-2012)
+  - [2007](#arxiv-2007)
+
+</details>
+
 </details>
 
 
@@ -1569,6 +1587,428 @@ permalink: /model-injection-attack/
 <td>IEEE Trans. Syst. Man Cybern. Syst.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1109/TSMC.2025.3612216">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Accelerating Robotic Reinforcement Learning with Agent Guidance</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.11978v1">Link</a></td>
+</tr>
+<tr>
+<td>DynaSTy: A Framework for SpatioTemporal Node Attribute Prediction in Dynamic Graphs</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2601.05391v1">Link</a></td>
+</tr>
+<tr>
+<td>Full-Covariance Chemical Langevin Predator--Prey Diffusion with Absorbing Boundaries</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.05336v1">Link</a></td>
+</tr>
+<tr>
+<td>Generator-based Graph Generation via Heat Diffusion</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2602.03612v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>AutoSAS: a new human-aside-the-loop paradigm for automated SAS fitting for high throughput and autonomous experimentation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2506.13918v1">Link</a></td>
+</tr>
+<tr>
+<td>Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife Conservation</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2508.14342v2">Link</a></td>
+</tr>
+<tr>
+<td>IlluSign: Illustrating Sign Language Videos by Leveraging the Attention Mechanism</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2504.10822v1">Link</a></td>
+</tr>
+<tr>
+<td>Lomb-Scargle periodograms struggle with non-sinusoidal supermassive BH binary signatures in quasar lightcurves</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2505.14778v2">Link</a></td>
+</tr>
+<tr>
+<td>Robust Data Watermarking in Language Models by Injecting Fictitious Knowledge</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2503.04036v3">Link</a></td>
+</tr>
+<tr>
+<td>Short-Duration Gravitational Wave Burst Detection using Convolutional Neural Network</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2509.13241v1">Link</a></td>
+</tr>
+<tr>
+<td>Template-Free Retrosynthesis with Graph-Prior Augmented Transformers</td>
+<td>arXiv</td>
+<td>2025</td>
+<td><a href="http://arxiv.org/abs/2512.10770v2">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2406.06822v1">Link</a></td>
+</tr>
+<tr>
+<td>Dynamic Matrix Factor Models for High Dimensional Time Series</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.05624v1">Link</a></td>
+</tr>
+<tr>
+<td>Existence, Stability and Optimal Drug Dosage for a Reaction-Diffusion System Arising in a Cancer Treatment</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2408.02227v2">Link</a></td>
+</tr>
+<tr>
+<td>Feasibility of High-Resolution Transmission Spectroscopy for Low-Velocity Exoplanets</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2403.18894v1">Link</a></td>
+</tr>
+<tr>
+<td>High-Resolution Dayside Spectroscopy of WASP-189b: Detection of Iron during the GHOST/Gemini South System Verification Run</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2407.11281v1">Link</a></td>
+</tr>
+<tr>
+<td>Mind the Cost of Scaffold! Benign Clients May Even Become Accomplices of Backdoor Attack</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2411.16167v3">Link</a></td>
+</tr>
+<tr>
+<td>NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction</td>
+<td>arXiv</td>
+<td>2024</td>
+<td><a href="http://arxiv.org/abs/2410.19452v3">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2023"></a>
+<h3 class="year-heading">2023</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>ExoGemS High-Resolution Transmission Spectroscopy of WASP-76b with GRACES</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2307.16738v1">Link</a></td>
+</tr>
+<tr>
+<td>Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning</td>
+<td>arXiv</td>
+<td>2023</td>
+<td><a href="http://arxiv.org/abs/2304.10638v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Automatic Identification and Classification of Bragging in Social Media</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2203.05840v1">Link</a></td>
+</tr>
+<tr>
+<td>Guiding Visual Question Answering with Attention Priors</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2205.12616v1">Link</a></td>
+</tr>
+<tr>
+<td>Laziness, Barren Plateau, and Noise in Machine Learning</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2206.09313v1">Link</a></td>
+</tr>
+<tr>
+<td>Resilience of Wireless Ad Hoc Federated Learning against Model Poisoning Attacks</td>
+<td>arXiv</td>
+<td>2022</td>
+<td><a href="http://arxiv.org/abs/2211.03489v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2021"></a>
+<h3 class="year-heading">2021</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A numerical study of long-term multi-wavelength blazar variability</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2105.07030v2">Link</a></td>
+</tr>
+<tr>
+<td>Energetic Formulation of Large-Deformation Poroelasticity</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2112.15298v1">Link</a></td>
+</tr>
+<tr>
+<td>WIMPs Without Weakness: Generalized Mass Window with Entropy Injection</td>
+<td>arXiv</td>
+<td>2021</td>
+<td><a href="http://arxiv.org/abs/2111.11444v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2019"></a>
+<h3 class="year-heading">2019</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Asymmetric GAN for Unpaired Image-to-image Translation</td>
+<td>arXiv</td>
+<td>2019</td>
+<td><a href="http://arxiv.org/abs/1912.11660v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2017"></a>
+<h3 class="year-heading">2017</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Simulating the interaction of jets with the intra-cluster medium</td>
+<td>arXiv</td>
+<td>2017</td>
+<td><a href="http://arxiv.org/abs/1703.09223v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2015"></a>
+<h3 class="year-heading">2015</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A simple way to improve AGN feedback prescription in SPH simulations</td>
+<td>arXiv</td>
+<td>2015</td>
+<td><a href="http://arxiv.org/abs/1512.05712v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2013"></a>
+<h3 class="year-heading">2013</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Restarted inverse Born series for the Schrödinger problem with discrete internal measurements</td>
+<td>arXiv</td>
+<td>2013</td>
+<td><a href="http://arxiv.org/abs/1309.7384v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2012"></a>
+<h3 class="year-heading">2012</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Modelling injection and feedback of Cosmic Rays in grid-based cosmological simulations: effects on cluster outskirts</td>
+<td>arXiv</td>
+<td>2012</td>
+<td><a href="http://arxiv.org/abs/1201.3362v1">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="arxiv-2007"></a>
+<h3 class="year-heading">2007</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Predictions for the Cosmogenic Neutrino Flux in Light of New Data from the Pierre Auger Observatory</td>
+<td>arXiv</td>
+<td>2007</td>
+<td><a href="http://arxiv.org/abs/0709.0734v1">Link</a></td>
 </tr>
 </tbody></table>
 
