@@ -18,6 +18,7 @@ section:
 - title: IEEE Trans. Big Data
 - title: IEEE Trans. Inf. Forensics Secur.
 - title: Knowl. Based Syst.
+- title: arXiv
 IJCAI:
   '2025':
     header:
@@ -464,3 +465,47 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2024
       link: https://doi.org/10.1016/j.knosys.2024.111983
+arXiv:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Benchmarking Federated Machine Unlearning methods for Tabular Data
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.00921v1
+    - title: 'Sky of Unlearning (SoUL): Rewiring Federated Machine Unlearning via
+        Selective Pruning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.01705v1
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Unlearning during Learning: An Efficient Federated Machine Unlearning
+        Method'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2405.15474v2
+    - title: 'Update Selective Parameters: Federated Machine Unlearning Based on Model
+        Explanation'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.12516v1

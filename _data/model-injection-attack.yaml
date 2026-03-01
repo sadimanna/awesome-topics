@@ -29,6 +29,7 @@ section:
 - title: Neural Comput. Appl.
 - title: J. Artif. Intell. Res.
 - title: IEEE Trans. Syst. Man Cybern. Syst.
+- title: arXiv
 NeurIPS:
   '2024':
     header:
@@ -832,3 +833,296 @@ IEEE Trans. Syst. Man Cybern. Syst.:
       venue: IEEE Trans. Syst. Man Cybern. Syst.
       year: 2026
       link: https://doi.org/10.1109/TSMC.2025.3612216
+arXiv:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Accelerating Robotic Reinforcement Learning with Agent Guidance
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2602.11978v1
+    - title: 'DynaSTy: A Framework for SpatioTemporal Node Attribute Prediction in
+        Dynamic Graphs'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.05391v1
+    - title: Full-Covariance Chemical Langevin Predator--Prey Diffusion with Absorbing
+        Boundaries
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2602.05336v1
+    - title: Generator-based Graph Generation via Heat Diffusion
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2602.03612v1
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AutoSAS: a new human-aside-the-loop paradigm for automated SAS fitting
+        for high throughput and autonomous experimentation'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.13918v1
+    - title: 'Generative AI Against Poaching: Latent Composite Flow Matching for Wildlife
+        Conservation'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.14342v2
+    - title: 'IlluSign: Illustrating Sign Language Videos by Leveraging the Attention
+        Mechanism'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.10822v1
+    - title: Lomb-Scargle periodograms struggle with non-sinusoidal supermassive BH
+        binary signatures in quasar lightcurves
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2505.14778v2
+    - title: Robust Data Watermarking in Language Models by Injecting Fictitious Knowledge
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.04036v3
+    - title: Short-Duration Gravitational Wave Burst Detection using Convolutional
+        Neural Network
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.13241v1
+    - title: Template-Free Retrosynthesis with Graph-Prior Augmented Transformers
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2512.10770v2
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models:
+        Injecting Disguised Vulnerabilities against Strong Detection'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.06822v1
+    - title: Dynamic Matrix Factor Models for High Dimensional Time Series
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.05624v1
+    - title: Existence, Stability and Optimal Drug Dosage for a Reaction-Diffusion
+        System Arising in a Cancer Treatment
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2408.02227v2
+    - title: Feasibility of High-Resolution Transmission Spectroscopy for Low-Velocity
+        Exoplanets
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2403.18894v1
+    - title: 'High-Resolution Dayside Spectroscopy of WASP-189b: Detection of Iron
+        during the GHOST/Gemini South System Verification Run'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.11281v1
+    - title: Mind the Cost of Scaffold! Benign Clients May Even Become Accomplices
+        of Backdoor Attack
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2411.16167v3
+    - title: 'NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.19452v3
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: ExoGemS High-Resolution Transmission Spectroscopy of WASP-76b with GRACES
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2307.16738v1
+    - title: 'Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2304.10638v1
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Automatic Identification and Classification of Bragging in Social Media
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2203.05840v1
+    - title: Guiding Visual Question Answering with Attention Priors
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2205.12616v1
+    - title: Laziness, Barren Plateau, and Noise in Machine Learning
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2206.09313v1
+    - title: Resilience of Wireless Ad Hoc Federated Learning against Model Poisoning
+        Attacks
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2211.03489v1
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A numerical study of long-term multi-wavelength blazar variability
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2105.07030v2
+    - title: Energetic Formulation of Large-Deformation Poroelasticity
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2112.15298v1
+    - title: 'WIMPs Without Weakness: Generalized Mass Window with Entropy Injection'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2111.11444v1
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Asymmetric GAN for Unpaired Image-to-image Translation
+      venue: arXiv
+      year: 2019
+      link: http://arxiv.org/abs/1912.11660v1
+  '2017':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Simulating the interaction of jets with the intra-cluster medium
+      venue: arXiv
+      year: 2017
+      link: http://arxiv.org/abs/1703.09223v1
+  '2015':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A simple way to improve AGN feedback prescription in SPH simulations
+      venue: arXiv
+      year: 2015
+      link: http://arxiv.org/abs/1512.05712v1
+  '2013':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: "Restarted inverse Born series for the Schr\xF6dinger problem with discrete\
+        \ internal measurements"
+      venue: arXiv
+      year: 2013
+      link: http://arxiv.org/abs/1309.7384v1
+  '2012':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Modelling injection and feedback of Cosmic Rays in grid-based cosmological
+        simulations: effects on cluster outskirts'
+      venue: arXiv
+      year: 2012
+      link: http://arxiv.org/abs/1201.3362v1
+  '2007':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Predictions for the Cosmogenic Neutrino Flux in Light of New Data from
+        the Pierre Auger Observatory
+      venue: arXiv
+      year: 2007
+      link: http://arxiv.org/abs/0709.0734v1

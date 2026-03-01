@@ -4,6 +4,7 @@ section:
 - title: ICLR
 - title: IEEE Symposium on Security and Privacy
 - title: IEEE Trans. Inf. Forensics Secur.
+- title: arXiv
 NeurIPS:
   '2024':
     header:
@@ -129,3 +130,47 @@ IEEE Trans. Inf. Forensics Secur.:
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2024
       link: https://doi.org/10.1109/TIFS.2023.3326983
+arXiv:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ExpShield: Safeguarding Web Text from Unauthorized Crawling and LLM
+        Exploitation'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2412.21123v3
+    - title: 'Privacy Backdoors: Enhancing Membership Inference through Poisoning
+        Pre-trained Models'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.01231v1
+    - title: 'Privacy Backdoors: Stealing Data with Corrupted Pretrained Models'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.00473v1
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Last One Standing: A Comparative Analysis of Security and Privacy of
+        Soft Prompt Tuning, LoRA, and In-Context Learning'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2310.11397v1

@@ -1,5 +1,6 @@
 section:
 - title: ICLR
+- title: arXiv
 ICLR:
   '2025':
     header:
@@ -18,3 +19,31 @@ ICLR:
       venue: ICLR
       year: 2025
       link: https://openreview.net/forum?id=h7Qz1ulnvF
+arXiv:
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Brain Surgery: Ensuring GDPR Compliance in Large Language Models via
+        Concept Erasure'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2409.14603v1
+    - title: Mechanistic interpretability of large language models with applications
+        to the financial services industry
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.11215v2
+    - title: 'Soft Begging: Modular and Efficient Shielding of LLMs against Prompt
+        Injection and Jailbreaking based on Prompt Tuning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.03391v1

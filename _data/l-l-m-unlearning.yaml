@@ -13,6 +13,7 @@ section:
 - title: Neural Networks
 - title: IEEE Trans. Knowl. Data Eng.
 - title: Nat. Mac. Intell.
+- title: arXiv
 NeurIPS:
   '2024':
     header:
@@ -645,3 +646,642 @@ Nat. Mac. Intell.:
       venue: Nat. Mac. Intell.
       year: 2025
       link: https://doi.org/10.1038/s42256-025-00985-0
+arXiv:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: '$\textbf{AGT$^{AO}$}$: Robust and Stabilized LLM Unlearning via Adversarial
+        Gating Training with Adaptive Orthogonality'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2602.01703v1
+    - title: Auditing Language Model Unlearning via Information Decomposition
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.15111v1
+    - title: 'BalDRO: A Distributionally Robust Optimization based Framework for Large
+        Language Model Unlearning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.09172v2
+    - title: 'Beyond Forgetting: Machine Unlearning Elicits Controllable Side Behaviors
+        and Capabilities'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.21702v2
+    - title: 'CATNIP: LLM Unlearning via Calibrated and Tokenized Negative Preference
+        Alignment'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2602.02824v1
+    - title: 'DUET: Distilled LLM Unlearning from an Efficiently Contextualized Teacher'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.21283v1
+    - title: 'FIT: Defying Catastrophic Forgetting in Continual LLM Unlearning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.21682v1
+    - title: 'From Domains to Instances: Dual-Granularity Data Synthesis for LLM Unlearning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.04278v1
+    - title: 'From Logits to Latents: Contrastive Representation Shaping for LLM Unlearning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.22028v1
+    - title: Gauss-Newton Unlearning for the LLM Era
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2602.10568v1
+    - title: 'KUDA: Knowledge Unlearning by Deviating Representation for Large Language
+        Models'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2602.19275v2
+    - title: 'Maximizing Local Entropy Where It Matters: Prefix-Aware Localized LLM
+        Unlearning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.03190v2
+    - title: Per-parameter Task Arithmetic for Unlearning in Large Language Models
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.22030v1
+    - title: Quantization-Robust LLM Unlearning via Low-Rank Adaptation
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2602.13151v1
+    - title: Reinforcement Unlearning via Group Relative Policy Optimization
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.20568v2
+    - title: 'STaR: Sensitive Trajectory Regulation for Unlearning in Large Reasoning
+        Models'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.09281v1
+    - title: Visual-Guided Key-Token Regularization for Multimodal Large Language
+        Model Unlearning
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.22020v1
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Comprehensive Survey of Machine Unlearning Techniques for Large Language
+        Models
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.01854v2
+    - title: A General Framework to Enhance Fine-tuning-based LLM Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.17823v2
+    - title: A Neuro-inspired Interpretation of Unlearning in Large Language Models
+        through Sample-level Unlearning Difficulty
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.06658v1
+    - title: A Survey on Unlearning in Large Language Models
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.25117v2
+    - title: A mean teacher algorithm for unlearning of language models
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.13388v1
+    - title: Agents Are All You Need for LLM Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.00406v2
+    - title: 'Align-then-Unlearn: Embedding Alignment for LLM Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.13181v1
+    - title: 'BLUR: A Benchmark for LLM Unlearning Robust to Forget-Retain Overlap'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.15699v1
+    - title: 'BLUR: A Bi-Level Optimization Approach for LLM Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.08164v2
+    - title: 'Beyond Sharp Minima: Robust LLM Unlearning via Feedback-Guided Multi-Point
+        Optimization'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.20230v3
+    - title: 'Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning
+        with Cognitive Diagnosis'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.13996v1
+    - title: Bridging the Gap Between Preference Alignment and Machine Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.06659v1
+    - title: 'CLUE: Conflict-guided Localization for LLM Unlearning Framework'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.20977v1
+    - title: Collapse of Irrelevant Representations (CIR) Ensures Robust and Non-Disruptive
+        LLM Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.11816v2
+    - title: Concept Unlearning in Large Language Models via Self-Constructed Knowledge
+        Triplets
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.15621v1
+    - title: 'Constrained Entropic Unlearning: A Primal-Dual Framework for Large Language
+        Models'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.05314v2
+    - title: 'Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The Balancing
+        Act of Selective Unlearning in Large Language Models'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.04795v1
+    - title: 'DRAGON: Guard LLM Unlearning in Context via Negative Detection and Reasoning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2511.05784v2
+    - title: 'Direct Token Optimization: A Self-contained Approach to Large Language
+        Model Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.00125v1
+    - title: Distillation Robustifies Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.06278v3
+    - title: 'Distribution Preference Optimization: A Fine-grained Perspective for
+        LLM Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.04773v1
+    - title: 'Downgrade to Upgrade: Optimizer Simplification Enhances Robustness in
+        LLM Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.00761v4
+    - title: Dual-Space Smoothness for Robust and Balanced LLM Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.23362v1
+    - title: 'Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines
+        for Large Language Model Unlearning?'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2505.19855v1
+    - title: Existing Large Language Model Unlearning Evaluations Are Inconclusive
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.00688v1
+    - title: Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2505.11953v2
+    - title: 'Forgetting to Forget: Attention Sink as A Gateway for Backdooring LLM
+        Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.17021v1
+    - title: 'Forgetting-MarI: LLM Unlearning via Marginal Information Regularization'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2511.11914v3
+    - title: 'From Learning to Unlearning: Biomedical Security Protection in Multimodal
+        Large Language Models'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.04192v1
+    - title: 'GRU: Mitigating the Trade-off between Unlearning and Retention for LLMs'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.09117v3
+    - title: 'GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2505.13312v1
+    - title: 'GUARD: Guided Unlearning and Retention via Data Attribution for Large
+        Language Models'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.10946v2
+    - title: Geometric-disentangelment Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2511.17100v4
+    - title: Holistic Audit Dataset Generation for LLM Unlearning via Knowledge Graph
+        Traversal and Redundancy Removal
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.18810v1
+    - title: Improving Fisher Information Estimation and Efficiency for LoRA-based
+        LLM Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.21300v1
+    - title: Improving LLM Unlearning Robustness via Random Perturbations
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2501.19202v4
+    - title: Invariance Makes LLM Unlearning Resilient Even to Unanticipated Downstream
+        Fine-Tuning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.01339v2
+    - title: 'Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow
+        Real Instructions?'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.04292v1
+    - title: 'Keeping an Eye on LLM Unlearning: The Hidden Risk and Remedy'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.00359v1
+    - title: LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current
+        Benchmarks
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.10185v2
+    - title: LLM Unlearning Should Be Form-Independent
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.07795v1
+    - title: 'LLM Unlearning Under the Microscope: A Full-Stack View on Methods and
+        Metrics'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.07626v1
+    - title: LLM Unlearning Without an Expert Curated Dataset
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.06595v3
+    - title: 'LLM Unlearning on Noisy Forget Sets: A Study of Incomplete, Rewritten,
+        and Watermarked Data'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.09007v1
+    - title: LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise
+        Injection
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.06467v1
+    - title: LLM Unlearning via Neural Activation Redirection
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.07218v2
+    - title: LLM Unlearning with LLM Beliefs
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.19422v1
+    - title: 'LUME: LLM Unlearning with Multitask Evaluations'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.15097v3
+    - title: 'LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2512.07375v1
+    - title: Label Smoothing Improves Gradient Ascent in LLM Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.22376v1
+    - title: Large Language Model Unlearning for Source Code
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.17125v2
+    - title: 'Leak@$k$: Unlearning Does Not Make LLMs Forget Under Probabilistic Decoding'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2511.04934v2
+    - title: Not All Data Are Unlearned Equally
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.05058v6
+    - title: 'Not Every Token Needs Forgetting: Selective Unlearning to Limit Change
+        in Utility in Large Language Model Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.00876v1
+    - title: 'Oblivionis: A Lightweight Learning and Unlearning Framework for Federated
+        Large Language Models'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.08875v2
+    - title: 'OpenUnlearning: Accelerating LLM Unlearning via Unified Benchmarking
+        of Methods and Metrics'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.12618v2
+    - title: 'RULE: Reinforcement UnLEarning Achieves Forget-Retain Pareto Optimality'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.07171v1
+    - title: 'RapidUn: Influence-Driven Parameter Reweighting for Efficient Large
+        Language Model Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2512.04457v1
+    - title: 'Recover-to-Forget: Gradient Reconstruction from LoRA for Efficient LLM
+        Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2512.07374v1
+    - title: 'Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality
+        Check'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.12981v1
+    - title: 'Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go
+        Beyond'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.19301v1
+    - title: 'Reveal and Release: Iterative LLM Unlearning with Self-generated Data'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.14624v1
+    - title: 'Reviving Your MNEME: Predicting The Side Effects of LLM Unlearning and
+        Fine-Tuning via Sparse Model Diffing'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2507.21084v1
+    - title: 'Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking
+        And Normalization'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.12484v5
+    - title: 'SUA: Stealthy Multimodal Large Language Model Unlearning Attack'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.17265v2
+    - title: Scalable and Robust LLM Unlearning by Correcting Responses with Retrieved
+        Exclusions
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.25973v1
+    - title: 'SemEval-2025 Task 4: Unlearning sensitive content from Large Language
+        Models'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.02883v1
+    - title: 'SoK: Machine Unlearning for Large Language Models'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.09227v1
+    - title: Sparse-Autoencoder-Guided Internal Representation Unlearning for Large
+        Language Models
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.15631v1
+    - title: 'Standard vs. Modular Sampling: Best Practices for Reliable LLM Unlearning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.05316v1
+    - title: Towards Benign Memory Forgetting for Selective Multimodal Large Language
+        Model Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2511.20196v1
+    - title: Towards Evaluation for Real-World LLM Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.01324v1
+    - title: 'Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware
+        Minimization Perspective and Beyond'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.05374v4
+    - title: Towards Mitigating Excessive Forgetting in LLM Unlearning via Entanglement-Guidance
+        with Proxy Constraint
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.20443v2
+    - title: 'UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting
+        Targets'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.04693v1
+    - title: 'UniErase: Towards Balanced and Precise Unlearning in Language Models'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2505.15674v2
+    - title: 'Unlearning Isn''t Invisible: Detecting Unlearning Traces in LLMs from
+        Model Outputs'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.14003v3
+    - title: 'WaterDrum: Watermarking for Data-centric Unlearning Metric'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2505.05064v2
+    - title: 'When Forgetting Builds Reliability: LLM Unlearning for Reliable Hardware
+        Code Generation'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2512.05341v1
+    - title: Which Retain Set Matters for LLM Unlearning? A Case Study on Entity Unlearning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.11441v3
+    - title: 'Wisdom is Knowing What not to Say: Hallucination-Free LLMs Unlearning
+        via Attention Shifting'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.17210v2
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Closer Look at Machine Unlearning for Large Language Models
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.08109v5
+    - title: Avoiding Copyright Infringement via Large Language Model Unlearning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.10952v3
+    - title: Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity
+        Dataset
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2411.03554v3
+    - title: Catastrophic Failure of LLM Unlearning via Quantization
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.16454v3
+    - title: Classifier-free guidance in LLMs Safety
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2412.06846v1
+    - title: Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning
+        Methods
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2411.12103v3
+    - title: 'How Data Inter-connectivity Shapes LLMs Unlearning: A Structural Unlearning
+        Perspective'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.16810v2
+    - title: Investigating the Feasibility of Mitigating Potential Copyright Infringement
+        via Large Language Model Unlearning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2412.18621v1
+    - title: LLM Unlearning via Loss Adjustment with Only Forget Data
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.11143v1
+    - title: Large Language Model Unlearning via Embedding-Corrupted Prompts
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.07933v2
+    - title: 'MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2409.11844v1
+    - title: Methods to Assess the UK Government's Current Role as a Data Provider
+        for AI
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2412.09632v2
+    - title: Multi-Objective Large Language Model Unlearning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2412.20412v2
+    - title: 'Negative Preference Optimization: From Catastrophic Collapse to Effective
+        Unlearning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.05868v2
+    - title: On Effects of Steering Latent Representation for Large Language Model
+        Unlearning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2408.06223v3
+    - title: On Large Language Model Continual Unlearning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.10223v2
+    - title: 'Position: LLM Unlearning Benchmarks are Weak Measures of Progress'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.02879v2
+    - title: Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.22108v2
+    - title: 'RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language
+        Models'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.10890v1
+    - title: Rethinking Machine Unlearning for Large Language Models
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2402.08787v6
+    - title: 'Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning
+        Framework from Logit Difference'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.08607v1
+    - title: 'Revisiting Who''s Harry Potter: Towards Targeted Unlearning from a Causal
+        Intervention Perspective'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.16997v2
+    - title: 'SEUF: Is Unlearning One Expert Enough for Mixture-of-Experts LLMs?'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2411.18797v2
+    - title: 'SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.18239v4
+    - title: 'Simplicity Prevails: Rethinking Negative Preference Optimization for
+        LLM Unlearning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.07163v4
+    - title: Towards Effective Evaluations and Comparisons for LLM Unlearning Methods
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.09179v2
+    - title: 'Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing
+        and Improving Unlearning Robustness in Large Language Models'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2408.10682v1
+    - title: Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2408.06621v5
+    - title: 'Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias
+        Mitigation'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.16951v1
+    - title: Underestimated Privacy Risks for Minority Populations in Large Language
+        Model Unlearning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2412.08559v3
+    - title: 'Unveiling Entity-Level Unlearning for Large Language Models: A Comprehensive
+        Analysis'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.15796v6
+    - title: 'WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning
+        in Large Language Models'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.17509v2
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Large Language Model Unlearning
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2310.10683v2

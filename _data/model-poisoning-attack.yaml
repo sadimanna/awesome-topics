@@ -29,6 +29,7 @@ section:
 - title: Inf. Sci.
 - title: Expert Syst. Appl.
 - title: Neural Networks
+- title: arXiv
 NeurIPS:
   '2024':
     header:
@@ -1101,3 +1102,788 @@ Neural Networks:
       venue: Neural Networks
       year: 2024
       link: https://doi.org/10.1016/j.neunet.2023.10.034
+arXiv:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Beyond Denial-of-Service: The Puppeteer''s Attack for Fine-Grained Control
+        in Ranking-Based Federated Learning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.14687v1
+    - title: Byzantine-Robust Federated Learning Framework with Post-Quantum Secure
+        Aggregation for Real-Time Threat Intelligence Sharing in Critical IoT Infrastructure
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2601.01053v1
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID
+        Federated Learning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.12875v2
+    - title: 'Backdoors in Conditional Diffusion: Threats to Responsible Synthetic
+        Data Pipelines'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2507.04726v2
+    - title: 'BlindFL: Segmented Federated Learning with Fully Homomorphic Encryption'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2501.11659v1
+    - title: Byzantine-Robust Federated Learning Using Generative Adversarial Networks
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.20884v3
+    - title: 'DMPA: Model Poisoning Attacks on Decentralized Federated Learning for
+        Model Differences'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.04771v1
+    - title: 'DP2Guard: A Lightweight and Byzantine-Robust Privacy-Preserving Federated
+        Learning Scheme for Industrial IoT'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2507.16134v1
+    - title: Deep Learning based Moving Target Defence for Federated Learning against
+        Poisoning Attack in MEC Systems with a 6G Wireless Model
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.10914v1
+    - title: 'Dual Defense: Enhancing Privacy and Mitigating Poisoning Attacks in
+        Federated Learning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.05547v1
+    - title: 'EByFTVeS: Efficient Byzantine Fault Tolerant-based Verifiable Secret-sharing
+        in Distributed Privacy-preserving Machine Learning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.12899v2
+    - title: 'Fast, Private, and Protected: Safeguarding Data Privacy and Defending
+        Against Model Poisoning Attacks in Federated Learning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2511.02797v1
+    - title: 'FedGuard: A Diverse-Byzantine-Robust Mechanism for Federated Learning
+        with Major Malicious Clients'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.00636v1
+    - title: 'FedStrategist: A Meta-Learning Framework for Adaptive and Robust Aggregation
+        in Federated Learning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2507.14322v2
+    - title: 'FedUP: Efficient Pruning-based Federated Unlearning for Model Poisoning
+        Attacks'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.13853v1
+    - title: Federated Learning-Based Data Collaboration Method for Enhancing Edge
+        Cloud AI System Security Using Large Language Models
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.18087v1
+    - title: 'GRANITE : a Byzantine-Resilient Dynamic Gossip Learning Framework'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.17471v1
+    - title: Graph Representation-based Model Poisoning on Federated Large Language
+        Models
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2507.01694v2
+    - title: Graph Representation-based Model Poisoning on the Heterogeneous Internet
+        of Agents
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2511.07176v2
+    - title: Intelligent Attacks and Defense Methods in Federated Learning-enabled
+        Energy-Efficient Wireless Networks
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.18519v1
+    - title: 'KeTS: Kernel-based Trust Segmentation against Model Poisoning Attacks'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2501.06729v2
+    - title: Maximizing Uncertainty for Federated learning via Bayesian Optimisation-based
+        Model Poisoning
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2501.08002v2
+    - title: 'Not All Edges are Equally Robust: Evaluating the Robustness of Ranking-Based
+        Federated Learning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.08976v3
+    - title: On Evaluating the Poisoning Robustness of Federated Learning under Local
+        Differential Privacy
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2509.05265v1
+    - title: 'Performance Guaranteed Poisoning Attacks in Federated Learning: A Sliding
+        Mode Approach'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2505.16403v2
+    - title: Poisoning Bayesian Inference via Data Deletion and Replication
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.04480v1
+    - title: 'Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning
+        Attacks: Vulnerabilities and Countermeasures'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.23622v2
+    - title: 'REVERB-FL: Server-Side Adversarial and Reserve-Enhanced Federated Learning
+        for Robust Audio Classification'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2512.13647v1
+    - title: 'RF Sensing Security and Malicious Exploitation: A Comprehensive Survey'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2504.10969v1
+    - title: 'RepuNet: A Reputation System for Mitigating Malicious Clients in DFL'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.19892v1
+    - title: 'SLVR: Securely Leveraging Client Validation for Robust Federated Learning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.08055v1
+    - title: Scalable Hierarchical AI-Blockchain Framework for Real-Time Anomaly Detection
+        in Large-Scale Autonomous Vehicle Networks
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2511.12648v1
+    - title: 'SoK: Benchmarking Poisoning Attacks and Defenses in Federated Learning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.03801v1
+    - title: 'The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning
+        Stealthy Again'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2508.19774v1
+    - title: 'The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks
+        through Model Poisoning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2502.04106v2
+    - title: Trojan Horse Hunt in Time Series Forecasting for Space Operations
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2506.01849v1
+    - title: 'Two Heads Are Better than One: Model-Weight and Latent-Space Analysis
+        for Federated Learning on Non-iid Data against Poisoning Attacks'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2503.23288v1
+    - title: 'VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated
+        Learning'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2501.04319v1
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'A Novel Defense Against Poisoning Attacks on Federated Learning: LayerCAM
+        Augmented with Autoencoder'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.02605v1
+    - title: 'ACE: A Model Poisoning Attack on Contribution Evaluation Methods in
+        Federated Learning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2405.20975v2
+    - title: Concealing Backdoor Model Updates in Federated Learning by Trigger-Optimized
+        Data Poisoning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2405.06206v2
+    - title: 'DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation
+        in Federated Learning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2411.12220v2
+    - title: Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation
+        in Federated Learning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.14217v2
+    - title: Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.05130v1
+    - title: 'FedRDF: A Robust and Dynamic Aggregation Function against Poisoning
+        Attacks in Federated Learning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2402.10082v1
+    - title: 'HYDRA-FL: Hybrid Knowledge Distillation for Robust and Accurate Federated
+        Learning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2409.19912v3
+    - title: 'How to Defend Against Large-scale Model Poisoning Attacks in Federated
+        Learning: A Vertical Solution'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2411.10673v1
+    - title: Leverage Variational Graph Representation For Model Poisoning on Federated
+        Learning
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.15042v2
+    - title: 'Meta Stackelberg Game: Robust Federated Learning against Adaptive and
+        Mixed Poisoning Attacks'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.17431v1
+    - title: Mitigating Malicious Attacks in Federated Learning via Confidence-aware
+        Defense
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2408.02813v2
+    - title: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.15611v3
+    - title: 'Multi-Model based Federated Learning Against Model Poisoning Attack:
+        A Deep Learning Based Model Selection for MEC Systems'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2409.08237v1
+    - title: 'No Vandalism: Privacy-Preserving and Byzantine-Robust Federated Learning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2406.01080v1
+    - title: On the Hardness of Decentralized Multi-Agent Policy Evaluation under
+        Byzantine Attacks
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2409.12882v2
+    - title: 'PFAttack: Stealthy Attack Bypassing Group Fairness in Federated Learning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.06509v2
+    - title: 'Partner in Crime: Boosting Targeted Poisoning Attacks against Federated
+        Learning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.09958v2
+    - title: Poisoning Decentralized Collaborative Recommender System and Its Countermeasures
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.01177v1
+    - title: 'Resilience in Online Federated Learning: Mitigating Model-Poisoning
+        Attacks via Partial Sharing'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2403.13108v2
+    - title: Robust Federated Contrastive Recommender System against Model Poisoning
+        Attack
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2403.20107v1
+    - title: Securing Distributed Network Digital Twin Systems Against Model Poisoning
+        Attacks
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.01917v2
+    - title: 'Securing Federated Learning with Control-Flow Attestation: A Novel Framework
+        for Enhanced Integrity and Resilience against Adversarial Attacks'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2403.10005v1
+    - title: 'Securing Tomorrow''s Smart Cities: Investigating Software Security in
+        Internet of Vehicles and Deep Learning Technologies'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2407.16410v1
+    - title: 'Tazza: Shuffling Neural Network Parameters for Secure and Private Federated
+        Learning'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2412.07454v3
+    - title: pFedGame -- Decentralized Federated Learning using Game Theory in Dynamic
+        Topology
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2410.04058v1
+  '2023':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Data-Driven Defense against Edge-case Model Poisoning Attacks on Federated
+        Learning
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2305.02022v2
+    - title: A First Order Meta Stackelberg Method for Robust Federated Learning
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2306.13800v3
+    - title: A First Order Meta Stackelberg Method for Robust Federated Learning (Technical
+        Report)
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2306.13273v3
+    - title: An Analysis of Untargeted Poisoning Attack and Defense Methods for Federated
+        Online Learning to Rank Systems
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2307.01565v1
+    - title: 'Anticipatory Thinking Challenges in Open Worlds: Risk Management'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2306.13157v1
+    - title: 'CADeSH: Collaborative Anomaly Detection for Smart Homes'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2303.01021v1
+    - title: 'CATFL: Certificateless Authentication-based Trustworthy Federated Learning
+        for 6G Semantic Communications'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2302.00271v1
+    - title: Can We Trust the Similarity Measurement in Federated Learning?
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2311.03369v1
+    - title: 'Chameleon: Adapting to Peer Images for Planting Durable Backdoors in
+        Federated Learning'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2304.12961v2
+    - title: 'DISBELIEVE: Distance Between Client Models is Very Essential for Effective
+        Local Model Poisoning Attacks'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2308.07387v1
+    - title: 'Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning,
+        and the Defense Mechanisms: A Comprehensive Survey'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2312.08667v1
+    - title: 'Data-Agnostic Model Poisoning against Federated Learning: A Graph Autoencoder
+        Approach'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2311.18498v1
+    - title: 'Denial-of-Service or Fine-Grained Control: Towards Flexible Model Poisoning
+        Attacks on Federated Learning'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2304.10783v3
+    - title: Exploring the Limits of Model-Targeted Indiscriminate Data Poisoning
+        Attacks
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2303.03592v3
+    - title: FLoW3 -- Web3 Empowered Federated Learning
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2312.05459v1
+    - title: 'FedDefender: Client-Side Attack-Tolerant Federated Learning'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2307.09048v1
+    - title: 'Honest Score Client Selection Scheme: Preventing Federated Learning
+        Label Flipping Attacks in Non-IID Scenarios'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2311.05826v1
+    - title: How Potent are Evasion Attacks for Poisoning Federated Learning-Based
+        Signal Classifiers?
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2301.08866v1
+    - title: 'Identifying the Truth of Global Model: A Generic Solution to Defend
+        Against Byzantine and Backdoor Attacks in Federated Learning (full version)'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2311.10248v3
+    - title: Kick Bad Guys Out! Conditionally Activated Anomaly Detection in Federated
+        Learning with Zero-Knowledge Proof Verification
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2310.04055v6
+    - title: Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2305.08183v2
+    - title: Mitigating Evasion Attacks in Federated Learning-Based Signal Classifiers
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2306.04872v3
+    - title: 'Poster: Sponge ML Model Attacks of Mobile Apps'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2303.01243v1
+    - title: Protecting Federated Learning from Extreme Model Poisoning Attacks via
+        Multidimensional Time Series Anomaly Detection
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2303.16668v3
+    - title: 'RECESS Vaccine for Federated Learning: Proactive Defense Against Model
+        Poisoning Attacks'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2310.05431v1
+    - title: Secure Federated Learning against Model Poisoning Attacks via Client
+        Filtering
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2304.00160v2
+    - title: 'SureFED: Robust Federated Learning via Uncertainty-Aware Inward and
+        Outward Inspection'
+      venue: arXiv
+      year: 2023
+      link: http://arxiv.org/abs/2308.02747v2
+  '2022':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Streamlit-based Artificial Intelligence Trust Platform for Next-Generation
+        Wireless Networks
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2211.12851v1
+    - title: Adversarial Analysis of the Differentially-Private Federated Learning
+        in Cyber-Physical Critical Infrastructures
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2204.02654v2
+    - title: 'BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2202.02817v1
+    - title: Backdoor Attacks in Federated Learning by Rare Embeddings and Gradient
+        Ensembling
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2204.14017v2
+    - title: 'Defense Strategies Toward Model Poisoning Attacks in Federated Learning:
+        A Survey'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2202.06414v1
+    - title: 'FLDetector: Defending Federated Learning Against Model Poisoning Attacks
+        via Detecting Malicious Clients'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2207.09209v4
+    - title: 'FedCC: Robust Federated Learning against Model Poisoning Attacks'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2212.01976v4
+    - title: 'FedPerm: Private and Robust Federated Learning by Parameter Permutation'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2208.07922v1
+    - title: 'Federated Learning: Balancing the Thin Line Between Data Intelligence
+        and Privacy'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2204.13697v1
+    - title: Latency Optimization for Blockchain-Empowered Federated Learning in Multi-Server
+        Edge Computing
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2203.09670v2
+    - title: 'MPAF: Model Poisoning Attacks to Federated Learning based on Fake Clients'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2203.08669v2
+    - title: Membership Inference Attacks Against Semantic Segmentation Models
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2212.01082v1
+    - title: Performance Weighting for Robust Federated Learning Against Corrupted
+        Sources
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2205.01184v1
+    - title: 'SPIN: Simulated Poisoning and Inversion Network for Federated Learning-Based
+        6G Vehicular Networks'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2211.11321v1
+    - title: Security Analysis of SplitFed Learning
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2212.01716v1
+    - title: Semi-Targeted Model Poisoning Attack on Federated Learning via Backward
+        Error Analysis
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2203.11633v2
+    - title: Studying the Robustness of Anti-adversarial Federated Learning Models
+        Detecting Cyberattacks in IoT Spectrum Sensors
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2202.00137v1
+    - title: 'Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor
+        Attacks in Federated Learning'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2210.09305v1
+    - title: 'Towards Understanding Quality Challenges of the Federated Learning for
+        Neural Networks: A First Look from the Lens of Robustness'
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2201.01409v2
+    - title: Using Anomaly Detection to Detect Poisoning Attacks in Federated Learning
+        Applications
+      venue: arXiv
+      year: 2022
+      link: http://arxiv.org/abs/2207.08486v4
+  '2021':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Synergetic Attack against Neural Network Classifiers combining Backdoor
+        and Adversarial Examples
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2109.01275v1
+    - title: 'ARFED: Attack-Resistant Federated averaging based on outlier elimination'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2111.04550v2
+    - title: 'Back to the Drawing Board: A Critical Evaluation of Poisoning Attacks
+        on Production Federated Learning'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2108.10241v2
+    - title: Byzantine-Resilient Federated Machine Learning via Over-the-Air Computation
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2105.10883v1
+    - title: Byzantine-robust Federated Learning through Collaborative Malicious Gradient
+        Filtering
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2109.05872v2
+    - title: Check Your Other Door! Creating Backdoor Attacks in the Frequency Domain
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2109.05507v3
+    - title: 'Covert Model Poisoning Against Federated Learning: Algorithm Design
+        and Optimization'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2101.11799v1
+    - title: 'DFL: High-Performance Blockchain-Based Federated Learning'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2110.15457v2
+    - title: 'DeSMP: Differential Privacy-exploited Stealthy Model Poisoning Attacks
+        in Federated Learning'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2109.09955v1
+    - title: 'FL-WBC: Enhancing Robustness against Model Poisoning Attacks in Federated
+        Learning from a Client Perspective'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2110.13864v1
+    - title: 'FedCom: A Byzantine-Robust Local Model Aggregation Rule Using Data Commitment
+        for Federated Learning'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2104.08020v1
+    - title: 'FedRAD: Federated Robust Adaptive Distillation'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2112.01405v1
+    - title: On the Security Risks of AutoML
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2110.06018v1
+    - title: 'PRECAD: Privacy-Preserving and Robust Federated Learning via Crypto-Aided
+        Differential Privacy'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2110.11578v1
+    - title: 'PipAttack: Poisoning Federated Recommender Systems forManipulating Item
+        Promotion'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2110.10926v1
+    - title: Preventing Machine Learning Poisoning Attacks Using Authentication and
+        Provenance
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2105.10051v1
+    - title: Robust Federated Learning with Attack-Adaptive Aggregation
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2102.05257v2
+    - title: 'SAFELearning: Enable Backdoor Detectability In Federated Learning With
+        Secure Aggregation'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2102.02402v2
+    - title: 'SparseFed: Mitigating Model Poisoning Attacks in Federated Learning
+        with Sparsification'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2112.06274v1
+    - title: 'TESSERACT: Gradient Flip Score to Secure Federated Learning Against
+        Model Poisoning Attacks'
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2110.10108v1
+    - title: Turning Federated Learning Systems Into Covert Channels
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2104.10561v3
+    - title: Untargeted Poisoning Attack Detection in Federated Learning via Behavior
+        Attestation
+      venue: arXiv
+      year: 2021
+      link: http://arxiv.org/abs/2101.10904v3
+  '2020':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: '2CP: Decentralized Protocols to Transparently Evaluate Contributivity
+        in Blockchain Federated Learning Environments'
+      venue: arXiv
+      year: 2020
+      link: http://arxiv.org/abs/2011.07516v1
+    - title: 'BaFFLe: Backdoor detection via Feedback-based Federated Learning'
+      venue: arXiv
+      year: 2020
+      link: http://arxiv.org/abs/2011.02167v2
+    - title: 'Ditto: Fair and Robust Federated Learning Through Personalization'
+      venue: arXiv
+      year: 2020
+      link: http://arxiv.org/abs/2012.04221v3
+    - title: Exact Support Recovery in Federated Regression with One-shot Communication
+      venue: arXiv
+      year: 2020
+      link: http://arxiv.org/abs/2006.12583v1
+    - title: Learning to Detect Malicious Clients for Robust Federated Learning
+      venue: arXiv
+      year: 2020
+      link: http://arxiv.org/abs/2002.00211v1
+    - title: Mitigating Sybil Attacks on Differential Privacy based Federated Learning
+      venue: arXiv
+      year: 2020
+      link: http://arxiv.org/abs/2010.10572v1
+    - title: 'You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion'
+      venue: arXiv
+      year: 2020
+      link: http://arxiv.org/abs/2007.02220v3
+  '2019':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Local Model Poisoning Attacks to Byzantine-Robust Federated Learning
+      venue: arXiv
+      year: 2019
+      link: http://arxiv.org/abs/1911.11815v4
+    - title: Mixed Strategy Game Model Against Data Poisoning Attacks
+      venue: arXiv
+      year: 2019
+      link: http://arxiv.org/abs/1906.02872v1
+  '2018':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Analyzing Federated Learning through an Adversarial Lens
+      venue: arXiv
+      year: 2018
+      link: http://arxiv.org/abs/1811.12470v4
+    - title: How To Backdoor Federated Learning
+      venue: arXiv
+      year: 2018
+      link: http://arxiv.org/abs/1807.00459v3
+    - title: Mitigating Sybils in Federated Learning Poisoning
+      venue: arXiv
+      year: 2018
+      link: http://arxiv.org/abs/1808.04866v5

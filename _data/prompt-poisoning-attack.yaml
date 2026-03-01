@@ -1,5 +1,6 @@
 section:
 - title: SP
+- title: arXiv
 SP:
   '2024':
     header:
@@ -18,3 +19,42 @@ SP:
       venue: SP
       year: 2024
       link: https://doi.org/10.1109/SP54263.2024.00207
+arXiv:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Is Your Prompt Poisoning Code? Defect Induction Rates and Security Mitigation
+        Strategies
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2510.22944v1
+    - title: 'SPECTRE: Conditional System Prompt Poisoning to Hijack LLMs'
+      venue: arXiv
+      year: 2025
+      link: http://arxiv.org/abs/2505.16888v3
+  '2024':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Double Backdoored: Converting Code Large Language Model Backdoors to
+        Traditional Malware via Adversarial Instruction Tuning Attacks'
+      venue: arXiv
+      year: 2024
+      link: http://arxiv.org/abs/2404.18567v2
