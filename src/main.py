@@ -59,25 +59,52 @@ class Scaffold:
             logger.warning("Both dblp and arxiv are disabled; nothing to do.")
             return
 
-        # Load cache for DBLP to avoid duplicates across runs
-        if dblp:
-            cache_path = global_cfg["cache_path"] / "dblp_cache.yaml"
-            dblp_cache = yaml.safe_load(open(cache_path, "r")) if cache_path.exists() else {}
-        else:
-            cache_path = None
+        # Load cache for DBLP (also used to build published index when arXiv is enabled)
+        cache_path = global_cfg["cache_path"] / "dblp_cache.yaml"
+        dblp_cache = yaml.safe_load(open(cache_path, "r")) if cache_path.exists() else {}
+        if not isinstance(dblp_cache, dict):
             dblp_cache = {}
         # print(dblp_cache is None)
 
         # Load cache for arXiv to avoid duplicates across runs
         if arxiv:
             arxiv_cache_path = global_cfg["cache_path"] / "arxiv_cache.yaml"
-            arxiv_cache = yaml.safe_load(open(arxiv_cache_path, "r")) if arxiv_cache_path.exists() else {}
+            raw_arxiv_cache = yaml.safe_load(open(arxiv_cache_path, "r")) if arxiv_cache_path.exists() else {}
+
+            def normalize_arxiv_cache(raw_cache):
+                if not isinstance(raw_cache, dict):
+                    return {}
+                normalized = {}
+                for query, value in raw_cache.items():
+                    if isinstance(value, dict):
+                        normalized[query] = value
+                    elif isinstance(value, list):
+                        normalized[query] = {
+                            arxiv_id: {
+                                "title_key": "",
+                                "year": "",
+                                "last_seen": "",
+                                "published": False,
+                            }
+                            for arxiv_id in value
+                            if arxiv_id
+                        }
+                    else:
+                        normalized[query] = {}
+                return normalized
+
+            arxiv_cache = normalize_arxiv_cache(raw_arxiv_cache)
         else:
             arxiv_cache_path = None
             arxiv_cache = {}
 
-        # Build an index of existing public data to filter duplicates
+        # Build indices of existing public data
         public_index = build_public_index(self.data_out_dir) if arxiv else None
+        published_index = (
+            build_public_index(self.data_out_dir, exclude_venues={"arXiv"}) if arxiv else None
+        )
+        if published_index is not None:
+            published_index["doi"] = set()
 
         arxiv_cfg = global_cfg.get("arxiv", {}) if arxiv else {}
         arxiv_page_size = int(arxiv_cfg.get("max_results", 50)) if arxiv else 0
@@ -85,6 +112,27 @@ class Scaffold:
         arxiv_since_date = None
         if arxiv and not arxiv_cache_empty:
             arxiv_since_date = datetime.date.today() - datetime.timedelta(days=7)
+        today_str = datetime.date.today().isoformat()
+
+        # Seed published index from DBLP cache (published venues)
+        if published_index is not None and dblp_cache:
+            for items in dblp_cache.values():
+                if not isinstance(items, list):
+                    continue
+                for item in items:
+                    if not isinstance(item, dict):
+                        continue
+                    title_key = normalize_title(item.get("title", ""))
+                    year_val = str(item.get("year", ""))
+                    if title_key:
+                        published_index["title_year"].add((title_key, year_val))
+                    doi_val = (item.get("doi", "") or "").strip().lower()
+                    if doi_val:
+                        published_index["doi"].add(doi_val)
+                    link = item.get("ee") or item.get("url") or ""
+                    arxiv_id = extract_arxiv_id(link)
+                    if arxiv_id:
+                        published_index["arxiv_ids"].add(arxiv_id)
         
         aggregated_msg = ""
         total_flag = False
@@ -135,6 +183,31 @@ class Scaffold:
                     # Write to the specific YAML file in _data/
                     write_venue_yaml(new_items, target_yaml_path)
                     logger.info(f"Added {len(new_items)} items to {target_yaml_path.name}")
+                    # Update public index with DBLP items
+                    if public_index is not None:
+                        for item in new_items:
+                            title_key = (normalize_title(item.get("title", "")), str(item.get("year", "")))
+                            if title_key[0]:
+                                public_index["title_year"].add(title_key)
+                            link = item.get("ee") or item.get("url") or ""
+                            arxiv_id = extract_arxiv_id(link)
+                            if arxiv_id:
+                                public_index["arxiv_ids"].add(arxiv_id)
+
+                    # Update published index with DBLP items (published venues)
+                    if published_index is not None:
+                        for item in new_items:
+                            title_key = (normalize_title(item.get("title", "")), str(item.get("year", "")))
+                            if title_key[0]:
+                                published_index["title_year"].add(title_key)
+                            doi_val = (item.get("doi", "") or "").strip().lower()
+                            if doi_val:
+                                published_index["doi"].add(doi_val)
+                            link = item.get("ee") or item.get("url") or ""
+                            arxiv_id = extract_arxiv_id(link)
+                            if arxiv_id:
+                                published_index["arxiv_ids"].add(arxiv_id)
+
                     if env == "dev":
                         titles = [item.get("title", "").strip() for item in new_items if item.get("title")]
                         if titles:
@@ -142,17 +215,6 @@ class Scaffold:
                                 f"DBLP new papers for {temp_topic_name} ({topic_query}): "
                                 + "; ".join(titles)
                             )
-
-                        # Update public index with DBLP items
-                        if public_index is not None:
-                            for item in new_items:
-                                title_key = (normalize_title(item.get("title", "")), str(item.get("year", "")))
-                                if title_key[0]:
-                                    public_index["title_year"].add(title_key)
-                                link = item.get("ee") or item.get("url") or ""
-                                arxiv_id = extract_arxiv_id(link)
-                                if arxiv_id:
-                                    public_index["arxiv_ids"].add(arxiv_id)
 
             # ---- arXiv integration (derived from DBLP topics) ----
             if arxiv:
@@ -168,38 +230,95 @@ class Scaffold:
                         if not arxiv_items:
                             continue
 
-                        cached_ids = set(arxiv_cache.get(arxiv_query, []))
+                        cache_entry = arxiv_cache.get(arxiv_query, {})
+                        if not isinstance(cache_entry, dict):
+                            cache_entry = {}
+
+                        # Prune cached items that are now published
+                        pruned_cache = {}
+                        for cached_id, meta in cache_entry.items():
+                            if not cached_id:
+                                continue
+                            meta = meta if isinstance(meta, dict) else {}
+                            title_key = meta.get("title_key", "")
+                            year_val = str(meta.get("year", "") or "")
+                            doi_val = (meta.get("doi", "") or "").strip().lower()
+                            published_flag = bool(meta.get("published"))
+
+                            published_by_index = False
+                            if published_index is not None:
+                                if cached_id in published_index["arxiv_ids"]:
+                                    published_by_index = True
+                                elif title_key and (title_key, year_val) in published_index["title_year"]:
+                                    published_by_index = True
+                                elif doi_val and doi_val in published_index["doi"]:
+                                    published_by_index = True
+
+                            if published_flag or published_by_index:
+                                continue
+                            pruned_cache[cached_id] = meta
+
+                        cache_entry = pruned_cache
+                        arxiv_cache[arxiv_query] = cache_entry
+
                         new_items = []
-                        new_ids = []
 
                         for item in arxiv_items:
                             arxiv_id = item.get("arxiv_id")
-                            if not arxiv_id or arxiv_id in cached_ids:
+                            if not arxiv_id:
                                 continue
 
-                            title_key = (normalize_title(item.get("title", "")), str(item.get("year", "")))
-                            in_public_by_title = title_key in public_index["title_year"]
+                            title_key = normalize_title(item.get("title", ""))
+                            year_val = str(item.get("year", ""))
+                            doi_val = (item.get("doi", "") or "").strip().lower()
+
                             in_public_by_arxiv = arxiv_id in public_index["arxiv_ids"]
+
+                            published_by_index = False
+                            if published_index is not None:
+                                if arxiv_id in published_index["arxiv_ids"]:
+                                    published_by_index = True
+                                elif title_key and (title_key, year_val) in published_index["title_year"]:
+                                    published_by_index = True
+                                elif doi_val and doi_val in published_index["doi"]:
+                                    published_by_index = True
+
                             is_published = bool(item.get("doi") or item.get("journal_ref"))
 
-                            # Include if unpublished OR not already listed (dedupe by arXiv id)
-                            if is_published:
-                                if in_public_by_title or in_public_by_arxiv:
-                                    continue
-                            else:
-                                if in_public_by_arxiv:
-                                    continue
+                            if is_published or published_by_index:
+                                cache_entry.pop(arxiv_id, None)
+                                continue
+
+                            if arxiv_id in cache_entry:
+                                meta = cache_entry.get(arxiv_id, {})
+                                meta = meta if isinstance(meta, dict) else {}
+                                meta.update({
+                                    "title_key": title_key,
+                                    "year": year_val,
+                                    "last_seen": today_str,
+                                    "published": False,
+                                })
+                                if doi_val:
+                                    meta["doi"] = doi_val
+                                cache_entry[arxiv_id] = meta
+                                continue
+
+                            # Deduplicate by existing arXiv entries already in public data
+                            if in_public_by_arxiv:
+                                continue
 
                             new_items.append(item)
-                            new_ids.append(arxiv_id)
+                            cache_entry[arxiv_id] = {
+                                "title_key": title_key,
+                                "year": year_val,
+                                "last_seen": today_str,
+                                "published": False,
+                                "doi": doi_val,
+                            }
 
                         if new_items:
                             topic_new_items_found = True
                             total_flag = True
-
-                            if arxiv_query not in arxiv_cache:
-                                arxiv_cache[arxiv_query] = []
-                            arxiv_cache[arxiv_query].extend(new_ids)
 
                             # Append a brief message for CI/CD output
                             aggregated_msg += f"# {temp_topic_name} - New arXiv papers\n\n"
@@ -208,6 +327,15 @@ class Scaffold:
 
                         write_venue_yaml(new_items, target_yaml_path)
                         logger.info(f"Added {len(new_items)} arXiv items to {target_yaml_path.name}")
+                        # Update public index with new arXiv items
+                        for item in new_items:
+                            title_key = (normalize_title(item.get("title", "")), str(item.get("year", "")))
+                            if title_key[0]:
+                                public_index["title_year"].add(title_key)
+                            arxiv_id = item.get("arxiv_id")
+                            if arxiv_id:
+                                public_index["arxiv_ids"].add(arxiv_id)
+
                         if env == "dev":
                             titles = [item.get("title", "").strip() for item in new_items if item.get("title")]
                             if titles:
@@ -215,15 +343,6 @@ class Scaffold:
                                     f"arXiv new papers for {temp_topic_name} ({term}): "
                                     + "; ".join(titles)
                                 )
-
-                            # Update public index with new arXiv items
-                            for item in new_items:
-                                title_key = (normalize_title(item.get("title", "")), str(item.get("year", "")))
-                                if title_key[0]:
-                                    public_index["title_year"].add(title_key)
-                                arxiv_id = item.get("arxiv_id")
-                                if arxiv_id:
-                                    public_index["arxiv_ids"].add(arxiv_id)
 
         # 2. Save updated cache
         if dblp and cache_path is not None:

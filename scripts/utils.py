@@ -333,13 +333,23 @@ def yaml_block_to_mdtable(header, body):
     lines.append("| " + " | ".join(["---"] * len(columns)) + " |")
 
     # Create Body Rows
+    def link_label(row, link_value):
+        arxiv_id = row.get("arxiv_id")
+        if arxiv_id:
+            return arxiv_id
+        if isinstance(link_value, str) and link_value:
+            match = re.search(r"arxiv\\.org/(?:abs|pdf)/([^?#/]+)", link_value)
+            if match:
+                return match.group(1).split("v")[0]
+        return "Link"
+
     for row in body:
         vals = []
         for c in columns:
             v = row.get(c, "")
             # If the column is 'link', 'url', or 'ee', format as Markdown link
             if c in ["link", "url", "ee"] and v:
-                v = f"[Link]({v})"
+                v = f"[{link_label(row, v)}]({v})"
             vals.append(str(v).replace("|", "\\|")) # Escape pipes in text
         lines.append("| " + " | ".join(vals) + " |")
 
@@ -370,12 +380,22 @@ def yaml_block_to_htmltable(header, body):
     lines.append("</tr></thead>")
     lines.append("<tbody>")
 
+    def link_label(row, link_value):
+        arxiv_id = row.get("arxiv_id")
+        if arxiv_id:
+            return arxiv_id
+        if isinstance(link_value, str) and link_value:
+            match = re.search(r"arxiv\\.org/(?:abs|pdf)/([^?#/]+)", link_value)
+            if match:
+                return match.group(1).split("v")[0]
+        return "Link"
+
     for row in body:
         lines.append("<tr>")
         for c in cols:
             v = row.get(c, "")
             if c in ["link", "url", "ee"] and v:
-                v = f'<a href="{v}">Link</a>'
+                v = f'<a href="{v}">{link_label(row, v)}</a>'
             lines.append(f"<td>{v}</td>")
         lines.append("</tr>")
 

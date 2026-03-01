@@ -172,9 +172,10 @@ def extract_arxiv_id(link: str) -> str:
         arxiv_id = arxiv_id.split("v")[0]
     return arxiv_id
 
-def build_public_index(data_dir: Path):
+def build_public_index(data_dir: Path, exclude_venues: Optional[set] = None):
     title_year = set()
     arxiv_ids = set()
+    exclude_venues = set(exclude_venues or [])
 
     for yaml_path in data_dir.glob("*.yaml"):
         try:
@@ -184,6 +185,8 @@ def build_public_index(data_dir: Path):
 
         for venue, venue_data in data.items():
             if venue == "section" or not isinstance(venue_data, dict):
+                continue
+            if venue in exclude_venues:
                 continue
             for year, year_block in venue_data.items():
                 body = year_block.get("body", [])
@@ -195,7 +198,7 @@ def build_public_index(data_dir: Path):
                     if title:
                         title_year.add((normalize_title(title), year_val))
                     link = item.get("link") or item.get("url") or ""
-                    arxiv_id = extract_arxiv_id(link)
+                    arxiv_id = item.get("arxiv_id") or extract_arxiv_id(link)
                     if arxiv_id:
                         arxiv_ids.add(arxiv_id)
 
@@ -397,6 +400,7 @@ def write_venue_yaml(items, yaml_path):
         venue = item.get("venue", "Unknown Venue")
         year = str(item.get("year", "Unknown Year"))
         link = item.get("ee") or item.get("url")
+        arxiv_id = item.get("arxiv_id") or extract_arxiv_id(link)
 
         # Ensure section entry exists for the UI/Table of Contents
         if not any(s['title'] == venue for s in data["section"]):
@@ -416,12 +420,15 @@ def write_venue_yaml(items, yaml_path):
         existing_titles = {p["title"] for p in body}
         
         if item["title"] not in existing_titles:
-            body.append({
+            row = {
                 "title": item["title"],
                 "venue": venue,
                 "year": int(year) if year.isdigit() else year,
                 "link": link,
-            })
+            }
+            if arxiv_id:
+                row["arxiv_id"] = arxiv_id
+            body.append(row)
             body.sort(key=lambda x: x["title"])
 
     # Sort years descending
