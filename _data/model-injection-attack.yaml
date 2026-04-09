@@ -30,6 +30,7 @@ section:
 - title: J. Artif. Intell. Res.
 - title: IEEE Trans. Syst. Man Cybern. Syst.
 - title: arXiv
+- title: IEEE Trans. Intell. Transp. Syst.
 NeurIPS:
   '2024':
     header:
@@ -133,6 +134,43 @@ CVPR:
       year: 2022
       link: https://doi.org/10.1109/CVPR52688.2022.01505
 AAAI:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ACID-Style: An Adaptive Condition Injection Diffusion Model for Arbitrary
+        Style Transfer.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i14.38158
+    - title: 'Bidirectional Noise Injection: Enhancing Diffusion Models via Coordinated
+        Input-Output Perturbation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i34.40121
+    - title: 'HGLTR: Hierarchical Knowledge Injection for Calibrating Pre-trained
+        Models in Long-Tail Recognition.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i34.40116
+    - title: 'Injection Without Distortion: Geometrically Constrained Knowledge Enhancement
+        for Vision-Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i13.38066
+    - title: 'TIV: Thought Injection via Vectors for Efficient Reasoning in Large
+        Reasoning Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i36.40264
   '2025':
     header:
       title: Title
@@ -364,6 +402,16 @@ EMNLP:
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.1303
+    - title: 'Invisible Prompts, Visible Threats: Malicious Font Injection in External
+        Resources for Large Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.376/
+    - title: 'SLiNT: Structure-aware Language Model with Injection and Contrastive
+        Training for Knowledge Graph Completion.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.736/
   '2024':
     header:
       title: Title
@@ -606,6 +654,23 @@ CIKM:
       year: 2024
       link: https://doi.org/10.1145/3627673.3680102
 IEEE Trans. Inf. Forensics Secur.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Practical and Flexible Backdoor Attack Against Deep Learning Models via
+        Shell Code Injection.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3662587
   '2017':
     header:
       title: Title
@@ -728,6 +793,23 @@ IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
       year: 1999
       link: https://doi.org/10.1109/43.748160
 Expert Syst. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'SegEdit: image editing via semantic mask segmentation and shape injection
+        within diffusion model.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131222
   '2015':
     header:
       title: Title
@@ -1126,3 +1208,21 @@ arXiv:
       venue: arXiv
       year: 2007
       link: http://arxiv.org/abs/0709.0734v1
+IEEE Trans. Intell. Transp. Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Coordinated Model Free Adaptive Control for Multiple High-Speed Trains
+        Against False Data Injection Attacks and Input Constraints.
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TITS.2025.3633276

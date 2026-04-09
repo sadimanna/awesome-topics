@@ -268,6 +268,23 @@ Pattern Recognit.:
       year: 2023
       link: https://doi.org/10.1016/j.patcog.2023.109666
 Comput. Medical Imaging Graph.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Privacy-preserving multimodal fusion for Alzheimer&apos;s staging: A
+        federated vision transformer framework with explainable AI.'
+      venue: Comput. Medical Imaging Graph.
+      year: 2026
+      link: https://doi.org/10.1016/j.compmedimag.2026.102730
   '2023':
     header:
       title: Title
@@ -383,6 +400,23 @@ Expert Syst. Appl.:
       year: 2024
       link: https://doi.org/10.1016/j.eswa.2024.125097
 Neural Comput. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Explainable artificial intelligence (XAI) for efficient lung cancer diagnosis
+        using transformer-CNN hybrid with metadata fusion.
+      venue: Neural Comput. Appl.
+      year: 2026
+      link: https://doi.org/10.1007/s00521-025-11791-5
   '2025':
     header:
       title: Title
@@ -418,6 +452,11 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.132398
+    - title: 'Explainable AI: Context-aware layer-wise integrated gradients for explaining
+        transformer models.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133050
 Comput. Vis. Image Underst.:
   '2026':
     header:

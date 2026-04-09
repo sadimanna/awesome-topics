@@ -3166,6 +3166,126 @@ IJCAI:
       year: 1979
       link: https://dblp.org/rec/conf/ijcai/Kaminuma79
 AAAI:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Causal Inference Under Threshold Manipulation: Bayesian Mixture Modeling
+        and Heterogeneous Treatment Effects.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i43.40993
+    - title: 'DIAA: A Decoding-Efficient Inference Acceleration Approach for On-Device
+        Large Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i31.39789
+    - title: 'Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i14.38134
+    - title: 'FlashSVD: Memory-Efficient Inference with Streaming for Low-Rank Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39720
+    - title: 'Global Compression Commander: Plug-and-Play Inference Acceleration for
+        High-Resolution Large Vision-Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i9.37673
+    - title: 'GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal
+        Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience
+        Assessment.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i45.41178
+    - title: Inference-Aware Prompt Optimization for Aligning Black-Box Large Language
+        Models.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i38.40521
+    - title: Integral-based Knockoffs Inference for Partially Linear Models.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i31.39823
+    - title: 'Learning from Imperfect Data: Robust Inference of Dynamic Systems Using
+        Simulation-Based Generative Model.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i43.40988
+    - title: 'M2I2: Learning Efficient Multi-Agent Communication via Masked State
+        Modeling and Intention Inference.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39764
+    - title: 'Membership Inference Attack Against Large Language Model-Based Recommendation
+        Systems: A New Distillation-Based Paradigm.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i27.39449
+    - title: 'MrM: Black-Box Membership Inference Attacks Against Multimodal RAG Systems.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i40.40726
+    - title: Optimization and Robustness-Informed Membership Inference Attacks for
+        LLMs.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i39.40587
+    - title: Privacy Auditing of Multi-Domain Graph Pre-Trained Model Under Membership
+        Inference Attacks.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i18.38576
+    - title: 'Privacy Leaks by Adversaries: Adversarial Iterations for Membership
+        Inference Attack.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40912
+    - title: Probing Semantic Insensitivity for Inference-Time Backdoor Defense in
+        Multimodal Large Language Model.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40891
+    - title: Reconstruction Attack-Resistant Inference Paradigm for LLM Cloud Services.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i21.38853
+    - title: Reference Recommendation Based Membership Inference Attack Against Hybrid-Based
+        Recommender Systems.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40846
+    - title: Rethinking Membership Inference Attacks for CLIP.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i25.39276
+    - title: 'SMIDT: High-Performance Inference Framework for MoE Models with Dynamic
+        Top-K Routing.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i27.39403
+    - title: 'SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i10.37771
+    - title: 'TimeBill: Time-Budgeted Inference for Large Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i36.40317
+    - title: 'W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language
+        Models via Monte Carlo Tree Search.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i36.40306
   '2025':
     header:
       title: Title
@@ -4907,6 +5027,10 @@ ACL:
       venue: ACL
       year: 2024
       link: https://doi.org/10.18653/v1/2024.acl-long.602
+    - title: 'LinguaLinked: Distributed Large Language Model Inference on Mobile Devices.'
+      venue: ACL
+      year: 2024
+      link: https://doi.org/10.18653/v1/2024.acl-demos.16
     - title: 'Multi-Task Inference: Can Large Language Models Follow Multiple Instructions
         at Once?'
       venue: ACL
@@ -5274,11 +5398,26 @@ EMNLP:
       year: 4
       link: 60
     body:
+    - title: 'AdaptMerge: Inference Time Adaptive Visual and Language-Guided Token
+        Merging for Efficient Large Multimodal Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.387/
     - title: 'Balcony: A Lightweight Approach to Dynamic Inference of Generative Language
         Models.'
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.1263
+    - title: 'Beyond Spurious Signals: Debiasing Multimodal Large Language Models
+        via Counterfactual Inference and Adaptive Expert Routing.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.205/
+    - title: 'BiasFilter: An Inference-Time Debiasing Framework for Large Language
+        Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.821/
     - title: Context-Aware Membership Inference Attacks against Pre-trained Large
         Language Models.
       venue: EMNLP
@@ -5294,25 +5433,60 @@ EMNLP:
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.394
+    - title: Efficient Inference for Large Language Models -Algorithm, Model, and
+        System.
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-tutorials.1
+    - title: 'Evaluating Large Language Models for Belief Inference: Mapping Belief
+        Networks at Scale.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1132/
     - title: Identifying Unlearned Data in LLMs via Membership Inference Attacks.
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.551
+    - title: 'Offloaded Reasoning: Efficient Inference for Large Language Models via
+        Modular Reasoning and Refinement.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.393/
     - title: 'Phi: Preference Hijacking in Multi-modal Large Language Models at Inference
         Time.'
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.901
+    - title: 'Safeguarding Privacy of Retrieval Data against Membership Inference
+        Attacks: Is This Query Too Close to Home?'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.438/
     - title: 'SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving
         Model Transformation.'
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.1306
+    - title: 'TRACE: Training and Inference-Time Interpretability Analysis for Language
+        Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-demos.62
+    - title: 'Tag&amp;Tab: Pretraining Data Detection in Large Language Models Using
+        Keyword-Based Membership Inference Attack.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.283/
     - title: The discordance between embedded ethics and cultural inference in large
         language models.
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.743
+    - title: 'Tracing Training Footprints: A Calibration Approach for Membership Inference
+        Attacks Against Multimodal Large Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.931/
     - title: 'Train It and Forget It: Merge Lists are Unnecessary for BPE Inference
         in Language Models.'
       venue: EMNLP
@@ -5878,6 +6052,28 @@ ICDE:
       year: 2021
       link: https://doi.org/10.1109/ICDE51399.2021.00023
 ICDM:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Benchmarking Graph Construction by Large Language Models for Coherence-Driven
+        Inference.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDMW69685.2025.00116
+    - title: 'EC-LDA: Label Distribution Inference Attack Against Federated Graph
+        Learning with Embedding Compression.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00023
   '2024':
     header:
       title: Title
@@ -8193,6 +8389,40 @@ Mach. Learn.:
       year: 2008
       link: https://doi.org/10.1007/s10994-008-5066-6
 J. Mach. Learn. Res.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Decorrelated Local Linear Estimator: Inference for Non-linear Effects
+        in High-dimensional Additive Models.'
+      venue: J. Mach. Learn. Res.
+      year: 2026
+      link: https://jmlr.org/papers/v27/22-1436.html
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Fundamental Limits of Membership Inference Attacks on Machine Learning
+        Models.
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/24-1515.html
   '2024':
     header:
       title: Title
@@ -8215,6 +8445,19 @@ J. Mach. Learn. Res.:
       venue: J. Mach. Learn. Res.
       year: 2024
       link: https://jmlr.org/papers/v25/22-1258.html
+    - title: Inference on High-dimensional Single-index Models with Streaming Data.
+      venue: J. Mach. Learn. Res.
+      year: 2024
+      link: https://jmlr.org/papers/v25/22-1124.html
+    - title: Neural Bayes estimators for censored inference with peaks-over-threshold
+        models.
+      venue: J. Mach. Learn. Res.
+      year: 2024
+      link: https://jmlr.org/papers/v25/23-1134.html
+    - title: Structured Optimal Variational Inference for Dynamic Latent Space Models.
+      venue: J. Mach. Learn. Res.
+      year: 2024
+      link: https://jmlr.org/papers/v25/22-0514.html
   '2023':
     header:
       title: Title
@@ -9939,6 +10182,22 @@ IEEE Trans. Syst. Man Cybern. Part A:
       year: 2005
       link: https://doi.org/10.1109/TSMCA.2005.851128
 IEEE Trans. Emerg. Top. Comput. Intell.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Neuron Membership Inference Attack in Federated Learning for bit Scenarios.
+      venue: IEEE Trans. Emerg. Top. Comput. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TETCI.2026.3657969
   '2025':
     header:
       title: Title
@@ -10096,6 +10355,11 @@ IEEE Trans. Inf. Forensics Secur.:
       year: 4
       link: 60
     body:
+    - title: 'Casper: A Causality-Inspired Defense With Confounder Against Label Inference
+        Attacks in Vertical Split Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3652013
     - title: Practical Secure Inference Algorithm for a Fine-Tuned Large Language
         Model Based on Fully Homomorphic Encryption.
       venue: IEEE Trans. Inf. Forensics Secur.
@@ -10782,6 +11046,23 @@ Proc. VLDB Endow.:
       year: 2013
       link: http://www.vldb.org/pvldb/vol6/p769-yang.pdf
 IEEE Trans. Parallel Distributed Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MEOCI: Model Partitioning and Early-Exit Point Selection Joint Optimization
+        for Collaborative Inference in Vehicular Edge Computing.'
+      venue: IEEE Trans. Parallel Distributed Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TPDS.2026.3652171
   '2025':
     header:
       title: Title
@@ -10902,6 +11183,11 @@ IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
       year: 4
       link: 60
     body:
+    - title: POMDP-Active Inference Model for Hybrid Critical Multicore Heterogeneous
+        Scheduling.
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TCAD.2025.3592586
     - title: 'Paddle Lite on Zephyr: Deploying AI Models in RTOS for Inference Acceleration.'
       venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
       year: 2026
@@ -11559,6 +11845,23 @@ Knowl. Based Syst.:
       year: 1988
       link: https://doi.org/10.1016/0950-7051(88)90080-9
 Inf. Sci.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'T-MIA: A membership inference attack via timing side-channel and possible
+        defense scheme.'
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123317
   '2024':
     header:
       title: Title
@@ -11778,6 +12081,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.128858
+    - title: An uncertainty-aware framework integrating large language model and fuzzy
+        inference system for commonsense reasoning.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131273
     - title: 'FedCkic: A federated learning inference attack defense method based
         on centralized key agreement and integrity verification.'
       venue: Expert Syst. Appl.
@@ -12186,6 +12494,11 @@ Neural Networks:
       year: 4
       link: 60
     body:
+    - title: 'DSA-Diff: Dynamic schedule alignment for training-Inference consistent
+        modality translation in x-prediction diffusion model.'
+      venue: Neural Networks
+      year: 2026
+      link: https://doi.org/10.1016/j.neunet.2026.108611
     - title: Deep belief Markov models for POMDP inference.
       venue: Neural Networks
       year: 2026
@@ -12630,6 +12943,24 @@ Neurocomputing:
       year: 1999
       link: https://doi.org/10.1016/S0925-2312(99)00012-0
 Neural Comput. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Integration of an adaptive neuro-fuzzy inference system (ANFIS) model
+        for groundwater level prediction utilizing feature engineering techniques
+        in the training process.
+      venue: Neural Comput. Appl.
+      year: 2026
+      link: https://doi.org/10.1007/s00521-025-11761-x
   '2025':
     header:
       title: Title
@@ -12972,6 +13303,18 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.00748v1
+    - title: A Multimodal Vision Transformer-based Modeling Framework for Prediction
+        of Fluid Flows in Energy Systems
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02483v1
+      arxiv_id: '2604.02483'
+    - title: A Unified Perspective on Adversarial Membership Manipulation in Vision
+        Models
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02780v1
+      arxiv_id: '2604.02780'
     - title: A Universal Load Balancing Principle and Its Application to Large Language
         Model Serving
       venue: arXiv
@@ -13010,6 +13353,18 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.18110v1
+    - title: 'Attention Editing: A Versatile Framework for Cross-Architecture Attention
+        Conversion'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05688v1
+      arxiv_id: '2604.05688'
+    - title: 'AutoMIA: Improved Baselines for Membership Inference Attack via Agentic
+        Self-Exploration'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.01014v1
+      arxiv_id: '2604.01014'
     - title: Bagging-Based Model Merging for Robust General Text Embeddings
       venue: arXiv
       year: 2026
@@ -13018,6 +13373,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.16218v1
+    - title: 'Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated
+        Reasoning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05404v1
+      arxiv_id: '2604.05404'
     - title: 'Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling'
       venue: arXiv
       year: 2026
@@ -13047,11 +13408,23 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.05047v3
+    - title: Communication-Efficient Collaborative LLM Inference over LEO Satellite
+        Networks
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.04654v1
+      arxiv_id: '2604.04654'
     - title: Constitutive parameter inference using physics-based data-driven modeling
         in full volume datasets of intact and torn rotator cuff tendons
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.09660v1
+    - title: 'DISCO-TAB: A Hierarchical Reinforcement Learning Framework for Privacy-Preserving
+        Synthesis of Complex Clinical Data'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.01481v1
+      arxiv_id: '2604.01481'
     - title: 'DPSQL+: A Differentially Private SQL Library with a Minimum Frequency
         Rule'
       venue: arXiv
@@ -13094,6 +13467,11 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.01852v1
+    - title: Fast NF4 Dequantization Kernels for Large Language Model Inference
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02556v1
+      arxiv_id: '2604.02556'
     - title: 'FastAV: Efficient Token Pruning for Audio-Visual Large Language Model
         Inference'
       venue: arXiv
@@ -13109,6 +13487,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.00407v1
+    - title: 'FlatAttention: Dataflow and Fabric Collectives Co-Optimization for Large
+        Attention-Based Model Inference on Tile-Based Accelerators'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02110v1
+      arxiv_id: '2604.02110'
     - title: Flatter Tokens are More Valuable for Speculative Draft Model Training
       venue: arXiv
       year: 2026
@@ -13122,6 +13506,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.01056v1
+    - title: 'G-Drift MIA: Membership Inference via Gradient-Induced Feature Drift
+        in LLMs'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.00419v1
+      arxiv_id: '2604.00419'
     - title: Generalized Leverage Score for Scalable Assessment of Privacy Vulnerability
       venue: arXiv
       year: 2026
@@ -13130,6 +13520,11 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.06390v1
+    - title: 'Goose: Anisotropic Speculation Trees for Training-Free Speculative Decoding'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02047v1
+      arxiv_id: '2604.02047'
     - title: 'Grad2Reward: From Sparse Judgment to Dense Rewards for Improving Open-Ended
         LLM Reasoning'
       venue: arXiv
@@ -13152,6 +13547,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.13484v1
+    - title: 'HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large
+        Language Model Inference'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05887v1
+      arxiv_id: '2604.05887'
     - title: 'Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented
         Modification of Server-Side Generated Speculations'
       venue: arXiv
@@ -13162,6 +13563,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.02313v2
+    - title: 'InverseDraping: Recovering Sewing Patterns from 3D Garment Surfaces
+        via BoxMesh Bridging'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02764v1
+      arxiv_id: '2604.02764'
     - title: 'Jolt Atlas: Verifiable Inference via Lookup Arguments in Zero Knowledge'
       venue: arXiv
       year: 2026
@@ -13329,6 +13736,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.00942v2
+    - title: 'SERSEM: Selective Entropy-Weighted Scoring for Membership Inference
+        in Code Language Models'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.01147v1
+      arxiv_id: '2604.01147'
     - title: 'SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated
         Learning with Heterogeneous Data'
       venue: arXiv
@@ -13347,6 +13760,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.05516v1
+    - title: 'Semantic Reality: Interactive Context-Aware Visualization of Inter-Object
+        Relationships in Augmented Reality'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05265v1
+      arxiv_id: '2604.05265'
     - title: Sequential Membership Inference Attacks
       venue: arXiv
       year: 2026
@@ -13380,6 +13799,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.01150v1
+    - title: 'SteerFlow: Steering Rectified Flows for Faithful Inversion-Based Image
+        Editing'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.01715v1
+      arxiv_id: '2604.01715'
     - title: Stop Tracking Me! Proactive Defense Against Attribute Inference Attack
         in LLMs
       venue: arXiv
@@ -13419,6 +13844,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.21372v1
+    - title: 'VLA-InfoEntropy: A Training-Free Vision-Attention Information Entropy
+        Approach for Vision-Language-Action Models Inference Acceleration and Success'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05323v1
+      arxiv_id: '2604.05323'
     - title: 'ViTCoP: Accelerating Large Vision-Language Models via Visual and Textual
         Semantic Collaborative Pruning'
       venue: arXiv

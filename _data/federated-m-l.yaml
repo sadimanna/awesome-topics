@@ -5047,6 +5047,456 @@ IJCAI:
       year: 2019
       link: https://doi.org/10.24963/ijcai.2019/960
 AAAI:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Unified Self-Regulating Training Framework for Federated Deep Reinforcement
+        Learning.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39946
+    - title: 'AEFGL: Reverse Auction and Value Evaluation-Based Federated Graph Learning
+        Incentive Mechanism (Student Abstract).'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i48.42197
+    - title: 'BIQ: Bisection Interval Quantization for Communication-efficient Federated
+        Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i25.39259
+    - title: 'Bi-level Personalization for Federated Foundation Models: A Task-vector
+        Aggregation Approach.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.39991
+    - title: 'Breaking Cross-View Associations: Byzantine Model Poisoning Attack against
+        Vertical Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i48.42327
+    - title: 'Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized
+        Model Merging Approach.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i17.38472
+    - title: Causality-inspired Federated Learning for Dynamic Spatio-Temporal Graphs.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39569
+    - title: Causally-Aware Attribute Completion for Incomplete Federated Graph Clustering.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39547
+    - title: Class-Aware Active Annotation in Federated Semi-Supervised Learning for
+        Medical Image Classification.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39964
+    - title: 'CoRe-Fed: Bridging Collaborative and Representation Fairness via Federated
+        Embedding Distillation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i29.39628
+    - title: Communication-Efficient Heterogeneous Federated Learning with Sparse
+        Prototypes in Resource-Constrained Environments.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i27.39441
+    - title: 'DA-DFGAS: Differentiable Federated Graph Neural Architecture Search
+        with Distribution-Aware Attentive Aggregation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39573
+    - title: 'DSFedMed: Dual-Scale Federated Medical Image Segmentation via Mutual
+        Distillation Between Foundation and Lightweight Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i15.38239
+    - title: Data Heterogeneity and Forgotten Labels in Split Federated Learning.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i31.39794
+    - title: 'Decoupling Shared and Personalized Knowledge: A Dual-Branch Federated
+        Learning Framework for Multi-Domain with Non-IID Data.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i29.39660
+    - title: 'Divide, Conquer and Unite: Hierarchical Style-Recalibrated Prototype
+        Alignment for Federated Medical Segmentation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i34.40109
+    - title: 'DoBlock: Blocking Malicious Association Propagation for Backdoor-Robust
+        Federated Learning Under Domain Skew.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39778
+    - title: Domain-Aware Suppression and Aggregation for Federated DG ReID.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i14.38214
+    - title: Enhanced Federated Deep Multi-View Clustering Under Uncertainty Scenario.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39891
+    - title: Equilibrium-Driven Vertical Federated Learning with Selective Privacy
+        Protection.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i35.40206
+    - title: 'EvoFMVC: Trusted Federated Multi-View Clustering with Evolutionary Fusion.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40057
+    - title: 'FILTER: A Framework for Defending Against Backdoor Attacks in Vertical
+        Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40859
+    - title: Feature-Aware One-Shot Federated Learning via Hierarchical Token Sequences.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39557
+    - title: 'FedALT: Federated Fine-Tuning Through Adaptive Local Training with Rest-of-World
+        LoRA.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i24.39054
+    - title: 'FedARKS: Federated Aggregation via Robust and Discriminative Knowledge
+        Selection and Integration for Person Re-identification.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i14.38124
+    - title: 'FedAU2: Attribute Unlearning for User-Level Federated Recommender Systems
+        with Adaptive and Robust Adversarial Training.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39500
+    - title: 'FedAdamW: A Communication-Efficient Optimizer with Convergence and Generalization
+        Guarantees for Federated Large Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39549
+    - title: 'FedBRICK: Structural Bias Aware Heterogeneous Foundation Model Federated
+        Tuning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i34.40083
+    - title: 'FedCD: Towards Consolidated Distillation for Heterogeneous Federated
+        Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39494
+    - title: 'FedCure: Mitigating Participation Bias in Semi-Asynchronous Federated
+        Learning with Non-IID Data.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i25.39176
+    - title: 'FedDNA: DNA Sequence Reconstruction via Deep Evidential Learning and
+        Personalized Federated Aggregation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39524
+    - title: 'FedLAGC: Towards High Performance System-Heterogeneous Federated Learning
+        via Layer-Adaptive Submodel Extraction and Gradient Correction.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39338
+    - title: 'FedMerge: Federated Model Merging for Personalization.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i24.39113
+    - title: 'FedPKDA: Personalized Federated Learning with Privacy-Preserving Knowledge
+        Dynamic Alignment.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40037
+    - title: 'FedPM: Federated Learning Using Second-order Optimization with Preconditioned
+        Mixing of Local Parameters.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39368
+    - title: "FedP\xB2EFT: Federated Learning to Personalize PEFT for Multilingual\
+        \ LLMs."
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i27.39443
+    - title: 'FedRNC: Addressing Spatio-Temporal Label Misalignment in Federated Noisy
+        Class-Incremental Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39359
+    - title: 'FedSDA: Federated Stain Distribution Alignment for Non-IID Histopathological
+        Image Classification.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i12.37918
+    - title: 'FedSDWC: Federated Synergistic Dual-Representation Weak Causal Learning
+        for OOD.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39364
+    - title: 'FedSEA-LLaMA: A Secure, Efficient and Adaptive Federated Splitting Framework
+        for Large Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i34.40100
+    - title: 'FedShard: Federated Unlearning with Efficiency Fairness and Performance
+        Fairness.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39895
+    - title: 'FedSkeleton: Secure Multi-Party Graph Skeleton Construction for Privacy-Preserving
+        Federated Time-Series Forecasting.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i25.39210
+    - title: 'FedTopo: Topology-Informed Representation Alignment in Federated Learning
+        Under Non-I.I.D. Conditions.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39337
+    - title: Federated CLIP for Resource-Efficient Heterogeneous Medical Image Classification.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39912
+    - title: Federated Context-Aware Personalized Recommendation.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i31.39888
+    - title: Federated Cross-Modal Style-Aware Prompt Generation (Student Abstract).
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i48.42268
+    - title: Federated Graph-level Clustering Network with Attribute Inference.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39307
+    - title: Federated Incomplete Multi-View Clustering with Tensorized Low-Rank Constraint.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i25.39251
+    - title: Federated Learning Playground.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i48.42349
+    - title: Federated Linear Dueling Bandits.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39361
+    - title: Federated Vision-Language-Recommendation with Personalized Fusion.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39503
+    - title: Generalizable Heterogeneity-aware Federated Feature and Basic-matrix
+        Consistency Learning.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i27.39436
+    - title: Generic Adversarial Attack Framework Against Graph-based Vertical Federated
+        Learning.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40878
+    - title: 'Good Gradients Poison Your Model: Evading Defenses in Federated Learning
+        via Boundary-adaptive Perturbation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i16.38328
+    - title: 'HealSplit: Towards Self-Healing Through Adversarial Distillation in
+        Split Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40908
+    - title: Horizontal and Vertical Federated Causal Structure Learning via Higher-order
+        Cumulants.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i24.39116
+    - title: Incomplete Multi-View Unsupervised Federated Feature Selection via Cooperative
+        Particle Swarm Optimization and Tensor-Aligned Learning.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40005
+    - title: Inter-Client Dependency Recovery with Hidden Global Components for Federated
+        Traffic Prediction.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i34.40130
+    - title: Intra-Class Unbiased Prototype Aggregation and Classifier Collaboration
+        for Personalized Federated Learning.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i34.40113
+    - title: Investigating Social Bias Propagation in Federated Fine-tuning of Large
+        Language Models.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i46.41316
+    - title: 'LSHFed: Robust and Communication-Efficient Federated Learning with Locally-Sensitive
+        Hashing Gradient Mapping.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i25.39184
+    - title: 'MSCFL: Model Structure-Aware Clustered Federated Learning for System
+        Heterogeneity and Data Drift.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39952
+    - title: Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated
+        Domain Generalization.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i25.39177
+    - title: 'MultiKD: Backdoor Defense in Federated Graph Learning via Attention-Guided
+        Multi-Teacher Distillation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40051
+    - title: 'Neuro-Symbolic Federated Learning over Heterogeneous Data-Views: A Structured
+        Approach to Distributive EHR Modelling.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i29.39624
+    - title: 'OPTION: An Online Pricing Strategy for Asynchronous Federated Learning
+        Against Free-Riding Attacks.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i29.39653
+    - title: 'Oblivionis: A Lightweight Learning and Unlearning Framework for Federated
+        Large Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40045
+    - title: Optimal Look-back Horizon for Time Series Forecasting in Federated Learning.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39781
+    - title: 'OursFed: Provable Group Fairness-Aware Federated Learning Against Distrust
+        and Fragility.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39926
+    - title: 'PAGE: A Unified Approach for Federated Graph Unlearning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i24.39038
+    - title: 'PPFL: A Parameter Behavior-Driven Plug-in Personalization Engine for
+        Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i24.39073
+    - title: Personalized Federated Graph-Level Clustering Network.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39546
+    - title: Personalized Federated Learning with Bidirectional Communication Compression
+        via One-Bit Random Sketching.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i25.39185
+    - title: Plug-and-Play Parameter-Efficient Tuning of Embeddings for Federated
+        Recommendation.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i19.38660
+    - title: 'Poisoning with a Pill: Circumventing Detection in Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39290
+    - title: 'Prior Refinement Is Better: Diffusion-Driven Graph Harmonization for
+        Federated Graph Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i34.40163
+    - title: 'REMISVFU: Vertical Federated Unlearning via Representation Misdirection
+        for Intermediate Output Feature.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39911
+    - title: Re-architecting Personalized Federated Learning for Demanding Edge Environments.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i29.39655
+    - title: Retaliatory Attacks Against Federated Unlearning via Data Leakage.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39725
+    - title: 'Ripple Shapley: Data Influence Attribution in One Federated Training
+        Run.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40034
+    - title: 'SFedHIFI: Fire Rate-Based Heterogeneous Information Fusion for Spiking
+        Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i31.39787
+    - title: 'SMoFi: Step-wise Momentum Fusion for Split Federated Learning on Heterogeneous
+        Data.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39977
+    - title: 'Scaling Law Analysis in Federated Learning: How to Select the Optimal
+        Model Size?'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i24.39122
+    - title: 'ShadeEdit: A Utility-Preserving and Defense-Evasive Knowledge Manipulation
+        Attack in Federated LLMs.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i41.40787
+    - title: 'TOFA: Training-Free One-Shot Federated Adaptation for Vision-Language
+        Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40058
+    - title: Tackling Resource-Constrained and Data-Heterogeneity in Federated Learning
+        with Double-Weight Sparse Pack.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i32.39979
+    - title: Topological Federated Clustering via Gravitational Potential Fields Under
+        Local Differential Privacy.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39582
+    - title: 'Towards Federated Clustering: A Client-wise Private Graph Aggregation
+        Framework.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39311
+    - title: 'Towards Robust Text-Attributed Federated Graph Learning: Multimodal
+        Threats and Defense.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39732
+    - title: 'TransFR: Transferable Federated Recommendation with Adapter Tuning on
+        Pre-trained Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40048
+    - title: 'UniVarFL: Uniformity and Variance Regularized Federated Learning for
+        Heterogeneous Data (Student Abstract).'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i48.42220
+    - title: 'Venom: Liquid Diffusion-Guided Gradient Inversion for Breaking Differential
+        Privacy in Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39333
   '2025':
     header:
       title: Title
@@ -7153,6 +7603,26 @@ KDD:
       year: 2017
       link: https://doi.org/10.1145/3097983.3098118
 WSDM:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Federated Watermarking of Deep Neural Networks with Distributed Verification.
+      venue: WSDM
+      year: 2026
+      link: https://doi.org/10.1145/3773966.3777930
+    - title: Sharpness-aware Federated Graph Learning.
+      venue: WSDM
+      year: 2026
+      link: https://doi.org/10.1145/3773966.3777989
   '2025':
     header:
       title: Title
@@ -7694,16 +8164,39 @@ EMNLP:
       year: 4
       link: 60
     body:
+    - title: Can Federated Learning Safeguard Private Data in LLM Training? Vulnerabilities,
+        Attacks, and Defense Evaluation.
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1303/
     - title: 'EcoLoRA: Communication-Efficient Federated Fine-Tuning of Large Language
         Models.'
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.1046
+    - title: Enhancing Model Privacy in Federated Learning with Random Masking and
+        Quantization.
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.632/
+    - title: 'FedCoT: Federated Chain-of-Thought Distillation for Large Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.454/
+    - title: 'Federated Retrieval-Augmented Generation: A Systematic Mapping Study.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.388/
     - title: Multilingual Federated Low-Rank Adaptation for Collaborative Content
         Anomaly Detection across Multilingual Social Media Participants.
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.770
+    - title: Optimizing Cross-Client Domain Coverage for Federated Instruction Tuning
+        of Large Language Models.
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.52/
     - title: 'PPC-GPT: Federated Task-Specific Compression of Large Language Models
         via Pruning and Chain-of-Thought Distillation.'
       venue: EMNLP
@@ -7719,6 +8212,11 @@ EMNLP:
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.239
+    - title: 'pFedRAG: A Personalized Federated Retrieval-Augmented Generation System
+        with Depth-Adaptive Tiered Embedding Tuning.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.769/
   '2024':
     header:
       title: Title
@@ -8694,6 +9192,90 @@ ICDE:
       year: 1987
       link: https://doi.org/10.1109/ICDE.1987.7272414
 ICDM:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Federated Meta-Learning Approach for Transactional Risk Behavior Identification.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDMW69685.2025.00277
+    - title: A Universal Metric of Dataset Similarity for Cross-Silo Federated Learning.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00031
+    - title: An Interpretable Federated Learning Framework for Secure Genomics.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDMW69685.2025.00088
+    - title: 'Beyond Parameters: Locally-Guided Knowledge Distillation for Decentralized
+        Federated Learning.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00080
+    - title: 'ClusterSSFDA: Clustered Semi-Supervised Federated Domain Adaptation.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00120
+    - title: 'DP-FedLoRA: Privacy-Enhanced Federated Fine-Tuning for On-Device Large
+        Language Models.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00089
+    - title: 'EC-LDA: Label Distribution Inference Attack Against Federated Graph
+        Learning with Embedding Compression.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00023
+    - title: Federated Domain Generalization with Latent Space Inversion.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00072
+    - title: Federated Graph Out-of-Distribution Generalization via Representation
+        Propagation and Scattering.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00107
+    - title: 'Federated Hypergraph Learning with Local Differential Privacy: Toward
+        Privacy-Aware Hypergraph Structure Completion.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00149
+    - title: Lightweight and Robust Federated Data Valuation.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDMW69685.2025.00282
+    - title: Mining Trustworthy Symbolic Regression Models in Federated Settings.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00114
+    - title: 'POSFed: Tackling Non-IID Challenges in One-Shot Federated Learning via
+        Personalization.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00101
+    - title: Twice the Gradient, Twice the Privacy Risk in Federated Learning? A Case
+        Study of Federated Recommendation Systems.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00027
+    - title: 'X4FL: Explainability for Federated Learning in ICU Mortality Prediction.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDMW69685.2025.00098
+    - title: 'fair-LDP: Uncertainty-Guided Fairness and Privacy for Federated Healthcare
+        Learning.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00020
   '2024':
     header:
       title: Title
@@ -11129,6 +11711,10 @@ SP:
       venue: SP
       year: 2023
       link: https://doi.org/10.1109/SP46215.2023.10179401
+    - title: 'ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems.'
+      venue: SP
+      year: 2023
+      link: https://doi.org/10.1109/SP46215.2023.10179446
     - title: 'BayBFed: Bayesian Backdoor Defense for Federated Learning.'
       venue: SP
       year: 2023
@@ -12876,11 +13462,24 @@ Mach. Learn.:
       year: 4
       link: 60
     body:
+    - title: 'FDGReID: Federated Domain Generalization for Person Re-identification.'
+      venue: Mach. Learn.
+      year: 2026
+      link: https://doi.org/10.1007/s10994-025-06974-z
+    - title: 'FedBNR: A Fully Global Federated Gaussian Process.'
+      venue: Mach. Learn.
+      year: 2026
+      link: https://doi.org/10.1007/s10994-025-06936-5
     - title: 'FedGES: A Federated Learning Approach for Bayesian Network Structure
         Learning.'
       venue: Mach. Learn.
       year: 2026
       link: https://doi.org/10.1007/s10994-025-06939-2
+    - title: 'Federated SHAP: Privacy-Preserving and Consistent Post-hoc Explainability
+        in Federated Learning.'
+      venue: Mach. Learn.
+      year: 2026
+      link: https://doi.org/10.1007/s10994-025-06956-1
   '2025':
     header:
       title: Title
@@ -13009,6 +13608,45 @@ Mach. Learn.:
       year: 2022
       link: https://doi.org/10.1007/s10994-022-06267-9
 J. Mach. Learn. Res.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Adaptive Client Sampling in Federated Learning via Online Learning with
+        Bandit Feedback.
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/24-0385.html
+    - title: Client Selection for Federated Policy Optimization with Environment Heterogeneity.
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/24-0233.html
+    - title: 'FedHB: Hierarchical Bayesian Federated Learning.'
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/23-1350.html
+    - title: 'PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated
+        Learning Library and Benchmark.'
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/23-1634.html
+    - title: Sharp Bounds for Sequential Federated Learning on Heterogeneous Data.
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/24-0668.html
+    - title: 'The Blessing of Heterogeneity in Federated Q-Learning: Linear Speedup
+        and Beyond.'
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/24-0579.html
   '2024':
     header:
       title: Title
@@ -13021,11 +13659,30 @@ J. Mach. Learn. Res.:
       year: 4
       link: 60
     body:
+    - title: 'A Random Projection Approach to Personalized Federated Learning: Enhancing
+        Communication Efficiency, Robustness, and Fairness.'
+      venue: J. Mach. Learn. Res.
+      year: 2024
+      link: https://jmlr.org/papers/v25/23-0215.html
+    - title: 'Compressed and distributed least-squares regression: convergence rates
+        with applications to federated learning.'
+      venue: J. Mach. Learn. Res.
+      year: 2024
+      link: https://jmlr.org/papers/v25/23-1040.html
+    - title: 'Countering the Communication Bottleneck in Federated Learning: A Highly
+        Efficient Zero-Order Optimization Technique.'
+      venue: J. Mach. Learn. Res.
+      year: 2024
+      link: https://jmlr.org/papers/v25/24-1189.html
     - title: 'FedCBO: Reaching Group Consensus in Clustered Federated Learning through
         Consensus-based Optimization.'
       venue: J. Mach. Learn. Res.
       year: 2024
       link: https://jmlr.org/papers/v25/23-0764.html
+    - title: Federated Automatic Differentiation.
+      venue: J. Mach. Learn. Res.
+      year: 2024
+      link: https://jmlr.org/papers/v25/23-0223.html
   '2023':
     header:
       title: Title
@@ -13095,10 +13752,46 @@ IEEE Trans. Pattern Anal. Mach. Intell.:
       year: 4
       link: 60
     body:
+    - title: A Bayesian Framework for Clustered Federated Learning.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3637562
+    - title: Adaptive Batch Size Time Evolving Stochastic Gradient Descent for Federated
+        Learning.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3610169
     - title: Communication-Efficient Federated Multi-View Clustering.
       venue: IEEE Trans. Pattern Anal. Mach. Intell.
       year: 2026
       link: https://doi.org/10.1109/TPAMI.2025.3601533
+    - title: Decentralized Federated Learning With Distributed Aggregation Weight
+        Optimization.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3640709
+    - title: 'Exploring the Vulnerabilities of Federated Learning: A Deep Dive Into
+        Gradient Inversion Attacks.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3646639
+    - title: 'FedFask: Fast Sketching Distributed PCA for Large-Scale Federated Data.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3639635
+    - title: Sample-Level Prototypical Federated Learning.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3612302
+    - title: Slack Federated Adversarial Training.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3646649
+    - title: Toward Understanding Generalization and Stability Gaps Between Centralized
+        and Decentralized Federated Learning.
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3647762
   '2025':
     header:
       title: Title
@@ -13267,6 +13960,28 @@ IEEE Trans. Pattern Anal. Mach. Intell.:
       year: 2022
       link: https://doi.org/10.1109/TPAMI.2020.3033286
 IEEE Trans. Image Process.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MambaFedCD: Spatial-Spectral-Temporal Collaborative Mamba-Based Active
+        Federated Hyperspectral Change Detection.'
+      venue: IEEE Trans. Image Process.
+      year: 2026
+      link: https://doi.org/10.1109/TIP.2026.3658212
+    - title: Token-Level Prompt Mixture With Parameter-Free Routing for Federated
+        Domain Generalization.
+      venue: IEEE Trans. Image Process.
+      year: 2026
+      link: https://doi.org/10.1109/TIP.2026.3652431
   '2025':
     header:
       title: Title
@@ -13306,6 +14021,33 @@ IEEE Trans. Image Process.:
       year: 2023
       link: https://doi.org/10.1109/TIP.2023.3237014
 IEEE Trans. Signal Process.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Multi-Token Coordinate Descent Method for Semi-Decentralized Vertical
+        Federated Learning.
+      venue: IEEE Trans. Signal Process.
+      year: 2026
+      link: https://doi.org/10.1109/TSP.2026.3652487
+    - title: A Novel Privacy Enhancement Scheme with Dynamic Quantization for Federated
+        Learning.
+      venue: IEEE Trans. Signal Process.
+      year: 2026
+      link: https://doi.org/10.1109/TSP.2026.3653846
+    - title: 'FedCanon: Non-Convex Composite Federated Learning With Efficient Proximal
+        Operation on Heterogeneous Data.'
+      venue: IEEE Trans. Signal Process.
+      year: 2026
+      link: https://doi.org/10.1109/TSP.2025.3642025
   '2025':
     header:
       title: Title
@@ -13648,6 +14390,11 @@ IEEE Trans. Neural Networks Learn. Syst.:
       year: 4
       link: 60
     body:
+    - title: 'An Empirical Study of Federated Learning on IoT-Edge Devices: Resource
+        Allocation and Heterogeneity.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TNNLS.2025.3611415
     - title: Contrastive Federated Learning for Graph Anomaly Detection.
       venue: IEEE Trans. Neural Networks Learn. Syst.
       year: 2026
@@ -13657,6 +14404,21 @@ IEEE Trans. Neural Networks Learn. Syst.:
       venue: IEEE Trans. Neural Networks Learn. Syst.
       year: 2026
       link: https://doi.org/10.1109/TNNLS.2025.3601078
+    - title: 'FedMKD: Hybrid Feature Guided Multilayer Fusion Knowledge Distillation
+        in Heterogeneous Federated Learning.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TNNLS.2025.3615230
+    - title: 'FedMPS: Federated Learning in a Synergy of Multi-Level Prototype-Based
+        Contrastive Learning and Soft Label Generation.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TNNLS.2025.3611832
+    - title: 'FedNK-RF: Federated Kernel Learning With Heterogeneous Data and Optimal
+        Rates.'
+      venue: IEEE Trans. Neural Networks Learn. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TNNLS.2025.3612728
     - title: 'Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative
         in Federated Learning.'
       venue: IEEE Trans. Neural Networks Learn. Syst.
@@ -14211,11 +14973,30 @@ IEEE Trans. Artif. Intell.:
       year: 4
       link: 60
     body:
+    - title: 'AR2FL: Anomaly-Resistant Robust Framework for Federated Learning.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TAI.2025.3592635
+    - title: 'FedImp: Enhancing Federated Learning Convergence With Impurity-Based
+        Weighting.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TAI.2025.3605307
+    - title: Refined Two-Sided Learning Rate Tuning for Robust Evaluation in Federated
+        Learning.
+      venue: IEEE Trans. Artif. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TAI.2025.3585090
     - title: Robust Peer-to-Peer Federated Learning With Deep Reinforcement Learning
         Based Client Selection Against Data Poisoning Attacks.
       venue: IEEE Trans. Artif. Intell.
       year: 2026
       link: https://doi.org/10.1109/TAI.2025.3571872
+    - title: 'Stragglers Reimagined: Explainability-Driven Adaptive Federated Learning
+        for Resource Constrained IoMT System.'
+      venue: IEEE Trans. Artif. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TAI.2025.3590703
     - title: 'pFedBL: Federated Bayesian Learning With Personalized Prior.'
       venue: IEEE Trans. Artif. Intell.
       year: 2026
@@ -14478,6 +15259,15 @@ IEEE Trans. Knowl. Data Eng.:
       venue: IEEE Trans. Knowl. Data Eng.
       year: 2026
       link: https://doi.org/10.1109/TKDE.2025.3629816
+    - title: Toward Federated Learning of Deep Graph Neural Networks.
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2026
+      link: https://doi.org/10.1109/TKDE.2026.3652029
+    - title: 'pFedMoE: Data-Level Personalization With Mixture of Experts in Model-Heterogeneous
+        Personalized Federated Learning.'
+      venue: IEEE Trans. Knowl. Data Eng.
+      year: 2026
+      link: https://doi.org/10.1109/TKDE.2026.3656194
   '2025':
     header:
       title: Title
@@ -14803,6 +15593,10 @@ IEEE Trans. Big Data:
       venue: IEEE Trans. Big Data
       year: 2026
       link: https://doi.org/10.1109/TBDATA.2025.3604177
+    - title: Toward Federated Learning Against Noisy Clients via CLIP-Guided Prototypes.
+      venue: IEEE Trans. Big Data
+      year: 2026
+      link: https://doi.org/10.1109/TBDATA.2025.3630997
   '2025':
     header:
       title: Title
@@ -15170,6 +15964,28 @@ IEEE Trans. Big Data:
       year: 2020
       link: https://doi.org/10.1109/TBDATA.2017.2703830
 IEEE Trans. Cybern.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Addressing Client Drift in Federated Learning via Class-Prototype Similarity
+        Distillation and Adaptive Mask.
+      venue: IEEE Trans. Cybern.
+      year: 2026
+      link: https://doi.org/10.1109/TCYB.2025.3632546
+    - title: Federated Learning Adaptive Dynamic Programming for Massive Multiagent
+        Mean-Field Games-Based Optimal Consensus.
+      venue: IEEE Trans. Cybern.
+      year: 2026
+      link: https://doi.org/10.1109/TCYB.2025.3606528
   '2025':
     header:
       title: Title
@@ -15485,6 +16301,19 @@ IEEE Trans. Syst. Man Cybern. Syst.:
       year: 4
       link: 60
     body:
+    - title: 'Asynchronous Federated Learning: A Scalable Approach for Decentralized
+        Machine Learning.'
+      venue: IEEE Trans. Syst. Man Cybern. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TSMC.2025.3648504
+    - title: Causal Federated Graph Neural Networks for Multiobjective Facility Location.
+      venue: IEEE Trans. Syst. Man Cybern. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TSMC.2025.3647753
+    - title: Information Leakage and Privacy Protection in Industrial Federated Learning.
+      venue: IEEE Trans. Syst. Man Cybern. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TSMC.2025.3633589
     - title: 'PfoPG: A Personalized Federated First-Order Policy Gradient Algorithm
         and Its Nonasymptotic Analysis.'
       venue: IEEE Trans. Syst. Man Cybern. Syst.
@@ -15575,6 +16404,41 @@ IEEE Trans. Syst. Man Cybern. Syst.:
       year: 2023
       link: https://doi.org/10.1109/TSMC.2023.3286485
 IEEE Trans. Emerg. Top. Comput. Intell.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'FU-PA: Federated Unlearning via Parameters Adjustment.'
+      venue: IEEE Trans. Emerg. Top. Comput. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TETCI.2025.3576117
+    - title: 'FedSD: A Communication-Efficient Federated Learning Method With Scaled
+        Stochastic Quantization and Dynamic Caching Mechanism.'
+      venue: IEEE Trans. Emerg. Top. Comput. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TETCI.2025.3595745
+    - title: Heterogeneity-Aware Federated Graph Neural Networks for Incomplete Multi-View
+        Clustering.
+      venue: IEEE Trans. Emerg. Top. Comput. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TETCI.2025.3579270
+    - title: Incentive Mechanism for Heterogeneous Federated Learning With Budget
+        Constraint.
+      venue: IEEE Trans. Emerg. Top. Comput. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TETCI.2025.3592252
+    - title: Neuron Membership Inference Attack in Federated Learning for bit Scenarios.
+      venue: IEEE Trans. Emerg. Top. Comput. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TETCI.2026.3657969
   '2025':
     header:
       title: Title
@@ -15777,6 +16641,33 @@ IEEE Trans. Emerg. Top. Comput. Intell.:
       year: 2022
       link: https://doi.org/10.1109/TETCI.2022.3146871
 IEEE Trans. Emerg. Top. Comput.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Breakout Local Search for Load-Balanced Federated Learning in Multi-BS
+        Networks.
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2026
+      link: https://doi.org/10.1109/TETC.2026.3667101
+    - title: 'FairRFL: Fair and Robust Federated Learning in the Presence of Selfish
+        Clients.'
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2026
+      link: https://doi.org/10.1109/TETC.2026.3661199
+    - title: 'Robust Model Aggregation for Heterogeneous Federated Learning: Analysis
+        and Optimizations.'
+      venue: IEEE Trans. Emerg. Top. Comput.
+      year: 2026
+      link: https://doi.org/10.1109/TETC.2025.3647650
   '2025':
     header:
       title: Title
@@ -15901,6 +16792,38 @@ IEEE Trans. Emerg. Top. Comput.:
       year: 2022
       link: https://doi.org/10.1109/TETC.2022.3159282
 IEEE Trans. Intell. Transp. Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Dynamic Optimization of Vehicle Production Planning in Transportation
+        Networks Using Federated Reinforcement Learning.
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TITS.2024.3522523
+    - title: 'Eliminate Conflicts and Attacks: Fair and Robust Federated Learning
+        for Anomaly Detection of Charging Stations.'
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TITS.2025.3579885
+    - title: Federated Deep Reinforcement Learning for Combating Cyber-Threats Specific
+        to EV Charging in Next-Gen WPT Infrastructure.
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TITS.2025.3569065
+    - title: Scenario-Driven Federated Reinforcement Learning Autonomous Driving System
+        With High Generalizability.
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TITS.2025.3639265
   '2025':
     header:
       title: Title
@@ -15913,6 +16836,11 @@ IEEE Trans. Intell. Transp. Syst.:
       year: 4
       link: 60
     body:
+    - title: A Multi-Agent Federated DRL Model for Vehicular Task Offloading in WPT-Aided
+        eROAD Environment.
+      venue: IEEE Trans. Intell. Transp. Syst.
+      year: 2025
+      link: https://doi.org/10.1109/tits.2025.3537983
     - title: A Multi-Agent Federated Reinforcement Learning-Based Cooperative Vehicle-Infrastructure
         Control Approach Framework for Roundabouts.
       venue: IEEE Trans. Intell. Transp. Syst.
@@ -16422,11 +17350,121 @@ IEEE Trans. Inf. Forensics Secur.:
       year: 4
       link: 60
     body:
+    - title: A Differentially Private Quadrature Amplitude Modulation Mechanism for
+        Federated Analytics.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3671100
+    - title: 'A Wolf in Sheep&apos;s Clothing: Unveiling a Stealthy Backdoor Attack
+        in Subgraph Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3659045
+    - title: 'Backdoor Detection in Federated Learning With Feature Map: A Multi-Task
+        Learning Perspective.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3655920
+    - title: 'Building Trust Beyond Update Divergence: Dual-Refined Aggregation for
+        Byzantine-Robust Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3650413
+    - title: 'Casper: A Causality-Inspired Defense With Confounder Against Label Inference
+        Attacks in Vertical Split Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3652013
+    - title: 'Catch Me If You Can: Retain High Stealthiness and Durability of Backdoor
+        Attack in Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3639885
+    - title: 'DeSA: Decentralized Secure Aggregation for Federated Learning in Zero-Trust
+        D2D Networks.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3658996
+    - title: Efficient Byzantine-Robust Privacy-Preserving Federated Learning via
+        Dimension Compression.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3671104
+    - title: 'EndPCA: Ensemble Defense With Provably Convergent Aggregation Against
+        Poisoning Attacks in Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3655513
+    - title: 'FLgym: Toward Robust and Byzantine-Resilient Federated Learning.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3643162
+    - title: 'FORCE: Byzantine-Resilient Decentralized Federated Learning via Game-Theoretic
+        Contribution Aggregation.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3674690
+    - title: 'FedPalm: A General Federated Learning Framework for Closed- and Open-Set
+        Palmprint Verification.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3671064
+    - title: Federated Domain Generalization via Prompt Learning and Aggregation.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3655520
+    - title: 'G2uardFL: Safeguarding Federated Learning Against Backdoor Attacks via
+        Attributed Client Graph Clustering.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3639985
+    - title: General Backdoor-Resilient Federated Learning via Multi-Armed Bandit-Based
+        Knowledge Distillation.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3630065
+    - title: Model Hijacking Attack in Federated Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3666296
+    - title: Model Inversion Attack Against Federated Unlearning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3666295
+    - title: 'PDFL: A Privacy-Enhancing and Robust Poisoning Defense Federated Learning
+        Scheme.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3648147
     - title: Practical Framework for Privacy-Preserving and Byzantine-Robust Federated
         Learning.
       venue: IEEE Trans. Inf. Forensics Secur.
       year: 2026
       link: https://doi.org/10.1109/TIFS.2025.3642546
+    - title: 'SSAA: Secure Semi-Asynchronous Aggregation for Decentralized Federated
+        Learning on Heterogeneous Devices.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3648540
+    - title: 'STELLAR: Similarity-Based Satellite Federated Learning for Malicious
+        Traffic Recognition.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3659044
+    - title: Safeguarding Federated Learning From Data Reconstruction Attacks via
+        Gradient Dropout.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3659401
+    - title: Secure Rational Delegation Federated Learning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2025.3650379
+    - title: 'Toward Robust Radio Frequency Fingerprint Identification: A Federated
+        Learning Framework With Feature Alignment.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3671107
     - title: 'chamaeleon: Backdoor Attacks Against Vertical Federated Learning for
         Tabular Data.'
       venue: IEEE Trans. Inf. Forensics Secur.
@@ -17408,6 +18446,23 @@ IEEE Trans. Inf. Forensics Secur.:
       year: 2020
       link: https://doi.org/10.1109/TIFS.2019.2929409
 ACM Trans. Priv. Secur.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'VFLGAN-TS: Vertical Federated Learning-based Generative Adversarial
+        Networks for Publication of Vertically Partitioned Time-series Data.'
+      venue: ACM Trans. Priv. Secur.
+      year: 2026
+      link: https://doi.org/10.1145/3776587
   '2025':
     header:
       title: Title
@@ -17457,6 +18512,28 @@ ACM Trans. Priv. Secur.:
       year: 2023
       link: https://doi.org/10.1145/3591354
 ACM Trans. Intell. Syst. Technol.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Corrigendum: DESIGN: Online Device Selection and Edge Association for
+        Federated Synergy Learning-enabled AIoT.'
+      venue: ACM Trans. Intell. Syst. Technol.
+      year: 2026
+      link: https://doi.org/10.1145/3776570
+    - title: 'FedPRS: A Privacy-preserving Representation Synthesis Framework for
+        Federated Contribution Evaluation.'
+      venue: ACM Trans. Intell. Syst. Technol.
+      year: 2026
+      link: https://doi.org/10.1145/3779055
   '2025':
     header:
       title: Title
@@ -17818,6 +18895,62 @@ ACM Trans. Intell. Syst. Technol.:
       year: 2019
       link: https://doi.org/10.1145/3298981
 IEEE J. Biomed. Health Informatics:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A Tri-Factor Adaptive Federated Learning Framework for Parkinson&apos;s
+        Disease Diagnosis via Multi-Source Facial Expression Analysis.
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3605732
+    - title: 'Bridging the Gaps: Imputation of Parkinson&apos;s Disease Clinical Assessments
+        With Federated Learning.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3593459
+    - title: 'DTQFL: A Digital Twin-Assisted Quantum Federated Learning Algorithm
+        for Intelligent Diagnosis in 5G Mobile Network.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2023.3303401
+    - title: 'FEI-Hi: Federated Edge Intelligence for Healthcare Informatics.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3588551
+    - title: 'FedVGM: Enhancing Federated Learning Performance on Multi-Dataset Medical
+        Images With XAI.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3600361
+    - title: 'Learning Across the Divide: Personalised Federated Learning for Robust
+        Clinical Modelling Under Data-View Heterogeneity.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3611069
+    - title: 'Medical Image Privacy in Federated Learning: Segmentation-Reorganization
+        and Sparsified Gradient Matching Attacks.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3593631
+    - title: 'Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous
+        Decentralized Federated Learning Approach.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3573954
+    - title: 'Sync-GWO: Highly Private and Bandwidth-Efficient Federated Learning
+        With a Case Study in Healthcare.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3567913
   '2025':
     header:
       title: Title
@@ -17860,6 +18993,11 @@ IEEE J. Biomed. Health Informatics:
       venue: IEEE J. Biomed. Health Informatics
       year: 2025
       link: https://doi.org/10.1109/JBHI.2025.3562090
+    - title: 'FedPC: An Efficient Prototype-Based Clustered Federated Learning on
+        Medical Imaging.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/jbhi.2025.3567055
     - title: Federated Pseudo Modality Generation for Incomplete Multi-Modal MRI Reconstruction.
       venue: IEEE J. Biomed. Health Informatics
       year: 2025
@@ -18171,6 +19309,23 @@ IEEE Trans. Inf. Technol. Biomed.:
       year: 2007
       link: https://doi.org/10.1109/TITB.2006.874928
 ACM Trans. Knowl. Discov. Data:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Medical Federated Learning with Improved Representation and Personalized
+        Aggregation.
+      venue: ACM Trans. Knowl. Discov. Data
+      year: 2026
+      link: https://doi.org/10.1145/3737649
   '2025':
     header:
       title: Title
@@ -18625,6 +19780,16 @@ IEEE Trans. Parallel Distributed Syst.:
       venue: IEEE Trans. Parallel Distributed Syst.
       year: 2026
       link: https://doi.org/10.1109/TPDS.2025.3638693
+    - title: 'FairGFL: Privacy-Preserving Fairness-Aware Federated Learning With Overlapping
+        Subgraphs.'
+      venue: IEEE Trans. Parallel Distributed Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TPDS.2025.3649863
+    - title: Flexible Synchronization Control for Accurate and Efficient Federated
+        Learning.
+      venue: IEEE Trans. Parallel Distributed Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TPDS.2026.3670216
   '2025':
     header:
       title: Title
@@ -19163,6 +20328,27 @@ ACM Trans. Storage:
       year: 2021
       link: https://doi.org/10.1145/3452741
 IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An Elastic Federated Learning Collaboration Framework for Computing-Constrained
+        IoT.
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TCAD.2025.3593436
+    - title: 'FedMT: Multitask Federated Learning With Competitive GPU Resource Sharing.'
+      venue: IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+      year: 2026
+      link: https://doi.org/10.1109/TCAD.2025.3600367
   '2025':
     header:
       title: Title
@@ -19342,11 +20528,30 @@ IEEE Trans. Computers:
       year: 4
       link: 60
     body:
+    - title: Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning
+        of Language Models.
+      venue: IEEE Trans. Computers
+      year: 2026
+      link: https://doi.org/10.1109/TC.2026.3655161
+    - title: Communication-Efficient Federated Learning by Exploiting Spatio-Temporal
+        Correlations of Gradients.
+      venue: IEEE Trans. Computers
+      year: 2026
+      link: https://doi.org/10.1109/TC.2026.3654074
+    - title: 'FedInf: An Efficient and Secure Inference With Federated Participants.'
+      venue: IEEE Trans. Computers
+      year: 2026
+      link: https://doi.org/10.1109/TC.2025.3642408
     - title: 'S${}{2}$2FL: Toward Efficient and Accurate Heterogeneous Split Federated
         Learning.'
       venue: IEEE Trans. Computers
       year: 2026
       link: https://doi.org/10.1109/TC.2025.3626198
+    - title: 'Tackling Heterogeneity in Quantum Federated Learning: An Integrated
+        Sporadic-Personalized Approach.'
+      venue: IEEE Trans. Computers
+      year: 2026
+      link: https://doi.org/10.1109/TC.2026.3654037
     - title: Toward Personalized Federated Meta-Learning With Constrained Hypernetwork
         on Non-IID Data.
       venue: IEEE Trans. Computers
@@ -19737,6 +20942,11 @@ Pattern Recognit.:
       venue: Pattern Recognit.
       year: 2026
       link: https://doi.org/10.1016/j.patcog.2025.112966
+    - title: Dynamic federated semi-supervised learning with flexible unlabeled sample
+        selection.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2026.113326
     - title: Enhancing federated learning through exploring filter-aware relationships
         and personalizing local structures.
       venue: Pattern Recognit.
@@ -19752,6 +20962,11 @@ Pattern Recognit.:
       venue: Pattern Recognit.
       year: 2026
       link: https://doi.org/10.1016/j.patcog.2025.112813
+    - title: Fair federated learning for weakly supervised nuclei segmentation via
+        feature disentanglement.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2026.113293
     - title: 'FedFAT: Frequency adpative interpolation for federated domain generalization
         on heterogeneous medical images.'
       venue: Pattern Recognit.
@@ -19771,15 +20986,30 @@ Pattern Recognit.:
       venue: Pattern Recognit.
       year: 2026
       link: https://doi.org/10.1016/j.patcog.2025.113023
+    - title: Federated semi-supervised medical image segmentation with temporal fluctuation
+        aggregation and pseudo-label relation mining.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2026.113338
     - title: Multi-target federated backdoor attack based on feature aggregation.
       venue: Pattern Recognit.
       year: 2026
       link: https://doi.org/10.1016/j.patcog.2025.112333
+    - title: 'PF2SMIS: Personalized federated few-shot learning for medical image
+        segmentation.'
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2026.113247
     - title: Practical privacy-preserving federated learning based on multiparty homomorphic
         encryption for large-scale models.
       venue: Pattern Recognit.
       year: 2026
       link: https://doi.org/10.1016/j.patcog.2025.112174
+    - title: Privacy-preserving federated SAR image target recognition with adaptive
+        resource management in space-air-ground integrated networks.
+      venue: Pattern Recognit.
+      year: 2026
+      link: https://doi.org/10.1016/j.patcog.2026.113253
     - title: 'SCFGL: Soft clustering based federated graph learning on Non-IID graphs.'
       venue: Pattern Recognit.
       year: 2026
@@ -20194,6 +21424,23 @@ Medical Image Anal.:
       year: 2017
       link: https://doi.org/10.1016/j.media.2016.06.019
 Comput. Medical Imaging Graph.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Privacy-preserving multimodal fusion for Alzheimer&apos;s staging: A
+        federated vision transformer framework with explainable AI.'
+      venue: Comput. Medical Imaging Graph.
+      year: 2026
+      link: https://doi.org/10.1016/j.compmedimag.2026.102730
   '2025':
     header:
       title: Title
@@ -20255,6 +21502,23 @@ Comput. Medical Imaging Graph.:
       year: 2023
       link: https://doi.org/10.1016/j.compmedimag.2023.102313
 Data Min. Knowl. Discov.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Hybrid federated continual graph contrastive learning for evolving money
+        laundering threats.
+      venue: Data Min. Knowl. Discov.
+      year: 2026
+      link: https://doi.org/10.1007/s10618-026-01192-0
   '2025':
     header:
       title: Title
@@ -20327,6 +21591,57 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.115201
+    - title: A cost-efficient federated unlearning framework with rollback and compression
+        optimization.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115699
+    - title: A software-defined wrapper discriminant federated learning-reinforcement
+        attention adversarial regression approach for privacy and task management
+        in cloud edge computing.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115430
+    - title: Byzantine-robust decentralized federated learning based on feature extraction
+        layer measuring and delayed aggregation.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115392
+    - title: Confusion-Calibrated Cross-Entropy and Class-Specialized Aggregation
+        for Robust Federated Learning under Extreme Data Heterogeneity.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115497
+    - title: Decoupling and alleviating knowledge bias for federated learning under
+        data heterogeneity.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115421
+    - title: 'DualVeil: Persistent and invisible backdoor attacks in federated learning
+        via dual optimization.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115650
+    - title: Dynamic bidirectional federated transfer learning with multi-source data
+        fusion in unsupervised privacy-preserving prediction.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115707
+    - title: 'FedAATKE: Adaptive aggregation and targeted knowledge exchange for communication-efficient
+        personalized federated learning.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115335
+    - title: 'FedCLIP-Distill: Heterogeneous federated cross-modal knowledge distillation
+        for multi-domain visual recognition.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115383
+    - title: 'FedDCA : Stable and unified Wasserstein adaptation to federated concept
+        drift.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115342
     - title: 'FedDHE: A dual entropy-driven framework for robust federated learning
         in heterogeneous environments.'
       venue: Knowl. Based Syst.
@@ -20341,6 +21656,21 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.115142
+    - title: 'FedDRLPD: Deep reinforcement Learning-Based defense mechanism against
+        poisoning attacks in federated learning.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115558
+    - title: 'FedERFT: Improving federated learning through feature-enriched regularization
+        and post-aggregation fine-tuning.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115425
+    - title: 'FedHC: Enhanced federated learning with Hessian and cosine correlation
+        for proximal correlation.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115775
     - title: 'FedMTL: Adaptive multi-teacher knowledge distillation for federated
         continual learning.'
       venue: Knowl. Based Syst.
@@ -20351,6 +21681,16 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.114951
+    - title: 'FedPCAN: Robust mitigation of dynamic black-box backdoor attacks in
+        federated learning.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115465
+    - title: 'FedPDM: Representation enhanced federated learning with privacy preserving
+        diffusion models.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115452
     - title: 'FedRDA: Federated learning with representation decoupling and divergence-aware
         aggregation.'
       venue: Knowl. Based Syst.
@@ -20376,11 +21716,35 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.115228
+    - title: Federated vision transformer with adaptive focal loss for medical image
+        classification.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115474
     - title: Gradient-driven data-free sample balancing for robust hierarchical federated
         learning.
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.115107
+    - title: 'HFLMND: Toward robust and efficient hierarchical federated learning
+        via malicious node detection.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115270
+    - title: Handling data sparsity and model poisoning attacks in federated sequential
+        recommender systems.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115545
+    - title: Heterogeneous federated learning framework based on dynamic class awareness
+        and gated collaborative optimization.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115766
+    - title: Intrusion detection in networks using ensemble-based deep federated learning.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115491
     - title: 'LiFedST: A linearized federated split-attention transformer for spatio-temporal
         forecasting.'
       venue: Knowl. Based Syst.
@@ -20391,6 +21755,16 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.115151
+    - title: 'PANS: A novel polarity-adjusted noise scaling approach for privacy-preserving
+        sentiment analysis in federated learning.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115348
+    - title: 'PCNA-IDS: An integrated lightweight intrusion detection system in internet
+        of vehicles with federated contrastive learning and differential privacy.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115346
     - title: Privacy-preserving context-aware recommendation system with federated
         neural collaborative filtering.
       venue: Knowl. Based Syst.
@@ -20400,6 +21774,35 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.114903
+    - title: Prototype-guided cyclic federated learning with knowledge distillation.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115276
+    - title: 'SLATSCOG: A secure authentication framework via federated data generation
+        and temporally-enhanced split learning.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115304
+    - title: Secure aggregation with verifiability and robustness for privacy-preserving
+        federated learning.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115310
+    - title: 'Towards active participant centric vertical federated learning: Some
+        representations may be all you need.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115334
+    - title: Towards heterogeneity-aware federated self-supervised learning via knowledge
+        anchoring.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115446
+    - title: 'Visual and textual spaces both matter: Taming CLIP for non-IID federated
+        medical image classification.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115524
   '2025':
     header:
       title: Title
@@ -21132,11 +22535,21 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2026
       link: https://doi.org/10.1016/j.ins.2025.122682
+    - title: Communication-efficient decentralized federated graph learning via knowledge
+        distillation under dual heterogeneity.
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123192
     - title: 'DP-FedPUAC: Federated learning with differential privacy via adaptive
         gradient clipping and local iteration optimization.'
       venue: Inf. Sci.
       year: 2026
       link: https://doi.org/10.1016/j.ins.2025.122981
+    - title: Entropy-guided meta-learning defense against data poisoning attacks in
+        blockchain-assisted federated learning.
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123389
     - title: 'FLSDA: A synergistic defense against backdoor attacks in federated learning.'
       venue: Inf. Sci.
       year: 2026
@@ -21151,6 +22564,11 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2026
       link: https://doi.org/10.1016/j.ins.2025.122733
+    - title: 'FedPuzzle: Federated causal discovery from distributed heterogeneous
+        variable sets.'
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2025.123021
     - title: 'FedWAPR: Bridging theory and practice in probability-driven weighted
         aggregation for federated learning.'
       venue: Inf. Sci.
@@ -21166,6 +22584,26 @@ Inf. Sci.:
       venue: Inf. Sci.
       year: 2026
       link: https://doi.org/10.1016/j.ins.2025.122957
+    - title: 'From local bias to global consensus: Group-wise prototype federated
+        learning under heterogeneous and cross-domain settings.'
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123284
+    - title: Hidden policy conditional attribute-based keyword search in federated
+        learning framework.
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123150
+    - title: 'PARS: Performance-driven adam-based resilient scaffold for federated
+        learning.'
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123374
+    - title: Synergy of UAV collaboration and progressive training for robust federated
+        learning in air-ground multi-edge systems.
+      venue: Inf. Sci.
+      year: 2026
+      link: https://doi.org/10.1016/j.ins.2026.123277
     - title: 'Taming the long tail in federated learning: A unified global and personalized
         model framework.'
       venue: Inf. Sci.
@@ -21828,6 +23266,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.128919
+    - title: A knowledge distillation-based personalized federated learning approach
+        for sales forecasting on heterogenous retail data.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131911
     - title: A prototype-based framework for open-set heterogeneous federated face
         recognition.
       venue: Expert Syst. Appl.
@@ -21858,6 +23301,16 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.128627
+    - title: 'BitLoRA: Quantization-Compatible Adapter Tuning for 1.58-bit LLM in
+        Federated On-Device AI-Agent.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131397
+    - title: 'Breaking barriers in federated transfer learning: A systematic review
+        on federated transfer learning for non-overlapping domains.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131514
     - title: 'CFARMS: A clustered federated learning framework with recursive model
         selection.'
       venue: Expert Syst. Appl.
@@ -21868,16 +23321,36 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.130570
+    - title: 'DP-HM2F: Data-driven LoRA with dual-projection representation for heterogeneous
+        multimodal federated fine-tuning.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131287
     - title: Decentralized federated learning based on bivariate controlled averaging
         and sharpness aware minimization.
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129438
+    - title: 'FABLE: Fairness-aware branching federated learning under events and
+        concept drift.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131238
+    - title: 'FEDGE: Privacy-Preserving heterogeneous graph neural network based on
+        federated graph enhancement.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131400
     - title: 'FLIT: Federated ledger and intelligence for trust-bootstrapping in the
         Internet of Medical Things.'
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129916
+    - title: 'Fairness-Optimized Dynamic Aggregation (FODA): A novel approach to equitable
+        federated learning in heterogeneous environments.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131807
     - title: Feature disentanglement and cross-domain synthesis via federated style
         transfer for Non-IID segmentation.
       venue: Expert Syst. Appl.
@@ -21898,11 +23371,26 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.130529
+    - title: 'FedCA: Federated domain generalization for medical image segmentation
+        via cross-client feature style transfer and adaptive style alignment.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131394
     - title: 'FedCC: Federated cluster-aware contrastive learning with adaptive differential
         privacy under non-IID settings.'
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.130977
+    - title: 'FedCHG: Graph autoencoder enhanced federated learning for cross-Domain
+        heterogeneous graph.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131335
+    - title: 'FedCMCN: an edge-cloud collaboration federated learning method for smart
+        bearing diagnosis under non-IID condition.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.130974
     - title: 'FedCTPM: A federated cross-regional collaboration learning approach
         for traffic flow prediction.'
       venue: Expert Syst. Appl.
@@ -21955,6 +23443,10 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.130144
+    - title: Federated learning with dynamics-aware loss for label noise.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131523
     - title: Federated learning-based spectrum and energy efficiency enhancement in
         HAP-assisted LEO satellite communication.
       venue: Expert Syst. Appl.
@@ -21964,6 +23456,11 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129695
+    - title: Federated self-Expanding neural network learning framework for heterogeneous
+        devices.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131199
     - title: 'Federated transfer learning for anomaly detection in HPC systems: First
         real-world validation on a tier-0 supercomputer.'
       venue: Expert Syst. Appl.
@@ -21988,11 +23485,21 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.130237
+    - title: 'Industrial defect detection for data privacy and domain differences:
+        Based on federated learning and unsupervised domain adaptation.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131265
     - title: Intrusion detection system for shipping communication networks based
         on federated distillation learning.
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129966
+    - title: Local sharpness aware minimization in decentralized federated learning
+        with privacy protection.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131510
     - title: 'MedFedProto: A semi-Supervised classification framework for medical
         images based on federated prototypical learning.'
       venue: Expert Syst. Appl.
@@ -22007,6 +23514,10 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129881
+    - title: 'PQS-BFL: A post-quantum secure blockchain-based federated learning framework.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131449
     - title: 'PassREfinder-FL: Privacy-preserving credential stuffing risk prediction
         via graph-based federated learning for representing password reuse between
         websites.'
@@ -22023,6 +23534,20 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129383
+    - title: 'PrivTSAD-FedWGAN: A novel federated learning and WGAN framework for
+        privacy-preserving multivariate time series anomaly detection.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2025.131049
+    - title: Pseudo kinetics-driven federated diffusion hemodynamic framework for
+        breast tumor segmentation in pre-contrast MRI.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131722
+    - title: Reconstruction attacks on forgotten data in federated unlearning.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131190
     - title: 'SFLES: Shuffled differentially private federated learning with early-stopping
         strategy.'
       venue: Expert Syst. Appl.
@@ -22042,6 +23567,15 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.129949
+    - title: Towards privacy-preserving and communication-efficient federated distillation.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131503
+    - title: 'Warming up cold starts for building energy forecasting: Federated training
+        with Bayesian regularization and expectation-maximization.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131658
   '2025':
     header:
       title: Title
@@ -22542,6 +24076,23 @@ Expert Syst. Appl.:
       year: 2021
       link: https://doi.org/10.1016/j.eswa.2020.113840
 IEEE Intell. Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Federated Online Learning With Filters for Lung Nodule Segmentation in
+        Low-Dose Computed Tomography Images.
+      venue: IEEE Intell. Syst.
+      year: 2026
+      link: https://doi.org/10.1109/MIS.2025.3554552
   '2025':
     header:
       title: Title
@@ -23068,6 +24619,10 @@ Neurocomputing:
       year: 4
       link: 60
     body:
+    - title: A secure multi-modal federated transfer learning system for ECG classification.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133402
     - title: Adaptive momentum enhanced second-order stochastic federated learning.
       venue: Neurocomputing
       year: 2026
@@ -23082,6 +24637,11 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.132334
+    - title: 'BKT-DSNN: Communication efficient spiking neural network federated learning
+        based on dynamic model assignment.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133111
     - title: Backdoor defense framework with sparse training and detection in federated
         learning.
       venue: Neurocomputing
@@ -23097,11 +24657,62 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2026.132620
+    - title: 'FedACA: Adaptive classifier aggregation and clustering for personalized
+        heterogeneous federated learning.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132972
+    - title: 'FedAlign: Defense against label flipping attacks in federated learning
+        via dual-granularity distribution alignment.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133222
+    - title: 'FedCode: Addressing federated domain shift by contrastive feature decoupling.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133151
+    - title: 'FedCrime: Zero-inflation adaptive federated learning for crime prediction.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133217
+    - title: 'FedPSAWA: Federated personalization with state aware weighting aggregation
+        for cross subject seizure prediction.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132844
+    - title: 'Federated continual learning meets digital twins: A survey on methods,
+        intersections and perspectives.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133366
+    - title: Federated dynamic modeling and learning for spatiotemporal data forecasting.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132712
     - title: Federated intent-aware cross-domain recommendation via semantic alignment
         and collaborative enhancement.
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.132442
+    - title: Federated unsupervised semantic segmentation.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132799
+    - title: 'GIDD: Gradient inversion using diffusion model for denoising in federated
+        learning.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132682
+    - title: 'Learning in federated and dynamic environments: A tutorial on challenges,
+        trends, and practical strategies.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132671
+    - title: Personalized continuous sign language production via a motion-aware federated
+        diffusion model.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133047
     - title: 'PriFLRC: A secure multi-party computation-based privacy-enhanced federated
         learning scheme resilient to collusion.'
       venue: Neurocomputing
@@ -23111,16 +24722,34 @@ Neurocomputing:
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.132471
+    - title: 'Strengthen the weak, align the strong: A federated enhanced iterative
+        learning framework for cross-machine fault diagnosis.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133186
+    - title: The evolution of resource-aware cooperation in federated learning.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133198
     - title: 'Towards one-shot federated learning: Advances, challenges, and future
         directions.'
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.132088
+    - title: Towards robust neurocomputing model in efficient federated brain tumour
+        segmentation with sparsification and weights clustering.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133142
     - title: Vulnerabilities of label and model protection in vertical federated learning
         based on simulation models.
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.131839
+    - title: Wavelet-enhanced federated learning with personalized adaptive prototypes.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132871
   '2025':
     header:
       title: Title
@@ -23538,6 +25167,44 @@ Neurocomputing:
       year: 2001
       link: https://doi.org/10.1016/S0925-2312(01)00520-3
 Neural Comput. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: A novel federated swarm learning for increased resilience in latency-aware
+        cloud-native applications.
+      venue: Neural Comput. Appl.
+      year: 2026
+      link: https://doi.org/10.1007/s00521-025-11728-y
+    - title: Blockchain-based personalized federated learning framework for drug recommendation
+        systems resilient to model poisoning.
+      venue: Neural Comput. Appl.
+      year: 2026
+      link: https://doi.org/10.1007/s00521-025-11828-9
+    - title: Multi-modal class-aware curriculum federated learning fusion for advanced
+        intrusion detection using conditional generative augmentation and real-time
+        neural optimization.
+      venue: Neural Comput. Appl.
+      year: 2026
+      link: https://doi.org/10.1007/s00521-026-11845-2
+    - title: 'SBFL-GAN: secure blockchain empowered federated learning and GAN model
+        for providing preserving of IoMT.'
+      venue: Neural Comput. Appl.
+      year: 2026
+      link: https://doi.org/10.1007/s00521-025-11758-6
+    - title: 'Supervised split federated learning for Alzheimer&apos;s disease classification:
+        an evaluation of deep neural networks.'
+      venue: Neural Comput. Appl.
+      year: 2026
+      link: https://doi.org/10.1007/s00521-025-11694-5
   '2025':
     header:
       title: Title
@@ -23589,6 +25256,11 @@ Neural Comput. Appl.:
       venue: Neural Comput. Appl.
       year: 2025
       link: https://doi.org/10.1007/s00521-025-11099-4
+    - title: 'GRAF-IDS: graph-based clustering as aggregation for federated intrusion
+        detection system in IoT network.'
+      venue: Neural Comput. Appl.
+      year: 2025
+      link: https://doi.org/10.1007/s00521-025-11385-1
     - title: 'Optimizing federated learning efficiency: accelerating model averaging
         with cluster-based approach using class occurrences - fedCCO.'
       venue: Neural Comput. Appl.

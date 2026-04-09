@@ -12,6 +12,9 @@ section:
 - title: ICSE
 - title: ICDM
 - title: ACM Multimedia
+- title: IEEE Trans. Image Process.
+- title: IEEE Trans. Inf. Forensics Secur.
+- title: arXiv
 NeurIPS:
   '2024':
     header:
@@ -271,11 +274,34 @@ EMNLP:
       year: 4
       link: 60
     body:
+    - title: 'AGENTVIGIL: Automatic Black-Box Red-teaming for Indirect Prompt Injection
+        against LLM Agents.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1258/
+    - title: Backdoor-Powered Prompt Injection Attacks Nullify Defense Methods.
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.242/
+    - title: Defending against Indirect Prompt Injection by Instruction Detection.
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1060/
     - title: 'IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect
         Prompt Injection in LLM Agents.'
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.53
+    - title: 'Invisible Prompts, Visible Threats: Malicious Font Injection in External
+        Resources for Large Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.376/
+    - title: 'The Dangers of Indirect Prompt Injection Attacks on LLM-based Autonomous
+        Web Navigation Agents: A Demonstration.'
+      venue: EMNLP
+      year: 2025
+      link: https://doi.org/10.18653/v1/2025.emnlp-demos.55
     - title: 'TopicAttack: An Indirect Prompt Injection Attack via Topic Transition.'
       venue: EMNLP
       year: 2025
@@ -357,3 +383,107 @@ ACM Multimedia:
       venue: ACM Multimedia
       year: 2025
       link: https://doi.org/10.1145/3746027.3755211
+IEEE Trans. Image Process.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'CRISP: Contrastive Residual Injection and Semantic Prompting for Continual
+        Video Instance Segmentation.'
+      venue: IEEE Trans. Image Process.
+      year: 2026
+      link: https://doi.org/10.1109/TIP.2026.3671625
+IEEE Trans. Inf. Forensics Secur.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'PromptFuzz: Harnessing Fuzzing Techniques for Robust Testing of Prompt
+        Injection in LLMs.'
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3666893
+arXiv:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'AgentWatcher: A Rule-based Prompt Injection Monitor'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.01194v1
+      arxiv_id: '2604.01194'
+    - title: 'AttackEval: A Systematic Empirical Study of Prompt Injection Attack
+        Effectiveness Against Large Language Models'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.03598v1
+      arxiv_id: '2604.03598'
+    - title: Automating Cloud Security and Forensics Through a Secure-by-Design Generative
+        AI Framework
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.03912v1
+      arxiv_id: '2604.03912'
+    - title: 'ClawSafety: "Safe" LLMs, Unsafe Agents'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.01438v2
+      arxiv_id: '2604.01438'
+    - title: 'Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05150v1
+      arxiv_id: '2604.05150'
+    - title: 'Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.03070v1
+      arxiv_id: '2604.03070'
+    - title: 'Gradient-Controlled Decoding: A Safety Guardrail for LLMs with Dual-Anchor
+        Steering'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05179v1
+      arxiv_id: '2604.05179'
+    - title: 'LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02954v1
+      arxiv_id: '2604.02954'
+    - title: 'ShieldNet: Network-Level Guardrails against Emerging Supply-Chain Injections
+        in Agentic Systems'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.04426v1
+      arxiv_id: '2604.04426'
+    - title: 'Your Agent is More Brittle Than You Think: Uncovering Indirect Injection
+        Vulnerabilities in Agentic LLMs'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.03870v1
+      arxiv_id: '2604.03870'

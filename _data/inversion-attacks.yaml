@@ -68,6 +68,7 @@ section:
 - title: Int. J. Comput. Vis.
 - title: Comput. Vis. Image Underst.
 - title: arXiv
+- title: WSDM
 IJCAI:
   '2025':
     header:
@@ -173,6 +174,75 @@ IJCAI:
       year: 1989
       link: http://ijcai.org/Proceedings/89-2/Papers/116.pdf
 AAAI:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: An Invariant Latent Space Perspective on Language Model Inversion.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40004
+    - title: Condensed Data Expansion Using Model Inversion for Knowledge Distillation.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i24.39057
+    - title: 'Eguard: Defending LLM Embeddings Against Inversion Attacks via Text
+        Mutual Information Optimization.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40876
+    - title: 'FedLAGC: Towards High Performance System-Heterogeneous Federated Learning
+        via Layer-Adaptive Submodel Extraction and Gradient Correction.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39338
+    - title: High Dimensional Distributed Gradient Descent with Arbitrary Number of
+        Byzantine Attackers.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i28.39560
+    - title: 'Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented
+        Generation Systems.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40893
+    - title: 'Oscillation Inversion: Training-Free Image and Video Enhancement Through
+        Oscillated Latents in Large Flow Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i16.38352
+    - title: 'PAGPL: Privacy-Aware Graph Prompt Learning Scheme via Adaptive Perturbation-Estimated
+        Topology Recovery.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i27.39381
+    - title: Retaliatory Attacks Against Federated Unlearning via Data Leakage.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39725
+    - title: 'Text-Guided Gradient Refinement: Resolving Multimodal Gradient Conflicts
+        to Boost Adversarial Attacks on Vision-Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i7.37436
+    - title: 'Venom: Liquid Diffusion-Guided Gradient Inversion for Breaking Differential
+        Privacy in Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39333
+    - title: 'When Privacy Meets Recovery: The Overlooked Half of Surrogate-Driven
+        Privacy Preservation for MLLM Editing.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40911
   '2025':
     header:
       title: Title
@@ -890,6 +960,23 @@ UAI:
       year: 2021
       link: https://proceedings.mlr.press/v161/hannun21a.html
 IEEE Trans. Pattern Anal. Mach. Intell.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Exploring the Vulnerabilities of Federated Learning: A Deep Dive Into
+        Gradient Inversion Attacks.'
+      venue: IEEE Trans. Pattern Anal. Mach. Intell.
+      year: 2026
+      link: https://doi.org/10.1109/TPAMI.2025.3646639
   '2025':
     header:
       title: Title
@@ -2141,11 +2228,20 @@ EMNLP:
       year: 4
       link: 60
     body:
+    - title: 'ISACL: Internal State Analyzer for Copyrighted Training Data Leakage.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.571/
     - title: Investigating How Pre-training Data Leakage Affects Models&apos; Reproduction
         and Detection Capabilities.
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.1201
+    - title: Misalignment Attack on Text-to-Image Models via Text Embedding Optimization
+        and Inversion.
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1200/
     - title: 'Reverse Prompt Engineering: A Zero-Shot, Genetic Algorithm Approach
         to Language Model Inversion.'
       venue: EMNLP
@@ -2932,6 +3028,27 @@ IEEE Trans. Medical Imaging:
       year: 2010
       link: https://doi.org/10.1109/TMI.2010.2044584
 IEEE Trans. Inf. Forensics Secur.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Model Inversion Attack Against Federated Unlearning.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3666295
+    - title: Safeguarding Federated Learning From Data Reconstruction Attacks via
+        Gradient Dropout.
+      venue: IEEE Trans. Inf. Forensics Secur.
+      year: 2026
+      link: https://doi.org/10.1109/TIFS.2026.3659401
   '2025':
     header:
       title: Title
@@ -3192,6 +3309,23 @@ ACM Trans. Priv. Secur.:
       year: 2023
       link: https://doi.org/10.1145/3592800
 IEEE J. Biomed. Health Informatics:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Medical Image Privacy in Federated Learning: Segmentation-Reorganization
+        and Sparsified Gradient Matching Attacks.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3593631
   '2023':
     header:
       title: Title
@@ -3326,6 +3460,33 @@ Knowl. Based Syst.:
       year: 2017
       link: https://doi.org/10.1016/j.knosys.2017.01.009
 Neurocomputing:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'GADT: Enhancing transferable adversarial attacks through gradient-guided
+        adversarial data transformation.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133052
+    - title: 'GIDD: Gradient inversion using diffusion model for denoising in federated
+        learning.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132682
+    - title: Impact of leakage on data harmonization in machine learning pipelines
+        in class imbalance across sites.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133146
   '2025':
     header:
       title: Title
@@ -3716,6 +3877,11 @@ Expert Syst. Appl.:
       year: 4
       link: 60
     body:
+    - title: Dynamic gradient fusion method with local spatial and multi-scale frequency
+        transformations for transferable adversarial attacks.
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131677
     - title: 'ExSGD: Exploiting previous gradient for distributed large-batch training
         of building extraction network.'
       venue: Expert Syst. Appl.
@@ -4872,6 +5038,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.19055v2
+    - title: 'BVFLMSP : Bayesian Vertical Federated Learning for Multimodal Survival
+        with Privacy'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02248v1
+      arxiv_id: '2604.02248'
     - title: 'Benchmark Leakage Trap: Can We Trust LLM-based Recommendation?'
       venue: arXiv
       year: 2026
@@ -4921,6 +5093,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.06743v1
+    - title: 'ComPrivDet: Efficient Privacy Object Detection in Compressed Domains
+        Through Inference Reuse'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.03640v1
+      arxiv_id: '2604.03640'
     - title: Concept-Aware Privacy Mechanisms for Defending Embedding Inversion Attacks
       venue: arXiv
       year: 2026
@@ -4929,6 +5107,13 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.10643v1
+    - title: 'Coupled Control, Structured Memory, and Verifiable Action in Agentic
+        AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories):
+        A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.03201v1
+      arxiv_id: '2604.03201'
     - title: 'Cross-reality Location Privacy Protection in 6G-enabled Vehicular Metaverses:
         An LLM-enhanced Hybrid Generative Diffusion Model-based Approach'
       venue: arXiv
@@ -4987,10 +5172,22 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.12331v1
+    - title: Enhancing Gradient Inversion Attacks in Federated Learning via Hierarchical
+        Feature Optimization
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.00955v1
+      arxiv_id: '2604.00955'
     - title: Enhancing Multi-Image Understanding through Delimiter Token Scaling
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.01984v2
+    - title: Estimating Central, Peripheral, and Temporal Visual Contributions to
+        Human Decision Making in Atari Games
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.04439v1
+      arxiv_id: '2604.04439'
     - title: 'Explanations Leak: Membership Inference with Differential Privacy and
         Active Learning Defense'
       venue: arXiv
@@ -5126,6 +5323,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.22456v1
+    - title: Mechanism and Communication Co-Design for Differentially Private Energy
+        Sharing
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.04125v1
+      arxiv_id: '2604.04125'
     - title: Membership Inference Attacks Against Fine-tuned Diffusion Language Models
       venue: arXiv
       year: 2026
@@ -5349,6 +5552,11 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.13529v1
+    - title: Self-Distilled RLVR
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.03128v1
+      arxiv_id: '2604.03128'
     - title: 'Self-Guard: Defending Large Reasoning Models via enhanced self-reflection'
       venue: arXiv
       year: 2026
@@ -5422,6 +5630,23 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.15829v1
+    - title: 'Towards Securing IIoT: An Innovative Privacy-Preserving Anomaly Detector
+        Based on Federated Learning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.06101v1
+      arxiv_id: '2604.06101'
+    - title: 'Training-Free Private Synthesis with Validation: A New Frontier for
+        Practical Educational Data Sharing'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.01821v1
+      arxiv_id: '2604.01821'
+    - title: Tunable information insulation induced by constraint mismatch
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.00732v1
+      arxiv_id: '2604.00732'
     - title: 'UniForce: A Unified Latent Force Model for Robot Manipulation with Diverse
         Tactile Sensors'
       venue: arXiv
@@ -5455,6 +5680,17 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.13001v1
+    - title: Which Leakage Types Matter?
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.04199v1
+      arxiv_id: '2604.04199'
+    - title: 'Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored
+        Tool Use'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05432v1
+      arxiv_id: '2604.05432'
     - title: 'Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings'
       venue: arXiv
       year: 2026
@@ -19760,3 +19996,20 @@ arXiv:
       venue: arXiv
       year: 1999
       link: http://arxiv.org/abs/quant-ph/9911035v2
+WSDM:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Unlearning Inversion Attacks for Graph Neural Networks.
+      venue: WSDM
+      year: 2026
+      link: https://doi.org/10.1145/3773966.3777929

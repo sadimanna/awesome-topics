@@ -16,6 +16,7 @@ section:
 - title: Neurocomputing
 - title: Pattern Recognit. Lett.
 - title: arXiv
+- title: IEEE Trans. Cybern.
 NeurIPS:
   '2024':
     header:
@@ -79,6 +80,28 @@ ECCV:
       year: 2024
       link: https://doi.org/10.1007/978-3-031-72684-2_7
 AAAI:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'BeyondSparse: Facilitating Mamba to Enhance Cross-Domain 3D Semantic
+        Segmentation in Adverse Weather.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i13.38058
+    - title: 'EccoMamba: Enhanced Cross-hierarchical Continuity Orthogonal Mamba for
+        Medical Image Segmentation.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i13.38109
   '2025':
     header:
       title: Title
@@ -193,6 +216,11 @@ IEEE Trans. Medical Imaging:
       year: 4
       link: 60
     body:
+    - title: Diversity-Enhanced Collaborative Mamba for Semi-Supervised Medical Image
+        Segmentation.
+      venue: IEEE Trans. Medical Imaging
+      year: 2026
+      link: https://doi.org/10.1109/TMI.2025.3601450
     - title: 'SegMamba-V2: Long-Range Sequential Modeling Mamba for General 3-D Medical
         Image Segmentation.'
       venue: IEEE Trans. Medical Imaging
@@ -226,6 +254,28 @@ IEEE Trans. Medical Imaging:
       year: 2025
       link: https://doi.org/10.1109/TMI.2024.3508698
 IEEE J. Biomed. Health Informatics:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'M${2}$SegMamba: Mamba-Based Incomplete Multimodal Learning for Brain
+        Tumor Segmentation With Few Samples.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3600652
+    - title: 'MLAgg-UNet: Advancing Medical Image Segmentation With Efficient Transformer
+        and Mamba-Inspired Multi-Scale Sequence.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2026
+      link: https://doi.org/10.1109/JBHI.2025.3596648
   '2025':
     header:
       title: Title
@@ -238,6 +288,11 @@ IEEE J. Biomed. Health Informatics:
       year: 4
       link: 60
     body:
+    - title: 'MSCD-VM-UNet: A Vision Mamba Combining Multi-Scale Global and Local
+        Feature Extraction With Cross-Domain Feature Fusion for Medical Image Segmentation.'
+      venue: IEEE J. Biomed. Health Informatics
+      year: 2025
+      link: https://doi.org/10.1109/jbhi.2025.3575447
     - title: 'MambaSAM: A Visual Mamba-Adapted SAM Framework for Medical Image Segmentation.'
       venue: IEEE J. Biomed. Health Informatics
       year: 2025
@@ -349,6 +404,23 @@ Medical Image Anal.:
       year: 2025
       link: https://doi.org/10.1016/j.media.2025.103606
 Comput. Medical Imaging Graph.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: "Mamba\u2011MFNet: A hierarchical supervised network based on the fusion\
+        \ of axial and cross-modal attention for breast DCE\u2011MRI tumor segmentation."
+      venue: Comput. Medical Imaging Graph.
+      year: 2026
+      link: https://doi.org/10.1016/j.compmedimag.2026.102732
   '2025':
     header:
       title: Title
@@ -389,6 +461,11 @@ Knowl. Based Syst.:
       venue: Knowl. Based Syst.
       year: 2026
       link: https://doi.org/10.1016/j.knosys.2025.115119
+    - title: 'RMViM-Net: Residual multi-path vision mamba with graph interaction attention
+        for medical image segmentation.'
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115326
     - title: 'WMC-Net: Wavelet-enhanced mamba with contextual fusion network for medical
         image segmentation.'
       venue: Knowl. Based Syst.
@@ -451,6 +528,16 @@ Expert Syst. Appl.:
       venue: Expert Syst. Appl.
       year: 2026
       link: https://doi.org/10.1016/j.eswa.2025.130085
+    - title: 'HTMNet: A hybrid transformer-mamba network for LiDAR-based 3D detection
+        and semantic segmentation.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131832
+    - title: 'KANWave-Mamba: A rice leaf disease image segmentation method based on
+        Kolmogorov-Arnold network and wavelet-guided Mamba.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131151
     - title: Leveraging mamba for reference audio-visual segmentation with vote and
         cache mechanism.
       venue: Expert Syst. Appl.
@@ -519,11 +606,21 @@ Neurocomputing:
       year: 4
       link: 60
     body:
+    - title: 'DCFANet: Merging dynamic context clustering mamba and context-to-focus
+        attention for medical image segmentation.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133326
     - title: 'Li-MFNet: A lightweight multi-scale input Mamba fusion network for medical
         image segmentation.'
       venue: Neurocomputing
       year: 2026
       link: https://doi.org/10.1016/j.neucom.2025.131916
+    - title: 'MNSeg: Mamba-based 3D neuron segmentation integrated with bidirectional
+        attention mechanism and topological loss.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.132790
   '2025':
     header:
       title: Title
@@ -567,6 +664,11 @@ Pattern Recognit. Lett.:
       year: 4
       link: 60
     body:
+    - title: "Choroid plexus segmentation in MRI using the novel T1\xD7FLAIR modality\
+        \ and PSU-Mamba: projective scan U-Mamba approach."
+      venue: Pattern Recognit. Lett.
+      year: 2026
+      link: https://doi.org/10.1016/j.patrec.2026.01.024
     - title: Multi-Modal masked autoencoder and parallel Mamba for 3D brain tumor
         segmentation.
       venue: Pattern Recognit. Lett.
@@ -595,3 +697,21 @@ arXiv:
       venue: arXiv
       year: 2024
       link: http://arxiv.org/abs/2408.11545v3
+IEEE Trans. Cybern.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MsM-DPM: Multiscale Mamba Diffusion Probabilistic Model for Medical
+        Image Segmentation.'
+      venue: IEEE Trans. Cybern.
+      year: 2026
+      link: https://doi.org/10.1109/TCYB.2025.3625773

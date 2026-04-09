@@ -30,6 +30,8 @@ section:
 - title: Expert Syst. Appl.
 - title: Neural Networks
 - title: arXiv
+- title: Knowl. Based Syst.
+- title: Neural Comput. Appl.
 NeurIPS:
   '2024':
     header:
@@ -321,6 +323,27 @@ IJCAI:
       year: 2022
       link: https://doi.org/10.24963/ijcai.2022/306
 AAAI:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'Breaking Cross-View Associations: Byzantine Model Poisoning Attack against
+        Vertical Federated Learning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i48.42327
+    - title: 'Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i26.39318
   '2023':
     header:
       title: Title
@@ -1067,6 +1090,23 @@ Inf. Sci.:
       year: 2023
       link: https://doi.org/10.1016/j.ins.2023.02.025
 Expert Syst. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'MambaShield: Selective state-space models for poisoning-resilient sequential
+        modelling.'
+      venue: Expert Syst. Appl.
+      year: 2026
+      link: https://doi.org/10.1016/j.eswa.2026.131175
   '2023':
     header:
       title: Title
@@ -1887,3 +1927,39 @@ arXiv:
       venue: arXiv
       year: 2018
       link: http://arxiv.org/abs/1808.04866v5
+Knowl. Based Syst.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Handling data sparsity and model poisoning attacks in federated sequential
+        recommender systems.
+      venue: Knowl. Based Syst.
+      year: 2026
+      link: https://doi.org/10.1016/j.knosys.2026.115545
+Neural Comput. Appl.:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Blockchain-based personalized federated learning framework for drug recommendation
+        systems resilient to model poisoning.
+      venue: Neural Comput. Appl.
+      year: 2026
+      link: https://doi.org/10.1007/s00521-025-11828-9

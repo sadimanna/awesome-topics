@@ -42,6 +42,8 @@ section:
 - title: Neural Networks
 - title: Neurocomputing
 - title: arXiv
+- title: ICDM
+- title: J. Mach. Learn. Res.
 NeurIPS:
   '2024':
     header:
@@ -558,6 +560,41 @@ IJCAI:
       year: 2022
       link: https://doi.org/10.24963/ijcai.2022/556
 AAAI:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'DIET: Machine Unlearning on a Data-Diet.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i27.39431
+    - title: 'Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i14.38134
+    - title: 'Injection, Attack and Erasure: Revocable Backdoor Attacks via Machine
+        Unlearning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39747
+    - title: On the Misalignment Between Data Learnability and Forgettability in Machine
+        Unlearning.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i29.39657
+    - title: 'Synthetic Forgetting Without Access: A Few-Shot Zero-Glance Framework
+        for Machine Unlearning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i30.39750
   '2025':
     header:
       title: Title
@@ -828,6 +865,11 @@ EMNLP:
       year: 4
       link: 60
     body:
+    - title: 'Forget the Unneeded: Backdooring Large Language Models via Contrastive-enhanced
+        Machine Unlearning.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1338/
     - title: 'OBLIVIATE: Robust and Practical Machine Unlearning for Large Language
         Models.'
       venue: EMNLP
@@ -1319,6 +1361,23 @@ IEEE Trans. Knowl. Data Eng.:
       year: 2024
       link: https://doi.org/10.1109/TKDE.2024.3382726
 IEEE Trans. Big Data:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: LLM-Based Data Augmentation Method in Reinforcement Learning With Machine-Unlearning
+        and Fine-Tuning.
+      venue: IEEE Trans. Big Data
+      year: 2026
+      link: https://doi.org/10.1109/TBDATA.2025.3630807
   '2025':
     header:
       title: Title
@@ -1514,6 +1573,23 @@ Knowl. Based Syst.:
       year: 2024
       link: https://doi.org/10.1016/j.knosys.2024.111983
 Neural Networks:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Mitigating sensitive information leakage in LLMs4Code through machine
+        unlearning.
+      venue: Neural Networks
+      year: 2026
+      link: https://doi.org/10.1016/j.neunet.2026.108606
   '2025':
     header:
       title: Title
@@ -1543,6 +1619,16 @@ Neurocomputing:
       year: 4
       link: 60
     body:
+    - title: Accurate and fast machine unlearning with hessian-guided overfitting
+        approximation.
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133369
+    - title: 'Balance forgetting and remembering: An extension of machine unlearning
+        for policy updates in machine learning-based access control.'
+      venue: Neurocomputing
+      year: 2026
+      link: https://doi.org/10.1016/j.neucom.2026.133388
     - title: How secure is forgetting? Linking machine unlearning to machine learning
         attacks.
       venue: Neurocomputing
@@ -1611,14 +1697,30 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.21773v1
+    - title: Efficient machine unlearning with minimax optimality
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05669v1
+      arxiv_id: '2604.05669'
     - title: 'Erase at the Core: Representation Unlearning for Machine Unlearning'
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.05375v1
+    - title: Erasure or Erosion? Evaluating Compositional Degradation in Unlearned
+        Text-To-Image Diffusion Models
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.04575v1
+      arxiv_id: '2604.04575'
     - title: 'EvoMU: Evolutionary Machine Unlearning'
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.02139v2
+    - title: Exclusive Unlearning
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.06154v1
+      arxiv_id: '2604.06154'
     - title: 'FADE: Selective Forgetting via Sparse LoRA and Self-Distillation'
       venue: arXiv
       year: 2026
@@ -1703,6 +1805,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.05641v1
+    - title: 'PECKER: A Precisely Efficient Critical Knowledge Erasure Recipe For
+        Machine Unlearning in Diffusion Models'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05634v1
+      arxiv_id: '2604.05634'
     - title: Protecting the Undeleted in Machine Unlearning
       venue: arXiv
       year: 2026
@@ -1739,6 +1847,11 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.00590v1
+    - title: Selective Forgetting for Large Reasoning Models
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.03571v1
+      arxiv_id: '2604.03571'
     - title: Sparsity-Aware Unlearning for Large Language Models
       venue: arXiv
       year: 2026
@@ -1747,11 +1860,23 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.09304v1
+    - title: 'Subspace Control: Turning Constrained Model Steering into Controllable
+        Spectral Optimization'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.04231v1
+      arxiv_id: '2604.04231'
     - title: 'Suppression or Deletion: A Restoration-Based Representation-Level Analysis
         of Machine Unlearning'
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.18505v1
+    - title: 'TRU: Targeted Reverse Update for Efficient Multimodal Recommendation
+        Unlearning'
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.02183v1
+      arxiv_id: '2604.02183'
     - title: 'Temper-Then-Tilt: Principled Unlearning for Generative Models through
         Tempering and Classifier Guidance'
       venue: arXiv
@@ -1772,6 +1897,12 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2601.17492v2
+    - title: Towards Unveiling Vulnerabilities of Large Reasoning Models in Machine
+        Unlearning
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.04255v1
+      arxiv_id: '2604.04255'
     - title: 'UnHype: CLIP-Guided Hypernetworks for Dynamic LoRA Unlearning'
       venue: arXiv
       year: 2026
@@ -3912,3 +4043,42 @@ arXiv:
       venue: arXiv
       year: 2019
       link: http://arxiv.org/abs/1912.03817v3
+ICDM:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Auditing Approximate Machine Unlearning for Differentially Private Models.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00134
+J. Mach. Learn. Res.:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Certified Machine Unlearning Under High Dimensional Regime.
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/25-1751.html
+    - title: Efficient Knowledge Deletion from Trained Models Through Layer-wise Partial
+        Machine Unlearning.
+      venue: J. Mach. Learn. Res.
+      year: 2025
+      link: https://jmlr.org/papers/v26/24-0469.html

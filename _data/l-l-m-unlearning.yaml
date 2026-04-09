@@ -14,6 +14,8 @@ section:
 - title: IEEE Trans. Knowl. Data Eng.
 - title: Nat. Mac. Intell.
 - title: arXiv
+- title: ICDM
+- title: IEEE Trans. Big Data
 NeurIPS:
   '2024':
     header:
@@ -379,15 +381,34 @@ EMNLP:
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.452
+    - title: 'CURE: Controlled Unlearning for Robust Embeddings - Mitigating Conceptual
+        Shortcuts in Pre-Trained Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.771/
     - title: Does Localization Inform Unlearning? A Rigorous Examination of Local
         Parameter Attribution for Knowledge Unlearning in Language Models.
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.1109
+    - title: 'Forget the Unneeded: Backdooring Large Language Models via Contrastive-enhanced
+        Machine Unlearning.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1338/
+    - title: 'LUME: LLM Unlearning with Multitask Evaluations.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.347/
     - title: Mitigating Biases in Language Models via Bias Unlearning.
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.208
+    - title: 'Not Every Token Needs Forgetting: Selective Unlearning Balancing Forgetting
+        and Utility in Large Language Models.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.96/
     - title: 'OBLIVIATE: Robust and Practical Machine Unlearning for Large Language
         Models.'
       venue: EMNLP
@@ -398,6 +419,10 @@ EMNLP:
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.1641
+    - title: 'Reveal and Release: Iterative LLM Unlearning with Self-generated Data.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1298/
     - title: 'SEPS: A Separability Measure for Robust Unlearning in LLMs.'
       venue: EMNLP
       year: 2025
@@ -406,6 +431,16 @@ EMNLP:
       venue: EMNLP
       year: 2025
       link: https://doi.org/10.18653/v1/2025.emnlp-main.565
+    - title: Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language
+        Models.
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.117/
+    - title: 'UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting
+        Targets.'
+      venue: EMNLP
+      year: 2025
+      link: https://aclanthology.org/2025.findings-emnlp.1374/
   '2024':
     header:
       title: Title
@@ -481,6 +516,56 @@ EMNLP:
       year: 2023
       link: https://doi.org/10.18653/v1/2023.emnlp-main.738
 AAAI:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: 'ALTER: Asymmetric LoRA for Token-Entropy-Guided Unlearning of LLMs.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40845
+    - title: 'AUVIC: Adversarial Unlearning of Visual Concepts for Multi-modal Large
+        Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i36.40272
+    - title: Cross-Modal Unlearning via Influential Neuron Path Editing in Multimodal
+        Large Language Models.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i42.40870
+    - title: 'DUP: Detection-guided Unlearning for Backdoor Purification in Language
+        Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i37.40366
+    - title: 'Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines
+        for Large Language Model Unlearning?'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i44.41097
+    - title: 'From Chaos to Clarity: A Knowledge Graph-Driven Audit Dataset Generation
+        Framework for LLM Unlearning.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i37.40397
+    - title: Large Language Model Unlearning for Source Code.
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i37.40398
+    - title: 'Oblivionis: A Lightweight Learning and Unlearning Framework for Federated
+        Large Language Models.'
+      venue: AAAI
+      year: 2026
+      link: https://doi.org/10.1609/aaai.v40i33.40045
   '2025':
     header:
       title: Title
@@ -595,6 +680,23 @@ Expert Syst. Appl.:
       year: 2025
       link: https://doi.org/10.1016/j.eswa.2025.128612
 Neural Networks:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Mitigating sensitive information leakage in LLMs4Code through machine
+        unlearning.
+      venue: Neural Networks
+      year: 2026
+      link: https://doi.org/10.1016/j.neunet.2026.108606
   '2025':
     header:
       title: Title
@@ -683,6 +785,11 @@ arXiv:
       venue: arXiv
       year: 2026
       link: http://arxiv.org/abs/2602.02824v1
+    - title: Can Large Language Models Reinvent Foundational Algorithms?
+      venue: arXiv
+      year: 2026
+      link: http://arxiv.org/abs/2604.05716v1
+      arxiv_id: '2604.05716'
     - title: 'DUET: Distilled LLM Unlearning from an Efficiently Contextualized Teacher'
       venue: arXiv
       year: 2026
@@ -1285,3 +1392,44 @@ arXiv:
       venue: arXiv
       year: 2023
       link: http://arxiv.org/abs/2310.10683v2
+ICDM:
+  '2025':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation
+        Unlearning.
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00183
+    - title: 'Learn while Unlearn: An Iterative Unlearning Framework for Generative
+        Language Models.'
+      venue: ICDM
+      year: 2025
+      link: https://doi.org/10.1109/ICDM65498.2025.00082
+IEEE Trans. Big Data:
+  '2026':
+    header:
+      title: Title
+      venue: ' Venue'
+      year: ' Year '
+      link: Link
+    length:
+      title: 60
+      venue: 53
+      year: 4
+      link: 60
+    body:
+    - title: LLM-Based Data Augmentation Method in Reinforcement Learning With Machine-Unlearning
+        and Fine-Tuning.
+      venue: IEEE Trans. Big Data
+      year: 2026
+      link: https://doi.org/10.1109/TBDATA.2025.3630807
