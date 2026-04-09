@@ -24,6 +24,135 @@ permalink: /few-shot-segmentation/
 
 </details>
 
+<details markdown="1">
+<summary>NeurIPS</summary>
+
+  - [2022](#neurips-2022)
+
+</details>
+
+<details markdown="1">
+<summary>ICML</summary>
+
+  - [2024](#icml-2024)
+
+</details>
+
+<details markdown="1">
+<summary>ECCV</summary>
+
+  - [2024](#eccv-2024)
+
+</details>
+
+<details markdown="1">
+<summary>IJCAI</summary>
+
+  - [2022](#ijcai-2022)
+
+</details>
+
+<details markdown="1">
+<summary>AAAI</summary>
+
+  - [2026](#aaai-2026)
+  - [2025](#aaai-2025)
+  - [2024](#aaai-2024)
+
+</details>
+
+<details markdown="1">
+<summary>WACV</summary>
+
+  - [2021](#wacv-2021)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Pattern Anal. Mach. Intell.</summary>
+
+  - [2024](#ieee-trans-pattern-anal-mach-intell-2024)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Image Process.</summary>
+
+  - [2026](#ieee-trans-image-process-2026)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Neural Networks Learn. Syst.</summary>
+
+  - [2026](#ieee-trans-neural-networks-learn-syst-2026)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Artif. Intell.</summary>
+
+  - [2026](#ieee-trans-artif-intell-2026)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Medical Imaging</summary>
+
+  - [2026](#ieee-trans-medical-imaging-2026)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE J. Biomed. Health Informatics</summary>
+
+  - [2025](#ieee-j-biomed-health-informatics-2025)
+
+</details>
+
+<details markdown="1">
+<summary>Int. J. Comput. Vis.</summary>
+
+  - [2025](#int-j-comput-vis-2025)
+
+</details>
+
+<details markdown="1">
+<summary>Pattern Recognit.</summary>
+
+  - [2026](#pattern-recognit-2026)
+
+</details>
+
+<details markdown="1">
+<summary>Medical Image Anal.</summary>
+
+  - [2026](#medical-image-anal-2026)
+  - [2022](#medical-image-anal-2022)
+
+</details>
+
+<details markdown="1">
+<summary>Knowl. Based Syst.</summary>
+
+  - [2026](#knowl-based-syst-2026)
+
+</details>
+
+<details markdown="1">
+<summary>Expert Syst. Appl.</summary>
+
+  - [2026](#expert-syst-appl-2026)
+
+</details>
+
+<details markdown="1">
+<summary>Neurocomputing</summary>
+
+  - [2026](#neurocomputing-2026)
+
+</details>
+
 </details>
 
 
@@ -86,6 +215,12 @@ permalink: /few-shot-segmentation/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.07550v1">Link</a></td>
+</tr>
+<tr>
+<td>Why Invariance is Not Enough for Biomedical Domain Generalization and How to Fix It</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02564v1">2604.02564</a></td>
 </tr>
 </tbody></table>
 
@@ -1628,6 +1763,738 @@ permalink: /few-shot-segmentation/
 <td>arXiv</td>
 <td>2018</td>
 <td><a href="http://arxiv.org/abs/1806.07373v1">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## NeurIPS <a id="venue-neurips"></a>
+
+<details>
+
+<summary>Expand NeurIPS</summary>
+
+<a id="neurips-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Decoupling Classifier for Boosting Few-shot Object Detection and Instance Segmentation.</td>
+<td>NeurIPS</td>
+<td>2022</td>
+<td><a href="http://papers.nips.cc/paper_files/paper/2022/hash/764ba7236fb63743014fafbd87dd4f0e-Abstract-Conference.html">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## ICML <a id="venue-icml"></a>
+
+<details>
+
+<summary>Expand ICML</summary>
+
+<a id="icml-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Bidirectional Reciprocative Information Communication for Few-Shot Semantic Segmentation.</td>
+<td>ICML</td>
+<td>2024</td>
+<td><a href="https://proceedings.mlr.press/v235/liu24t.html">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## ECCV <a id="venue-eccv"></a>
+
+<details>
+
+<summary>Expand ECCV</summary>
+
+<a id="eccv-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Few-Shot Anomaly-Driven Generation for Anomaly Classification and Segmentation.</td>
+<td>ECCV</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1007/978-3-031-73010-8_13">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IJCAI <a id="venue-ijcai"></a>
+
+<details>
+
+<summary>Expand IJCAI</summary>
+
+<a id="ijcai-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Iterative Few-shot Semantic Segmentation from Image Label Text.</td>
+<td>IJCAI</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.24963/ijcai.2022/193">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## AAAI <a id="venue-aaai"></a>
+
+<details>
+
+<summary>Expand AAAI</summary>
+
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Biologically-Inspired Evolutionary Domain Symbiosis for Few-shot and Zero-shot Point Cloud Semantic Segmentation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i12.37929">Link</a></td>
+</tr>
+<tr>
+<td>Bridging Granularity Gaps: Hierarchical Semantic Learning for Cross-domain Few-shot Segmentation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i11.37879">Link</a></td>
+</tr>
+<tr>
+<td>EPSegFZ: Efficient Point Cloud Semantic Segmentation for Few- and Zero-Shot Scenarios with Language Guidance.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i12.37953">Link</a></td>
+</tr>
+<tr>
+<td>Energy-guided Dual Domain-invariant Prompting Framework with Fourier Regularization for Generalized Few-Shot Medical Segmentation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i28.39554">Link</a></td>
+</tr>
+<tr>
+<td>OFL-SAM2: Prompt SAM2 with Online Few-shot Learner for Efficient Medical Image Segmentation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i7.37502">Link</a></td>
+</tr>
+<tr>
+<td>Training-free Boosting for Few-shot Segmentation via Generalizing Semantic Mining.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i13.38076">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="aaai-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation.</td>
+<td>AAAI</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1609/aaai.v39i6.32695">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="aaai-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>CGMGM: A Cross-Gaussian Mixture Generative Model for Few-Shot Semantic Segmentation.</td>
+<td>AAAI</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1609/aaai.v38i5.28280">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## WACV <a id="venue-wacv"></a>
+
+<details>
+
+<summary>Expand WACV</summary>
+
+<a id="wacv-2021"></a>
+<h3 class="year-heading">2021</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>On the Texture Bias for Few-Shot CNN Segmentation.</td>
+<td>WACV</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.1109/WACV48630.2021.00272">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Pattern Anal. Mach. Intell. <a id="venue-ieee trans. pattern anal. mach. intell."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Pattern Anal. Mach. Intell.</summary>
+
+<a id="ieee trans. pattern anal. mach. intell.-2024"></a>
+<h3 class="year-heading">2024</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Reference Twice: A Simple and Unified Baseline for Few-Shot Instance Segmentation.</td>
+<td>IEEE Trans. Pattern Anal. Mach. Intell.</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.1109/TPAMI.2024.3421340">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Image Process. <a id="venue-ieee trans. image process."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Image Process.</summary>
+
+<a id="ieee trans. image process.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Few-Shot Strip Steel Surface Defect Segmentation via Pre-Trained Variational Auto-Encoder-Based Latent Gaussian Process Regression.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2026.3671617">Link</a></td>
+</tr>
+<tr>
+<td>Learnable Object Queries for Few-Shot Semantic Segmentation.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2025.3650372">Link</a></td>
+</tr>
+<tr>
+<td>Scale-Invariant Feature Matching Network for V-D-T Few-Shot Semantic Segmentation.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2026.3663882">Link</a></td>
+</tr>
+<tr>
+<td>Toward Generative Understanding: Incremental Few-Shot Semantic Segmentation With Diffusion Models.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2026.3652357">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Neural Networks Learn. Syst. <a id="venue-ieee trans. neural networks learn. syst."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Neural Networks Learn. Syst.</summary>
+
+<a id="ieee trans. neural networks learn. syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Unbiased Semantic Decoding With Vision Foundation Models for Few-Shot Segmentation.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2025.3611497">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Artif. Intell. <a id="venue-ieee trans. artif. intell."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Artif. Intell.</summary>
+
+<a id="ieee trans. artif. intell.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>FCA-HLP: Multilayer Feature Cross-Activation Network With High- and Low-Level Prototypes for Few-Shot Segmentation.</td>
+<td>IEEE Trans. Artif. Intell.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TAI.2025.3607850">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Medical Imaging <a id="venue-ieee trans. medical imaging"></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Medical Imaging</summary>
+
+<a id="ieee trans. medical imaging-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Conditional Virtual Imaging for Few-Shot Vascular Image Segmentation.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TMI.2025.3608467">Link</a></td>
+</tr>
+<tr>
+<td>Uncertainty-Guided Prototype Reliability Enhancement Network for Few-Shot Medical Image Segmentation.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TMI.2025.3621452">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE J. Biomed. Health Informatics <a id="venue-ieee j. biomed. health informatics"></a>
+
+<details>
+
+<summary>Expand IEEE J. Biomed. Health Informatics</summary>
+
+<a id="ieee j. biomed. health informatics-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Boosting Few-Shot Semantic Segmentation of 3D Medical Images via Collaborative Slice Alignment.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/jbhi.2025.3582160">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Int. J. Comput. Vis. <a id="venue-int. j. comput. vis."></a>
+
+<details>
+
+<summary>Expand Int. J. Comput. Vis.</summary>
+
+<a id="int. j. comput. vis.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Few-Shot Referring Video Single- and Multi-Object Segmentation Via Cross-Modal Affinity with Instance Sequence Matching.</td>
+<td>Int. J. Comput. Vis.</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1007/s11263-025-02444-0">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Pattern Recognit. <a id="venue-pattern recognit."></a>
+
+<details>
+
+<summary>Expand Pattern Recognit.</summary>
+
+<a id="pattern recognit.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>PF2SMIS: Personalized federated few-shot learning for medical image segmentation.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2026.113247">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Medical Image Anal. <a id="venue-medical image anal."></a>
+
+<details>
+
+<summary>Expand Medical Image Anal.</summary>
+
+<a id="medical image anal.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Generative data-engine foundation model for universal few-shot 2D vascular image segmentation.</td>
+<td>Medical Image Anal.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.media.2026.103996">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="medical image anal.-2022"></a>
+<h3 class="year-heading">2022</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A transfer learning approach to few-shot segmentation of novel white matter tracts.</td>
+<td>Medical Image Anal.</td>
+<td>2022</td>
+<td><a href="https://doi.org/10.1016/j.media.2022.102454">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Knowl. Based Syst. <a id="venue-knowl. based syst."></a>
+
+<details>
+
+<summary>Expand Knowl. Based Syst.</summary>
+
+<a id="knowl. based syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Cross few-shot learning-based query adaptive network for medical image segmentation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115547">Link</a></td>
+</tr>
+<tr>
+<td>Few-shot medical image segmentation via dual-stream feature extractor and detail-enhanced prototype transformer.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115709">Link</a></td>
+</tr>
+<tr>
+<td>SFFINet: A spatial frequency feature interaction method for few-shot chip surface defect segmentation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115769">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Expert Syst. Appl. <a id="venue-expert syst. appl."></a>
+
+<details>
+
+<summary>Expand Expert Syst. Appl.</summary>
+
+<a id="expert syst. appl.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>SCID-Net: Few-shot deep-hole defect instance segmentation via multi-grained feature coupling and instance-aware inference decoupling.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131341">Link</a></td>
+</tr>
+<tr>
+<td>Structure-aware chain-of-thought for interpretable few-shot coronary CTA segmentation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131821">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Neurocomputing <a id="venue-neurocomputing"></a>
+
+<details>
+
+<summary>Expand Neurocomputing</summary>
+
+<a id="neurocomputing-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Dual-prototype alignment network with prototype batch updating for few-shot semantic segmentation.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133409">Link</a></td>
+</tr>
+<tr>
+<td>Few-shot medical image segmentation via CLIP-driven dual contrastive learning.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132815">Link</a></td>
+</tr>
+<tr>
+<td>IPMT + + : Improving few-shot semantic segmentation with contrastive learning.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132887">Link</a></td>
 </tr>
 </tbody></table>
 

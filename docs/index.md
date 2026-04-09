@@ -120,6 +120,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#comput-medical-imaging-graph">Comput. Medical Imaging Graph.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/explainability-transformers#comput. medical imaging graph.-2026)
   - [2023](https://sadimanna.github.io/awesome-topics/explainability-transformers#comput. medical imaging graph.-2023)
   </details>
 
@@ -147,6 +148,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/explainability-transformers#neural-comput-appl">Neural Comput. Appl.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/explainability-transformers#neural comput. appl.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/explainability-transformers#neural comput. appl.-2025)
   </details>
 
@@ -304,6 +306,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#aaai-2023)
@@ -345,6 +348,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm">WSDM</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#wsdm-2023)
@@ -456,6 +460,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#icdm">ICDM</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#icdm-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#icdm-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#icdm-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#icdm-2022)
@@ -808,6 +813,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#j-mach-learn-res">J. Mach. Learn. Res.</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#j. mach. learn. res.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#j. mach. learn. res.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#j. mach. learn. res.-2023)
   - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#j. mach. learn. res.-2021)
@@ -830,6 +836,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-image-process">IEEE Trans. Image Process.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. image process.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. image process.-2025)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. image process.-2023)
   </details>
@@ -839,6 +846,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-signal-process">IEEE Trans. Signal Process.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. signal process.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. signal process.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. signal process.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. signal process.-2023)
@@ -905,6 +913,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-cybern">IEEE Trans. Cybern.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. cybern.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. cybern.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. cybern.-2024)
   - [2021](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. cybern.-2021)
@@ -938,6 +947,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-emerg-top-comput-intell">IEEE Trans. Emerg. Top. Comput. Intell.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. emerg. top. comput. intell.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. emerg. top. comput. intell.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. emerg. top. comput. intell.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. emerg. top. comput. intell.-2023)
@@ -949,6 +959,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-emerg-top-comput">IEEE Trans. Emerg. Top. Comput.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. emerg. top. comput.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. emerg. top. comput.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. emerg. top. comput.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. emerg. top. comput.-2023)
@@ -960,6 +971,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-intell-transp-syst">IEEE Trans. Intell. Transp. Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. intell. transp. syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. intell. transp. syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. intell. transp. syst.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. intell. transp. syst.-2023)
@@ -986,6 +998,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#acm-trans-priv-secur">ACM Trans. Priv. Secur.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. priv. secur.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. priv. secur.-2025)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. priv. secur.-2023)
   </details>
@@ -995,6 +1008,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#acm-trans-intell-syst-technol">ACM Trans. Intell. Syst. Technol.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. intell. syst. technol.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. intell. syst. technol.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. intell. syst. technol.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. intell. syst. technol.-2023)
@@ -1008,6 +1022,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee j. biomed. health informatics-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee j. biomed. health informatics-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee j. biomed. health informatics-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee j. biomed. health informatics-2023)
@@ -1028,6 +1043,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#acm-trans-knowl-discov-data">ACM Trans. Knowl. Discov. Data</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. knowl. discov. data-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. knowl. discov. data-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. knowl. discov. data-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#acm trans. knowl. discov. data-2023)
@@ -1094,6 +1110,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-trans-comput-aided-des-integr-circuits-syst">IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee trans. comput. aided des. integr. circuits syst.-2023)
@@ -1185,6 +1202,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#comput-medical-imaging-graph">Comput. Medical Imaging Graph.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#comput. medical imaging graph.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#comput. medical imaging graph.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#comput. medical imaging graph.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#comput. medical imaging graph.-2023)
@@ -1195,6 +1213,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#data-min-knowl-discov">Data Min. Knowl. Discov.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#data min. knowl. discov.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#data min. knowl. discov.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#data min. knowl. discov.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#data min. knowl. discov.-2023)
@@ -1249,6 +1268,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#ieee-intell-syst">IEEE Intell. Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee intell. syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee intell. syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee intell. syst.-2024)
   - [2022](https://sadimanna.github.io/awesome-topics/federated-m-l#ieee intell. syst.-2022)
@@ -1305,6 +1325,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/federated-m-l#neural-comput-appl">Neural Comput. Appl.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/federated-m-l#neural comput. appl.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/federated-m-l#neural comput. appl.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/federated-m-l#neural comput. appl.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/federated-m-l#neural comput. appl.-2023)
@@ -1531,6 +1552,153 @@
   - [2018](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#arxiv-2018)
   </details>
 
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurips">NeurIPS</a></summary>
+
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurips-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#icml">ICML</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#icml-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#eccv">ECCV</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#eccv-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ijcai">IJCAI</a></summary>
+
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ijcai-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai">AAAI</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2025)
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#aaai-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#wacv">WACV</a></summary>
+
+  - [2021](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#wacv-2021)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
+
+  - [2024](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. pattern anal. mach. intell.-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-image-process">IEEE Trans. Image Process.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. image process.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-neural-networks-learn-syst">IEEE Trans. Neural Networks Learn. Syst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. neural networks learn. syst.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-artif-intell">IEEE Trans. Artif. Intell.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. artif. intell.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-trans-medical-imaging">IEEE Trans. Medical Imaging</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee trans. medical imaging-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#ieee j. biomed. health informatics-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#int-j-comput-vis">Int. J. Comput. Vis.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#int. j. comput. vis.-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern-recognit">Pattern Recognit.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#pattern recognit.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical-image-anal">Medical Image Anal.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical image anal.-2026)
+  - [2022](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#medical image anal.-2022)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#knowl-based-syst">Knowl. Based Syst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#knowl. based syst.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#expert-syst-appl">Expert Syst. Appl.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#expert syst. appl.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurocomputing">Neurocomputing</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/few-shot-segmentation#neurocomputing-2026)
+  </details>
+
 </details>
 
 
@@ -1556,6 +1724,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#aaai-2023)
@@ -1628,6 +1797,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. pattern anal. mach. intell.-2023)
@@ -1878,6 +2048,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-trans-inf-forensics-secur">IEEE Trans. Inf. Forensics Secur.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee trans. inf. forensics secur.-2023)
@@ -1900,6 +2071,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee j. biomed. health informatics-2026)
   - [2023](https://sadimanna.github.io/awesome-topics/inversion-attacks#ieee j. biomed. health informatics-2023)
   </details>
 
@@ -1928,6 +2100,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing">Neurocomputing</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing-2024)
   - [2020](https://sadimanna.github.io/awesome-topics/inversion-attacks#neurocomputing-2020)
@@ -2273,6 +2446,14 @@
   - [1999](https://sadimanna.github.io/awesome-topics/inversion-attacks#arxiv-1999)
   </details>
 
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/inversion-attacks#wsdm">WSDM</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/inversion-attacks#wsdm-2026)
+  </details>
+
 </details>
 
 
@@ -2338,6 +2519,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#aaai-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#aaai-2025)
   </details>
 
@@ -2378,6 +2560,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#neural-networks">Neural Networks</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#neural networks-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#neural networks-2025)
   </details>
 
@@ -2406,6 +2589,22 @@
   - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#arxiv-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#arxiv-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#arxiv-2023)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#icdm">ICDM</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#icdm-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#ieee-trans-big-data">IEEE Trans. Big Data</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/l-l-m-unlearning#ieee trans. big data-2026)
   </details>
 
 </details>
@@ -2512,6 +2711,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai-2024)
   - [2022](https://sadimanna.github.io/awesome-topics/machine-unlearning#aaai-2022)
@@ -2705,6 +2905,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#ieee-trans-big-data">IEEE Trans. Big Data</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/machine-unlearning#ieee trans. big data-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#ieee trans. big data-2025)
   </details>
 
@@ -2771,6 +2972,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#neural-networks">Neural Networks</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/machine-unlearning#neural networks-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#neural networks-2025)
   </details>
 
@@ -2795,6 +2997,22 @@
   - [2021](https://sadimanna.github.io/awesome-topics/machine-unlearning#arxiv-2021)
   - [2020](https://sadimanna.github.io/awesome-topics/machine-unlearning#arxiv-2020)
   - [2019](https://sadimanna.github.io/awesome-topics/machine-unlearning#arxiv-2019)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#icdm">ICDM</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#icdm-2025)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/machine-unlearning#j-mach-learn-res">J. Mach. Learn. Res.</a></summary>
+
+  - [2025](https://sadimanna.github.io/awesome-topics/machine-unlearning#j. mach. learn. res.-2025)
   </details>
 
 </details>
@@ -2833,6 +3051,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#aaai-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#aaai-2025)
   </details>
 
@@ -2867,6 +3086,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee j. biomed. health informatics-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee j. biomed. health informatics-2025)
   </details>
 
@@ -2901,6 +3121,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#comput-medical-imaging-graph">Comput. Medical Imaging Graph.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#comput. medical imaging graph.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba-segmentation#comput. medical imaging graph.-2025)
   </details>
 
@@ -2946,6 +3167,14 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#arxiv">arXiv</a></summary>
 
   - [2024](https://sadimanna.github.io/awesome-topics/mamba-segmentation#arxiv-2024)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee-trans-cybern">IEEE Trans. Cybern.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba-segmentation#ieee trans. cybern.-2026)
   </details>
 
 </details>
@@ -3010,6 +3239,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#aaai-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#aaai-2025)
   - [2021](https://sadimanna.github.io/awesome-topics/mamba#aaai-2021)
   </details>
@@ -3052,6 +3282,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#icdm">ICDM</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/mamba#icdm-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/mamba#icdm-2024)
   </details>
 
@@ -3112,6 +3343,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-pattern-anal-mach-intell">IEEE Trans. Pattern Anal. Mach. Intell.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. pattern anal. mach. intell.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. pattern anal. mach. intell.-2025)
   </details>
 
@@ -3120,6 +3352,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-image-process">IEEE Trans. Image Process.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. image process.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. image process.-2025)
   </details>
 
@@ -3145,6 +3378,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-inf-forensics-secur">IEEE Trans. Inf. Forensics Secur.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. inf. forensics secur.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. inf. forensics secur.-2025)
   </details>
 
@@ -3153,6 +3387,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-j-biomed-health-informatics">IEEE J. Biomed. Health Informatics</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee j. biomed. health informatics-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#ieee j. biomed. health informatics-2025)
   </details>
 
@@ -3206,6 +3441,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#comput-medical-imaging-graph">Comput. Medical Imaging Graph.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#comput. medical imaging graph.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/mamba#comput. medical imaging graph.-2025)
   </details>
 
@@ -3286,6 +3522,38 @@
   <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-artif-intell">IEEE Trans. Artif. Intell.</a></summary>
 
   - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. artif. intell.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-neural-networks-learn-syst">IEEE Trans. Neural Networks Learn. Syst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. neural networks learn. syst.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-cybern">IEEE Trans. Cybern.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. cybern.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#ieee-trans-emerg-top-comput-intell">IEEE Trans. Emerg. Top. Comput. Intell.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#ieee trans. emerg. top. comput. intell.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/mamba#arxiv">arXiv</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/mamba#arxiv-2026)
   </details>
 
 </details>
@@ -3480,6 +3748,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-inference-attack#aaai-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#aaai-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#aaai-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#aaai-2023)
@@ -3648,6 +3917,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#icdm">ICDM</a></summary>
 
+  - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#icdm-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#icdm-2024)
   - [2021](https://sadimanna.github.io/awesome-topics/model-inference-attack#icdm-2021)
   - [2016](https://sadimanna.github.io/awesome-topics/model-inference-attack#icdm-2016)
@@ -3959,6 +4229,8 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#j-mach-learn-res">J. Mach. Learn. Res.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-inference-attack#j. mach. learn. res.-2026)
+  - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#j. mach. learn. res.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#j. mach. learn. res.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#j. mach. learn. res.-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#j. mach. learn. res.-2022)
@@ -4153,6 +4425,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee-trans-emerg-top-comput-intell">IEEE Trans. Emerg. Top. Comput. Intell.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. emerg. top. comput. intell.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. emerg. top. comput. intell.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. emerg. top. comput. intell.-2024)
   </details>
@@ -4272,6 +4545,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee-trans-parallel-distributed-syst">IEEE Trans. Parallel Distributed Syst.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. parallel distributed syst.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. parallel distributed syst.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. parallel distributed syst.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#ieee trans. parallel distributed syst.-2023)
@@ -4390,6 +4664,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#inf-sci">Inf. Sci.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2026)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2023)
   - [2022](https://sadimanna.github.io/awesome-topics/model-inference-attack#inf. sci.-2022)
@@ -4489,6 +4764,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-inference-attack#neural-comput-appl">Neural Comput. Appl.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural comput. appl.-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural comput. appl.-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural comput. appl.-2024)
   - [2023](https://sadimanna.github.io/awesome-topics/model-inference-attack#neural comput. appl.-2023)
@@ -4604,6 +4880,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-injection-attack#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-injection-attack#aaai-2026)
   - [2025](https://sadimanna.github.io/awesome-topics/model-injection-attack#aaai-2025)
   - [2022](https://sadimanna.github.io/awesome-topics/model-injection-attack#aaai-2022)
   - [2006](https://sadimanna.github.io/awesome-topics/model-injection-attack#aaai-2006)
@@ -4740,6 +5017,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-injection-attack#ieee-trans-inf-forensics-secur">IEEE Trans. Inf. Forensics Secur.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-injection-attack#ieee trans. inf. forensics secur.-2026)
   - [2017](https://sadimanna.github.io/awesome-topics/model-injection-attack#ieee trans. inf. forensics secur.-2017)
   - [2016](https://sadimanna.github.io/awesome-topics/model-injection-attack#ieee trans. inf. forensics secur.-2016)
   </details>
@@ -4782,6 +5060,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-injection-attack#expert-syst-appl">Expert Syst. Appl.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-injection-attack#expert syst. appl.-2026)
   - [2015](https://sadimanna.github.io/awesome-topics/model-injection-attack#expert syst. appl.-2015)
   </details>
 
@@ -4842,6 +5121,14 @@
   - [2013](https://sadimanna.github.io/awesome-topics/model-injection-attack#arxiv-2013)
   - [2012](https://sadimanna.github.io/awesome-topics/model-injection-attack#arxiv-2012)
   - [2007](https://sadimanna.github.io/awesome-topics/model-injection-attack#arxiv-2007)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/model-injection-attack#ieee-trans-intell-transp-syst">IEEE Trans. Intell. Transp. Syst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/model-injection-attack#ieee trans. intell. transp. syst.-2026)
   </details>
 
 </details>
@@ -4913,6 +5200,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-poisoning-attack#aaai">AAAI</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#aaai-2026)
   - [2023](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#aaai-2023)
   - [2016](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#aaai-2016)
   </details>
@@ -5106,6 +5394,7 @@
 
   <summary><a href="https://sadimanna.github.io/awesome-topics/model-poisoning-attack#expert-syst-appl">Expert Syst. Appl.</a></summary>
 
+  - [2026](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#expert syst. appl.-2026)
   - [2023](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#expert syst. appl.-2023)
   </details>
 
@@ -5131,6 +5420,22 @@
   - [2020](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#arxiv-2020)
   - [2019](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#arxiv-2019)
   - [2018](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#arxiv-2018)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/model-poisoning-attack#knowl-based-syst">Knowl. Based Syst.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#knowl. based syst.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/model-poisoning-attack#neural-comput-appl">Neural Comput. Appl.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/model-poisoning-attack#neural comput. appl.-2026)
   </details>
 
 </details>
@@ -5330,6 +5635,30 @@
   - [2025](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#acm multimedia-2025)
   </details>
 
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#ieee-trans-image-process">IEEE Trans. Image Process.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#ieee trans. image process.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#ieee-trans-inf-forensics-secur">IEEE Trans. Inf. Forensics Secur.</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#ieee trans. inf. forensics secur.-2026)
+  </details>
+
+
+<details>
+
+  <summary><a href="https://sadimanna.github.io/awesome-topics/prompt-injection-attack#arxiv">arXiv</a></summary>
+
+  - [2026](https://sadimanna.github.io/awesome-topics/prompt-injection-attack#arxiv-2026)
+  </details>
+
 </details>
 
 
@@ -5353,6 +5682,13 @@
   - [2025](https://sadimanna.github.io/awesome-topics/prompt-poisoning-attack#arxiv-2025)
   - [2024](https://sadimanna.github.io/awesome-topics/prompt-poisoning-attack#arxiv-2024)
   </details>
+
+</details>
+
+
+<details>
+
+<summary><strong><a href="https://sadimanna.github.io/awesome-topics/vulnerability-distributed-optimization">Vulnerability Distributed Optimization</a></strong></summary>
 
 </details>
 

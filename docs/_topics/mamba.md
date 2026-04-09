@@ -56,6 +56,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>AAAI</summary>
 
+  - [2026](#aaai-2026)
   - [2025](#aaai-2025)
   - [2021](#aaai-2021)
 
@@ -93,6 +94,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>ICDM</summary>
 
+  - [2025](#icdm-2025)
   - [2024](#icdm-2024)
 
 </details>
@@ -146,6 +148,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>IEEE Trans. Pattern Anal. Mach. Intell.</summary>
 
+  - [2026](#ieee-trans-pattern-anal-mach-intell-2026)
   - [2025](#ieee-trans-pattern-anal-mach-intell-2025)
 
 </details>
@@ -153,6 +156,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>IEEE Trans. Image Process.</summary>
 
+  - [2026](#ieee-trans-image-process-2026)
   - [2025](#ieee-trans-image-process-2025)
 
 </details>
@@ -175,6 +179,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>IEEE Trans. Inf. Forensics Secur.</summary>
 
+  - [2026](#ieee-trans-inf-forensics-secur-2026)
   - [2025](#ieee-trans-inf-forensics-secur-2025)
 
 </details>
@@ -182,6 +187,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>IEEE J. Biomed. Health Informatics</summary>
 
+  - [2026](#ieee-j-biomed-health-informatics-2026)
   - [2025](#ieee-j-biomed-health-informatics-2025)
 
 </details>
@@ -229,6 +235,7 @@ permalink: /mamba/
 <details markdown="1">
 <summary>Comput. Medical Imaging Graph.</summary>
 
+  - [2026](#comput-medical-imaging-graph-2026)
   - [2025](#comput-medical-imaging-graph-2025)
 
 </details>
@@ -300,6 +307,34 @@ permalink: /mamba/
 <summary>IEEE Trans. Artif. Intell.</summary>
 
   - [2026](#ieee-trans-artif-intell-2026)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Neural Networks Learn. Syst.</summary>
+
+  - [2026](#ieee-trans-neural-networks-learn-syst-2026)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Cybern.</summary>
+
+  - [2026](#ieee-trans-cybern-2026)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Emerg. Top. Comput. Intell.</summary>
+
+  - [2026](#ieee-trans-emerg-top-comput-intell-2026)
+
+</details>
+
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2026](#arxiv-2026)
 
 </details>
 
@@ -1052,6 +1087,156 @@ permalink: /mamba/
 
 <summary>Expand AAAI</summary>
 
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>2D-CrossScan Mamba: Enhancing State Space Models with Spatially Consistent Multi-Path 2D Information Propagation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i21.38855">Link</a></td>
+</tr>
+<tr>
+<td>Backtrace Mamba: Reviving Critical Temporal Contexts via Hierarchical Memory Compression for Online Action Detection.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i14.38139">Link</a></td>
+</tr>
+<tr>
+<td>BeyondSparse: Facilitating Mamba to Enhance Cross-Domain 3D Semantic Segmentation in Adverse Weather.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i13.38058">Link</a></td>
+</tr>
+<tr>
+<td>BiST-Mamba: A Dual-branch Spatio-Temporal Mamba Network for Encrypted Traffic Classification (Student Abstract).</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i48.42310">Link</a></td>
+</tr>
+<tr>
+<td>DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i8.37596">Link</a></td>
+</tr>
+<tr>
+<td>Disentangled Hypergraph-Guided Mamba Scanning for Fine-Grained Visual Recognition.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i13.38098">Link</a></td>
+</tr>
+<tr>
+<td>Dual Mamba for Node-Specific Representation Learning: Tackling Over-Smoothing with Selective State Space Modeling.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i26.39317">Link</a></td>
+</tr>
+<tr>
+<td>EccoMamba: Enhanced Cross-hierarchical Continuity Orthogonal Mamba for Medical Image Segmentation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i13.38109">Link</a></td>
+</tr>
+<tr>
+<td>Exploiting All Mamba Fusion for Efficient RGB-D Tracking.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i14.38195">Link</a></td>
+</tr>
+<tr>
+<td>FCMO: A Flow-Curv Mamba Operator for Large-Scale 3D Vehicle Aerodynamics.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i13.38090">Link</a></td>
+</tr>
+<tr>
+<td>Hyperbolic-Enhanced Mixture-of-Experts Mamba for Sequential Recommendation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i18.38567">Link</a></td>
+</tr>
+<tr>
+<td>M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i15.38297">Link</a></td>
+</tr>
+<tr>
+<td>MPI-Mamba: Latent Feature Fusion Mamba for Anisotropic Image Calibration and Deblurring in Magnetic Particle Imaging.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i15.38260">Link</a></td>
+</tr>
+<tr>
+<td>Mamba-Driven Multi-View Discriminative Clustering via Global-Local Cross-View Sequence Modeling.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i34.40082">Link</a></td>
+</tr>
+<tr>
+<td>PGMamba: A Physical Model-Guided Global Mamba for Underwater Image Enhancement.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i11.37895">Link</a></td>
+</tr>
+<tr>
+<td>PIF-Net: Ill-Posed Prior Guided Multispectral and Hyperspectral Image Fusion via Invertible Mamba and Fusion-Aware LoRA.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i8.37519">Link</a></td>
+</tr>
+<tr>
+<td>Rectification Reimagined: A Unified Mamba Model for Image Correction and Rectangling with Prompts.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i10.37811">Link</a></td>
+</tr>
+<tr>
+<td>Self-supervised Multiplex Consensus Mamba for General Image Fusion.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i22.38932">Link</a></td>
+</tr>
+<tr>
+<td>Semantics and Content Matter: Towards Multi-Prior Hierarchical Mamba for Image Deraining.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i14.38213">Link</a></td>
+</tr>
+<tr>
+<td>State Mamba: Spatiotemporal EEG State-Space Model with Dynamic Brain Alignment for Cross-Subject Representation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i21.38843">Link</a></td>
+</tr>
+<tr>
+<td>TransMamba: A Sequence-Level Hybrid Transformer-Mamba Language Model.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i38.40451">Link</a></td>
+</tr>
+<tr>
+<td>Δt-Mamba3D: A Time‑Aware Spatio‑Temporal State‑Space Model for Breast Cancer Risk Prediction.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i16.38395">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="aaai-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -1441,10 +1626,34 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.634">Link</a></td>
 </tr>
 <tr>
+<td>Mamba Drafters for Speculative Decoding.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1167/">Link</a></td>
+</tr>
+<tr>
+<td>ReMamba: Equip Mamba with Effective Long-Sequence Modeling.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.361/">Link</a></td>
+</tr>
+<tr>
 <td>Recall with Reasoning: Chain-of-Thought Distillation for Mamba&apos;s Long-Context Memory and Extrapolation.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.235">Link</a></td>
+</tr>
+<tr>
+<td>Sparsifying Mamba.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.959/">Link</a></td>
+</tr>
+<tr>
+<td>TF-Mamba: Text-enhanced Fusion Mamba with Missing Modalities for Robust Multimodal Sentiment Analysis.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.602/">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -1517,6 +1726,30 @@ permalink: /mamba/
 <details>
 
 <summary>Expand ICDM</summary>
+
+<a id="icdm-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MAMBA-PAD: Selective State Space Anomaly Detection with Channel-Wise Gating and Stabilized Dual-Objective Training.</td>
+<td>ICDM</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/ICDMW69685.2025.00190">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="icdm-2024"></a>
 <h3 class="year-heading">2024</h3>
@@ -2066,6 +2299,30 @@ permalink: /mamba/
 
 <summary>Expand IEEE Trans. Pattern Anal. Mach. Intell.</summary>
 
+<a id="ieee trans. pattern anal. mach. intell.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos.</td>
+<td>IEEE Trans. Pattern Anal. Mach. Intell.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TPAMI.2025.3633453">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. pattern anal. mach. intell.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -2103,6 +2360,54 @@ permalink: /mamba/
 <details>
 
 <summary>Expand IEEE Trans. Image Process.</summary>
+
+<a id="ieee trans. image process.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Domain-Adaptive Mamba for Cross-Scene Hyperspectral Image Classification.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2026.3657209">Link</a></td>
+</tr>
+<tr>
+<td>Interactive Spatial-Frequency Fusion Mamba for Multi-Modal Image Fusion.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2026.3662596">Link</a></td>
+</tr>
+<tr>
+<td>MambaFedCD: Spatial-Spectral-Temporal Collaborative Mamba-Based Active Federated Hyperspectral Change Detection.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2026.3658212">Link</a></td>
+</tr>
+<tr>
+<td>PH-Mamba: Enhancing Mamba With Position Encoding and Harmonized Attention for Image Deraining and Beyond.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2025.3638153">Link</a></td>
+</tr>
+<tr>
+<td>SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2026.3661393">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="ieee trans. image process.-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -2188,6 +2493,12 @@ permalink: /mamba/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Diversity-Enhanced Collaborative Mamba for Semi-Supervised Medical Image Segmentation.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TMI.2025.3601450">Link</a></td>
+</tr>
 <tr>
 <td>SegMamba-V2: Long-Range Sequential Modeling Mamba for General 3-D Medical Image Segmentation.</td>
 <td>IEEE Trans. Medical Imaging</td>
@@ -2278,6 +2589,30 @@ permalink: /mamba/
 
 <summary>Expand IEEE Trans. Inf. Forensics Secur.</summary>
 
+<a id="ieee trans. inf. forensics secur.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MAP-Mamba: Multi-Artifacts Perception Mamba for Generalizable Face Forgery Detection.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIFS.2026.3651948">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. inf. forensics secur.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -2310,6 +2645,36 @@ permalink: /mamba/
 
 <summary>Expand IEEE J. Biomed. Health Informatics</summary>
 
+<a id="ieee j. biomed. health informatics-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>M${2}$SegMamba: Mamba-Based Incomplete Multimodal Learning for Brain Tumor Segmentation With Few Samples.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/JBHI.2025.3600652">Link</a></td>
+</tr>
+<tr>
+<td>MLAgg-UNet: Advancing Medical Image Segmentation With Efficient Transformer and Mamba-Inspired Multi-Scale Sequence.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/JBHI.2025.3596648">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee j. biomed. health informatics-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -2331,6 +2696,12 @@ permalink: /mamba/
 <td>IEEE J. Biomed. Health Informatics</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1109/JBHI.2025.3573042">Link</a></td>
+</tr>
+<tr>
+<td>MSCD-VM-UNet: A Vision Mamba Combining Multi-Scale Global and Local Feature Extraction With Cross-Domain Feature Fusion for Medical Image Segmentation.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/jbhi.2025.3575447">Link</a></td>
 </tr>
 <tr>
 <td>MambaSAM: A Visual Mamba-Adapted SAM Framework for Medical Image Segmentation.</td>
@@ -2438,6 +2809,12 @@ permalink: /mamba/
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.cviu.2025.104617">Link</a></td>
 </tr>
+<tr>
+<td>UAVDet: A CNN-Mamba hybrid network for efficient small object detection in UAV imagery.</td>
+<td>Comput. Vis. Image Underst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.cviu.2026.104637">Link</a></td>
+</tr>
 </tbody></table>
 
 <a id="comput. vis. image underst.-2025"></a>
@@ -2513,6 +2890,24 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.1016/j.patcog.2025.112701">Link</a></td>
 </tr>
 <tr>
+<td>A spectral difference preservation network based on Mamba pyramid for hyperspectral image compression.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2026.113088">Link</a></td>
+</tr>
+<tr>
+<td>CMTNet: A collaborative mamba-transformer network with spatial-temporal cross-fusion for speech emotion recognition.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2026.113159">Link</a></td>
+</tr>
+<tr>
+<td>ConMamba: Contrastive vision Mamba for plant disease detection.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2026.113177">Link</a></td>
+</tr>
+<tr>
 <td>DAF-Mamba: Dynamic selective and adaptive fused mamba for cardiac image segmentation.</td>
 <td>Pattern Recognit.</td>
 <td>2026</td>
@@ -2523,6 +2918,18 @@ permalink: /mamba/
 <td>Pattern Recognit.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.patcog.2025.112725">Link</a></td>
+</tr>
+<tr>
+<td>EEnvA-Mamba: Effective and environtology-aware adaptive Mamba for road object detection in adverse weather scenes.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2026.113127">Link</a></td>
+</tr>
+<tr>
+<td>GCMNet: A global context Mamba network for long-term time series forecasting.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2026.113287">Link</a></td>
 </tr>
 <tr>
 <td>Global and local Mamba network for multi-modality medical image super-resolution.</td>
@@ -2547,6 +2954,12 @@ permalink: /mamba/
 <td>Pattern Recognit.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.patcog.2026.113057">Link</a></td>
+</tr>
+<tr>
+<td>Integrating frequency-aware mamba with diffusion for 4D volumetric image synthesis.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2026.113067">Link</a></td>
 </tr>
 <tr>
 <td>MGCM: Multi-modal graph convolutional mamba for cancer survival prediction.</td>
@@ -2577,6 +2990,12 @@ permalink: /mamba/
 <td>Pattern Recognit.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.patcog.2025.112522">Link</a></td>
+</tr>
+<tr>
+<td>OctMamba: Mamba-based octree context entropy model for point cloud geometry compression.</td>
+<td>Pattern Recognit.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patcog.2026.113113">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -2634,6 +3053,12 @@ permalink: /mamba/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Choroid plexus segmentation in MRI using the novel T1×FLAIR modality and PSU-Mamba: projective scan U-Mamba approach.</td>
+<td>Pattern Recognit. Lett.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patrec.2026.01.024">Link</a></td>
+</tr>
 <tr>
 <td>Multi-Modal masked autoencoder and parallel Mamba for 3D brain tumor segmentation.</td>
 <td>Pattern Recognit. Lett.</td>
@@ -2766,6 +3191,42 @@ permalink: /mamba/
 
 <summary>Expand Comput. Medical Imaging Graph.</summary>
 
+<a id="comput. medical imaging graph.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>ME-Mamba: Multi-Expert Mamba with efficient knowledge capture and fusion for multimodal survival analysis.</td>
+<td>Comput. Medical Imaging Graph.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.compmedimag.2026.102733">Link</a></td>
+</tr>
+<tr>
+<td>Mamba‑MFNet: A hierarchical supervised network based on the fusion of axial and cross-modal attention for breast DCE‑MRI tumor segmentation.</td>
+<td>Comput. Medical Imaging Graph.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.compmedimag.2026.102732">Link</a></td>
+</tr>
+<tr>
+<td>Spectral-X: Latent prior enhanced spectral CT restoration with mamba-assisted X-net.</td>
+<td>Comput. Medical Imaging Graph.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.compmedimag.2025.102696">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="comput. medical imaging graph.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -2883,10 +3344,22 @@ permalink: /mamba/
 </tr></thead>
 <tbody>
 <tr>
+<td>Cross-domain time-frequency Mamba: A more effective model for long-term time series forecasting.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115341">Link</a></td>
+</tr>
+<tr>
 <td>DSFMamba: Dual-state fusion mamba for long-short term motion-adaptive streaming perception in autonomous driving.</td>
 <td>Knowl. Based Syst.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.115249">Link</a></td>
+</tr>
+<tr>
+<td>Data-interactive mamba driven SAR-optical fusion cloud removal.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115301">Link</a></td>
 </tr>
 <tr>
 <td>FSMamba: A dual-expert architecture with fast global attention and local-enhanced state-space mamba for time series forecasting.</td>
@@ -2895,10 +3368,28 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.1016/j.knosys.2025.115233">Link</a></td>
 </tr>
 <tr>
+<td>FiMLink: Enhancing sparse feature matching via FFT-in-Mamba and dynamic learnable Fourier encoding.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115459">Link</a></td>
+</tr>
+<tr>
+<td>FreqMambaMark: Wavelet-Mamba-driven robust medical image watermarking.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115344">Link</a></td>
+</tr>
+<tr>
 <td>IA-MUNet: A knowledge-guided instance-aware mamba-UNet for efficient multiclass dental image segmentation.</td>
 <td>Knowl. Based Syst.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.114949">Link</a></td>
+</tr>
+<tr>
+<td>MTTrack: A joint mamba-transformer framework with memory enhancement for real-time satellite remote sensing video object tracking.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115572">Link</a></td>
 </tr>
 <tr>
 <td>Mamba -GTC: Cross-view contrastive learning with state space modeling for heterogeneous graph representation.</td>
@@ -2923,6 +3414,18 @@ permalink: /mamba/
 <td>Knowl. Based Syst.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.115119">Link</a></td>
+</tr>
+<tr>
+<td>RMViM-Net: Residual multi-path vision mamba with graph interaction attention for medical image segmentation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115326">Link</a></td>
+</tr>
+<tr>
+<td>RTDM: Real-time denoising mamba with progressive self-distillation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115628">Link</a></td>
 </tr>
 <tr>
 <td>WMC-Net: Wavelet-enhanced mamba with contextual fusion network for medical image segmentation.</td>
@@ -3118,6 +3621,18 @@ permalink: /mamba/
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.ins.2025.122816">Link</a></td>
 </tr>
+<tr>
+<td>MSADroid: A pre-trained Mamba-sparse self-attention model for android malware detection on long system call sequences.</td>
+<td>Inf. Sci.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.ins.2026.123368">Link</a></td>
+</tr>
+<tr>
+<td>Mamba-STR: Efficient context-aware scene text recognition framework with selective state space modeling.</td>
+<td>Inf. Sci.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.ins.2026.123242">Link</a></td>
+</tr>
 </tbody></table>
 
 </details>
@@ -3151,10 +3666,22 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129331">Link</a></td>
 </tr>
 <tr>
+<td>A point cloud completion network integrating Mamba and transformer architectures.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2025.130826">Link</a></td>
+</tr>
+<tr>
 <td>ABE-Mamba: Few-shot medical image segmentation via adversarial bidirectional enhanced Mamba.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129897">Link</a></td>
+</tr>
+<tr>
+<td>AdaptScanDet: Deformable mamba with multi-scan interaction for heterogeneous lesion detection in medical imaging.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131122">Link</a></td>
 </tr>
 <tr>
 <td>Aero-MambaNet: A unified mesh-mamba framework for physics-consistent aerodynamic surrogate modeling.</td>
@@ -3163,16 +3690,52 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130923">Link</a></td>
 </tr>
 <tr>
+<td>Beyond feature mapping: Dual-heterogeneous knowledge distillation with mamba for industrial anomaly detection.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131146">Link</a></td>
+</tr>
+<tr>
+<td>CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131665">Link</a></td>
+</tr>
+<tr>
+<td>Conditional prompt guided mamba diffusion for OCT to OCTA image generation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131143">Link</a></td>
+</tr>
+<tr>
 <td>Costal cartilage segmentation with topology guided deformable mamba: Method and benchmark.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130085">Link</a></td>
 </tr>
 <tr>
+<td>Cross-modal image fusion via dual attention and Mamba.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131303">Link</a></td>
+</tr>
+<tr>
+<td>DCM-Net: A dual-branch cross-scale guidance Mamba network for lithium-ion battery state of health estimation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131470">Link</a></td>
+</tr>
+<tr>
 <td>DSA mamba: A model for advanced medical image classification.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130064">Link</a></td>
+</tr>
+<tr>
+<td>Fusion requires interaction: a hybrid Mamba-transformer architecture for deep interactive fusion of multi-modal images.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131309">Link</a></td>
 </tr>
 <tr>
 <td>GCNet-Mamba: Leveraging state space models and CNN for medical image classification.</td>
@@ -3187,16 +3750,46 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130474">Link</a></td>
 </tr>
 <tr>
+<td>GPS-Mamba: Graph permutation scanning state space model for multivariate time series forecasting.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131373">Link</a></td>
+</tr>
+<tr>
 <td>HMambaOcc: Hierarchical Mamba for occupancy flow field prediction in autonomous driving under mixed traffic environments.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130056">Link</a></td>
 </tr>
 <tr>
+<td>HTMNet: A hybrid transformer-mamba network for LiDAR-based 3D detection and semantic segmentation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131832">Link</a></td>
+</tr>
+<tr>
+<td>Hierarchical geometric-spectral mamba architecture for identification in conveyance components wear.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131699">Link</a></td>
+</tr>
+<tr>
+<td>KANWave-Mamba: A rice leaf disease image segmentation method based on Kolmogorov-Arnold network and wavelet-guided Mamba.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131151">Link</a></td>
+</tr>
+<tr>
 <td>Leveraging mamba for reference audio-visual segmentation with vote and cache mechanism.</td>
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129371">Link</a></td>
+</tr>
+<tr>
+<td>M2GRec: An efficient sequential recommendation model combining mamba and multi-task graph learning.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131219">Link</a></td>
 </tr>
 <tr>
 <td>MFS-Fusion: Mamba-integrated deep multi-modal image fusion framework with multi-scale fourier enhancement and spatial calibration.</td>
@@ -3227,6 +3820,18 @@ permalink: /mamba/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.129537">Link</a></td>
+</tr>
+<tr>
+<td>MambaOcc: Visual state space models for BEV-based occupancy prediction with local adaptive reordering.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131305">Link</a></td>
+</tr>
+<tr>
+<td>MambaShield: Selective state-space models for poisoning-resilient sequential modelling.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131175">Link</a></td>
 </tr>
 <tr>
 <td>Multi-scenario building change detection in remote sensing images using CNN-Mamba hybrid network and consistency enhancement learning.</td>
@@ -3477,6 +4082,18 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.1016/j.neunet.2025.108021">Link</a></td>
 </tr>
 <tr>
+<td>MambaFPN: A SSM-based feature pyramid network for object detection.</td>
+<td>Neural Networks</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2026.108544">Link</a></td>
+</tr>
+<tr>
+<td>Multimodal hybrid mamba classification model for tumor pathological grade prediction using magnetic resonance images.</td>
+<td>Neural Networks</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2026.108726">Link</a></td>
+</tr>
+<tr>
 <td>Repetitive contrastive learning enhances Mamba&apos;s selectivity in time series prediction.</td>
 <td>Neural Networks</td>
 <td>2026</td>
@@ -3551,10 +4168,34 @@ permalink: /mamba/
 </tr></thead>
 <tbody>
 <tr>
+<td>CC-mamba: Mamba-based color constancy with illumination prior-guided dynamic feature modulation and wavelet-domain attention mechanism.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133068">Link</a></td>
+</tr>
+<tr>
+<td>COMMANDing anomalies: Continual video anomaly detection via dual-memory and temporal mamba modeling.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132943">Link</a></td>
+</tr>
+<tr>
+<td>DCFANet: Merging dynamic context clustering mamba and context-to-focus attention for medical image segmentation.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133326">Link</a></td>
+</tr>
+<tr>
 <td>Diff-Mamba: A diffusion-Mamba framework for hyperspectral image classification.</td>
 <td>Neurocomputing</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.131930">Link</a></td>
+</tr>
+<tr>
+<td>Evidence-driven ternary contrastive learning with hierarchical mamba fusion for robust multimodal intent recognition.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132866">Link</a></td>
 </tr>
 <tr>
 <td>FA-STTM: A hybrid Transformer-Mamba network for motor imagery EEG classification.</td>
@@ -3563,16 +4204,52 @@ permalink: /mamba/
 <td><a href="https://doi.org/10.1016/j.neucom.2025.132481">Link</a></td>
 </tr>
 <tr>
+<td>Graph-enhanced Mamba: Efficient spatiotemporal sequence modeling with selective state space and graph neural networks.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133280">Link</a></td>
+</tr>
+<tr>
 <td>Li-MFNet: A lightweight multi-scale input Mamba fusion network for medical image segmentation.</td>
 <td>Neurocomputing</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.131916">Link</a></td>
 </tr>
 <tr>
+<td>MNSeg: Mamba-based 3D neuron segmentation integrated with bidirectional attention mechanism and topological loss.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132790">Link</a></td>
+</tr>
+<tr>
+<td>MPFNet: Mamba-driven progressive fusion network for RAW-RGB collaborative demoiréing.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133019">Link</a></td>
+</tr>
+<tr>
 <td>MSLMamba: Mamba-driven cross-modal fusion network with modality-specific learning for multimodal sentiment analysis.</td>
 <td>Neurocomputing</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.132164">Link</a></td>
+</tr>
+<tr>
+<td>SSDMamba: A spectral-spatial dual-branch mamba for hyperspectral image classification.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132944">Link</a></td>
+</tr>
+<tr>
+<td>Unsupervised logical anomaly detection in industry: Mamba optimized by nested pyramid fusion and parameter-shared state space enhancement.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132824">Link</a></td>
+</tr>
+<tr>
+<td>ms-mamba: Multi-scale mamba for time-series forecasting.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133226">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -3869,10 +4546,246 @@ permalink: /mamba/
 </tr></thead>
 <tbody>
 <tr>
+<td>ILVMamba: Illumination-Aware Lightweight Visual Mamba Framework for Efficient High-Resolution Image Enhancement.</td>
+<td>IEEE Trans. Artif. Intell.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TAI.2025.3595115">Link</a></td>
+</tr>
+<tr>
 <td>Spatio-Temporal Mamba Dynamic Graph Convolutional Recurrent Network for Traffic Prediction.</td>
 <td>IEEE Trans. Artif. Intell.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1109/TAI.2025.3571378">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Neural Networks Learn. Syst. <a id="venue-ieee trans. neural networks learn. syst."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Neural Networks Learn. Syst.</summary>
+
+<a id="ieee trans. neural networks learn. syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Sparse Mixture of Mambas for Domain Generalized Atomic Electron Tomography Augmentation.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2025.3613878">Link</a></td>
+</tr>
+<tr>
+<td>Vision Mamba: A Comprehensive Survey and Taxonomy.</td>
+<td>IEEE Trans. Neural Networks Learn. Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TNNLS.2025.3610435">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Cybern. <a id="venue-ieee trans. cybern."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Cybern.</summary>
+
+<a id="ieee trans. cybern.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MsM-DPM: Multiscale Mamba Diffusion Probabilistic Model for Medical Image Segmentation.</td>
+<td>IEEE Trans. Cybern.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TCYB.2025.3625773">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Emerg. Top. Comput. Intell. <a id="venue-ieee trans. emerg. top. comput. intell."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Emerg. Top. Comput. Intell.</summary>
+
+<a id="ieee trans. emerg. top. comput. intell.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Face Sketch Synthesis via Mamba-Transformer Encoder and Style-Enhanced Wavelet Convolution.</td>
+<td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TETCI.2025.3641985">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>A Benchmark of State-Space Models vs. Transformers and BiLSTM-based Models for Historical Newspaper OCR</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.00725v1">2604.00725</a></td>
+</tr>
+<tr>
+<td>AEGIS: Adversarial Entropy-Guided Immune System -- Thermodynamic State Space Models for Zero-Day Network Evasion Detection</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02149v1">2604.02149</a></td>
+</tr>
+<tr>
+<td>CAGMamba: Context-Aware Gated Cross-Modal Mamba Network for Multimodal Sentiment Analysis</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03650v1">2604.03650</a></td>
+</tr>
+<tr>
+<td>CoLoRSMamba: Conditional LoRA-Steered Mamba for Supervised Multimodal Violence Detection</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03329v1">2604.03329</a></td>
+</tr>
+<tr>
+<td>Cosine-Normalized Attention for Hyperspectral Image Classification</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01763v1">2604.01763</a></td>
+</tr>
+<tr>
+<td>EgoFlow: Gradient-Guided Flow Matching for Egocentric 6DoF Object Motion Generation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01421v1">2604.01421</a></td>
+</tr>
+<tr>
+<td>KG-CMI: Knowledge graph enhanced cross-Mamba interaction for medical visual question answering</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.00601v1">2604.00601</a></td>
+</tr>
+<tr>
+<td>Learning the Signature of Memorization in Autoregressive Language Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03199v1">2604.03199</a></td>
+</tr>
+<tr>
+<td>MATHENA: Mamba-based Architectural Tooth Hierarchical Estimator and Holistic Evaluation Network for Anatomy</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.00537v1">2604.00537</a></td>
+</tr>
+<tr>
+<td>Mambalaya: Einsum-Based Fusion Optimizations on State-Space Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03829v1">2604.03829</a></td>
+</tr>
+<tr>
+<td>Physics-Aligned Spectral Mamba: Decoupling Semantics and Dynamics for Few-Shot Hyperspectral Target Detection</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05562v1">2604.05562</a></td>
+</tr>
+<tr>
+<td>RayMamba: Ray-Aligned Serialization for Long-Range 3D Object Detection</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02903v1">2604.02903</a></td>
+</tr>
+<tr>
+<td>S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01168v2">2604.01168</a></td>
+</tr>
+<tr>
+<td>Selective State-Space Models for Koopman-based Data-driven Distribution System State Estimation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02273v1">2604.02273</a></td>
+</tr>
+<tr>
+<td>The UNDO Flip-Flop: A Controlled Probe for Reversible Semantic State Management in State Space Model</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05923v1">2604.05923</a></td>
+</tr>
+<tr>
+<td>The limits of bio-molecular modeling with large language models : a cross-scale evaluation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03361v1">2604.03361</a></td>
+</tr>
+<tr>
+<td>VADMamba++: Efficient Video Anomaly Detection via Hybrid Modeling in Grayscale Space</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.00360v1">2604.00360</a></td>
 </tr>
 </tbody></table>
 

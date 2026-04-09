@@ -182,6 +182,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>AAAI</summary>
 
+  - [2026](#aaai-2026)
   - [2025](#aaai-2025)
   - [2024](#aaai-2024)
   - [2023](#aaai-2023)
@@ -340,6 +341,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>ICDM</summary>
 
+  - [2025](#icdm-2025)
   - [2024](#icdm-2024)
   - [2021](#icdm-2021)
   - [2016](#icdm-2016)
@@ -623,6 +625,8 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>J. Mach. Learn. Res.</summary>
 
+  - [2026](#j-mach-learn-res-2026)
+  - [2025](#j-mach-learn-res-2025)
   - [2024](#j-mach-learn-res-2024)
   - [2023](#j-mach-learn-res-2023)
   - [2022](#j-mach-learn-res-2022)
@@ -802,6 +806,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>IEEE Trans. Emerg. Top. Comput. Intell.</summary>
 
+  - [2026](#ieee-trans-emerg-top-comput-intell-2026)
   - [2025](#ieee-trans-emerg-top-comput-intell-2025)
   - [2024](#ieee-trans-emerg-top-comput-intell-2024)
 
@@ -910,6 +915,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>IEEE Trans. Parallel Distributed Syst.</summary>
 
+  - [2026](#ieee-trans-parallel-distributed-syst-2026)
   - [2025](#ieee-trans-parallel-distributed-syst-2025)
   - [2024](#ieee-trans-parallel-distributed-syst-2024)
   - [2023](#ieee-trans-parallel-distributed-syst-2023)
@@ -1017,6 +1023,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>Inf. Sci.</summary>
 
+  - [2026](#inf-sci-2026)
   - [2024](#inf-sci-2024)
   - [2023](#inf-sci-2023)
   - [2022](#inf-sci-2022)
@@ -1109,6 +1116,7 @@ permalink: /model-inference-attack/
 <details markdown="1">
 <summary>Neural Comput. Appl.</summary>
 
+  - [2026](#neural-comput-appl-2026)
   - [2025](#neural-comput-appl-2025)
   - [2024](#neural-comput-appl-2024)
   - [2023](#neural-comput-appl-2023)
@@ -5551,6 +5559,162 @@ permalink: /model-inference-attack/
 
 <summary>Expand AAAI</summary>
 
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Causal Inference Under Threshold Manipulation: Bayesian Mixture Modeling and Heterogeneous Treatment Effects.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i43.40993">Link</a></td>
+</tr>
+<tr>
+<td>DIAA: A Decoding-Efficient Inference Acceleration Approach for On-Device Large Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i31.39789">Link</a></td>
+</tr>
+<tr>
+<td>Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i14.38134">Link</a></td>
+</tr>
+<tr>
+<td>FlashSVD: Memory-Efficient Inference with Streaming for Low-Rank Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i30.39720">Link</a></td>
+</tr>
+<tr>
+<td>Global Compression Commander: Plug-and-Play Inference Acceleration for High-Resolution Large Vision-Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i9.37673">Link</a></td>
+</tr>
+<tr>
+<td>GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i45.41178">Link</a></td>
+</tr>
+<tr>
+<td>Inference-Aware Prompt Optimization for Aligning Black-Box Large Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i38.40521">Link</a></td>
+</tr>
+<tr>
+<td>Integral-based Knockoffs Inference for Partially Linear Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i31.39823">Link</a></td>
+</tr>
+<tr>
+<td>Learning from Imperfect Data: Robust Inference of Dynamic Systems Using Simulation-Based Generative Model.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i43.40988">Link</a></td>
+</tr>
+<tr>
+<td>M2I2: Learning Efficient Multi-Agent Communication via Masked State Modeling and Intention Inference.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i30.39764">Link</a></td>
+</tr>
+<tr>
+<td>Membership Inference Attack Against Large Language Model-Based Recommendation Systems: A New Distillation-Based Paradigm.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i27.39449">Link</a></td>
+</tr>
+<tr>
+<td>MrM: Black-Box Membership Inference Attacks Against Multimodal RAG Systems.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i40.40726">Link</a></td>
+</tr>
+<tr>
+<td>Optimization and Robustness-Informed Membership Inference Attacks for LLMs.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i39.40587">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Auditing of Multi-Domain Graph Pre-Trained Model Under Membership Inference Attacks.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i18.38576">Link</a></td>
+</tr>
+<tr>
+<td>Privacy Leaks by Adversaries: Adversarial Iterations for Membership Inference Attack.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i42.40912">Link</a></td>
+</tr>
+<tr>
+<td>Probing Semantic Insensitivity for Inference-Time Backdoor Defense in Multimodal Large Language Model.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i42.40891">Link</a></td>
+</tr>
+<tr>
+<td>Reconstruction Attack-Resistant Inference Paradigm for LLM Cloud Services.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i21.38853">Link</a></td>
+</tr>
+<tr>
+<td>Reference Recommendation Based Membership Inference Attack Against Hybrid-Based Recommender Systems.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i42.40846">Link</a></td>
+</tr>
+<tr>
+<td>Rethinking Membership Inference Attacks for CLIP.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i25.39276">Link</a></td>
+</tr>
+<tr>
+<td>SMIDT: High-Performance Inference Framework for MoE Models with Dynamic Top-K Routing.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i27.39403">Link</a></td>
+</tr>
+<tr>
+<td>SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i10.37771">Link</a></td>
+</tr>
+<tr>
+<td>TimeBill: Time-Budgeted Inference for Large Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i36.40317">Link</a></td>
+</tr>
+<tr>
+<td>W2S-AlignTree: Weak-to-Strong Inference-Time Alignment for Large Language Models via Monte Carlo Tree Search.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i36.40306">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="aaai-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -7996,6 +8160,12 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.18653/v1/2024.acl-long.602">Link</a></td>
 </tr>
 <tr>
+<td>LinguaLinked: Distributed Large Language Model Inference on Mobile Devices.</td>
+<td>ACL</td>
+<td>2024</td>
+<td><a href="https://doi.org/10.18653/v1/2024.acl-demos.16">Link</a></td>
+</tr>
+<tr>
 <td>Multi-Task Inference: Can Large Language Models Follow Multiple Instructions at Once?</td>
 <td>ACL</td>
 <td>2024</td>
@@ -8528,10 +8698,28 @@ permalink: /model-inference-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>AdaptMerge: Inference Time Adaptive Visual and Language-Guided Token Merging for Efficient Large Multimodal Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.387/">Link</a></td>
+</tr>
+<tr>
 <td>Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1263">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Spurious Signals: Debiasing Multimodal Large Language Models via Counterfactual Inference and Adaptive Expert Routing.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.205/">Link</a></td>
+</tr>
+<tr>
+<td>BiasFilter: An Inference-Time Debiasing Framework for Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.821/">Link</a></td>
 </tr>
 <tr>
 <td>Context-Aware Membership Inference Attacks against Pre-trained Large Language Models.</td>
@@ -8552,10 +8740,28 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.394">Link</a></td>
 </tr>
 <tr>
+<td>Efficient Inference for Large Language Models -Algorithm, Model, and System.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-tutorials.1">Link</a></td>
+</tr>
+<tr>
+<td>Evaluating Large Language Models for Belief Inference: Mapping Belief Networks at Scale.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1132/">Link</a></td>
+</tr>
+<tr>
 <td>Identifying Unlearned Data in LLMs via Membership Inference Attacks.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.551">Link</a></td>
+</tr>
+<tr>
+<td>Offloaded Reasoning: Efficient Inference for Large Language Models via Modular Reasoning and Refinement.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.393/">Link</a></td>
 </tr>
 <tr>
 <td>Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time.</td>
@@ -8564,16 +8770,40 @@ permalink: /model-inference-attack/
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.901">Link</a></td>
 </tr>
 <tr>
+<td>Safeguarding Privacy of Retrieval Data against Membership Inference Attacks: Is This Query Too Close to Home?</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.438/">Link</a></td>
+</tr>
+<tr>
 <td>SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1306">Link</a></td>
 </tr>
 <tr>
+<td>TRACE: Training and Inference-Time Interpretability Analysis for Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-demos.62">Link</a></td>
+</tr>
+<tr>
+<td>Tag&amp;Tab: Pretraining Data Detection in Large Language Models Using Keyword-Based Membership Inference Attack.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.283/">Link</a></td>
+</tr>
+<tr>
 <td>The discordance between embedded ethics and cultural inference in large language models.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.743">Link</a></td>
+</tr>
+<tr>
+<td>Tracing Training Footprints: A Calibration Approach for Membership Inference Attacks Against Multimodal Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.931/">Link</a></td>
 </tr>
 <tr>
 <td>Train It and Forget It: Merge Lists are Unnecessary for BPE Inference in Language Models.</td>
@@ -9368,6 +9598,36 @@ permalink: /model-inference-attack/
 <details>
 
 <summary>Expand ICDM</summary>
+
+<a id="icdm-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Benchmarking Graph Construction by Large Language Models for Coherence-Driven Inference.</td>
+<td>ICDM</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/ICDMW69685.2025.00116">Link</a></td>
+</tr>
+<tr>
+<td>EC-LDA: Label Distribution Inference Attack Against Federated Graph Learning with Embedding Compression.</td>
+<td>ICDM</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/ICDM65498.2025.00023">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="icdm-2024"></a>
 <h3 class="year-heading">2024</h3>
@@ -12827,6 +13087,54 @@ permalink: /model-inference-attack/
 
 <summary>Expand J. Mach. Learn. Res.</summary>
 
+<a id="j. mach. learn. res.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Decorrelated Local Linear Estimator: Inference for Non-linear Effects in High-dimensional Additive Models.</td>
+<td>J. Mach. Learn. Res.</td>
+<td>2026</td>
+<td><a href="https://jmlr.org/papers/v27/22-1436.html">Link</a></td>
+</tr>
+</tbody></table>
+
+<a id="j. mach. learn. res.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Fundamental Limits of Membership Inference Attacks on Machine Learning Models.</td>
+<td>J. Mach. Learn. Res.</td>
+<td>2025</td>
+<td><a href="https://jmlr.org/papers/v26/24-1515.html">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="j. mach. learn. res.-2024"></a>
 <h3 class="year-heading">2024</h3>
 <table class="paper-table">
@@ -12854,6 +13162,24 @@ permalink: /model-inference-attack/
 <td>J. Mach. Learn. Res.</td>
 <td>2024</td>
 <td><a href="https://jmlr.org/papers/v25/22-1258.html">Link</a></td>
+</tr>
+<tr>
+<td>Inference on High-dimensional Single-index Models with Streaming Data.</td>
+<td>J. Mach. Learn. Res.</td>
+<td>2024</td>
+<td><a href="https://jmlr.org/papers/v25/22-1124.html">Link</a></td>
+</tr>
+<tr>
+<td>Neural Bayes estimators for censored inference with peaks-over-threshold models.</td>
+<td>J. Mach. Learn. Res.</td>
+<td>2024</td>
+<td><a href="https://jmlr.org/papers/v25/23-1134.html">Link</a></td>
+</tr>
+<tr>
+<td>Structured Optimal Variational Inference for Dynamic Latent Space Models.</td>
+<td>J. Mach. Learn. Res.</td>
+<td>2024</td>
+<td><a href="https://jmlr.org/papers/v25/22-0514.html">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -15407,6 +15733,30 @@ permalink: /model-inference-attack/
 
 <summary>Expand IEEE Trans. Emerg. Top. Comput. Intell.</summary>
 
+<a id="ieee trans. emerg. top. comput. intell.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Neuron Membership Inference Attack in Federated Learning for bit Scenarios.</td>
+<td>IEEE Trans. Emerg. Top. Comput. Intell.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TETCI.2026.3657969">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. emerg. top. comput. intell.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -15637,6 +15987,12 @@ permalink: /model-inference-attack/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Casper: A Causality-Inspired Defense With Confounder Against Label Inference Attacks in Vertical Split Federated Learning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIFS.2026.3652013">Link</a></td>
+</tr>
 <tr>
 <td>Practical Secure Inference Algorithm for a Fine-Tuned Large Language Model Based on Fully Homomorphic Encryption.</td>
 <td>IEEE Trans. Inf. Forensics Secur.</td>
@@ -16665,6 +17021,30 @@ permalink: /model-inference-attack/
 
 <summary>Expand IEEE Trans. Parallel Distributed Syst.</summary>
 
+<a id="ieee trans. parallel distributed syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MEOCI: Model Partitioning and Early-Exit Point Selection Joint Optimization for Collaborative Inference in Vehicular Edge Computing.</td>
+<td>IEEE Trans. Parallel Distributed Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TPDS.2026.3652171">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. parallel distributed syst.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -16839,6 +17219,12 @@ permalink: /model-inference-attack/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>POMDP-Active Inference Model for Hybrid Critical Multicore Heterogeneous Scheduling.</td>
+<td>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TCAD.2025.3592586">Link</a></td>
+</tr>
 <tr>
 <td>Paddle Lite on Zephyr: Deploying AI Models in RTOS for Inference Acceleration.</td>
 <td>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</td>
@@ -17833,6 +18219,30 @@ permalink: /model-inference-attack/
 
 <summary>Expand Inf. Sci.</summary>
 
+<a id="inf. sci.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>T-MIA: A membership inference attack via timing side-channel and possible defense scheme.</td>
+<td>Inf. Sci.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.ins.2026.123317">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="inf. sci.-2024"></a>
 <h3 class="year-heading">2024</h3>
 <table class="paper-table">
@@ -18144,6 +18554,12 @@ permalink: /model-inference-attack/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.128858">Link</a></td>
+</tr>
+<tr>
+<td>An uncertainty-aware framework integrating large language model and fuzzy inference system for commonsense reasoning.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131273">Link</a></td>
 </tr>
 <tr>
 <td>FedCkic: A federated learning inference attack defense method based on centralized key agreement and integrity verification.</td>
@@ -18729,6 +19145,12 @@ permalink: /model-inference-attack/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>DSA-Diff: Dynamic schedule alignment for training-Inference consistent modality translation in x-prediction diffusion model.</td>
+<td>Neural Networks</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2026.108611">Link</a></td>
+</tr>
 <tr>
 <td>Deep belief Markov models for POMDP inference.</td>
 <td>Neural Networks</td>
@@ -19371,6 +19793,30 @@ permalink: /model-inference-attack/
 
 <summary>Expand Neural Comput. Appl.</summary>
 
+<a id="neural comput. appl.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Integration of an adaptive neuro-fuzzy inference system (ANFIS) model for groundwater level prediction utilizing feature engineering techniques in the training process.</td>
+<td>Neural Comput. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1007/s00521-025-11761-x">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="neural comput. appl.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -19884,6 +20330,18 @@ permalink: /model-inference-attack/
 <td><a href="http://arxiv.org/abs/2601.00748v1">Link</a></td>
 </tr>
 <tr>
+<td>A Multimodal Vision Transformer-based Modeling Framework for Prediction of Fluid Flows in Energy Systems</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02483v1">2604.02483</a></td>
+</tr>
+<tr>
+<td>A Unified Perspective on Adversarial Membership Manipulation in Vision Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02780v1">2604.02780</a></td>
+</tr>
+<tr>
 <td>A Universal Load Balancing Principle and Its Application to Large Language Model Serving</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -19932,6 +20390,18 @@ permalink: /model-inference-attack/
 <td><a href="http://arxiv.org/abs/2601.18110v1">Link</a></td>
 </tr>
 <tr>
+<td>Attention Editing: A Versatile Framework for Cross-Architecture Attention Conversion</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05688v1">2604.05688</a></td>
+</tr>
+<tr>
+<td>AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01014v1">2604.01014</a></td>
+</tr>
+<tr>
 <td>Bagging-Based Model Merging for Robust General Text Embeddings</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -19942,6 +20412,12 @@ permalink: /model-inference-attack/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.16218v1">Link</a></td>
+</tr>
+<tr>
+<td>Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05404v1">2604.05404</a></td>
 </tr>
 <tr>
 <td>Beyond GEMM-Centric NPUs: Enabling Efficient Diffusion LLM Sampling</td>
@@ -19980,10 +20456,22 @@ permalink: /model-inference-attack/
 <td><a href="http://arxiv.org/abs/2601.05047v3">Link</a></td>
 </tr>
 <tr>
+<td>Communication-Efficient Collaborative LLM Inference over LEO Satellite Networks</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.04654v1">2604.04654</a></td>
+</tr>
+<tr>
 <td>Constitutive parameter inference using physics-based data-driven modeling in full volume datasets of intact and torn rotator cuff tendons</td>
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2601.09660v1">Link</a></td>
+</tr>
+<tr>
+<td>DISCO-TAB: A Hierarchical Reinforcement Learning Framework for Privacy-Preserving Synthesis of Complex Clinical Data</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01481v1">2604.01481</a></td>
 </tr>
 <tr>
 <td>DPSQL+: A Differentially Private SQL Library with a Minimum Frequency Rule</td>
@@ -20040,6 +20528,12 @@ permalink: /model-inference-attack/
 <td><a href="http://arxiv.org/abs/2602.01852v1">Link</a></td>
 </tr>
 <tr>
+<td>Fast NF4 Dequantization Kernels for Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02556v1">2604.02556</a></td>
+</tr>
+<tr>
 <td>FastAV: Efficient Token Pruning for Audio-Visual Large Language Model Inference</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -20056,6 +20550,12 @@ permalink: /model-inference-attack/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.00407v1">Link</a></td>
+</tr>
+<tr>
+<td>FlatAttention: Dataflow and Fabric Collectives Co-Optimization for Large Attention-Based Model Inference on Tile-Based Accelerators</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02110v1">2604.02110</a></td>
 </tr>
 <tr>
 <td>Flatter Tokens are More Valuable for Speculative Draft Model Training</td>
@@ -20076,6 +20576,12 @@ permalink: /model-inference-attack/
 <td><a href="http://arxiv.org/abs/2602.01056v1">Link</a></td>
 </tr>
 <tr>
+<td>G-Drift MIA: Membership Inference via Gradient-Induced Feature Drift in LLMs</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.00419v1">2604.00419</a></td>
+</tr>
+<tr>
 <td>Generalized Leverage Score for Scalable Assessment of Privacy Vulnerability</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -20086,6 +20592,12 @@ permalink: /model-inference-attack/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.06390v1">Link</a></td>
+</tr>
+<tr>
+<td>Goose: Anisotropic Speculation Trees for Training-Free Speculative Decoding</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02047v1">2604.02047</a></td>
 </tr>
 <tr>
 <td>Grad2Reward: From Sparse Judgment to Dense Rewards for Improving Open-Ended LLM Reasoning</td>
@@ -20118,6 +20630,12 @@ permalink: /model-inference-attack/
 <td><a href="http://arxiv.org/abs/2602.13484v1">Link</a></td>
 </tr>
 <tr>
+<td>HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05887v1">2604.05887</a></td>
+</tr>
+<tr>
 <td>Improving User Privacy in Personalized Generation: Client-Side Retrieval-Augmented Modification of Server-Side Generated Speculations</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -20128,6 +20646,12 @@ permalink: /model-inference-attack/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.02313v2">Link</a></td>
+</tr>
+<tr>
+<td>InverseDraping: Recovering Sewing Patterns from 3D Garment Surfaces via BoxMesh Bridging</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02764v1">2604.02764</a></td>
 </tr>
 <tr>
 <td>Jolt Atlas: Verifiable Inference via Lookup Arguments in Zero Knowledge</td>
@@ -20352,6 +20876,12 @@ permalink: /model-inference-attack/
 <td><a href="http://arxiv.org/abs/2602.00942v2">Link</a></td>
 </tr>
 <tr>
+<td>SERSEM: Selective Entropy-Weighted Scoring for Membership Inference in Code Language Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01147v1">2604.01147</a></td>
+</tr>
+<tr>
 <td>SRFed: Mitigating Poisoning Attacks in Privacy-Preserving Federated Learning with Heterogeneous Data</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -20374,6 +20904,12 @@ permalink: /model-inference-attack/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2601.05516v1">Link</a></td>
+</tr>
+<tr>
+<td>Semantic Reality: Interactive Context-Aware Visualization of Inter-Object Relationships in Augmented Reality</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05265v1">2604.05265</a></td>
 </tr>
 <tr>
 <td>Sequential Membership Inference Attacks</td>
@@ -20416,6 +20952,12 @@ permalink: /model-inference-attack/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.01150v1">Link</a></td>
+</tr>
+<tr>
+<td>SteerFlow: Steering Rectified Flows for Faithful Inversion-Based Image Editing</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01715v1">2604.01715</a></td>
 </tr>
 <tr>
 <td>Stop Tracking Me! Proactive Defense Against Attribute Inference Attack in LLMs</td>
@@ -20464,6 +21006,12 @@ permalink: /model-inference-attack/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.21372v1">Link</a></td>
+</tr>
+<tr>
+<td>VLA-InfoEntropy: A Training-Free Vision-Attention Information Entropy Approach for Vision-Language-Action Models Inference Acceleration and Success</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05323v1">2604.05323</a></td>
 </tr>
 <tr>
 <td>ViTCoP: Accelerating Large Vision-Language Models via Visual and Textual Semantic Collaborative Pruning</td>

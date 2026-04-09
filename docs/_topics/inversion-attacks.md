@@ -24,6 +24,7 @@ permalink: /inversion-attacks/
 <details markdown="1">
 <summary>AAAI</summary>
 
+  - [2026](#aaai-2026)
   - [2025](#aaai-2025)
   - [2024](#aaai-2024)
   - [2023](#aaai-2023)
@@ -90,6 +91,7 @@ permalink: /inversion-attacks/
 <details markdown="1">
 <summary>IEEE Trans. Pattern Anal. Mach. Intell.</summary>
 
+  - [2026](#ieee-trans-pattern-anal-mach-intell-2026)
   - [2025](#ieee-trans-pattern-anal-mach-intell-2025)
   - [2024](#ieee-trans-pattern-anal-mach-intell-2024)
   - [2023](#ieee-trans-pattern-anal-mach-intell-2023)
@@ -318,6 +320,7 @@ permalink: /inversion-attacks/
 <details markdown="1">
 <summary>IEEE Trans. Inf. Forensics Secur.</summary>
 
+  - [2026](#ieee-trans-inf-forensics-secur-2026)
   - [2025](#ieee-trans-inf-forensics-secur-2025)
   - [2024](#ieee-trans-inf-forensics-secur-2024)
   - [2023](#ieee-trans-inf-forensics-secur-2023)
@@ -338,6 +341,7 @@ permalink: /inversion-attacks/
 <details markdown="1">
 <summary>IEEE J. Biomed. Health Informatics</summary>
 
+  - [2026](#ieee-j-biomed-health-informatics-2026)
   - [2023](#ieee-j-biomed-health-informatics-2023)
 
 </details>
@@ -363,6 +367,7 @@ permalink: /inversion-attacks/
 <details markdown="1">
 <summary>Neurocomputing</summary>
 
+  - [2026](#neurocomputing-2026)
   - [2025](#neurocomputing-2025)
   - [2024](#neurocomputing-2024)
   - [2020](#neurocomputing-2020)
@@ -675,6 +680,13 @@ permalink: /inversion-attacks/
 
 </details>
 
+<details markdown="1">
+<summary>WSDM</summary>
+
+  - [2026](#wsdm-2026)
+
+</details>
+
 </details>
 
 
@@ -843,6 +855,96 @@ permalink: /inversion-attacks/
 <details>
 
 <summary>Expand AAAI</summary>
+
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>An Invariant Latent Space Perspective on Language Model Inversion.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i33.40004">Link</a></td>
+</tr>
+<tr>
+<td>Condensed Data Expansion Using Model Inversion for Knowledge Distillation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i24.39057">Link</a></td>
+</tr>
+<tr>
+<td>Eguard: Defending LLM Embeddings Against Inversion Attacks via Text Mutual Information Optimization.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i42.40876">Link</a></td>
+</tr>
+<tr>
+<td>FedLAGC: Towards High Performance System-Heterogeneous Federated Learning via Layer-Adaptive Submodel Extraction and Gradient Correction.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i26.39338">Link</a></td>
+</tr>
+<tr>
+<td>High Dimensional Distributed Gradient Descent with Arbitrary Number of Byzantine Attackers.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i28.39560">Link</a></td>
+</tr>
+<tr>
+<td>Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i42.40893">Link</a></td>
+</tr>
+<tr>
+<td>Oscillation Inversion: Training-Free Image and Video Enhancement Through Oscillated Latents in Large Flow Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i16.38352">Link</a></td>
+</tr>
+<tr>
+<td>PAGPL: Privacy-Aware Graph Prompt Learning Scheme via Adaptive Perturbation-Estimated Topology Recovery.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i27.39381">Link</a></td>
+</tr>
+<tr>
+<td>Retaliatory Attacks Against Federated Unlearning via Data Leakage.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i30.39725">Link</a></td>
+</tr>
+<tr>
+<td>Text-Guided Gradient Refinement: Resolving Multimodal Gradient Conflicts to Boost Adversarial Attacks on Vision-Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i7.37436">Link</a></td>
+</tr>
+<tr>
+<td>Venom: Liquid Diffusion-Guided Gradient Inversion for Breaking Differential Privacy in Federated Learning.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i26.39333">Link</a></td>
+</tr>
+<tr>
+<td>When Privacy Meets Recovery: The Overlooked Half of Surrogate-Driven Privacy Preservation for MLLM Editing.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i42.40911">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="aaai-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -1905,6 +2007,30 @@ permalink: /inversion-attacks/
 <details>
 
 <summary>Expand IEEE Trans. Pattern Anal. Mach. Intell.</summary>
+
+<a id="ieee trans. pattern anal. mach. intell.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Exploring the Vulnerabilities of Federated Learning: A Deep Dive Into Gradient Inversion Attacks.</td>
+<td>IEEE Trans. Pattern Anal. Mach. Intell.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TPAMI.2025.3646639">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="ieee trans. pattern anal. mach. intell.-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -3739,10 +3865,22 @@ permalink: /inversion-attacks/
 </tr></thead>
 <tbody>
 <tr>
+<td>ISACL: Internal State Analyzer for Copyrighted Training Data Leakage.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.571/">Link</a></td>
+</tr>
+<tr>
 <td>Investigating How Pre-training Data Leakage Affects Models&apos; Reproduction and Detection Capabilities.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1201">Link</a></td>
+</tr>
+<tr>
+<td>Misalignment Attack on Text-to-Image Models via Text Embedding Optimization and Inversion.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1200/">Link</a></td>
 </tr>
 <tr>
 <td>Reverse Prompt Engineering: A Zero-Shot, Genetic Algorithm Approach to Language Model Inversion.</td>
@@ -4938,6 +5076,36 @@ permalink: /inversion-attacks/
 
 <summary>Expand IEEE Trans. Inf. Forensics Secur.</summary>
 
+<a id="ieee trans. inf. forensics secur.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Model Inversion Attack Against Federated Unlearning.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIFS.2026.3666295">Link</a></td>
+</tr>
+<tr>
+<td>Safeguarding Federated Learning From Data Reconstruction Attacks via Gradient Dropout.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIFS.2026.3659401">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. inf. forensics secur.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -5308,6 +5476,30 @@ permalink: /inversion-attacks/
 
 <summary>Expand IEEE J. Biomed. Health Informatics</summary>
 
+<a id="ieee j. biomed. health informatics-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Medical Image Privacy in Federated Learning: Segmentation-Reorganization and Sparsified Gradient Matching Attacks.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/JBHI.2025.3593631">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee j. biomed. health informatics-2023"></a>
 <h3 class="year-heading">2023</h3>
 <table class="paper-table">
@@ -5517,6 +5709,42 @@ permalink: /inversion-attacks/
 <details>
 
 <summary>Expand Neurocomputing</summary>
+
+<a id="neurocomputing-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>GADT: Enhancing transferable adversarial attacks through gradient-guided adversarial data transformation.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133052">Link</a></td>
+</tr>
+<tr>
+<td>GIDD: Gradient inversion using diffusion model for denoising in federated learning.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132682">Link</a></td>
+</tr>
+<tr>
+<td>Impact of leakage on data harmonization in machine learning pipelines in class imbalance across sites.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133146">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="neurocomputing-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -6134,6 +6362,12 @@ permalink: /inversion-attacks/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Dynamic gradient fusion method with local spatial and multi-scale frequency transformations for transferable adversarial attacks.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131677">Link</a></td>
+</tr>
 <tr>
 <td>ExSGD: Exploiting previous gradient for distributed large-batch training of building extraction network.</td>
 <td>Expert Syst. Appl.</td>
@@ -7937,6 +8171,12 @@ permalink: /inversion-attacks/
 <td><a href="http://arxiv.org/abs/2602.19055v2">Link</a></td>
 </tr>
 <tr>
+<td>BVFLMSP : Bayesian Vertical Federated Learning for Multimodal Survival with Privacy</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02248v1">2604.02248</a></td>
+</tr>
+<tr>
 <td>Benchmark Leakage Trap: Can We Trust LLM-based Recommendation?</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -7997,6 +8237,12 @@ permalink: /inversion-attacks/
 <td><a href="http://arxiv.org/abs/2602.06743v1">Link</a></td>
 </tr>
 <tr>
+<td>ComPrivDet: Efficient Privacy Object Detection in Compressed Domains Through Inference Reuse</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03640v1">2604.03640</a></td>
+</tr>
+<tr>
 <td>Concept-Aware Privacy Mechanisms for Defending Embedding Inversion Attacks</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -8007,6 +8253,12 @@ permalink: /inversion-attacks/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2601.10643v1">Link</a></td>
+</tr>
+<tr>
+<td>Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03201v1">2604.03201</a></td>
 </tr>
 <tr>
 <td>Cross-reality Location Privacy Protection in 6G-enabled Vehicular Metaverses: An LLM-enhanced Hybrid Generative Diffusion Model-based Approach</td>
@@ -8081,10 +8333,22 @@ permalink: /inversion-attacks/
 <td><a href="http://arxiv.org/abs/2601.12331v1">Link</a></td>
 </tr>
 <tr>
+<td>Enhancing Gradient Inversion Attacks in Federated Learning via Hierarchical Feature Optimization</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.00955v1">2604.00955</a></td>
+</tr>
+<tr>
 <td>Enhancing Multi-Image Understanding through Delimiter Token Scaling</td>
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.01984v2">Link</a></td>
+</tr>
+<tr>
+<td>Estimating Central, Peripheral, and Temporal Visual Contributions to Human Decision Making in Atari Games</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.04439v1">2604.04439</a></td>
 </tr>
 <tr>
 <td>Explanations Leak: Membership Inference with Differential Privacy and Active Learning Defense</td>
@@ -8259,6 +8523,12 @@ permalink: /inversion-attacks/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2601.22456v1">Link</a></td>
+</tr>
+<tr>
+<td>Mechanism and Communication Co-Design for Differentially Private Energy Sharing</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.04125v1">2604.04125</a></td>
 </tr>
 <tr>
 <td>Membership Inference Attacks Against Fine-tuned Diffusion Language Models</td>
@@ -8549,6 +8819,12 @@ permalink: /inversion-attacks/
 <td><a href="http://arxiv.org/abs/2602.13529v1">Link</a></td>
 </tr>
 <tr>
+<td>Self-Distilled RLVR</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03128v1">2604.03128</a></td>
+</tr>
+<tr>
 <td>Self-Guard: Defending Large Reasoning Models via enhanced self-reflection</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -8639,6 +8915,24 @@ permalink: /inversion-attacks/
 <td><a href="http://arxiv.org/abs/2601.15829v1">Link</a></td>
 </tr>
 <tr>
+<td>Towards Securing IIoT: An Innovative Privacy-Preserving Anomaly Detector Based on Federated Learning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.06101v1">2604.06101</a></td>
+</tr>
+<tr>
+<td>Training-Free Private Synthesis with Validation: A New Frontier for Practical Educational Data Sharing</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01821v1">2604.01821</a></td>
+</tr>
+<tr>
+<td>Tunable information insulation induced by constraint mismatch</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.00732v1">2604.00732</a></td>
+</tr>
+<tr>
 <td>UniForce: A Unified Latent Force Model for Robot Manipulation with Diverse Tactile Sensors</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -8679,6 +8973,18 @@ permalink: /inversion-attacks/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2601.13001v1">Link</a></td>
+</tr>
+<tr>
+<td>Which Leakage Types Matter?</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.04199v1">2604.04199</a></td>
+</tr>
+<tr>
+<td>Your LLM Agent Can Leak Your Data: Data Exfiltration via Backdoored Tool Use</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05432v1">2604.05432</a></td>
 </tr>
 <tr>
 <td>Zero2Text: Zero-Training Cross-Domain Inversion Attacks on Textual Embeddings</td>
@@ -27579,6 +27885,38 @@ permalink: /inversion-attacks/
 <td>arXiv</td>
 <td>1999</td>
 <td><a href="http://arxiv.org/abs/quant-ph/9911035v2">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## WSDM <a id="venue-wsdm"></a>
+
+<details>
+
+<summary>Expand WSDM</summary>
+
+<a id="wsdm-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Unlearning Inversion Attacks for Graph Neural Networks.</td>
+<td>WSDM</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1145/3773966.3777929">Link</a></td>
 </tr>
 </tbody></table>
 

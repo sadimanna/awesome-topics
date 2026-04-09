@@ -33,6 +33,7 @@ permalink: /mamba-segmentation/
 <details markdown="1">
 <summary>AAAI</summary>
 
+  - [2026](#aaai-2026)
   - [2025](#aaai-2025)
 
 </details>
@@ -63,6 +64,7 @@ permalink: /mamba-segmentation/
 <details markdown="1">
 <summary>IEEE J. Biomed. Health Informatics</summary>
 
+  - [2026](#ieee-j-biomed-health-informatics-2026)
   - [2025](#ieee-j-biomed-health-informatics-2025)
 
 </details>
@@ -93,6 +95,7 @@ permalink: /mamba-segmentation/
 <details markdown="1">
 <summary>Comput. Medical Imaging Graph.</summary>
 
+  - [2026](#comput-medical-imaging-graph-2026)
   - [2025](#comput-medical-imaging-graph-2025)
 
 </details>
@@ -133,6 +136,13 @@ permalink: /mamba-segmentation/
 <summary>arXiv</summary>
 
   - [2024](#arxiv-2024)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Cybern.</summary>
+
+  - [2026](#ieee-trans-cybern-2026)
 
 </details>
 
@@ -254,6 +264,36 @@ permalink: /mamba-segmentation/
 <details>
 
 <summary>Expand AAAI</summary>
+
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>BeyondSparse: Facilitating Mamba to Enhance Cross-Domain 3D Semantic Segmentation in Adverse Weather.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i13.38058">Link</a></td>
+</tr>
+<tr>
+<td>EccoMamba: Enhanced Cross-hierarchical Continuity Orthogonal Mamba for Medical Image Segmentation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i13.38109">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="aaai-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -434,6 +474,12 @@ permalink: /mamba-segmentation/
 </tr></thead>
 <tbody>
 <tr>
+<td>Diversity-Enhanced Collaborative Mamba for Semi-Supervised Medical Image Segmentation.</td>
+<td>IEEE Trans. Medical Imaging</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TMI.2025.3601450">Link</a></td>
+</tr>
+<tr>
 <td>SegMamba-V2: Long-Range Sequential Modeling Mamba for General 3-D Medical Image Segmentation.</td>
 <td>IEEE Trans. Medical Imaging</td>
 <td>2026</td>
@@ -485,6 +531,36 @@ permalink: /mamba-segmentation/
 
 <summary>Expand IEEE J. Biomed. Health Informatics</summary>
 
+<a id="ieee j. biomed. health informatics-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>M${2}$SegMamba: Mamba-Based Incomplete Multimodal Learning for Brain Tumor Segmentation With Few Samples.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/JBHI.2025.3600652">Link</a></td>
+</tr>
+<tr>
+<td>MLAgg-UNet: Advancing Medical Image Segmentation With Efficient Transformer and Mamba-Inspired Multi-Scale Sequence.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/JBHI.2025.3596648">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee j. biomed. health informatics-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -501,6 +577,12 @@ permalink: /mamba-segmentation/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>MSCD-VM-UNet: A Vision Mamba Combining Multi-Scale Global and Local Feature Extraction With Cross-Domain Feature Fusion for Medical Image Segmentation.</td>
+<td>IEEE J. Biomed. Health Informatics</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/jbhi.2025.3575447">Link</a></td>
+</tr>
 <tr>
 <td>MambaSAM: A Visual Mamba-Adapted SAM Framework for Medical Image Segmentation.</td>
 <td>IEEE J. Biomed. Health Informatics</td>
@@ -685,6 +767,30 @@ permalink: /mamba-segmentation/
 
 <summary>Expand Comput. Medical Imaging Graph.</summary>
 
+<a id="comput. medical imaging graph.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Mamba‑MFNet: A hierarchical supervised network based on the fusion of axial and cross-modal attention for breast DCE‑MRI tumor segmentation.</td>
+<td>Comput. Medical Imaging Graph.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.compmedimag.2026.102732">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="comput. medical imaging graph.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -744,6 +850,12 @@ permalink: /mamba-segmentation/
 <td>Knowl. Based Syst.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.knosys.2025.115119">Link</a></td>
+</tr>
+<tr>
+<td>RMViM-Net: Residual multi-path vision mamba with graph interaction attention for medical image segmentation.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115326">Link</a></td>
 </tr>
 <tr>
 <td>WMC-Net: Wavelet-enhanced mamba with contextual fusion network for medical image segmentation.</td>
@@ -836,6 +948,18 @@ permalink: /mamba-segmentation/
 <td>Expert Syst. Appl.</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.eswa.2025.130085">Link</a></td>
+</tr>
+<tr>
+<td>HTMNet: A hybrid transformer-mamba network for LiDAR-based 3D detection and semantic segmentation.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131832">Link</a></td>
+</tr>
+<tr>
+<td>KANWave-Mamba: A rice leaf disease image segmentation method based on Kolmogorov-Arnold network and wavelet-guided Mamba.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131151">Link</a></td>
 </tr>
 <tr>
 <td>Leveraging mamba for reference audio-visual segmentation with vote and cache mechanism.</td>
@@ -936,10 +1060,22 @@ permalink: /mamba-segmentation/
 </tr></thead>
 <tbody>
 <tr>
+<td>DCFANet: Merging dynamic context clustering mamba and context-to-focus attention for medical image segmentation.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133326">Link</a></td>
+</tr>
+<tr>
 <td>Li-MFNet: A lightweight multi-scale input Mamba fusion network for medical image segmentation.</td>
 <td>Neurocomputing</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.131916">Link</a></td>
+</tr>
+<tr>
+<td>MNSeg: Mamba-based 3D neuron segmentation integrated with bidirectional attention mechanism and topological loss.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.132790">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -1010,6 +1146,12 @@ permalink: /mamba-segmentation/
 </tr></thead>
 <tbody>
 <tr>
+<td>Choroid plexus segmentation in MRI using the novel T1×FLAIR modality and PSU-Mamba: projective scan U-Mamba approach.</td>
+<td>Pattern Recognit. Lett.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.patrec.2026.01.024">Link</a></td>
+</tr>
+<tr>
 <td>Multi-Modal masked autoencoder and parallel Mamba for 3D brain tumor segmentation.</td>
 <td>Pattern Recognit. Lett.</td>
 <td>2026</td>
@@ -1052,6 +1194,38 @@ permalink: /mamba-segmentation/
 <td>arXiv</td>
 <td>2024</td>
 <td><a href="http://arxiv.org/abs/2408.11545v3">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Cybern. <a id="venue-ieee trans. cybern."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Cybern.</summary>
+
+<a id="ieee trans. cybern.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MsM-DPM: Multiscale Mamba Diffusion Probabilistic Model for Medical Image Segmentation.</td>
+<td>IEEE Trans. Cybern.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TCYB.2025.3625773">Link</a></td>
 </tr>
 </tbody></table>
 

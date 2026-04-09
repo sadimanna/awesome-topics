@@ -59,6 +59,7 @@ permalink: /l-l-m-unlearning/
 <details markdown="1">
 <summary>AAAI</summary>
 
+  - [2026](#aaai-2026)
   - [2025](#aaai-2025)
 
 </details>
@@ -94,6 +95,7 @@ permalink: /l-l-m-unlearning/
 <details markdown="1">
 <summary>Neural Networks</summary>
 
+  - [2026](#neural-networks-2026)
   - [2025](#neural-networks-2025)
 
 </details>
@@ -119,6 +121,20 @@ permalink: /l-l-m-unlearning/
   - [2025](#arxiv-2025)
   - [2024](#arxiv-2024)
   - [2023](#arxiv-2023)
+
+</details>
+
+<details markdown="1">
+<summary>ICDM</summary>
+
+  - [2025](#icdm-2025)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Big Data</summary>
+
+  - [2026](#ieee-trans-big-data-2026)
 
 </details>
 
@@ -670,16 +686,40 @@ permalink: /l-l-m-unlearning/
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.452">Link</a></td>
 </tr>
 <tr>
+<td>CURE: Controlled Unlearning for Robust Embeddings - Mitigating Conceptual Shortcuts in Pre-Trained Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.771/">Link</a></td>
+</tr>
+<tr>
 <td>Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1109">Link</a></td>
 </tr>
 <tr>
+<td>Forget the Unneeded: Backdooring Large Language Models via Contrastive-enhanced Machine Unlearning.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1338/">Link</a></td>
+</tr>
+<tr>
+<td>LUME: LLM Unlearning with Multitask Evaluations.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.347/">Link</a></td>
+</tr>
+<tr>
 <td>Mitigating Biases in Language Models via Bias Unlearning.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.208">Link</a></td>
+</tr>
+<tr>
+<td>Not Every Token Needs Forgetting: Selective Unlearning Balancing Forgetting and Utility in Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.96/">Link</a></td>
 </tr>
 <tr>
 <td>OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models.</td>
@@ -694,6 +734,12 @@ permalink: /l-l-m-unlearning/
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1641">Link</a></td>
 </tr>
 <tr>
+<td>Reveal and Release: Iterative LLM Unlearning with Self-generated Data.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1298/">Link</a></td>
+</tr>
+<tr>
 <td>SEPS: A Separability Measure for Robust Unlearning in LLMs.</td>
 <td>EMNLP</td>
 <td>2025</td>
@@ -704,6 +750,18 @@ permalink: /l-l-m-unlearning/
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.565">Link</a></td>
+</tr>
+<tr>
+<td>Soft Token Attacks Cannot Reliably Audit Unlearning in Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.117/">Link</a></td>
+</tr>
+<tr>
+<td>UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1374/">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -816,6 +874,72 @@ permalink: /l-l-m-unlearning/
 <details>
 
 <summary>Expand AAAI</summary>
+
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>ALTER: Asymmetric LoRA for Token-Entropy-Guided Unlearning of LLMs.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i42.40845">Link</a></td>
+</tr>
+<tr>
+<td>AUVIC: Adversarial Unlearning of Visual Concepts for Multi-modal Large Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i36.40272">Link</a></td>
+</tr>
+<tr>
+<td>Cross-Modal Unlearning via Influential Neuron Path Editing in Multimodal Large Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i42.40870">Link</a></td>
+</tr>
+<tr>
+<td>DUP: Detection-guided Unlearning for Backdoor Purification in Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i37.40366">Link</a></td>
+</tr>
+<tr>
+<td>Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i44.41097">Link</a></td>
+</tr>
+<tr>
+<td>From Chaos to Clarity: A Knowledge Graph-Driven Audit Dataset Generation Framework for LLM Unlearning.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i37.40397">Link</a></td>
+</tr>
+<tr>
+<td>Large Language Model Unlearning for Source Code.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i37.40398">Link</a></td>
+</tr>
+<tr>
+<td>Oblivionis: A Lightweight Learning and Unlearning Framework for Federated Large Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i33.40045">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="aaai-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -1007,6 +1131,30 @@ permalink: /l-l-m-unlearning/
 
 <summary>Expand Neural Networks</summary>
 
+<a id="neural networks-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Mitigating sensitive information leakage in LLMs4Code through machine unlearning.</td>
+<td>Neural Networks</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2026.108606">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="neural networks-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -1148,6 +1296,12 @@ permalink: /l-l-m-unlearning/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.02824v1">Link</a></td>
+</tr>
+<tr>
+<td>Can Large Language Models Reinvent Foundational Algorithms?</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05716v1">2604.05716</a></td>
 </tr>
 <tr>
 <td>DUET: Distilled LLM Unlearning from an Efficiently Contextualized Teacher</td>
@@ -1958,6 +2112,76 @@ permalink: /l-l-m-unlearning/
 <td>arXiv</td>
 <td>2023</td>
 <td><a href="http://arxiv.org/abs/2310.10683v2">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## ICDM <a id="venue-icdm"></a>
+
+<details>
+
+<summary>Expand ICDM</summary>
+
+<a id="icdm-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning.</td>
+<td>ICDM</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/ICDM65498.2025.00183">Link</a></td>
+</tr>
+<tr>
+<td>Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models.</td>
+<td>ICDM</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/ICDM65498.2025.00082">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Big Data <a id="venue-ieee trans. big data"></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Big Data</summary>
+
+<a id="ieee trans. big data-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>LLM-Based Data Augmentation Method in Reinforcement Learning With Machine-Unlearning and Fine-Tuning.</td>
+<td>IEEE Trans. Big Data</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TBDATA.2025.3630807">Link</a></td>
 </tr>
 </tbody></table>
 

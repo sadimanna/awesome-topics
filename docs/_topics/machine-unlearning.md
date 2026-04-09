@@ -94,6 +94,7 @@ permalink: /machine-unlearning/
 <details markdown="1">
 <summary>AAAI</summary>
 
+  - [2026](#aaai-2026)
   - [2025](#aaai-2025)
   - [2024](#aaai-2024)
   - [2022](#aaai-2022)
@@ -265,6 +266,7 @@ permalink: /machine-unlearning/
 <details markdown="1">
 <summary>IEEE Trans. Big Data</summary>
 
+  - [2026](#ieee-trans-big-data-2026)
   - [2025](#ieee-trans-big-data-2025)
 
 </details>
@@ -323,6 +325,7 @@ permalink: /machine-unlearning/
 <details markdown="1">
 <summary>Neural Networks</summary>
 
+  - [2026](#neural-networks-2026)
   - [2025](#neural-networks-2025)
 
 </details>
@@ -345,6 +348,20 @@ permalink: /machine-unlearning/
   - [2021](#arxiv-2021)
   - [2020](#arxiv-2020)
   - [2019](#arxiv-2019)
+
+</details>
+
+<details markdown="1">
+<summary>ICDM</summary>
+
+  - [2025](#icdm-2025)
+
+</details>
+
+<details markdown="1">
+<summary>J. Mach. Learn. Res.</summary>
+
+  - [2025](#j-mach-learn-res-2025)
 
 </details>
 
@@ -1177,6 +1194,54 @@ permalink: /machine-unlearning/
 
 <summary>Expand AAAI</summary>
 
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>DIET: Machine Unlearning on a Data-Diet.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i27.39431">Link</a></td>
+</tr>
+<tr>
+<td>Dual-View Inference Attack: Machine Unlearning Amplifies Privacy Exposure.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i14.38134">Link</a></td>
+</tr>
+<tr>
+<td>Injection, Attack and Erasure: Revocable Backdoor Attacks via Machine Unlearning.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i30.39747">Link</a></td>
+</tr>
+<tr>
+<td>On the Misalignment Between Data Learnability and Forgettability in Machine Unlearning.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i29.39657">Link</a></td>
+</tr>
+<tr>
+<td>Synthetic Forgetting Without Access: A Few-Shot Zero-Glance Framework for Machine Unlearning.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i30.39750">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="aaai-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -1593,6 +1658,12 @@ permalink: /machine-unlearning/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Forget the Unneeded: Backdooring Large Language Models via Contrastive-enhanced Machine Unlearning.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1338/">Link</a></td>
+</tr>
 <tr>
 <td>OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models.</td>
 <td>EMNLP</td>
@@ -2421,6 +2492,30 @@ permalink: /machine-unlearning/
 
 <summary>Expand IEEE Trans. Big Data</summary>
 
+<a id="ieee trans. big data-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>LLM-Based Data Augmentation Method in Reinforcement Learning With Machine-Unlearning and Fine-Tuning.</td>
+<td>IEEE Trans. Big Data</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TBDATA.2025.3630807">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. big data-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -2755,6 +2850,30 @@ permalink: /machine-unlearning/
 
 <summary>Expand Neural Networks</summary>
 
+<a id="neural networks-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Mitigating sensitive information leakage in LLMs4Code through machine unlearning.</td>
+<td>Neural Networks</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neunet.2026.108606">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="neural networks-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -2803,6 +2922,18 @@ permalink: /machine-unlearning/
 <th>Link</th>
 </tr></thead>
 <tbody>
+<tr>
+<td>Accurate and fast machine unlearning with hessian-guided overfitting approximation.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133369">Link</a></td>
+</tr>
+<tr>
+<td>Balance forgetting and remembering: An extension of machine unlearning for policy updates in machine learning-based access control.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133388">Link</a></td>
+</tr>
 <tr>
 <td>How secure is forgetting? Linking machine unlearning to machine learning attacks.</td>
 <td>Neurocomputing</td>
@@ -2908,16 +3039,34 @@ permalink: /machine-unlearning/
 <td><a href="http://arxiv.org/abs/2602.21773v1">Link</a></td>
 </tr>
 <tr>
+<td>Efficient machine unlearning with minimax optimality</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05669v1">2604.05669</a></td>
+</tr>
+<tr>
 <td>Erase at the Core: Representation Unlearning for Machine Unlearning</td>
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.05375v1">Link</a></td>
 </tr>
 <tr>
+<td>Erasure or Erosion? Evaluating Compositional Degradation in Unlearned Text-To-Image Diffusion Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.04575v1">2604.04575</a></td>
+</tr>
+<tr>
 <td>EvoMU: Evolutionary Machine Unlearning</td>
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.02139v2">Link</a></td>
+</tr>
+<tr>
+<td>Exclusive Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.06154v1">2604.06154</a></td>
 </tr>
 <tr>
 <td>FADE: Selective Forgetting via Sparse LoRA and Self-Distillation</td>
@@ -3034,6 +3183,12 @@ permalink: /machine-unlearning/
 <td><a href="http://arxiv.org/abs/2601.05641v1">Link</a></td>
 </tr>
 <tr>
+<td>PECKER: A Precisely Efficient Critical Knowledge Erasure Recipe For Machine Unlearning in Diffusion Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05634v1">2604.05634</a></td>
+</tr>
+<tr>
 <td>Protecting the Undeleted in Machine Unlearning</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -3082,6 +3237,12 @@ permalink: /machine-unlearning/
 <td><a href="http://arxiv.org/abs/2601.00590v1">Link</a></td>
 </tr>
 <tr>
+<td>Selective Forgetting for Large Reasoning Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03571v1">2604.03571</a></td>
+</tr>
+<tr>
 <td>Sparsity-Aware Unlearning for Large Language Models</td>
 <td>arXiv</td>
 <td>2026</td>
@@ -3094,10 +3255,22 @@ permalink: /machine-unlearning/
 <td><a href="http://arxiv.org/abs/2602.09304v1">Link</a></td>
 </tr>
 <tr>
+<td>Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.04231v1">2604.04231</a></td>
+</tr>
+<tr>
 <td>Suppression or Deletion: A Restoration-Based Representation-Level Analysis of Machine Unlearning</td>
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2602.18505v1">Link</a></td>
+</tr>
+<tr>
+<td>TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02183v1">2604.02183</a></td>
 </tr>
 <tr>
 <td>Temper-Then-Tilt: Principled Unlearning for Generative Models through Tempering and Classifier Guidance</td>
@@ -3122,6 +3295,12 @@ permalink: /machine-unlearning/
 <td>arXiv</td>
 <td>2026</td>
 <td><a href="http://arxiv.org/abs/2601.17492v2">Link</a></td>
+</tr>
+<tr>
+<td>Towards Unveiling Vulnerabilities of Large Reasoning Models in Machine Unlearning</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.04255v1">2604.04255</a></td>
 </tr>
 <tr>
 <td>UnHype: CLIP-Guided Hypernetworks for Dynamic LoRA Unlearning</td>
@@ -6068,6 +6247,76 @@ permalink: /machine-unlearning/
 <td>arXiv</td>
 <td>2019</td>
 <td><a href="http://arxiv.org/abs/1912.03817v3">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## ICDM <a id="venue-icdm"></a>
+
+<details>
+
+<summary>Expand ICDM</summary>
+
+<a id="icdm-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Auditing Approximate Machine Unlearning for Differentially Private Models.</td>
+<td>ICDM</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.1109/ICDM65498.2025.00134">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## J. Mach. Learn. Res. <a id="venue-j. mach. learn. res."></a>
+
+<details>
+
+<summary>Expand J. Mach. Learn. Res.</summary>
+
+<a id="j. mach. learn. res.-2025"></a>
+<h3 class="year-heading">2025</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Certified Machine Unlearning Under High Dimensional Regime.</td>
+<td>J. Mach. Learn. Res.</td>
+<td>2025</td>
+<td><a href="https://jmlr.org/papers/v26/25-1751.html">Link</a></td>
+</tr>
+<tr>
+<td>Efficient Knowledge Deletion from Trained Models Through Layer-wise Partial Machine Unlearning.</td>
+<td>J. Mach. Learn. Res.</td>
+<td>2025</td>
+<td><a href="https://jmlr.org/papers/v26/24-0469.html">Link</a></td>
 </tr>
 </tbody></table>
 

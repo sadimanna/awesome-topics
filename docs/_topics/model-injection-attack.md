@@ -35,6 +35,7 @@ permalink: /model-injection-attack/
 <details markdown="1">
 <summary>AAAI</summary>
 
+  - [2026](#aaai-2026)
   - [2025](#aaai-2025)
   - [2022](#aaai-2022)
   - [2006](#aaai-2006)
@@ -155,6 +156,7 @@ permalink: /model-injection-attack/
 <details markdown="1">
 <summary>IEEE Trans. Inf. Forensics Secur.</summary>
 
+  - [2026](#ieee-trans-inf-forensics-secur-2026)
   - [2017](#ieee-trans-inf-forensics-secur-2017)
   - [2016](#ieee-trans-inf-forensics-secur-2016)
 
@@ -192,6 +194,7 @@ permalink: /model-injection-attack/
 <details markdown="1">
 <summary>Expert Syst. Appl.</summary>
 
+  - [2026](#expert-syst-appl-2026)
   - [2015](#expert-syst-appl-2015)
 
 </details>
@@ -246,6 +249,13 @@ permalink: /model-injection-attack/
   - [2013](#arxiv-2013)
   - [2012](#arxiv-2012)
   - [2007](#arxiv-2007)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Intell. Transp. Syst.</summary>
+
+  - [2026](#ieee-trans-intell-transp-syst-2026)
 
 </details>
 
@@ -421,6 +431,54 @@ permalink: /model-injection-attack/
 <details>
 
 <summary>Expand AAAI</summary>
+
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>ACID-Style: An Adaptive Condition Injection Diffusion Model for Arbitrary Style Transfer.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i14.38158">Link</a></td>
+</tr>
+<tr>
+<td>Bidirectional Noise Injection: Enhancing Diffusion Models via Coordinated Input-Output Perturbation.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i34.40121">Link</a></td>
+</tr>
+<tr>
+<td>HGLTR: Hierarchical Knowledge Injection for Calibrating Pre-trained Models in Long-Tail Recognition.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i34.40116">Link</a></td>
+</tr>
+<tr>
+<td>Injection Without Distortion: Geometrically Constrained Knowledge Enhancement for Vision-Language Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i13.38066">Link</a></td>
+</tr>
+<tr>
+<td>TIV: Thought Injection via Vectors for Efficient Reasoning in Large Reasoning Models.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i36.40264">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="aaai-2025"></a>
 <h3 class="year-heading">2025</h3>
@@ -785,6 +843,18 @@ permalink: /model-injection-attack/
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.1303">Link</a></td>
+</tr>
+<tr>
+<td>Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.376/">Link</a></td>
+</tr>
+<tr>
+<td>SLiNT: Structure-aware Language Model with Injection and Contrastive Training for Knowledge Graph Completion.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.736/">Link</a></td>
 </tr>
 </tbody></table>
 
@@ -1198,6 +1268,30 @@ permalink: /model-injection-attack/
 
 <summary>Expand IEEE Trans. Inf. Forensics Secur.</summary>
 
+<a id="ieee trans. inf. forensics secur.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Practical and Flexible Backdoor Attack Against Deep Learning Models via Shell Code Injection.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIFS.2026.3662587">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="ieee trans. inf. forensics secur.-2017"></a>
 <h3 class="year-heading">2017</h3>
 <table class="paper-table">
@@ -1405,6 +1499,30 @@ permalink: /model-injection-attack/
 <details>
 
 <summary>Expand Expert Syst. Appl.</summary>
+
+<a id="expert syst. appl.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>SegEdit: image editing via semantic mask segmentation and shape injection within diffusion model.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131222">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="expert syst. appl.-2015"></a>
 <h3 class="year-heading">2015</h3>
@@ -2009,6 +2127,38 @@ permalink: /model-injection-attack/
 <td>arXiv</td>
 <td>2007</td>
 <td><a href="http://arxiv.org/abs/0709.0734v1">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Intell. Transp. Syst. <a id="venue-ieee trans. intell. transp. syst."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Intell. Transp. Syst.</summary>
+
+<a id="ieee trans. intell. transp. syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Coordinated Model Free Adaptive Control for Multiple High-Speed Trains Against False Data Injection Attacks and Input Constraints.</td>
+<td>IEEE Trans. Intell. Transp. Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TITS.2025.3633276">Link</a></td>
 </tr>
 </tbody></table>
 

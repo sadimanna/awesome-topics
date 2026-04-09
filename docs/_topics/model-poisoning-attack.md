@@ -63,6 +63,7 @@ permalink: /model-poisoning-attack/
 <details markdown="1">
 <summary>AAAI</summary>
 
+  - [2026](#aaai-2026)
   - [2023](#aaai-2023)
   - [2016](#aaai-2016)
 
@@ -234,6 +235,7 @@ permalink: /model-poisoning-attack/
 <details markdown="1">
 <summary>Expert Syst. Appl.</summary>
 
+  - [2026](#expert-syst-appl-2026)
   - [2023](#expert-syst-appl-2023)
 
 </details>
@@ -257,6 +259,20 @@ permalink: /model-poisoning-attack/
   - [2020](#arxiv-2020)
   - [2019](#arxiv-2019)
   - [2018](#arxiv-2018)
+
+</details>
+
+<details markdown="1">
+<summary>Knowl. Based Syst.</summary>
+
+  - [2026](#knowl-based-syst-2026)
+
+</details>
+
+<details markdown="1">
+<summary>Neural Comput. Appl.</summary>
+
+  - [2026](#neural-comput-appl-2026)
 
 </details>
 
@@ -720,6 +736,36 @@ permalink: /model-poisoning-attack/
 <details>
 
 <summary>Expand AAAI</summary>
+
+<a id="aaai-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Breaking Cross-View Associations: Byzantine Model Poisoning Attack against Vertical Federated Learning.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i48.42327">Link</a></td>
+</tr>
+<tr>
+<td>Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization.</td>
+<td>AAAI</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1609/aaai.v40i26.39318">Link</a></td>
+</tr>
+</tbody></table>
 
 <a id="aaai-2023"></a>
 <h3 class="year-heading">2023</h3>
@@ -1929,6 +1975,30 @@ permalink: /model-poisoning-attack/
 
 <summary>Expand Expert Syst. Appl.</summary>
 
+<a id="expert syst. appl.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>MambaShield: Selective state-space models for poisoning-resilient sequential modelling.</td>
+<td>Expert Syst. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.eswa.2026.131175">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="expert syst. appl.-2023"></a>
 <h3 class="year-heading">2023</h3>
 <table class="paper-table">
@@ -3022,6 +3092,70 @@ permalink: /model-poisoning-attack/
 <td>arXiv</td>
 <td>2018</td>
 <td><a href="http://arxiv.org/abs/1808.04866v5">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Knowl. Based Syst. <a id="venue-knowl. based syst."></a>
+
+<details>
+
+<summary>Expand Knowl. Based Syst.</summary>
+
+<a id="knowl. based syst.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Handling data sparsity and model poisoning attacks in federated sequential recommender systems.</td>
+<td>Knowl. Based Syst.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.knosys.2026.115545">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## Neural Comput. Appl. <a id="venue-neural comput. appl."></a>
+
+<details>
+
+<summary>Expand Neural Comput. Appl.</summary>
+
+<a id="neural comput. appl.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Blockchain-based personalized federated learning framework for drug recommendation systems resilient to model poisoning.</td>
+<td>Neural Comput. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1007/s00521-025-11828-9">Link</a></td>
 </tr>
 </tbody></table>
 

@@ -105,6 +105,27 @@ permalink: /prompt-injection-attack/
 
 </details>
 
+<details markdown="1">
+<summary>IEEE Trans. Image Process.</summary>
+
+  - [2026](#ieee-trans-image-process-2026)
+
+</details>
+
+<details markdown="1">
+<summary>IEEE Trans. Inf. Forensics Secur.</summary>
+
+  - [2026](#ieee-trans-inf-forensics-secur-2026)
+
+</details>
+
+<details markdown="1">
+<summary>arXiv</summary>
+
+  - [2026](#arxiv-2026)
+
+</details>
+
 </details>
 
 
@@ -547,10 +568,40 @@ permalink: /prompt-injection-attack/
 </tr></thead>
 <tbody>
 <tr>
+<td>AGENTVIGIL: Automatic Black-Box Red-teaming for Indirect Prompt Injection against LLM Agents.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1258/">Link</a></td>
+</tr>
+<tr>
+<td>Backdoor-Powered Prompt Injection Attacks Nullify Defense Methods.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.242/">Link</a></td>
+</tr>
+<tr>
+<td>Defending against Indirect Prompt Injection by Instruction Detection.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.1060/">Link</a></td>
+</tr>
+<tr>
 <td>IPIGuard: A Novel Tool Dependency Graph-Based Defense Against Indirect Prompt Injection in LLM Agents.</td>
 <td>EMNLP</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.18653/v1/2025.emnlp-main.53">Link</a></td>
+</tr>
+<tr>
+<td>Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://aclanthology.org/2025.findings-emnlp.376/">Link</a></td>
+</tr>
+<tr>
+<td>The Dangers of Indirect Prompt Injection Attacks on LLM-based Autonomous Web Navigation Agents: A Demonstration.</td>
+<td>EMNLP</td>
+<td>2025</td>
+<td><a href="https://doi.org/10.18653/v1/2025.emnlp-demos.55">Link</a></td>
 </tr>
 <tr>
 <td>TopicAttack: An Indirect Prompt Injection Attack via Topic Transition.</td>
@@ -689,6 +740,156 @@ permalink: /prompt-injection-attack/
 <td>ACM Multimedia</td>
 <td>2025</td>
 <td><a href="https://doi.org/10.1145/3746027.3755211">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Image Process. <a id="venue-ieee trans. image process."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Image Process.</summary>
+
+<a id="ieee trans. image process.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>CRISP: Contrastive Residual Injection and Semantic Prompting for Continual Video Instance Segmentation.</td>
+<td>IEEE Trans. Image Process.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIP.2026.3671625">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## IEEE Trans. Inf. Forensics Secur. <a id="venue-ieee trans. inf. forensics secur."></a>
+
+<details>
+
+<summary>Expand IEEE Trans. Inf. Forensics Secur.</summary>
+
+<a id="ieee trans. inf. forensics secur.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>PromptFuzz: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs.</td>
+<td>IEEE Trans. Inf. Forensics Secur.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1109/TIFS.2026.3666893">Link</a></td>
+</tr>
+</tbody></table>
+
+</details>
+
+## arXiv <a id="venue-arxiv"></a>
+
+<details>
+
+<summary>Expand arXiv</summary>
+
+<a id="arxiv-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>AgentWatcher: A Rule-based Prompt Injection Monitor</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01194v1">2604.01194</a></td>
+</tr>
+<tr>
+<td>AttackEval: A Systematic Empirical Study of Prompt Injection Attack Effectiveness Against Large Language Models</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03598v1">2604.03598</a></td>
+</tr>
+<tr>
+<td>Automating Cloud Security and Forensics Through a Secure-by-Design Generative AI Framework</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03912v1">2604.03912</a></td>
+</tr>
+<tr>
+<td>ClawSafety: "Safe" LLMs, Unsafe Agents</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.01438v2">2604.01438</a></td>
+</tr>
+<tr>
+<td>Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05150v1">2604.05150</a></td>
+</tr>
+<tr>
+<td>Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03070v1">2604.03070</a></td>
+</tr>
+<tr>
+<td>Gradient-Controlled Decoding: A Safety Guardrail for LLMs with Dual-Anchor Steering</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.05179v1">2604.05179</a></td>
+</tr>
+<tr>
+<td>LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.02954v1">2604.02954</a></td>
+</tr>
+<tr>
+<td>ShieldNet: Network-Level Guardrails against Emerging Supply-Chain Injections in Agentic Systems</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.04426v1">2604.04426</a></td>
+</tr>
+<tr>
+<td>Your Agent is More Brittle Than You Think: Uncovering Indirect Injection Vulnerabilities in Agentic LLMs</td>
+<td>arXiv</td>
+<td>2026</td>
+<td><a href="http://arxiv.org/abs/2604.03870v1">2604.03870</a></td>
 </tr>
 </tbody></table>
 

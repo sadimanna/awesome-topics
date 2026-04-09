@@ -80,6 +80,7 @@ permalink: /explainability-transformers/
 <details markdown="1">
 <summary>Comput. Medical Imaging Graph.</summary>
 
+  - [2026](#comput-medical-imaging-graph-2026)
   - [2023](#comput-medical-imaging-graph-2023)
 
 </details>
@@ -104,6 +105,7 @@ permalink: /explainability-transformers/
 <details markdown="1">
 <summary>Neural Comput. Appl.</summary>
 
+  - [2026](#neural-comput-appl-2026)
   - [2025](#neural-comput-appl-2025)
 
 </details>
@@ -560,6 +562,30 @@ permalink: /explainability-transformers/
 
 <summary>Expand Comput. Medical Imaging Graph.</summary>
 
+<a id="comput. medical imaging graph.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Privacy-preserving multimodal fusion for Alzheimer&apos;s staging: A federated vision transformer framework with explainable AI.</td>
+<td>Comput. Medical Imaging Graph.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.compmedimag.2026.102730">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="comput. medical imaging graph.-2023"></a>
 <h3 class="year-heading">2023</h3>
 <table class="paper-table">
@@ -740,6 +766,30 @@ permalink: /explainability-transformers/
 
 <summary>Expand Neural Comput. Appl.</summary>
 
+<a id="neural comput. appl.-2026"></a>
+<h3 class="year-heading">2026</h3>
+<table class="paper-table">
+<colgroup>
+<col style="width: 60%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 10%">
+</colgroup>
+<thead><tr>
+<th>Title</th>
+<th> Venue</th>
+<th> Year </th>
+<th>Link</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Explainable artificial intelligence (XAI) for efficient lung cancer diagnosis using transformer-CNN hybrid with metadata fusion.</td>
+<td>Neural Comput. Appl.</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1007/s00521-025-11791-5">Link</a></td>
+</tr>
+</tbody></table>
+
 <a id="neural comput. appl.-2025"></a>
 <h3 class="year-heading">2025</h3>
 <table class="paper-table">
@@ -793,6 +843,12 @@ permalink: /explainability-transformers/
 <td>Neurocomputing</td>
 <td>2026</td>
 <td><a href="https://doi.org/10.1016/j.neucom.2025.132398">Link</a></td>
+</tr>
+<tr>
+<td>Explainable AI: Context-aware layer-wise integrated gradients for explaining transformer models.</td>
+<td>Neurocomputing</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.1016/j.neucom.2026.133050">Link</a></td>
 </tr>
 </tbody></table>
 
